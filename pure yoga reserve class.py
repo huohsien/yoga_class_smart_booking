@@ -12,15 +12,13 @@ import sys
 
 #settings
 url = "https://pure360.pure-yoga.com/en/TW?location_id=24"
-classes = [{"date":"Tue Jan 8","time":"19:00"},
-           {"date":"Tue Jan 8","time":"15:00"},
-           {"date":"Tue Jan 8","time":"20:15"},
-           {"date":"Tue Jan 8","time":"16:30"}]
+classes = [{"date":"Wed Jan 9","time":"17:00"}]
 
 #classes = [{"date":"Mon Jan 7","time":"06:30"},{"date":"Mon Jan 7","time":"09:00"},{"date":"Mon Jan 7","time":"11:00"},{"date":"Mon Jan 7","time":"14:00"}]
 
 
-book_datetime = datetime(2019, 1, 6, 9, 0, 0)
+book_datetime = datetime(2019, 1, 7, 9, 0, 0)
+#book_datetime = datetime(2019, 1, 6, 21, 8, 50)
 is_running = True
 
 # create a new Chrome session
@@ -54,7 +52,7 @@ def reserve_class(browser, classes):
         time.sleep(4)
     
     global is_running
-    time.sleep(6)
+    time.sleep(3)
     is_running = False
     browser.quit()
 
