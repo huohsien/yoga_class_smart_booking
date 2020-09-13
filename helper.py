@@ -1,0 +1,115 @@
+from selenium.common.exceptions import NoSuchElementException        
+from selenium.common.exceptions import TimeoutException
+
+from lxml import html
+
+# from bs4 import BeautifulSoup
+from bs4 import BeautifulSoup, NavigableString
+import time
+import datetime
+import threading
+from apscheduler.schedulers.background import BackgroundScheduler
+
+from selenium import webdriver
+from webdriver_manager.chrome import ChromeDriverManager
+
+from selenium.webdriver.common.by import By
+from selenium.webdriver.common.keys import Keys
+
+from selenium.webdriver.chrome.options import Options
+
+from selenium.webdriver.common.action_chains import ActionChains
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as ec
+
+import json
+import os
+import sys
+
+def check_exists_by_xpath(driver, xpath):
+    
+    driver.implicitly_wait(1)
+    try:
+        driver.find_element_by_xpath(xpath)
+    except NoSuchElementException:
+        driver.implicitly_wait(20)
+        return False
+    driver.implicitly_wait(20)
+    return True
+
+def sync_get_element_by_xpath(driver, xpath):
+    wait = WebDriverWait(driver, 20)
+    try:
+        wait.until(ec.visibility_of_element_located((By.XPATH, xpath)))
+    except TimeoutException:
+        print("Get element from xpath:{} Timeout".format(xpath))
+        return None
+    return driver.find_element_by_xpath(xpath)
+
+def teacher_norm(teacher):
+    if not teacher.startswith('-'):
+        return teacher
+    tmp = teacher.split('\n')[0].split('- ')[1]
+    return tmp[:-2]
+
+def search_courses_by_date(date_str, courses):
+    results = []
+    
+    date_str = date_str.strip()
+    
+    for item in courses:
+        if date_str in item['date']:
+            results.append(item)
+    return results
+
+def search_courses_by_teacher(teacher_str, courses):
+    results = []
+    
+    teacher_str = teacher_str.strip()
+    
+    for item in courses:
+        if teacher_str in item['teacher']:
+            results.append(item)
+    return results
+
+def search_courses_by_name(name_str, courses):
+    results = []
+    
+    name_str = name_str.strip()
+    
+    for item in courses:
+        if name_str in item['name']:
+            results.append(item)
+    return results
+
+def search_courses_by_time(time_str, courses):
+    results = []
+    
+    time_str = time_str.strip()
+    
+    for item in courses:
+        if time_str in item['time']:
+            results.append(item)
+    return results
+
+def click_book_this_class_now(driver):
+    btn = driver.find_element_by_xpath("//a[contains(text(), 'BOOK THIS CLASS NOW')]")
+    btn_click()
+    
+def list_courses_to_be_booked(courses_to_be_booked):
+    cur_date = ''
+    if len(courses_to_be_booked) <= 0:
+        return
+    
+    for course in courses_to_be_booked:  
+
+        if cur_date != course['date']:
+            if cur_date != '':
+                print("-----------------------")
+            print("Date: {}".format(course['date']))
+            print("-----------------------\n")
+            cur_date = course['date']
+        print("Name: {}".format(course['name']))
+        print("Teacher: {}".format(course['teacher']))
+        print("Time: {}".format(course['time']))
+        print("\n")
