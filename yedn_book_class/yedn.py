@@ -26,6 +26,11 @@ import json
 import os
 import sys
 
+IMPLICIT_WAIT_TIME = 20
+EXPLICIT_WAIT_TIME = 20
+WINDOW_WIDTH = 720
+WINDOW_HEIGHT = 920
+
 def check_exists_by_xpath(driver, xpath):
     
     driver.implicitly_wait(1)
@@ -113,20 +118,8 @@ def list_courses_to_be_booked(courses_to_be_booked):
         print("Teacher: {}".format(course['teacher']))
         print("Time: {}".format(course['time']))
         print("\n")
-        
-def scheduled_sign_in(driver, wait):
-    #     print("scheduled_sign_in({},{})".format(driver, wait))
-    driver.get(base_url)
-    sign_in(driver, wait)
 
-
-def reserve_class(driver, wait, course_to_be_booked):
-    print("reserve_class: ({})\n".format(course_to_be_booked['time']))
-    book_url = course_to_be_booked['href']
-    driver.get(book_url)
-    click_book_this_class_now(driver, wait)
-
-def create_new_driver():
+def create_new_driver(NO_WINDOW=False):
     # setup option for chrome profile
     # chrome_options = Options()
     # chrome_options.add_argument("user-data-dir=/Users/huohsien/Library/Application Support/Google/Chrome/Default/")
@@ -158,19 +151,19 @@ def sign_in(driver, wait):
 
 
 def log_out(driver, wait):
-    click_btn = helper.sync_get_element_by_xpath(driver, "//a[contains(text(), 'Logout')]")
+    click_btn = sync_get_element_by_xpath(driver, "//a[contains(text(), 'Logout')]")
     #     print("click_btn: ", click_btn)
     if click_btn:
         click_btn.click()
 
 
 def click_book_for_class(driver, wait):
-    click_btn = helper.sync_get_element_by_xpath(driver, "//a[contains(text(), 'Book for Class')]")
+    click_btn = sync_get_element_by_xpath(driver, "//a[contains(text(), 'Book for Class')]")
     #     print("click_btn: ", click_btn)
     if click_btn:
         click_btn.click()
 
 
 def click_book_this_class_now(driver, wait):
-    click_btn = helper.sync_get_element_by_xpath(driver, "//a[contains(text(), 'BOOK THIS CLASS NOW')]")
+    click_btn = sync_get_element_by_xpath(driver, "//a[contains(text(), 'BOOK THIS CLASS NOW')]")
     click_btn.click()
