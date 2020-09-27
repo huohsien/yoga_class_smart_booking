@@ -45,7 +45,7 @@ is_running = True
 
 #launch url
 base_url = "https://www.trueclassbooking.com.tw/member/search-class.aspx"
-with open(r'/Users/huohsien/workspace/python/yoga_class_smart_booking/class_schedules/28 September - 04 October 2020.json', "r") as read_file:
+with open(r'../class_schedules/28 September - 04 October 2020.json', "r") as read_file:
     course_schedule = json.load(read_file)
 
 book_datetime = datetime.datetime(YEAR, MONTH, Day, 22, 0, 0)
