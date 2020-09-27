@@ -99,7 +99,7 @@ def search_courses_by_time(time_str, courses):
 
 def click_book_this_class_now(driver):
     btn = driver.find_element_by_xpath("//a[contains(text(), 'BOOK THIS CLASS NOW')]")
-    btn_click()
+    btn.click()
     
 def list_courses_to_be_booked(courses_to_be_booked):
     cur_date = ''

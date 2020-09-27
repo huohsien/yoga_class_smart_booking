@@ -29,8 +29,8 @@ import yedn
 ## Need to change every time
 #
 YEAR = 2020
-MONTH = 9
-Day = 25
+MONTH = 10
+Day = 1
 #
 ##################################
 num_book_classes = 0
@@ -58,25 +58,19 @@ temp = []
 # book_datetime = datetime.datetime(YEAR, MONTH, Day, 22, 0, 0)
 # temp = []
 #
-# c = helper.search_courses_by_date('30', course_schedule)
-# c = helper.search_courses_by_name('Iyengar B', c)
-# c = helper.search_courses_by_teacher('Yvette', c)
-# c = helper.search_courses_by_time('PM', c)
+# c = yedn.search_courses_by_date('1', course_schedule)
+# c = yedn.search_courses_by_name('Tone', c)
+# c = yedn.search_courses_by_teacher('Una', c)
+# c = yedn.search_courses_by_time('PM', c)
 # # c = helper.search_courses_by_name('Hatha', c)
 # temp.extend(c)
 #
-# c = helper.search_courses_by_date('30', course_schedule)
-# # c = helper.search_courses_by_name('', c)
-# c = helper.search_courses_by_teacher('吳', c)
-# c = helper.search_courses_by_time('PM', c)
-# # c = helper.search_courses_by_name('Hatha', c)
-# temp.extend(c)
 #
 #
 # courses_to_be_booked = []
 # courses_to_be_booked.append(temp[0])
-# courses_to_be_booked.append(temp[2])
-# courses_to_be_booked.append(temp[1])
+# # courses_to_be_booked.append(temp[2])
+# # courses_to_be_booked.append(temp[1])
 #
 # # Set Sign In time 10 minutes before the open for booking time
 # signin_datetime = book_datetime - datetime.timedelta(seconds=600)
@@ -89,6 +83,7 @@ temp = []
 ##################################
 ## TEST CODE
 #
+
 NUM_CLASSES = 1
 DELAY_BETWEEN_CLASSSES = 3
 BASE_DELAY = 4
@@ -117,6 +112,7 @@ def scheduled_sign_in(driver, wait):
     global base_url
     driver.get(base_url)
     yedn.sign_in(driver, wait)
+    print("driver {}\nSigned in. Now is {}".format(driver, datetime.datetime.now()))
 
 
 def reserve_class(driver, wait, course_to_be_booked):
@@ -127,6 +123,7 @@ def reserve_class(driver, wait, course_to_be_booked):
     global num_book_classes
     global is_running
     num_book_classes = num_book_classes - 1
+    print("driver {}\n'BOOK THIS CLASS NOW' button was clicked'. Now is {}".format(driver, datetime.datetime.now()))
     if num_book_classes == 0:
         is_running = False
         driver.quit()
@@ -137,7 +134,7 @@ scheduler = BackgroundScheduler()
 # start = time.time()
 for idx, course_to_be_booked in enumerate(courses_to_be_booked):
 
-    driver, wait = yedn.create_new_driver()
+    driver, wait = yedn.create_new_driver(NO_WINDOW=True)
     driver.set_window_position(WINDOW_WIDTH * idx, 0);
     driver.set_window_size(WINDOW_WIDTH, WINDOW_HEIGHT)
     signin_datetime_var = signin_datetime + datetime.timedelta(seconds=(idx+1)*1)
