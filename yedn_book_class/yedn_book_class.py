@@ -126,7 +126,7 @@ def reserve_class(driver, wait, course_to_be_booked):
     print("driver {}\n'BOOK THIS CLASS NOW' button was clicked'. Now is {}".format(driver, datetime.datetime.now()))
     if num_book_classes == 0:
         is_running = False
-        time.sleep(2)
+        time.sleep(10)
         driver.quit()
 
 drivers = []
