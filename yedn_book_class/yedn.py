@@ -147,9 +147,10 @@ def sign_in(driver, wait):
     password = driver.find_element_by_id('ctl00_cphContents_txtPassword')
 #     username.send_keys("DN20092360")
 #     password.send_keys("jj1216")
-    send_keys(username, "DN20092360")
-    send_keys(password, "jj1216")
-
+#     send_keys(username, "DN20092360")
+#     send_keys(password, "jj1216")
+    driver.execute_script("arguments[0].value = 'DN20092360';", username)
+    driver.execute_script("arguments[0].value = 'jj1216';", password)
     wait.until(ec.visibility_of_element_located((By.CLASS_NAME, "submit-button")))
 
     sign_in_btn = driver.find_element_by_class_name("submit-button")
