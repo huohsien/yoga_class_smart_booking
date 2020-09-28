@@ -86,7 +86,7 @@ temp = []
 
 NUM_CLASSES = 1
 DELAY_BETWEEN_CLASSSES = 3
-BASE_DELAY = 4
+BASE_DELAY = 6
 TEST_SIGNIN_SECONDS_DELAY_FROM_NOW = BASE_DELAY
 TEST_BOOK_CLASSES_SECONDS_DELAY_FROM_NOW =  (NUM_CLASSES-1) * DELAY_BETWEEN_CLASSSES + BASE_DELAY*2
 
@@ -134,9 +134,9 @@ scheduler = BackgroundScheduler()
 # start = time.time()
 for idx, course_to_be_booked in enumerate(courses_to_be_booked):
 
-    driver, wait = yedn.create_new_driver(NO_WINDOW=True)
-    driver.set_window_position(WINDOW_WIDTH * idx, 0);
-    driver.set_window_size(WINDOW_WIDTH, WINDOW_HEIGHT)
+    driver, wait = yedn.create_new_driver(NO_WINDOW=False)
+    #driver.set_window_position(WINDOW_WIDTH * idx, 0);
+    #driver.set_window_size(WINDOW_WIDTH, WINDOW_HEIGHT)
     signin_datetime_var = signin_datetime + datetime.timedelta(seconds=(idx+1)*1)
     print("idx: ", idx, " signin datetime: ", signin_datetime_var)
     print("idx: ", idx, " book datetime: ", book_datetime)
