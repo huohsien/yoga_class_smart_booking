@@ -135,7 +135,7 @@ scheduler = BackgroundScheduler()
 # start = time.time()
 for idx, course_to_be_booked in enumerate(courses_to_be_booked):
 
-    driver, wait = yedn.create_new_driver(NO_WINDOW=False)
+    driver, wait = yedn.create_new_driver(NO_WINDOW=True)
     #driver.set_window_position(WINDOW_WIDTH * idx, 0);
     #driver.set_window_size(WINDOW_WIDTH, WINDOW_HEIGHT)
     signin_datetime_var = signin_datetime + datetime.timedelta(seconds=(idx+1)*1)
