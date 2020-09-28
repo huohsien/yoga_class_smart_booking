@@ -138,11 +138,17 @@ def create_new_driver(NO_WINDOW=False):
     wait = WebDriverWait(driver, EXPLICIT_WAIT_TIME)
     return driver, wait
 
+def send_keys(elm, string):
+    for c in string:
+        elm.send_keys(c)
+        
 def sign_in(driver, wait):
     username = driver.find_element_by_id('ctl00_cphContents_txtUsername')
     password = driver.find_element_by_id('ctl00_cphContents_txtPassword')
-    username.send_keys("DN20092360")
-    password.send_keys("jj1216")
+#     username.send_keys("DN20092360")
+#     password.send_keys("jj1216")
+    send_keys(username, "DN20092360")
+    send_keys(password, "jj1216")
 
     wait.until(ec.visibility_of_element_located((By.CLASS_NAME, "submit-button")))
 
