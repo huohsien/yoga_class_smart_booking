@@ -55,33 +55,33 @@ temp = []
 ## Need to change every time
 #
 
-book_datetime = datetime.datetime(YEAR, MONTH, Day, 22, 0, 0)
-temp = []
-
-c = yedn.search_courses_by_date('3', course_schedule)
-c = yedn.search_courses_by_name('Gentle', c)
-c = yedn.search_courses_by_teacher('Coco', c)
-c = yedn.search_courses_by_time('PM', c)
-# c = yedn.search_courses_by_name('Hatha', c)
-temp.extend(c)
-
-c = yedn.search_courses_by_date('3', course_schedule)
-c = yedn.search_courses_by_name('Res', c)
-c = yedn.search_courses_by_teacher('Anita', c)
-c = yedn.search_courses_by_time('PM', c)
-# c = yedn.search_courses_by_name('Hatha', c)
-temp.extend(c)
-
-
-courses_to_be_booked = []
-courses_to_be_booked.append(temp[0])
-# courses_to_be_booked.append(temp[2])
-courses_to_be_booked.append(temp[1]) 
-
-# Set Sign In time 10 minutes before the open for booking time
-signin_datetime = book_datetime - datetime.timedelta(seconds=600)
-# set time shift for booking
-book_datetime = book_datetime + datetime.timedelta(seconds=0.0)
+# book_datetime = datetime.datetime(YEAR, MONTH, Day, 22, 0, 0)
+# temp = []
+#
+# c = yedn.search_courses_by_date('3', course_schedule)
+# c = yedn.search_courses_by_name('Gentle', c)
+# c = yedn.search_courses_by_teacher('Coco', c)
+# c = yedn.search_courses_by_time('PM', c)
+# # c = yedn.search_courses_by_name('Hatha', c)
+# temp.extend(c)
+#
+# c = yedn.search_courses_by_date('3', course_schedule)
+# c = yedn.search_courses_by_name('Res', c)
+# c = yedn.search_courses_by_teacher('Anita', c)
+# c = yedn.search_courses_by_time('PM', c)
+# # c = yedn.search_courses_by_name('Hatha', c)
+# temp.extend(c)
+#
+#
+# courses_to_be_booked = []
+# courses_to_be_booked.append(temp[0])
+# # courses_to_be_booked.append(temp[2])
+# courses_to_be_booked.append(temp[1])
+#
+# # Set Sign In time 10 minutes before the open for booking time
+# signin_datetime = book_datetime - datetime.timedelta(seconds=600)
+# # set time shift for booking
+# book_datetime = book_datetime + datetime.timedelta(seconds=0.0)
 
 #
 ##################################
@@ -90,23 +90,23 @@ book_datetime = book_datetime + datetime.timedelta(seconds=0.0)
 ## TEST CODE
 #
 
-# NUM_CLASSES = 1
-# DELAY_BETWEEN_CLASSSES = 3
-# BASE_DELAY = 10
-# TEST_SIGNIN_SECONDS_DELAY_FROM_NOW = BASE_DELAY
-# TEST_BOOK_CLASSES_SECONDS_DELAY_FROM_NOW =  (NUM_CLASSES-1) * DELAY_BETWEEN_CLASSSES + BASE_DELAY*2
+NUM_CLASSES = 1
+DELAY_BETWEEN_CLASSSES = 3
+BASE_DELAY = 10
+TEST_SIGNIN_SECONDS_DELAY_FROM_NOW = BASE_DELAY
+TEST_BOOK_CLASSES_SECONDS_DELAY_FROM_NOW =  (NUM_CLASSES-1) * DELAY_BETWEEN_CLASSSES + BASE_DELAY*2
 
-# signin_datetime = datetime.datetime.now() + datetime.timedelta(seconds=TEST_SIGNIN_SECONDS_DELAY_FROM_NOW)
-# book_datetime = datetime.datetime.now() + datetime.timedelta(seconds=TEST_BOOK_CLASSES_SECONDS_DELAY_FROM_NOW)
+signin_datetime = datetime.datetime.now() + datetime.timedelta(seconds=TEST_SIGNIN_SECONDS_DELAY_FROM_NOW)
+book_datetime = datetime.datetime.now() + datetime.timedelta(seconds=TEST_BOOK_CLASSES_SECONDS_DELAY_FROM_NOW)
 
-# print("Now: {}".format(datetime.datetime.now()))
-# courses_to_be_booked = []
+print("Now: {}".format(datetime.datetime.now()))
+courses_to_be_booked = []
 
-# c = yedn.search_courses_by_date('29', course_schedule)
-# c = yedn.search_courses_by_name('Mysore', c)
-# # c = helper.search_courses_by_teacher('Una', c)
+c = yedn.search_courses_by_date('29', course_schedule)
+c = yedn.search_courses_by_name('Mysore', c)
+# c = helper.search_courses_by_teacher('Una', c)
 
-# courses_to_be_booked.extend(c)
+courses_to_be_booked.extend(c)
 
 #
 ##################################
@@ -117,19 +117,21 @@ def scheduled_sign_in(driver, wait):
     #     print("scheduled_sign_in({},{})".format(driver, wait))
     global base_url
     driver.get(base_url)
+    print("driver {}\nSigned in .START. Now is {}".format(driver, datetime.datetime.now()))
     yedn.sign_in(driver, wait)
-    print("driver {}\nSigned in. Now is {}".format(driver, datetime.datetime.now()))
+    print("driver {}\nSigned in .FINISH. Now is {}".format(driver, datetime.datetime.now()))
 
 
 def reserve_class(driver, wait, course_to_be_booked):
     print("reserve_class: ({})\n".format(course_to_be_booked['time']))
     book_url = course_to_be_booked['href']
     driver.get(book_url)
+    print("driver {}\n'BOOK THIS CLASS NOW' button was clicked'.START. Now is {}".format(driver, datetime.datetime.now()))
     yedn.click_book_this_class_now(driver, wait)
+    print("driver {}\n'BOOK THIS CLASS NOW' button was clicked'.FINISH. Now is {}".format(driver, datetime.datetime.now()))
     global num_book_classes
     global is_running
     num_book_classes = num_book_classes - 1
-    print("driver {}\n'BOOK THIS CLASS NOW' button was clicked'. Now is {}".format(driver, datetime.datetime.now()))
     if num_book_classes == 0:
         is_running = False
         time.sleep(10)
