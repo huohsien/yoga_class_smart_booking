@@ -58,18 +58,18 @@ temp = []
 book_datetime = datetime.datetime(YEAR, MONTH, Day, 22, 0, 0)
 temp = []
 
-c = helper.search_courses_by_date('3', course_schedule)
-c = helper.search_courses_by_name('Gentle', c)
-c = helper.search_courses_by_teacher('Coco', c)
-c = helper.search_courses_by_time('PM', c)
-# c = helper.search_courses_by_name('Hatha', c)
+c = yedn.search_courses_by_date('3', course_schedule)
+c = yedn.search_courses_by_name('Gentle', c)
+c = yedn.search_courses_by_teacher('Coco', c)
+c = yedn.search_courses_by_time('PM', c)
+# c = yedn.search_courses_by_name('Hatha', c)
 temp.extend(c)
 
-c = helper.search_courses_by_date('3', course_schedule)
-c = helper.search_courses_by_name('Res', c)
-c = helper.search_courses_by_teacher('Anita', c)
-c = helper.search_courses_by_time('PM', c)
-# c = helper.search_courses_by_name('Hatha', c)
+c = yedn.search_courses_by_date('3', course_schedule)
+c = yedn.search_courses_by_name('Res', c)
+c = yedn.search_courses_by_teacher('Anita', c)
+c = yedn.search_courses_by_time('PM', c)
+# c = yedn.search_courses_by_name('Hatha', c)
 temp.extend(c)
 
 
