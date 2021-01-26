@@ -38,11 +38,11 @@ def check_exists_by_xpath(driver, xpath):
     return True
 
 def sync_get_element_by_xpath(driver, xpath):
-    wait = WebDriverWait(driver, 30)
+    wait = WebDriverWait(driver, 15)
     try:
         wait.until(ec.visibility_of_element_located((By.XPATH, xpath)))
     except TimeoutException:
-        print("Get element from xpath:{} Timeout".format(xpath))
+#         print("Get element from xpath:{} Timeout".format(xpath))
         return None
     return driver.find_element_by_xpath(xpath)
 
