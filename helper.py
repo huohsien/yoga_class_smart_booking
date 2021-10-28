@@ -97,11 +97,13 @@ def click_book_this_class_now(driver):
     btn_click()
     
 def list_courses_to_be_booked(courses_to_be_booked):
-    cur_date = ''
+    
     if len(courses_to_be_booked) <= 0:
         return
     
-    for course in courses_to_be_booked:  
+    cur_date = ''
+    print("-----------------------")
+    for idx, course in enumerate(courses_to_be_booked):  
 
         if cur_date != course['date']:
             if cur_date != '':
@@ -112,7 +114,9 @@ def list_courses_to_be_booked(courses_to_be_booked):
         print("Name: {}".format(course['name']))
         print("Teacher: {}".format(course['teacher']))
         print("Time: {}".format(course['time']))
-        print("\n")
+        if idx < len(courses_to_be_booked) - 1:
+            print("")
+    print("-----------------------")
         
 def scheduled_sign_in(driver, wait):
     #     print("scheduled_sign_in({},{})".format(driver, wait))
