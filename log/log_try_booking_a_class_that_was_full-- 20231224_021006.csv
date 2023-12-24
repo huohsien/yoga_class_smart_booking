@@ -1,0 +1,128 @@
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="81194d12eec3e504008547e03c1fe0b3")>] at 2023-12-24 02:10:07.324436
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="928ab4d5863fc716715006d2c007f377")>] at 2023-12-24 02:10:08.287560
+sign in for class idx:0 at 2023-12-24 02:10:11.825671
+sign in for class idx:1 at 2023-12-24 02:10:16.829415
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                您已預定此課。
+            
+************************
+
+1: Vinyasa Yoga 流暢瑜珈 by Una was BOOKED before 2023-12-24 02:10:19.956231
+Failed to reserve the class idx:0 at 2023-12-24 02:10:19.956444
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                您已預定此課。
+            
+************************
+
+2: Gentle Yoga 和緩瑜珈 by Una was BOOKED before 2023-12-24 02:10:20.134968
+Failed to reserve the class idx:1 at 2023-12-24 02:10:20.135135
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="81194d12eec3e504008547e03c1fe0b3")>] at 2023-12-24 02:10:25.201006
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="928ab4d5863fc716715006d2c007f377")>] at 2023-12-24 02:10:25.260789
+------------------
+courses to be booked:
+
+Vinyasa Yoga 流暢瑜珈
+Gentle Yoga 和緩瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Vinyasa Yoga 流暢瑜珈
+Gentle Yoga 和緩瑜珈
+
+------------------
+
+------------------
+courses to be booked:
+
+Vinyasa Yoga 流暢瑜珈
+Gentle Yoga 和緩瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Vinyasa Yoga 流暢瑜珈
+Gentle Yoga 和緩瑜珈
+
+------------------
+
+------------------
+courses to be booked:
+
+Vinyasa Yoga 流暢瑜珈
+Gentle Yoga 和緩瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Vinyasa Yoga 流暢瑜珈
+Gentle Yoga 和緩瑜珈
+
+------------------
+
+------------------
+courses to be booked:
+
+Vinyasa Yoga 流暢瑜珈
+Gentle Yoga 和緩瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Vinyasa Yoga 流暢瑜珈
+Gentle Yoga 和緩瑜珈
+
+------------------
+
+------------------
+courses to be booked:
+
+Vinyasa Yoga 流暢瑜珈
+Gentle Yoga 和緩瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Vinyasa Yoga 流暢瑜珈
+Gentle Yoga 和緩瑜珈
+
+------------------
+
+------------------
+courses to be booked:
+
+Vinyasa Yoga 流暢瑜珈
+Gentle Yoga 和緩瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Vinyasa Yoga 流暢瑜珈
+Gentle Yoga 和緩瑜珈
+
+------------------
+
