@@ -1,0 +1,108 @@
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="daa721f05d3ce33384256c62987be513")>] at 2024-01-17 12:36:17.228163
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="68f1e1c695e40cfbbc3f4473472c5428")>] at 2024-01-17 12:36:18.209036
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="107af24f60437f86df8e7c8cf33fe034")>] at 2024-01-17 12:36:19.175352
+sign in for class idx:0 at 2024-01-17 12:36:22.462129
+sign in for class idx:1 at 2024-01-17 12:36:27.272616
+sign in for class idx:2 at 2024-01-17 12:36:31.993306
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+1: Yoga Wheel 瑜珈輪 by Una is FULL at 2024-01-17 12:36:35.105240
+Failed to reserve the class idx:0 at 2024-01-17 12:36:35.105563
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+2: Yoga Tone 2 by Una is FULL at 2024-01-17 12:36:35.192812
+Failed to reserve the class idx:1 at 2024-01-17 12:36:35.192997
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+3: Hatha Basic 哈達基礎 by Una is FULL at 2024-01-17 12:36:35.274481
+Failed to reserve the class idx:2 at 2024-01-17 12:36:35.274653
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="daa721f05d3ce33384256c62987be513")>] at 2024-01-17 12:36:40.341117
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="68f1e1c695e40cfbbc3f4473472c5428")>] at 2024-01-17 12:36:40.402640
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="107af24f60437f86df8e7c8cf33fe034")>] at 2024-01-17 12:36:40.463707
+------------------
+courses to be booked:
+
+Yoga Wheel 瑜珈輪
+Yoga Tone 2
+Hatha Basic 哈達基礎
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="7c762ef667a88bcbee5c177ee348ad02")>] at 2024-01-17 12:36:42.331877
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="4203a747c3af85787561b2b2e52c1f0e")>] at 2024-01-17 12:36:43.314047
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="dbe4f269d27d8f0ae11bdf03ba2ea792")>] at 2024-01-17 12:36:44.286862
+sign in for class idx:0 at 2024-01-17 12:36:47.258691
+sign in for class idx:1 at 2024-01-17 12:36:51.979383
+sign in for class idx:2 at 2024-01-17 12:36:56.766624
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+4: Yoga Wheel 瑜珈輪 by Una is FULL at 2024-01-17 12:36:59.892233
+Failed to reserve the class idx:0 at 2024-01-17 12:36:59.892530
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+5: Yoga Tone 2 by Una is FULL at 2024-01-17 12:36:59.983992
+Failed to reserve the class idx:1 at 2024-01-17 12:36:59.984142
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+6: Hatha Basic 哈達基礎 by Una is FULL at 2024-01-17 12:37:00.070720
+Failed to reserve the class idx:2 at 2024-01-17 12:37:00.070840

@@ -1,0 +1,2443 @@
+#,Class,Status,Time
+'1','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 14:02:29.555568'
+click_btn=None
+'2','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 14:02:45.122716'
+click_btn=None
+'3','Yoga Tone 2' by 'Una',FULL,'2024-01-16 14:03:00.738499'
+click_btn=None
+'4','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 14:03:16.321184'
+click_btn=None
+'5','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 14:04:02.050845'
+click_btn=None
+'6','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 14:04:17.676819'
+click_btn=None
+'7','Yoga Tone 2' by 'Una',FULL,'2024-01-16 14:04:33.279871'
+click_btn=None
+'8','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 14:04:48.917161'
+click_btn=None
+'9','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 14:05:34.720057'
+click_btn=None
+'10','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 14:05:50.334328'
+click_btn=None
+'11','Yoga Tone 2' by 'Una',FULL,'2024-01-16 14:06:05.902695'
+click_btn=None
+'12','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 14:06:21.520727'
+click_btn=None
+'13','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 14:07:07.251172'
+click_btn=None
+'14','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 14:07:22.853123'
+click_btn=None
+'15','Yoga Tone 2' by 'Una',FULL,'2024-01-16 14:07:38.465216'
+click_btn=None
+'16','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 14:07:54.103881'
+click_btn=None
+'17','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 14:08:38.828295'
+click_btn=None
+'18','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 14:08:54.450659'
+click_btn=None
+'19','Yoga Tone 2' by 'Una',FULL,'2024-01-16 14:09:10.053418'
+click_btn=None
+'20','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 14:09:25.667864'
+click_btn=None
+'21','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 14:10:11.599705'
+click_btn=None
+'22','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 14:10:27.216059'
+click_btn=None
+'23','Yoga Tone 2' by 'Una',FULL,'2024-01-16 14:10:42.807445'
+click_btn=None
+'24','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 14:10:58.469474'
+click_btn=None
+'25','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 14:11:44.813318'
+click_btn=None
+'26','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 14:12:00.435464'
+click_btn=None
+'27','Yoga Tone 2' by 'Una',FULL,'2024-01-16 14:12:16.081896'
+click_btn=None
+'28','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 14:12:31.748204'
+click_btn=None
+'29','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 14:13:17.832960'
+click_btn=None
+'30','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 14:13:33.412741'
+click_btn=None
+'31','Yoga Tone 2' by 'Una',FULL,'2024-01-16 14:13:49.020288'
+click_btn=None
+'32','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 14:14:04.666669'
+click_btn=None
+'33','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 14:14:50.787301'
+click_btn=None
+'34','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 14:15:06.399240'
+click_btn=None
+'35','Yoga Tone 2' by 'Una',FULL,'2024-01-16 14:15:22.024800'
+click_btn=None
+'36','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 14:15:37.631459'
+click_btn=None
+'37','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 14:16:23.574418'
+click_btn=None
+'38','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 14:16:39.187577'
+click_btn=None
+'39','Yoga Tone 2' by 'Una',FULL,'2024-01-16 14:16:54.822874'
+click_btn=None
+'40','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 14:17:10.489341'
+click_btn=None
+'41','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 14:17:56.399884'
+click_btn=None
+'42','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 14:18:12.024529'
+click_btn=None
+'43','Yoga Tone 2' by 'Una',FULL,'2024-01-16 14:18:27.649537'
+click_btn=None
+'44','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 14:18:43.351972'
+click_btn=None
+'45','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 14:19:29.615927'
+click_btn=None
+'46','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 14:19:45.209083'
+click_btn=None
+'47','Yoga Tone 2' by 'Una',FULL,'2024-01-16 14:20:00.814180'
+click_btn=None
+'48','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 14:20:16.597253'
+click_btn=None
+'49','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 14:21:02.598521'
+click_btn=None
+'50','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 14:21:18.206218'
+click_btn=None
+'51','Yoga Tone 2' by 'Una',FULL,'2024-01-16 14:21:33.807961'
+click_btn=None
+'52','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 14:21:49.429981'
+click_btn=None
+'53','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 14:22:35.644997'
+click_btn=None
+'54','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 14:22:51.288306'
+click_btn=None
+'55','Yoga Tone 2' by 'Una',FULL,'2024-01-16 14:23:06.907079'
+click_btn=None
+'56','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 14:23:22.524107'
+click_btn=None
+'57','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 14:24:08.564409'
+click_btn=None
+'58','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 14:24:24.152782'
+click_btn=None
+'59','Yoga Tone 2' by 'Una',FULL,'2024-01-16 14:24:39.816118'
+click_btn=None
+'60','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 14:24:55.455039'
+click_btn=None
+'61','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 14:25:41.552466'
+click_btn=None
+'62','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 14:25:57.137893'
+click_btn=None
+'63','Yoga Tone 2' by 'Una',FULL,'2024-01-16 14:26:12.748542'
+click_btn=None
+'64','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 14:26:28.372396'
+click_btn=None
+'65','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 14:27:14.399850'
+click_btn=None
+'66','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 14:27:29.991110'
+click_btn=None
+'67','Yoga Tone 2' by 'Una',FULL,'2024-01-16 14:27:45.618667'
+click_btn=None
+'68','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 14:28:01.229651'
+click_btn=None
+'69','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 14:28:47.309636'
+click_btn=None
+'70','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 14:29:02.929910'
+click_btn=None
+'71','Yoga Tone 2' by 'Una',FULL,'2024-01-16 14:29:18.562489'
+click_btn=None
+'72','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 14:29:34.186178'
+click_btn=None
+'73','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 14:30:20.771008'
+click_btn=None
+'74','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 14:30:36.401130'
+click_btn=None
+'75','Yoga Tone 2' by 'Una',FULL,'2024-01-16 14:30:52.007961'
+click_btn=None
+'76','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 14:31:07.605436'
+click_btn=None
+'77','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 14:31:52.701699'
+click_btn=None
+'78','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 14:32:08.284246'
+click_btn=None
+'79','Yoga Tone 2' by 'Una',FULL,'2024-01-16 14:32:23.874245'
+click_btn=None
+'80','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 14:32:39.546026'
+click_btn=None
+'81','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 14:33:25.405787'
+click_btn=None
+'82','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 14:33:40.987440'
+click_btn=None
+'83','Yoga Tone 2' by 'Una',FULL,'2024-01-16 14:33:56.572663'
+click_btn=None
+'84','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 14:34:12.231639'
+click_btn=None
+'85','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 14:34:57.126011'
+click_btn=None
+'86','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 14:35:12.720697'
+click_btn=None
+'87','Yoga Tone 2' by 'Una',FULL,'2024-01-16 14:35:28.300978'
+click_btn=None
+'88','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 14:35:43.920852'
+click_btn=None
+'89','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 14:36:30.316682'
+click_btn=None
+'90','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 14:36:45.928183'
+click_btn=None
+'91','Yoga Tone 2' by 'Una',FULL,'2024-01-16 14:37:01.568939'
+click_btn=None
+'92','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 14:37:17.186318'
+click_btn=None
+'93','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 14:38:03.167375'
+click_btn=None
+'94','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 14:38:18.772481'
+click_btn=None
+'95','Yoga Tone 2' by 'Una',FULL,'2024-01-16 14:38:34.374394'
+click_btn=None
+'96','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 14:38:50.030684'
+click_btn=None
+'97','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 14:39:35.958514'
+click_btn=None
+'98','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 14:39:51.562867'
+click_btn=None
+'99','Yoga Tone 2' by 'Una',FULL,'2024-01-16 14:40:07.167652'
+click_btn=None
+'100','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 14:40:22.828013'
+click_btn=None
+'101','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 14:41:08.738258'
+click_btn=None
+'102','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 14:41:24.309153'
+click_btn=None
+'103','Yoga Tone 2' by 'Una',FULL,'2024-01-16 14:41:39.927004'
+click_btn=None
+'104','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 14:41:55.558887'
+click_btn=None
+'105','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 14:42:41.613401'
+click_btn=None
+'106','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 14:42:57.221671'
+click_btn=None
+'107','Yoga Tone 2' by 'Una',FULL,'2024-01-16 14:43:12.799706'
+click_btn=None
+'108','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 14:43:28.397763'
+click_btn=None
+'109','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 14:44:14.035288'
+click_btn=None
+'110','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 14:44:29.600432'
+click_btn=None
+'111','Yoga Tone 2' by 'Una',FULL,'2024-01-16 14:44:45.204051'
+click_btn=None
+'112','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 14:45:00.777179'
+click_btn=None
+'113','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 14:45:46.497922'
+click_btn=None
+'114','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 14:46:02.113915'
+click_btn=None
+'115','Yoga Tone 2' by 'Una',FULL,'2024-01-16 14:46:17.741754'
+click_btn=None
+'116','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 14:46:33.363499'
+click_btn=None
+'117','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 14:47:19.263041'
+click_btn=None
+'118','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 14:47:34.878691'
+click_btn=None
+'119','Yoga Tone 2' by 'Una',FULL,'2024-01-16 14:47:50.486010'
+click_btn=None
+'120','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 14:48:06.104720'
+click_btn=None
+'121','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 14:48:53.059343'
+click_btn=None
+'122','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 14:49:08.708069'
+click_btn=None
+'123','Yoga Tone 2' by 'Una',FULL,'2024-01-16 14:49:24.282589'
+click_btn=None
+'124','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 14:49:39.893729'
+click_btn=None
+'125','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 14:50:25.913656'
+click_btn=None
+'126','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 14:50:41.507665'
+click_btn=None
+'127','Yoga Tone 2' by 'Una',FULL,'2024-01-16 14:50:57.089208'
+click_btn=None
+'128','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 14:51:12.727088'
+click_btn=None
+'129','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 14:51:58.674360'
+click_btn=None
+'130','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 14:52:14.289117'
+click_btn=None
+'131','Yoga Tone 2' by 'Una',FULL,'2024-01-16 14:52:29.898265'
+click_btn=None
+'132','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 14:52:45.531314'
+click_btn=None
+'133','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 14:53:31.414734'
+click_btn=None
+'134','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 14:53:47.020599'
+click_btn=None
+'135','Yoga Tone 2' by 'Una',FULL,'2024-01-16 14:54:02.631144'
+click_btn=None
+'136','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 14:54:18.213464'
+click_btn=None
+'137','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 14:55:04.160457'
+click_btn=None
+'138','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 14:55:19.820419'
+click_btn=None
+'139','Yoga Tone 2' by 'Una',FULL,'2024-01-16 14:55:35.435932'
+click_btn=None
+'140','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 14:55:51.040084'
+click_btn=None
+'141','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 14:56:39.689305'
+click_btn=None
+'142','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 14:56:55.279800'
+click_btn=None
+'143','Yoga Tone 2' by 'Una',FULL,'2024-01-16 14:57:10.927745'
+click_btn=None
+'144','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 14:57:26.559860'
+click_btn=None
+'145','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 14:58:21.798942'
+click_btn=None
+'146','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 14:58:37.416393'
+click_btn=None
+'147','Yoga Tone 2' by 'Una',FULL,'2024-01-16 14:58:53.046548'
+click_btn=None
+'148','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 14:59:08.609462'
+click_btn=None
+'149','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 14:59:56.799629'
+click_btn=None
+'150','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 15:00:12.720344'
+click_btn=None
+'151','Yoga Tone 2' by 'Una',FULL,'2024-01-16 15:00:28.328997'
+click_btn=None
+'152','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 15:00:43.937990'
+click_btn=None
+'153','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 15:01:49.955200'
+click_btn=None
+'154','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 15:02:05.511272'
+click_btn=None
+'155','Yoga Tone 2' by 'Una',FULL,'2024-01-16 15:02:21.136359'
+click_btn=None
+'156','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 15:02:37.095761'
+click_btn=None
+'157','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 15:03:37.228594'
+click_btn=None
+'158','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 15:03:52.840530'
+click_btn=None
+'159','Yoga Tone 2' by 'Una',FULL,'2024-01-16 15:04:08.873226'
+click_btn=None
+'160','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 15:04:24.494850'
+click_btn=None
+'161','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 15:05:18.404910'
+click_btn=None
+'162','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 15:05:34.362678'
+click_btn=None
+'163','Yoga Tone 2' by 'Una',FULL,'2024-01-16 15:05:49.974697'
+click_btn=None
+'164','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 15:06:05.612740'
+click_btn=None
+'165','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 15:06:55.761641'
+click_btn=None
+'166','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 15:07:11.429589'
+click_btn=None
+'167','Yoga Tone 2' by 'Una',FULL,'2024-01-16 15:07:27.061649'
+click_btn=None
+'168','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 15:07:42.701018'
+click_btn=None
+'169','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 15:08:28.314715'
+click_btn=None
+'170','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 15:08:43.972047'
+click_btn=None
+'171','Yoga Tone 2' by 'Una',FULL,'2024-01-16 15:08:59.561111'
+click_btn=None
+'172','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 15:09:15.164753'
+click_btn=None
+'173','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 15:10:00.905584'
+click_btn=None
+'174','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 15:10:16.513269'
+click_btn=None
+'175','Yoga Tone 2' by 'Una',FULL,'2024-01-16 15:10:32.183014'
+click_btn=None
+'176','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 15:10:47.849904'
+click_btn=None
+'177','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 15:11:44.577169'
+click_btn=None
+'178','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 15:12:00.186158'
+click_btn=None
+'179','Yoga Tone 2' by 'Una',FULL,'2024-01-16 15:12:16.196733'
+click_btn=None
+'180','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 15:12:32.155211'
+click_btn=None
+'181','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 15:13:17.977999'
+click_btn=None
+'182','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 15:13:33.609366'
+click_btn=None
+'183','Yoga Tone 2' by 'Una',FULL,'2024-01-16 15:13:49.239138'
+click_btn=None
+'184','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 15:14:04.845880'
+click_btn=None
+'185','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 15:14:50.770203'
+click_btn=None
+'186','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 15:15:06.381379'
+click_btn=None
+'187','Yoga Tone 2' by 'Una',FULL,'2024-01-16 15:15:22.376563'
+click_btn=None
+'188','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 15:15:38.013137'
+click_btn=None
+'189','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 15:16:30.948801'
+click_btn=None
+'190','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 15:16:46.575594'
+click_btn=None
+'191','Yoga Tone 2' by 'Una',FULL,'2024-01-16 15:17:02.539056'
+click_btn=None
+'192','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 15:17:18.175469'
+click_btn=None
+'193','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 15:18:04.191250'
+click_btn=None
+'194','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 15:18:19.805826'
+click_btn=None
+'195','Yoga Tone 2' by 'Una',FULL,'2024-01-16 15:18:35.415507'
+click_btn=None
+'196','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 15:18:51.044739'
+click_btn=None
+'197','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 15:19:40.902828'
+click_btn=None
+'198','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 15:19:56.481632'
+click_btn=None
+'199','Yoga Tone 2' by 'Una',FULL,'2024-01-16 15:20:12.048724'
+click_btn=None
+'200','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 15:20:27.727797'
+click_btn=None
+'201','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 15:21:13.784544'
+click_btn=None
+'202','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 15:21:29.368157'
+click_btn=None
+'203','Yoga Tone 2' by 'Una',FULL,'2024-01-16 15:21:44.952806'
+click_btn=None
+'204','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 15:22:00.537301'
+click_btn=None
+'205','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 15:22:54.983203'
+click_btn=None
+'206','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 15:23:10.588717'
+click_btn=None
+'207','Yoga Tone 2' by 'Una',FULL,'2024-01-16 15:23:26.222305'
+click_btn=None
+'208','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 15:23:41.828524'
+click_btn=None
+'209','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 15:24:27.674518'
+click_btn=None
+'210','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 15:24:43.281758'
+click_btn=None
+'211','Yoga Tone 2' by 'Una',FULL,'2024-01-16 15:24:58.904749'
+click_btn=None
+'212','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 15:25:14.517291'
+click_btn=None
+'213','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 15:26:00.558627'
+click_btn=None
+'214','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 15:26:16.139956'
+click_btn=None
+'215','Yoga Tone 2' by 'Una',FULL,'2024-01-16 15:26:31.772164'
+click_btn=None
+'216','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 15:26:47.381771'
+click_btn=None
+'217','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 15:27:33.190102'
+click_btn=None
+'218','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 15:27:48.791130'
+click_btn=None
+'219','Yoga Tone 2' by 'Una',FULL,'2024-01-16 15:28:04.396867'
+click_btn=None
+'220','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 15:28:20.001014'
+click_btn=None
+'221','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 15:29:05.995305'
+click_btn=None
+'222','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 15:29:21.601607'
+click_btn=None
+'223','Yoga Tone 2' by 'Una',FULL,'2024-01-16 15:29:37.221616'
+click_btn=None
+'224','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 15:29:52.824548'
+click_btn=None
+'225','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 15:30:38.977605'
+click_btn=None
+'226','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 15:30:54.549006'
+click_btn=None
+'227','Yoga Tone 2' by 'Una',FULL,'2024-01-16 15:31:10.141598'
+click_btn=None
+'228','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 15:31:25.798955'
+click_btn=None
+'229','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 15:32:11.791636'
+click_btn=None
+'230','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 15:32:27.373106'
+click_btn=None
+'231','Yoga Tone 2' by 'Una',FULL,'2024-01-16 15:32:42.964445'
+click_btn=None
+'232','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 15:32:58.556462'
+click_btn=None
+'233','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 15:33:44.454253'
+click_btn=None
+'234','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 15:34:00.066351'
+click_btn=None
+'235','Yoga Tone 2' by 'Una',FULL,'2024-01-16 15:34:15.659638'
+click_btn=None
+'236','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 15:34:31.306112'
+click_btn=None
+'237','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 15:35:17.251990'
+click_btn=None
+'238','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 15:35:32.889544'
+click_btn=None
+'239','Yoga Tone 2' by 'Una',FULL,'2024-01-16 15:35:48.522053'
+click_btn=None
+'240','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 15:36:04.117677'
+click_btn=None
+'241','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 15:36:50.042171'
+click_btn=None
+'242','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 15:37:05.658350'
+click_btn=None
+'243','Yoga Tone 2' by 'Una',FULL,'2024-01-16 15:37:21.256824'
+click_btn=None
+'244','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 15:37:36.869563'
+click_btn=None
+'245','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 15:38:22.915863'
+click_btn=None
+'246','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 15:38:38.538911'
+click_btn=None
+'247','Yoga Tone 2' by 'Una',FULL,'2024-01-16 15:38:54.144155'
+click_btn=None
+'248','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 15:39:09.758629'
+click_btn=None
+'249','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 15:39:55.727740'
+click_btn=None
+'250','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 15:40:11.366785'
+click_btn=None
+'251','Yoga Tone 2' by 'Una',FULL,'2024-01-16 15:40:26.997111'
+click_btn=None
+'252','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 15:40:42.637457'
+click_btn=None
+'253','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 15:41:28.878628'
+click_btn=None
+'254','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 15:41:44.512042'
+click_btn=None
+'255','Yoga Tone 2' by 'Una',FULL,'2024-01-16 15:42:00.173563'
+click_btn=None
+'256','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 15:42:15.773810'
+click_btn=None
+'257','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 15:43:01.629884'
+click_btn=None
+'258','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 15:43:17.226285'
+click_btn=None
+'259','Yoga Tone 2' by 'Una',FULL,'2024-01-16 15:43:32.859689'
+click_btn=None
+'260','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 15:43:48.433850'
+click_btn=None
+'261','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 15:44:34.156964'
+click_btn=None
+'262','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 15:44:49.732475'
+click_btn=None
+'263','Yoga Tone 2' by 'Una',FULL,'2024-01-16 15:45:05.364676'
+click_btn=None
+'264','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 15:45:20.980492'
+click_btn=None
+'265','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 15:46:16.409520'
+click_btn=None
+'266','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 15:46:32.031497'
+click_btn=None
+'267','Yoga Tone 2' by 'Una',FULL,'2024-01-16 15:46:47.639180'
+click_btn=None
+'268','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 15:47:03.301179'
+click_btn=None
+'269','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 15:47:49.241023'
+click_btn=None
+'270','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 15:48:04.890577'
+click_btn=None
+'271','Yoga Tone 2' by 'Una',FULL,'2024-01-16 15:48:20.511999'
+click_btn=None
+'272','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 15:48:36.097482'
+click_btn=None
+'273','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 15:49:22.210181'
+click_btn=None
+'274','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 15:49:37.790910'
+click_btn=None
+'275','Yoga Tone 2' by 'Una',FULL,'2024-01-16 15:49:53.404086'
+click_btn=None
+'276','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 15:50:08.985420'
+click_btn=None
+'277','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 15:50:54.977070'
+click_btn=None
+'278','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 15:51:10.589544'
+click_btn=None
+'279','Yoga Tone 2' by 'Una',FULL,'2024-01-16 15:51:26.238723'
+click_btn=None
+'280','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 15:51:41.886246'
+click_btn=None
+'281','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 15:52:27.908944'
+click_btn=None
+'282','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 15:52:43.522033'
+click_btn=None
+'283','Yoga Tone 2' by 'Una',FULL,'2024-01-16 15:52:59.161922'
+click_btn=None
+'284','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 15:53:14.789117'
+click_btn=None
+'285','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 15:54:00.705431'
+click_btn=None
+'286','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 15:54:16.346724'
+click_btn=None
+'287','Yoga Tone 2' by 'Una',FULL,'2024-01-16 15:54:31.963544'
+click_btn=None
+'288','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 15:54:47.625290'
+click_btn=None
+'289','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 15:55:33.782466'
+click_btn=None
+'290','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 15:55:49.425379'
+click_btn=None
+'291','Yoga Tone 2' by 'Una',FULL,'2024-01-16 15:56:05.110429'
+click_btn=None
+'292','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 15:56:20.772256'
+click_btn=None
+'293','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 15:57:06.686517'
+click_btn=None
+'294','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 15:57:22.294753'
+click_btn=None
+'295','Yoga Tone 2' by 'Una',FULL,'2024-01-16 15:57:37.959298'
+click_btn=None
+'296','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 15:57:53.591680'
+click_btn=None
+'297','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 15:58:39.570082'
+click_btn=None
+'298','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 15:58:55.169361'
+click_btn=None
+'299','Yoga Tone 2' by 'Una',FULL,'2024-01-16 15:59:10.785472'
+click_btn=None
+'300','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 15:59:26.413470'
+click_btn=None
+'301','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 16:00:12.447550'
+click_btn=None
+'302','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 16:00:28.054783'
+click_btn=None
+'303','Yoga Tone 2' by 'Una',FULL,'2024-01-16 16:00:43.645244'
+click_btn=None
+'304','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 16:00:59.299614'
+click_btn=None
+'305','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 16:01:45.259299'
+click_btn=None
+'306','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 16:02:00.884586'
+click_btn=None
+'307','Yoga Tone 2' by 'Una',FULL,'2024-01-16 16:02:16.548991'
+click_btn=None
+'308','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 16:02:32.144885'
+click_btn=None
+'309','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 16:03:20.100953'
+click_btn=None
+'310','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 16:03:35.755900'
+click_btn=None
+'311','Yoga Tone 2' by 'Una',FULL,'2024-01-16 16:03:51.393242'
+click_btn=None
+'312','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 16:04:07.020639'
+click_btn=None
+'313','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 16:04:52.725103'
+click_btn=None
+'314','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 16:05:08.337938'
+click_btn=None
+'315','Yoga Tone 2' by 'Una',FULL,'2024-01-16 16:05:23.964430'
+click_btn=None
+'316','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 16:05:39.553447'
+click_btn=None
+'317','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 16:06:24.464693'
+click_btn=None
+'318','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 16:06:40.109011'
+click_btn=None
+'319','Yoga Tone 2' by 'Una',FULL,'2024-01-16 16:06:55.735851'
+click_btn=None
+'320','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 16:07:11.371279'
+click_btn=None
+'321','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 16:07:57.650479'
+click_btn=None
+'322','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 16:08:13.254362'
+click_btn=None
+'323','Yoga Tone 2' by 'Una',FULL,'2024-01-16 16:08:28.866572'
+click_btn=None
+'324','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 16:08:44.484821'
+click_btn=None
+'325','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 16:09:30.284494'
+click_btn=None
+'326','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 16:09:45.899546'
+click_btn=None
+'327','Yoga Tone 2' by 'Una',FULL,'2024-01-16 16:10:01.548215'
+click_btn=None
+'328','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 16:10:17.180785'
+click_btn=None
+'329','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 16:11:03.103699'
+click_btn=None
+'330','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 16:11:18.755918'
+click_btn=None
+'331','Yoga Tone 2' by 'Una',FULL,'2024-01-16 16:11:34.374668'
+click_btn=None
+'332','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 16:11:49.968473'
+click_btn=None
+'333','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 16:12:35.506392'
+click_btn=None
+'334','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 16:12:51.180363'
+click_btn=None
+'335','Yoga Tone 2' by 'Una',FULL,'2024-01-16 16:13:06.838707'
+click_btn=None
+'336','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 16:13:22.449626'
+click_btn=None
+'337','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 16:14:08.461591'
+click_btn=None
+'338','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 16:14:24.102361'
+click_btn=None
+'339','Yoga Tone 2' by 'Una',FULL,'2024-01-16 16:14:39.704119'
+click_btn=None
+'340','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 16:14:55.315413'
+click_btn=None
+'341','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 16:15:41.550460'
+click_btn=None
+'342','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 16:15:57.212150'
+click_btn=None
+'343','Yoga Tone 2' by 'Una',FULL,'2024-01-16 16:16:12.805903'
+click_btn=None
+'344','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 16:16:28.463856'
+click_btn=None
+'345','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 16:17:14.527174'
+click_btn=None
+'346','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 16:17:30.136970'
+click_btn=None
+'347','Yoga Tone 2' by 'Una',FULL,'2024-01-16 16:17:45.723452'
+click_btn=None
+'348','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 16:18:01.376644'
+click_btn=None
+'349','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 16:18:47.124476'
+click_btn=None
+'350','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 16:19:02.769742'
+click_btn=None
+'351','Yoga Tone 2' by 'Una',FULL,'2024-01-16 16:19:18.451563'
+click_btn=None
+'352','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 16:19:34.068623'
+click_btn=None
+'353','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 16:20:19.846162'
+click_btn=None
+'354','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 16:20:35.432568'
+click_btn=None
+'355','Yoga Tone 2' by 'Una',FULL,'2024-01-16 16:20:51.073538'
+click_btn=None
+'356','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 16:21:06.683773'
+click_btn=None
+'357','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 16:21:52.707122'
+click_btn=None
+'358','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 16:22:08.323534'
+click_btn=None
+'359','Yoga Tone 2' by 'Una',FULL,'2024-01-16 16:22:23.987822'
+click_btn=None
+'360','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 16:22:39.623381'
+click_btn=None
+'361','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 16:23:25.661482'
+click_btn=None
+'362','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 16:23:41.269258'
+click_btn=None
+'363','Yoga Tone 2' by 'Una',FULL,'2024-01-16 16:23:56.882037'
+click_btn=None
+'364','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 16:24:12.511128'
+click_btn=None
+'365','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 16:24:58.314723'
+click_btn=None
+'366','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 16:25:13.885612'
+click_btn=None
+'367','Yoga Tone 2' by 'Una',FULL,'2024-01-16 16:25:29.532086'
+click_btn=None
+'368','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 16:25:45.116849'
+click_btn=None
+'369','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 16:26:31.643462'
+click_btn=None
+'370','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 16:26:47.243506'
+click_btn=None
+'371','Yoga Tone 2' by 'Una',FULL,'2024-01-16 16:27:02.932136'
+click_btn=None
+'372','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 16:27:18.555649'
+click_btn=None
+'373','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 16:28:04.395127'
+click_btn=None
+'374','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 16:28:20.007240'
+click_btn=None
+'375','Yoga Tone 2' by 'Una',FULL,'2024-01-16 16:28:35.644055'
+click_btn=None
+'376','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 16:28:51.235521'
+click_btn=None
+'377','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 16:29:37.119271'
+click_btn=None
+'378','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 16:29:52.716739'
+click_btn=None
+'379','Yoga Tone 2' by 'Una',FULL,'2024-01-16 16:30:08.337365'
+click_btn=None
+'380','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 16:30:24.010968'
+click_btn=None
+'381','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 16:31:10.082791'
+click_btn=None
+'382','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 16:31:25.717557'
+click_btn=None
+'383','Yoga Tone 2' by 'Una',FULL,'2024-01-16 16:31:41.380271'
+click_btn=None
+'384','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 16:31:57.010426'
+click_btn=None
+'385','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 16:32:43.024532'
+click_btn=None
+'386','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 16:32:58.653207'
+click_btn=None
+'387','Yoga Tone 2' by 'Una',FULL,'2024-01-16 16:33:14.306602'
+click_btn=None
+'388','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 16:33:29.964601'
+click_btn=None
+'389','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 16:34:14.553384'
+click_btn=None
+'390','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 16:34:30.157229'
+click_btn=None
+'391','Yoga Tone 2' by 'Una',FULL,'2024-01-16 16:34:45.802388'
+click_btn=None
+'392','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 16:35:01.441131'
+click_btn=None
+'393','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 16:35:47.683964'
+click_btn=None
+'394','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 16:36:03.301870'
+click_btn=None
+'395','Yoga Tone 2' by 'Una',FULL,'2024-01-16 16:36:18.930816'
+click_btn=None
+'396','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 16:36:34.523653'
+click_btn=None
+'397','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 16:37:20.365014'
+click_btn=None
+'398','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 16:37:35.994251'
+click_btn=None
+'399','Yoga Tone 2' by 'Una',FULL,'2024-01-16 16:37:51.622154'
+click_btn=None
+'400','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 16:38:07.272031'
+click_btn=None
+'401','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 16:38:53.444942'
+click_btn=None
+'402','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 16:39:09.075483'
+click_btn=None
+'403','Yoga Tone 2' by 'Una',FULL,'2024-01-16 16:39:24.702411'
+click_btn=None
+'404','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 16:39:40.352930'
+click_btn=None
+'405','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 16:40:26.343227'
+click_btn=None
+'406','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 16:40:41.978256'
+click_btn=None
+'407','Yoga Tone 2' by 'Una',FULL,'2024-01-16 16:40:57.622246'
+click_btn=None
+'408','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 16:41:13.228462'
+click_btn=None
+'409','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 16:41:59.464971'
+click_btn=None
+'410','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 16:42:15.091202'
+click_btn=None
+'411','Yoga Tone 2' by 'Una',FULL,'2024-01-16 16:42:30.813925'
+click_btn=None
+'412','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 16:42:46.405630'
+click_btn=None
+'413','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 16:43:32.767448'
+click_btn=None
+'414','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 16:43:48.394701'
+click_btn=None
+'415','Yoga Tone 2' by 'Una',FULL,'2024-01-16 16:44:04.035142'
+click_btn=None
+'416','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 16:44:19.658339'
+click_btn=None
+'417','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 16:45:05.939749'
+click_btn=None
+'418','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 16:45:21.547877'
+click_btn=None
+'419','Yoga Tone 2' by 'Una',FULL,'2024-01-16 16:45:37.172325'
+click_btn=None
+'420','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 16:45:52.787904'
+click_btn=None
+'421','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 16:46:38.500721'
+click_btn=None
+'422','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 16:46:54.141921'
+click_btn=None
+'423','Yoga Tone 2' by 'Una',FULL,'2024-01-16 16:47:09.777534'
+click_btn=None
+'424','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 16:47:25.415965'
+click_btn=None
+'425','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 16:48:11.098844'
+click_btn=None
+'426','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 16:48:26.726566'
+click_btn=None
+'427','Yoga Tone 2' by 'Una',FULL,'2024-01-16 16:48:42.338240'
+click_btn=None
+'428','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 16:48:57.927870'
+click_btn=None
+'429','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 16:49:44.055491'
+click_btn=None
+'430','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 16:49:59.631433'
+click_btn=None
+'431','Yoga Tone 2' by 'Una',FULL,'2024-01-16 16:50:15.242283'
+click_btn=None
+'432','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 16:50:30.857636'
+click_btn=None
+'433','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 16:51:17.701490'
+click_btn=None
+'434','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 16:51:33.306745'
+click_btn=None
+'435','Yoga Tone 2' by 'Una',FULL,'2024-01-16 16:51:48.935030'
+click_btn=None
+'436','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 16:52:04.548745'
+click_btn=None
+'437','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 16:52:50.759968'
+click_btn=None
+'438','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 16:53:06.375258'
+click_btn=None
+'439','Yoga Tone 2' by 'Una',FULL,'2024-01-16 16:53:22.010976'
+click_btn=None
+'440','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 16:53:37.652112'
+click_btn=None
+'441','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 16:54:23.564639'
+click_btn=None
+'442','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 16:54:39.161144'
+click_btn=None
+'443','Yoga Tone 2' by 'Una',FULL,'2024-01-16 16:54:54.792014'
+click_btn=None
+'444','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 16:55:10.400755'
+click_btn=None
+'445','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 16:55:56.383581'
+click_btn=None
+'446','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 16:56:12.011835'
+click_btn=None
+'447','Yoga Tone 2' by 'Una',FULL,'2024-01-16 16:56:27.596188'
+click_btn=None
+'448','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 16:56:43.215696'
+click_btn=None
+'449','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 16:57:29.584689'
+click_btn=None
+'450','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 16:57:45.200613'
+click_btn=None
+'451','Yoga Tone 2' by 'Una',FULL,'2024-01-16 16:58:00.773085'
+click_btn=None
+'452','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 16:58:16.395989'
+click_btn=None
+'453','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 16:59:02.541801'
+click_btn=None
+'454','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 16:59:18.177519'
+click_btn=None
+'455','Yoga Tone 2' by 'Una',FULL,'2024-01-16 16:59:33.773810'
+click_btn=None
+'456','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 16:59:49.390695'
+click_btn=None
+'457','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 17:00:35.857066'
+click_btn=None
+'458','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 17:00:51.495349'
+click_btn=None
+'459','Yoga Tone 2' by 'Una',FULL,'2024-01-16 17:01:07.131573'
+click_btn=None
+'460','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 17:01:22.736075'
+click_btn=None
+'461','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 17:02:08.570208'
+click_btn=None
+'462','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 17:02:24.183732'
+click_btn=None
+'463','Yoga Tone 2' by 'Una',FULL,'2024-01-16 17:02:39.853612'
+click_btn=None
+'464','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 17:02:55.440433'
+click_btn=None
+'465','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 17:03:41.481852'
+click_btn=None
+'466','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 17:03:57.103349'
+click_btn=None
+'467','Yoga Tone 2' by 'Una',FULL,'2024-01-16 17:04:12.717966'
+click_btn=None
+'468','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 17:04:28.370073'
+click_btn=None
+'469','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 17:05:14.370341'
+click_btn=None
+'470','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 17:05:29.965296'
+click_btn=None
+'471','Yoga Tone 2' by 'Una',FULL,'2024-01-16 17:05:45.586524'
+click_btn=None
+'472','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 17:06:01.205513'
+click_btn=None
+'473','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 17:06:47.184728'
+click_btn=None
+'474','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 17:07:02.803277'
+click_btn=None
+'475','Yoga Tone 2' by 'Una',FULL,'2024-01-16 17:07:18.431915'
+click_btn=None
+'476','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 17:07:34.049005'
+click_btn=None
+'477','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 17:08:19.947410'
+click_btn=None
+'478','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 17:08:35.526825'
+click_btn=None
+'479','Yoga Tone 2' by 'Una',FULL,'2024-01-16 17:08:51.162816'
+click_btn=None
+'480','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 17:09:06.811008'
+click_btn=None
+'481','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 17:09:52.780662'
+click_btn=None
+'482','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 17:10:08.373292'
+click_btn=None
+'483','Yoga Tone 2' by 'Una',FULL,'2024-01-16 17:10:23.997583'
+click_btn=None
+'484','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 17:10:39.617147'
+click_btn=None
+'485','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 17:11:25.199371'
+click_btn=None
+'486','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 17:11:40.782971'
+click_btn=None
+'487','Yoga Tone 2' by 'Una',FULL,'2024-01-16 17:11:56.406168'
+click_btn=None
+'488','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 17:12:11.985610'
+click_btn=None
+'489','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 17:12:57.708715'
+click_btn=None
+'490','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 17:13:13.324467'
+click_btn=None
+'491','Yoga Tone 2' by 'Una',FULL,'2024-01-16 17:13:28.903369'
+click_btn=None
+'492','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 17:13:44.527196'
+click_btn=None
+'493','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 17:14:30.411247'
+click_btn=None
+'494','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 17:14:46.028679'
+click_btn=None
+'495','Yoga Tone 2' by 'Una',FULL,'2024-01-16 17:15:01.658974'
+click_btn=None
+'496','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 17:15:17.287912'
+click_btn=None
+'497','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 17:16:03.060184'
+click_btn=None
+'498','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 17:16:18.649721'
+click_btn=None
+'499','Yoga Tone 2' by 'Una',FULL,'2024-01-16 17:16:34.273882'
+click_btn=None
+'500','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 17:16:49.871976'
+click_btn=None
+'501','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 17:17:36.199577'
+click_btn=None
+'502','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 17:17:51.789632'
+click_btn=None
+'503','Yoga Tone 2' by 'Una',FULL,'2024-01-16 17:18:07.427889'
+click_btn=None
+'504','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 17:18:23.043250'
+click_btn=None
+'505','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 17:19:09.182788'
+click_btn=None
+'506','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 17:19:24.799534'
+click_btn=None
+'507','Yoga Tone 2' by 'Una',FULL,'2024-01-16 17:19:40.407052'
+click_btn=None
+'508','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 17:19:56.021771'
+click_btn=None
+'509','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 17:20:41.898124'
+click_btn=None
+'510','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 17:20:57.512499'
+click_btn=None
+'511','Yoga Tone 2' by 'Una',FULL,'2024-01-16 17:21:13.164814'
+click_btn=None
+'512','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 17:21:28.823781'
+click_btn=None
+'513','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 17:22:15.048383'
+click_btn=None
+'514','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 17:22:30.689391'
+click_btn=None
+'515','Yoga Tone 2' by 'Una',FULL,'2024-01-16 17:22:46.290965'
+click_btn=None
+'516','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 17:23:01.906285'
+click_btn=None
+'517','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 17:23:47.920267'
+click_btn=None
+'518','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 17:24:03.525454'
+click_btn=None
+'519','Yoga Tone 2' by 'Una',FULL,'2024-01-16 17:24:19.170948'
+click_btn=None
+'520','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 17:24:34.795540'
+click_btn=None
+'521','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 17:25:20.948661'
+click_btn=None
+'522','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 17:25:36.550629'
+click_btn=None
+'523','Yoga Tone 2' by 'Una',FULL,'2024-01-16 17:25:52.171279'
+click_btn=None
+'524','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 17:26:07.789833'
+click_btn=None
+'525','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 17:26:53.850645'
+click_btn=None
+'526','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 17:27:09.482732'
+click_btn=None
+'527','Yoga Tone 2' by 'Una',FULL,'2024-01-16 17:27:25.096048'
+click_btn=None
+'528','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 17:27:40.770611'
+click_btn=None
+'529','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 17:28:26.840470'
+click_btn=None
+'530','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 17:28:42.471489'
+click_btn=None
+'531','Yoga Tone 2' by 'Una',FULL,'2024-01-16 17:28:58.103006'
+click_btn=None
+'532','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 17:29:13.728280'
+click_btn=None
+'533','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 17:29:59.595037'
+click_btn=None
+'534','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 17:30:15.224589'
+click_btn=None
+'535','Yoga Tone 2' by 'Una',FULL,'2024-01-16 17:30:30.828367'
+click_btn=None
+'536','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 17:30:46.426616'
+click_btn=None
+'537','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 17:31:32.260119'
+click_btn=None
+'538','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 17:31:47.896851'
+click_btn=None
+'539','Yoga Tone 2' by 'Una',FULL,'2024-01-16 17:32:03.522415'
+click_btn=None
+'540','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 17:32:19.157190'
+click_btn=None
+'541','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 17:33:03.892084'
+click_btn=None
+'542','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 17:33:19.467113'
+click_btn=None
+'543','Yoga Tone 2' by 'Una',FULL,'2024-01-16 17:33:35.115509'
+click_btn=None
+'544','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 17:33:50.702228'
+click_btn=None
+'545','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 17:34:36.783691'
+click_btn=None
+'546','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 17:34:52.368747'
+click_btn=None
+'547','Yoga Tone 2' by 'Una',FULL,'2024-01-16 17:35:07.986007'
+click_btn=None
+'548','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 17:35:23.589737'
+click_btn=None
+'549','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 17:36:09.784663'
+click_btn=None
+'550','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 17:36:25.380995'
+click_btn=None
+'551','Yoga Tone 2' by 'Una',FULL,'2024-01-16 17:36:41.034963'
+click_btn=None
+'552','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 17:36:56.645939'
+click_btn=None
+'553','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 17:37:42.724765'
+click_btn=None
+'554','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 17:37:58.360845'
+click_btn=None
+'555','Yoga Tone 2' by 'Una',FULL,'2024-01-16 17:38:13.988572'
+click_btn=None
+'556','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 17:38:29.583187'
+click_btn=None
+'557','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 17:39:15.320100'
+click_btn=None
+'558','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 17:39:30.947964'
+click_btn=None
+'559','Yoga Tone 2' by 'Una',FULL,'2024-01-16 17:39:46.607933'
+click_btn=None
+'560','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 17:40:02.213125'
+click_btn=None
+'561','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 17:40:48.919102'
+click_btn=None
+'562','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 17:41:04.574487'
+click_btn=None
+'563','Yoga Tone 2' by 'Una',FULL,'2024-01-16 17:41:20.192183'
+click_btn=None
+'564','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 17:41:35.820008'
+click_btn=None
+'565','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 17:42:22.033355'
+click_btn=None
+'566','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 17:42:37.615370'
+click_btn=None
+'567','Yoga Tone 2' by 'Una',FULL,'2024-01-16 17:42:53.246174'
+click_btn=None
+'568','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 17:43:08.827313'
+click_btn=None
+'569','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 17:43:55.452514'
+click_btn=None
+'570','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 17:44:11.104688'
+click_btn=None
+'571','Yoga Tone 2' by 'Una',FULL,'2024-01-16 17:44:26.681684'
+click_btn=None
+'572','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 17:44:42.286101'
+click_btn=None
+'573','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 17:45:29.328308'
+click_btn=None
+'574','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 17:45:44.948103'
+click_btn=None
+'575','Yoga Tone 2' by 'Una',FULL,'2024-01-16 17:46:00.577875'
+click_btn=None
+'576','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 17:46:16.192321'
+click_btn=None
+'577','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 17:47:02.354974'
+click_btn=None
+'578','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 17:47:17.990563'
+click_btn=None
+'579','Yoga Tone 2' by 'Una',FULL,'2024-01-16 17:47:33.625774'
+click_btn=None
+'580','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 17:47:49.239406'
+click_btn=None
+'581','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 17:48:35.372229'
+click_btn=None
+'582','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 17:48:51.034424'
+click_btn=None
+'583','Yoga Tone 2' by 'Una',FULL,'2024-01-16 17:49:06.648660'
+click_btn=None
+'584','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 17:49:22.247804'
+click_btn=None
+'585','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 17:50:08.673515'
+click_btn=None
+'586','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 17:50:24.311881'
+click_btn=None
+'587','Yoga Tone 2' by 'Una',FULL,'2024-01-16 17:50:39.954014'
+click_btn=None
+'588','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 17:50:55.583855'
+click_btn=None
+'589','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 17:51:41.599349'
+click_btn=None
+'590','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 17:51:57.198302'
+click_btn=None
+'591','Yoga Tone 2' by 'Una',FULL,'2024-01-16 17:52:12.812608'
+click_btn=None
+'592','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 17:52:28.491840'
+click_btn=None
+'593','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 17:53:14.787499'
+click_btn=None
+'594','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 17:53:30.407054'
+click_btn=None
+'595','Yoga Tone 2' by 'Una',FULL,'2024-01-16 17:53:46.033076'
+click_btn=None
+'596','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 17:54:01.657142'
+click_btn=None
+'597','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 17:54:47.846803'
+click_btn=None
+'598','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 17:55:03.510053'
+click_btn=None
+'599','Yoga Tone 2' by 'Una',FULL,'2024-01-16 17:55:19.121557'
+click_btn=None
+'600','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 17:55:34.775158'
+click_btn=None
+'601','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 17:56:21.264504'
+click_btn=None
+'602','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 17:56:36.924877'
+click_btn=None
+'603','Yoga Tone 2' by 'Una',FULL,'2024-01-16 17:56:52.538449'
+click_btn=None
+'604','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 17:57:08.213238'
+click_btn=None
+'605','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 17:57:54.781169'
+click_btn=None
+'606','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 17:58:10.407235'
+click_btn=None
+'607','Yoga Tone 2' by 'Una',FULL,'2024-01-16 17:58:26.058428'
+click_btn=None
+'608','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 17:58:41.711069'
+click_btn=None
+'609','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 17:59:27.980724'
+click_btn=None
+'610','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 17:59:43.644043'
+click_btn=None
+'611','Yoga Tone 2' by 'Una',FULL,'2024-01-16 17:59:59.245446'
+click_btn=None
+'612','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 18:00:14.878934'
+click_btn=None
+'613','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 18:01:00.197064'
+click_btn=None
+'614','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 18:01:15.820172'
+click_btn=None
+'615','Yoga Tone 2' by 'Una',FULL,'2024-01-16 18:01:31.440926'
+click_btn=None
+'616','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 18:01:47.052736'
+click_btn=None
+'617','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 18:02:33.941935'
+click_btn=None
+'618','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 18:02:49.586288'
+click_btn=None
+'619','Yoga Tone 2' by 'Una',FULL,'2024-01-16 18:03:05.214446'
+click_btn=None
+'620','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 18:03:20.878329'
+click_btn=None
+'621','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 18:04:06.024083'
+click_btn=None
+'622','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 18:04:21.686358'
+click_btn=None
+'623','Yoga Tone 2' by 'Una',FULL,'2024-01-16 18:04:37.362097'
+click_btn=None
+'624','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 18:04:52.984756'
+click_btn=None
+'625','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 18:05:39.068223'
+click_btn=None
+'626','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 18:05:54.702932'
+click_btn=None
+'627','Yoga Tone 2' by 'Una',FULL,'2024-01-16 18:06:10.358573'
+click_btn=None
+'628','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 18:06:26.006537'
+click_btn=None
+'629','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 18:07:12.343018'
+click_btn=None
+'630','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 18:07:27.958250'
+click_btn=None
+'631','Yoga Tone 2' by 'Una',FULL,'2024-01-16 18:07:43.573046'
+click_btn=None
+'632','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 18:07:59.189937'
+click_btn=None
+'633','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 18:08:45.238637'
+click_btn=None
+'634','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 18:09:00.847513'
+click_btn=None
+'635','Yoga Tone 2' by 'Una',FULL,'2024-01-16 18:09:16.468919'
+click_btn=None
+'636','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 18:09:32.116354'
+click_btn=None
+'637','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 18:10:18.229668'
+click_btn=None
+'638','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 18:10:33.888342'
+click_btn=None
+'639','Yoga Tone 2' by 'Una',FULL,'2024-01-16 18:10:49.493800'
+click_btn=None
+'640','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 18:11:05.080917'
+click_btn=None
+'641','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 18:11:51.450188'
+click_btn=None
+'642','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 18:12:07.100564'
+click_btn=None
+'643','Yoga Tone 2' by 'Una',FULL,'2024-01-16 18:12:22.707441'
+click_btn=None
+'644','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 18:12:38.321033'
+click_btn=None
+'645','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 18:13:24.635230'
+click_btn=None
+'646','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 18:13:40.263603'
+click_btn=None
+'647','Yoga Tone 2' by 'Una',FULL,'2024-01-16 18:13:55.890613'
+click_btn=None
+'648','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 18:14:11.520954'
+click_btn=None
+'649','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 18:14:58.122253'
+click_btn=None
+'650','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 18:15:13.756147'
+click_btn=None
+'651','Yoga Tone 2' by 'Una',FULL,'2024-01-16 18:15:29.365502'
+click_btn=None
+'652','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 18:15:44.996892'
+click_btn=None
+'653','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 18:16:31.195783'
+click_btn=None
+'654','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 18:16:46.911600'
+click_btn=None
+'655','Yoga Tone 2' by 'Una',FULL,'2024-01-16 18:17:02.580380'
+click_btn=None
+'656','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 18:17:18.253622'
+click_btn=None
+'657','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 18:18:04.466430'
+click_btn=None
+'658','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 18:18:20.070878'
+click_btn=None
+'659','Yoga Tone 2' by 'Una',FULL,'2024-01-16 18:18:35.734304'
+click_btn=None
+'660','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 18:18:51.329499'
+click_btn=None
+'661','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 18:19:37.312004'
+click_btn=None
+'662','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 18:19:52.960275'
+click_btn=None
+'663','Yoga Tone 2' by 'Una',FULL,'2024-01-16 18:20:08.584994'
+click_btn=None
+'664','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 18:20:24.227185'
+click_btn=None
+'665','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 18:21:10.654270'
+click_btn=None
+'666','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 18:21:26.264513'
+click_btn=None
+'667','Yoga Tone 2' by 'Una',FULL,'2024-01-16 18:21:41.890026'
+click_btn=None
+'668','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 18:21:57.493222'
+click_btn=None
+'669','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 18:22:44.080920'
+click_btn=None
+'670','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 18:22:59.720743'
+click_btn=None
+'671','Yoga Tone 2' by 'Una',FULL,'2024-01-16 18:23:15.298680'
+click_btn=None
+'672','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 18:23:30.936021'
+click_btn=None
+'673','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 18:24:17.211692'
+click_btn=None
+'674','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 18:24:32.853090'
+click_btn=None
+'675','Yoga Tone 2' by 'Una',FULL,'2024-01-16 18:24:48.477173'
+click_btn=None
+'676','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 18:25:04.106972'
+click_btn=None
+'677','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 18:25:50.406380'
+click_btn=None
+'678','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 18:26:06.018700'
+click_btn=None
+'679','Yoga Tone 2' by 'Una',FULL,'2024-01-16 18:26:21.691188'
+click_btn=None
+'680','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 18:26:37.339188'
+click_btn=None
+'681','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 18:27:23.492700'
+click_btn=None
+'682','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 18:27:39.140281'
+click_btn=None
+'683','Yoga Tone 2' by 'Una',FULL,'2024-01-16 18:27:54.787662'
+click_btn=None
+'684','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 18:28:10.416470'
+click_btn=None
+'685','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 18:28:56.825031'
+click_btn=None
+'686','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 18:29:12.470354'
+click_btn=None
+'687','Yoga Tone 2' by 'Una',FULL,'2024-01-16 18:29:28.135423'
+click_btn=None
+'688','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 18:29:43.780415'
+click_btn=None
+'689','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 18:30:30.628515'
+click_btn=None
+'690','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 18:30:46.275619'
+click_btn=None
+'691','Yoga Tone 2' by 'Una',FULL,'2024-01-16 18:31:01.952320'
+click_btn=None
+'692','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 18:31:17.573262'
+click_btn=None
+'693','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 18:32:03.530741'
+click_btn=None
+'694','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 18:32:19.155196'
+click_btn=None
+'695','Yoga Tone 2' by 'Una',FULL,'2024-01-16 18:32:34.779911'
+click_btn=None
+'696','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 18:32:50.403441'
+click_btn=None
+'697','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 18:33:36.351923'
+click_btn=None
+'698','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 18:33:52.014996'
+click_btn=None
+'699','Yoga Tone 2' by 'Una',FULL,'2024-01-16 18:34:07.676046'
+click_btn=None
+'700','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 18:34:23.333328'
+click_btn=None
+'701','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 18:35:09.569935'
+click_btn=None
+'702','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 18:35:25.208143'
+click_btn=None
+'703','Yoga Tone 2' by 'Una',FULL,'2024-01-16 18:35:40.834265'
+click_btn=None
+'704','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 18:35:56.457452'
+click_btn=None
+'705','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 18:36:42.433507'
+click_btn=None
+'706','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 18:36:58.089547'
+click_btn=None
+'707','Yoga Tone 2' by 'Una',FULL,'2024-01-16 18:37:13.720145'
+click_btn=None
+'708','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 18:37:29.341050'
+click_btn=None
+'709','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 18:38:15.418150'
+click_btn=None
+'710','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 18:38:31.033877'
+click_btn=None
+'711','Yoga Tone 2' by 'Una',FULL,'2024-01-16 18:38:46.699391'
+click_btn=None
+'712','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 18:39:02.331401'
+click_btn=None
+'713','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 18:39:48.488436'
+click_btn=None
+'714','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 18:40:04.114176'
+click_btn=None
+'715','Yoga Tone 2' by 'Una',FULL,'2024-01-16 18:40:19.756810'
+click_btn=None
+'716','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 18:40:35.400012'
+click_btn=None
+'717','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 18:41:21.748886'
+click_btn=None
+'718','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 18:41:37.367448'
+click_btn=None
+'719','Yoga Tone 2' by 'Una',FULL,'2024-01-16 18:41:53.007276'
+click_btn=None
+'720','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 18:42:08.635636'
+click_btn=None
+'721','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 18:42:55.244715'
+click_btn=None
+'722','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 18:43:10.875714'
+click_btn=None
+'723','Yoga Tone 2' by 'Una',FULL,'2024-01-16 18:43:26.494159'
+click_btn=None
+'724','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 18:43:42.133494'
+click_btn=None
+'725','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 18:44:28.271811'
+click_btn=None
+'726','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 18:44:43.849288'
+click_btn=None
+'727','Yoga Tone 2' by 'Una',FULL,'2024-01-16 18:44:59.507736'
+click_btn=None
+'728','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 18:45:15.122842'
+click_btn=None
+'729','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 18:46:01.319605'
+click_btn=None
+'730','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 18:46:16.984340'
+click_btn=None
+'731','Yoga Tone 2' by 'Una',FULL,'2024-01-16 18:46:32.597502'
+click_btn=None
+'732','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 18:46:48.196878'
+click_btn=None
+'733','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 18:47:34.419545'
+click_btn=None
+'734','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 18:47:50.010962'
+click_btn=None
+'735','Yoga Tone 2' by 'Una',FULL,'2024-01-16 18:48:05.613355'
+click_btn=None
+'736','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 18:48:21.265798'
+click_btn=None
+'737','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 18:49:07.255277'
+click_btn=None
+'738','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 18:49:22.843216'
+click_btn=None
+'739','Yoga Tone 2' by 'Una',FULL,'2024-01-16 18:49:38.469813'
+click_btn=None
+'740','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 18:49:54.098309'
+click_btn=None
+'741','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 18:50:40.054310'
+click_btn=None
+'742','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 18:50:55.664698'
+click_btn=None
+'743','Yoga Tone 2' by 'Una',FULL,'2024-01-16 18:51:11.306017'
+click_btn=None
+'744','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 18:51:26.895819'
+click_btn=None
+'745','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 18:52:13.225120'
+click_btn=None
+'746','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 18:52:28.872480'
+click_btn=None
+'747','Yoga Tone 2' by 'Una',FULL,'2024-01-16 18:52:44.483119'
+click_btn=None
+'748','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 18:53:00.129373'
+click_btn=None
+'749','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 18:53:46.264652'
+click_btn=None
+'750','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 18:54:01.862113'
+click_btn=None
+'751','Yoga Tone 2' by 'Una',FULL,'2024-01-16 18:54:17.476986'
+click_btn=None
+'752','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 18:54:33.138092'
+click_btn=None
+'753','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 18:55:19.164991'
+click_btn=None
+'754','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 18:55:34.825647'
+click_btn=None
+'755','Yoga Tone 2' by 'Una',FULL,'2024-01-16 18:55:50.454671'
+click_btn=None
+'756','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 18:56:06.083449'
+click_btn=None
+'757','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 18:56:52.220598'
+click_btn=None
+'758','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 18:57:07.836038'
+click_btn=None
+'759','Yoga Tone 2' by 'Una',FULL,'2024-01-16 18:57:23.458317'
+click_btn=None
+'760','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 18:57:39.092942'
+click_btn=None
+'761','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 18:58:25.093671'
+click_btn=None
+'762','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 18:58:40.709541'
+click_btn=None
+'763','Yoga Tone 2' by 'Una',FULL,'2024-01-16 18:58:56.330081'
+click_btn=None
+'764','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 18:59:11.940754'
+click_btn=None
+'765','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 18:59:58.000520'
+click_btn=None
+'766','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 19:00:13.607454'
+click_btn=None
+'767','Yoga Tone 2' by 'Una',FULL,'2024-01-16 19:00:29.223976'
+click_btn=None
+'768','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 19:00:44.841697'
+click_btn=None
+'769','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 19:01:30.653309'
+click_btn=None
+'770','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 19:01:46.253950'
+click_btn=None
+'771','Yoga Tone 2' by 'Una',FULL,'2024-01-16 19:02:01.856560'
+click_btn=None
+'772','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 19:02:17.512602'
+click_btn=None
+'773','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 19:03:03.116601'
+click_btn=None
+'774','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 19:03:18.709782'
+click_btn=None
+'775','Yoga Tone 2' by 'Una',FULL,'2024-01-16 19:03:34.317715'
+click_btn=None
+'776','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 19:03:49.952205'
+click_btn=None
+'777','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 19:04:35.874293'
+click_btn=None
+'778','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 19:04:51.472569'
+click_btn=None
+'779','Yoga Tone 2' by 'Una',FULL,'2024-01-16 19:05:07.083577'
+click_btn=None
+'780','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 19:05:22.728928'
+click_btn=None
+'781','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 19:06:08.995458'
+click_btn=None
+'782','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 19:06:24.598828'
+click_btn=None
+'783','Yoga Tone 2' by 'Una',FULL,'2024-01-16 19:06:40.263669'
+click_btn=None
+'784','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 19:06:55.906262'
+click_btn=None
+'785','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 19:07:40.763317'
+click_btn=None
+'786','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 19:07:56.414226'
+click_btn=None
+'787','Yoga Tone 2' by 'Una',FULL,'2024-01-16 19:08:12.009857'
+click_btn=None
+'788','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 19:08:27.669728'
+click_btn=None
+'789','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 19:09:12.811558'
+click_btn=None
+'790','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 19:09:28.435292'
+click_btn=None
+'791','Yoga Tone 2' by 'Una',FULL,'2024-01-16 19:09:44.020599'
+click_btn=None
+'792','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 19:09:59.653843'
+click_btn=None
+'793','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 19:10:45.499354'
+click_btn=None
+'794','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 19:11:01.119632'
+click_btn=None
+'795','Yoga Tone 2' by 'Una',FULL,'2024-01-16 19:11:16.776909'
+click_btn=None
+'796','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 19:11:32.410493'
+click_btn=None
+'797','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 19:12:18.733381'
+click_btn=None
+'798','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 19:12:34.347766'
+click_btn=None
+'799','Yoga Tone 2' by 'Una',FULL,'2024-01-16 19:12:49.972953'
+click_btn=None
+'800','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 19:13:05.610468'
+click_btn=None
+'801','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 19:13:51.362940'
+click_btn=None
+'802','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 19:14:06.945800'
+click_btn=None
+'803','Yoga Tone 2' by 'Una',FULL,'2024-01-16 19:14:22.539113'
+click_btn=None
+'804','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 19:14:38.147460'
+click_btn=None
+'805','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 19:15:24.113422'
+click_btn=None
+'806','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 19:15:39.758756'
+click_btn=None
+'807','Yoga Tone 2' by 'Una',FULL,'2024-01-16 19:15:55.396049'
+click_btn=None
+'808','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 19:16:10.999189'
+click_btn=None
+'809','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 19:16:57.013634'
+click_btn=None
+'810','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 19:17:12.653990'
+click_btn=None
+'811','Yoga Tone 2' by 'Una',FULL,'2024-01-16 19:17:28.267829'
+click_btn=None
+'812','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 19:17:43.926888'
+click_btn=None
+'813','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 19:18:29.854506'
+click_btn=None
+'814','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 19:18:45.486515'
+click_btn=None
+'815','Yoga Tone 2' by 'Una',FULL,'2024-01-16 19:19:01.088868'
+click_btn=None
+'816','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 19:19:16.728121'
+click_btn=None
+'817','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 19:20:02.635677'
+click_btn=None
+'818','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 19:20:18.248661'
+click_btn=None
+'819','Yoga Tone 2' by 'Una',FULL,'2024-01-16 19:20:33.887626'
+click_btn=None
+'820','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 19:20:49.511118'
+click_btn=None
+'821','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 19:21:35.513032'
+click_btn=None
+'822','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 19:21:51.149018'
+click_btn=None
+'823','Yoga Tone 2' by 'Una',FULL,'2024-01-16 19:22:06.772338'
+click_btn=None
+'824','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 19:22:22.407381'
+click_btn=None
+'825','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 19:23:08.971628'
+click_btn=None
+'826','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 19:23:24.561420'
+click_btn=None
+'827','Yoga Tone 2' by 'Una',FULL,'2024-01-16 19:23:40.215017'
+click_btn=None
+'828','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 19:23:55.828827'
+click_btn=None
+'829','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 19:24:41.695143'
+click_btn=None
+'830','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 19:24:57.274223'
+click_btn=None
+'831','Yoga Tone 2' by 'Una',FULL,'2024-01-16 19:25:12.894391'
+click_btn=None
+'832','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 19:25:28.523548'
+click_btn=None
+'833','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 19:26:14.638457'
+click_btn=None
+'834','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 19:26:30.227643'
+click_btn=None
+'835','Yoga Tone 2' by 'Una',FULL,'2024-01-16 19:26:45.889487'
+click_btn=None
+'836','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 19:27:01.496313'
+click_btn=None
+'837','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 19:27:47.285292'
+click_btn=None
+'838','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 19:28:02.873845'
+click_btn=None
+'839','Yoga Tone 2' by 'Una',FULL,'2024-01-16 19:28:18.523810'
+click_btn=None
+'840','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 19:28:34.127923'
+click_btn=None
+'841','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 19:29:20.213548'
+click_btn=None
+'842','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 19:29:35.785994'
+click_btn=None
+'843','Yoga Tone 2' by 'Una',FULL,'2024-01-16 19:29:51.414936'
+click_btn=None
+'844','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 19:30:07.024075'
+click_btn=None
+'845','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 19:30:53.157362'
+click_btn=None
+'846','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 19:31:08.798361'
+click_btn=None
+'847','Yoga Tone 2' by 'Una',FULL,'2024-01-16 19:31:24.413378'
+click_btn=None
+'848','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 19:31:40.015256'
+click_btn=None
+'849','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 19:32:26.105849'
+click_btn=None
+'850','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 19:32:41.733314'
+click_btn=None
+'851','Yoga Tone 2' by 'Una',FULL,'2024-01-16 19:32:57.329420'
+click_btn=None
+'852','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 19:33:12.959841'
+click_btn=None
+'853','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 19:33:59.223135'
+click_btn=None
+'854','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 19:34:14.863267'
+click_btn=None
+'855','Yoga Tone 2' by 'Una',FULL,'2024-01-16 19:34:30.498471'
+click_btn=None
+'856','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 19:34:46.099119'
+click_btn=None
+'857','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 19:35:41.110474'
+click_btn=None
+'858','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 19:35:56.728701'
+click_btn=None
+'859','Yoga Tone 2' by 'Una',FULL,'2024-01-16 19:36:12.340710'
+click_btn=None
+'860','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 19:36:27.980249'
+click_btn=None
+'861','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 19:37:22.742243'
+click_btn=None
+'862','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 19:37:38.340951'
+click_btn=None
+'863','Yoga Tone 2' by 'Una',FULL,'2024-01-16 19:37:53.922679'
+click_btn=None
+'864','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 19:38:09.511976'
+click_btn=None
+'865','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 19:38:55.358876'
+click_btn=None
+'866','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 19:39:10.998692'
+click_btn=None
+'867','Yoga Tone 2' by 'Una',FULL,'2024-01-16 19:39:26.627618'
+click_btn=None
+'868','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 19:39:42.236143'
+click_btn=None
+'869','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 19:40:28.015765'
+click_btn=None
+'870','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 19:40:43.638842'
+click_btn=None
+'871','Yoga Tone 2' by 'Una',FULL,'2024-01-16 19:40:59.238235'
+click_btn=None
+'872','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 19:41:14.835058'
+click_btn=None
+'873','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 19:42:00.662280'
+click_btn=None
+'874','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 19:42:16.268402'
+click_btn=None
+'875','Yoga Tone 2' by 'Una',FULL,'2024-01-16 19:42:31.897558'
+click_btn=None
+'876','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 19:42:47.519637'
+click_btn=None
+'877','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 19:43:33.689127'
+click_btn=None
+'878','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 19:43:49.319712'
+click_btn=None
+'879','Yoga Tone 2' by 'Una',FULL,'2024-01-16 19:44:04.969030'
+click_btn=None
+'880','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 19:44:20.571984'
+click_btn=None
+'881','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 19:45:06.310426'
+click_btn=None
+'882','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 19:45:21.970842'
+click_btn=None
+'883','Yoga Tone 2' by 'Una',FULL,'2024-01-16 19:45:37.603458'
+click_btn=None
+'884','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 19:45:53.207721'
+click_btn=None
+'885','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 19:46:48.455009'
+click_btn=None
+'886','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 19:47:04.081002'
+click_btn=None
+'887','Yoga Tone 2' by 'Una',FULL,'2024-01-16 19:47:19.727877'
+click_btn=None
+'888','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 19:47:35.313319'
+click_btn=None
+'889','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 19:48:21.093064'
+click_btn=None
+'890','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 19:48:36.724558'
+click_btn=None
+'891','Yoga Tone 2' by 'Una',FULL,'2024-01-16 19:48:52.347473'
+click_btn=None
+'892','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 19:49:07.973939'
+click_btn=None
+'893','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 19:49:54.195616'
+click_btn=None
+'894','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 19:50:09.775442'
+click_btn=None
+'895','Yoga Tone 2' by 'Una',FULL,'2024-01-16 19:50:25.415698'
+click_btn=None
+'896','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 19:50:41.037905'
+click_btn=None
+'897','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 19:51:26.946869'
+click_btn=None
+'898','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 19:51:42.546799'
+click_btn=None
+'899','Yoga Tone 2' by 'Una',FULL,'2024-01-16 19:51:58.129967'
+click_btn=None
+'900','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 19:52:13.744406'
+click_btn=None
+'901','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 19:52:59.920834'
+click_btn=None
+'902','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 19:53:15.517237'
+click_btn=None
+'903','Yoga Tone 2' by 'Una',FULL,'2024-01-16 19:53:31.161560'
+click_btn=None
+'904','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 19:53:46.807707'
+click_btn=None
+'905','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 19:54:32.689589'
+click_btn=None
+'906','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 19:54:48.317391'
+click_btn=None
+'907','Yoga Tone 2' by 'Una',FULL,'2024-01-16 19:55:03.967249'
+click_btn=None
+'908','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 19:55:19.618789'
+click_btn=None
+'909','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 19:56:05.923113'
+click_btn=None
+'910','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 19:56:21.572873'
+click_btn=None
+'911','Yoga Tone 2' by 'Una',FULL,'2024-01-16 19:56:37.206957'
+click_btn=None
+'912','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 19:56:52.843687'
+click_btn=None
+'913','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 19:57:38.972325'
+click_btn=None
+'914','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 19:57:54.555247'
+click_btn=None
+'915','Yoga Tone 2' by 'Una',FULL,'2024-01-16 19:58:10.165528'
+click_btn=None
+'916','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 19:58:25.783557'
+click_btn=None
+'917','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 19:59:11.863710'
+click_btn=None
+'918','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 19:59:27.486883'
+click_btn=None
+'919','Yoga Tone 2' by 'Una',FULL,'2024-01-16 19:59:43.131154'
+click_btn=None
+'920','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 19:59:58.721535'
+click_btn=None
+'921','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 20:00:45.854910'
+click_btn=None
+'922','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 20:01:01.463977'
+click_btn=None
+'923','Yoga Tone 2' by 'Una',FULL,'2024-01-16 20:01:17.062180'
+click_btn=None
+'924','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 20:01:32.691326'
+click_btn=None
+'925','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 20:02:18.648588'
+click_btn=None
+'926','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 20:02:34.253596'
+click_btn=None
+'927','Yoga Tone 2' by 'Una',FULL,'2024-01-16 20:02:49.903781'
+click_btn=None
+'928','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 20:03:05.499833'
+click_btn=None
+'929','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 20:03:51.506448'
+click_btn=None
+'930','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 20:04:07.125367'
+click_btn=None
+'931','Yoga Tone 2' by 'Una',FULL,'2024-01-16 20:04:22.728070'
+click_btn=None
+'932','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 20:04:38.311956'
+click_btn=None
+'933','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 20:05:33.616633'
+click_btn=None
+'934','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 20:05:49.240029'
+click_btn=None
+'935','Yoga Tone 2' by 'Una',FULL,'2024-01-16 20:06:04.893676'
+click_btn=None
+'936','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 20:06:20.487251'
+click_btn=None
+'937','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 20:07:06.263123'
+click_btn=None
+'938','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 20:07:21.864710'
+click_btn=None
+'939','Yoga Tone 2' by 'Una',FULL,'2024-01-16 20:07:37.460378'
+click_btn=None
+'940','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 20:07:53.086762'
+click_btn=None
+'941','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 20:08:38.934758'
+click_btn=None
+'942','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 20:08:54.547645'
+click_btn=None
+'943','Yoga Tone 2' by 'Una',FULL,'2024-01-16 20:09:10.178350'
+click_btn=None
+'944','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 20:09:25.781856'
+click_btn=None
+'945','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 20:10:11.530449'
+click_btn=None
+'946','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 20:10:27.128030'
+click_btn=None
+'947','Yoga Tone 2' by 'Una',FULL,'2024-01-16 20:10:42.772217'
+click_btn=None
+'948','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 20:10:58.409163'
+click_btn=None
+'949','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 20:11:44.378033'
+click_btn=None
+'950','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 20:11:59.994334'
+click_btn=None
+'951','Yoga Tone 2' by 'Una',FULL,'2024-01-16 20:12:15.636049'
+click_btn=None
+'952','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 20:12:31.292336'
+click_btn=None
+'953','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 20:13:17.454835'
+click_btn=None
+'954','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 20:13:33.114654'
+click_btn=None
+'955','Yoga Tone 2' by 'Una',FULL,'2024-01-16 20:13:48.787109'
+click_btn=None
+'956','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 20:14:04.439008'
+click_btn=None
+'957','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 20:14:50.258059'
+click_btn=None
+'958','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 20:15:05.877614'
+click_btn=None
+'959','Yoga Tone 2' by 'Una',FULL,'2024-01-16 20:15:21.486850'
+click_btn=None
+'960','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 20:15:37.126964'
+click_btn=None
+'961','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 20:16:23.263735'
+click_btn=None
+'962','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 20:16:38.918300'
+click_btn=None
+'963','Yoga Tone 2' by 'Una',FULL,'2024-01-16 20:16:54.562473'
+click_btn=None
+'964','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 20:17:10.194489'
+click_btn=None
+'965','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 20:17:56.668875'
+click_btn=None
+'966','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 20:18:12.297740'
+click_btn=None
+'967','Yoga Tone 2' by 'Una',FULL,'2024-01-16 20:18:27.947677'
+click_btn=None
+'968','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 20:18:43.565629'
+click_btn=None
+'969','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 20:19:29.259282'
+click_btn=None
+'970','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 20:19:44.879001'
+click_btn=None
+'971','Yoga Tone 2' by 'Una',FULL,'2024-01-16 20:20:00.474646'
+click_btn=None
+'972','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 20:20:16.145040'
+click_btn=None
+'973','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 20:21:02.121695'
+click_btn=None
+'974','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 20:21:17.727575'
+click_btn=None
+'975','Yoga Tone 2' by 'Una',FULL,'2024-01-16 20:21:33.389905'
+click_btn=None
+'976','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 20:21:49.031992'
+click_btn=None
+'977','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 20:22:34.938759'
+click_btn=None
+'978','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 20:22:50.554008'
+click_btn=None
+'979','Yoga Tone 2' by 'Una',FULL,'2024-01-16 20:23:06.157201'
+click_btn=None
+'980','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 20:23:21.777472'
+click_btn=None
+'981','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 20:24:07.576182'
+click_btn=None
+'982','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 20:24:23.159266'
+click_btn=None
+'983','Yoga Tone 2' by 'Una',FULL,'2024-01-16 20:24:38.752767'
+click_btn=None
+'984','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 20:24:54.391900'
+click_btn=None
+'985','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 20:25:40.154968'
+click_btn=None
+'986','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 20:25:55.773621'
+click_btn=None
+'987','Yoga Tone 2' by 'Una',FULL,'2024-01-16 20:26:11.361118'
+click_btn=None
+'988','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 20:26:26.994022'
+click_btn=None
+'989','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 20:27:21.889362'
+click_btn=None
+'990','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 20:27:37.511683'
+click_btn=None
+'991','Yoga Tone 2' by 'Una',FULL,'2024-01-16 20:27:53.151941'
+click_btn=None
+'992','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 20:28:08.803010'
+click_btn=None
+'993','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 20:28:55.003570'
+click_btn=None
+'994','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 20:29:10.612942'
+click_btn=None
+'995','Yoga Tone 2' by 'Una',FULL,'2024-01-16 20:29:26.250939'
+click_btn=None
+'996','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 20:29:41.892832'
+click_btn=None
+'997','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 20:30:27.718478'
+click_btn=None
+'998','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 20:30:43.315541'
+click_btn=None
+'999','Yoga Tone 2' by 'Una',FULL,'2024-01-16 20:30:58.957023'
+click_btn=None
+'1000','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 20:31:14.577274'
+click_btn=None
+'1001','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 20:32:00.749977'
+click_btn=None
+'1002','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 20:32:16.346024'
+click_btn=None
+'1003','Yoga Tone 2' by 'Una',FULL,'2024-01-16 20:32:31.979886'
+click_btn=None
+'1004','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 20:32:47.575004'
+click_btn=None
+'1005','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 20:33:34.047749'
+click_btn=None
+'1006','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 20:33:49.681575'
+click_btn=None
+'1007','Yoga Tone 2' by 'Una',FULL,'2024-01-16 20:34:05.309427'
+click_btn=None
+'1008','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 20:34:20.914041'
+click_btn=None
+'1009','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 20:35:06.597117'
+click_btn=None
+'1010','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 20:35:22.195419'
+click_btn=None
+'1011','Yoga Tone 2' by 'Una',FULL,'2024-01-16 20:35:37.820954'
+click_btn=None
+'1012','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 20:35:53.469311'
+click_btn=None
+'1013','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 20:36:39.599264'
+click_btn=None
+'1014','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 20:36:55.209756'
+click_btn=None
+'1015','Yoga Tone 2' by 'Una',FULL,'2024-01-16 20:37:10.841804'
+click_btn=None
+'1016','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 20:37:26.468377'
+click_btn=None
+'1017','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 20:38:12.333367'
+click_btn=None
+'1018','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 20:38:27.969720'
+click_btn=None
+'1019','Yoga Tone 2' by 'Una',FULL,'2024-01-16 20:38:43.587029'
+click_btn=None
+'1020','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 20:38:59.225115'
+click_btn=None
+'1021','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 20:39:45.021202'
+click_btn=None
+'1022','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 20:40:00.652779'
+click_btn=None
+'1023','Yoga Tone 2' by 'Una',FULL,'2024-01-16 20:40:16.267566'
+click_btn=None
+'1024','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 20:40:31.914668'
+click_btn=None
+'1025','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 20:41:17.883398'
+click_btn=None
+'1026','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 20:41:33.462636'
+click_btn=None
+'1027','Yoga Tone 2' by 'Una',FULL,'2024-01-16 20:41:49.100513'
+click_btn=None
+'1028','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 20:42:04.712316'
+click_btn=None
+'1029','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 20:42:50.921844'
+click_btn=None
+'1030','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 20:43:06.565701'
+click_btn=None
+'1031','Yoga Tone 2' by 'Una',FULL,'2024-01-16 20:43:22.237539'
+click_btn=None
+'1032','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 20:43:37.857818'
+click_btn=None
+'1033','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 20:44:23.913493'
+click_btn=None
+'1034','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 20:44:39.524614'
+click_btn=None
+'1035','Yoga Tone 2' by 'Una',FULL,'2024-01-16 20:44:55.138044'
+click_btn=None
+'1036','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 20:45:10.764543'
+click_btn=None
+'1037','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 20:45:57.018126'
+click_btn=None
+'1038','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 20:46:12.640262'
+click_btn=None
+'1039','Yoga Tone 2' by 'Una',FULL,'2024-01-16 20:46:28.255419'
+click_btn=None
+'1040','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 20:46:43.865420'
+click_btn=None
+'1041','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 20:47:30.139717'
+click_btn=None
+'1042','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 20:47:45.758285'
+click_btn=None
+'1043','Yoga Tone 2' by 'Una',FULL,'2024-01-16 20:48:01.368566'
+click_btn=None
+'1044','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 20:48:16.961216'
+click_btn=None
+'1045','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 20:49:02.745962'
+click_btn=None
+'1046','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 20:49:18.370784'
+click_btn=None
+'1047','Yoga Tone 2' by 'Una',FULL,'2024-01-16 20:49:33.986353'
+click_btn=None
+'1048','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 20:49:49.600934'
+click_btn=None
+'1049','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 20:50:36.056767'
+click_btn=None
+'1050','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 20:50:51.697497'
+click_btn=None
+'1051','Yoga Tone 2' by 'Una',FULL,'2024-01-16 20:51:07.216274'
+click_btn=None
+'1052','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 20:51:22.819542'
+click_btn=None
+'1053','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 20:52:08.899188'
+click_btn=None
+'1054','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 20:52:24.521791'
+click_btn=None
+'1055','Yoga Tone 2' by 'Una',FULL,'2024-01-16 20:52:40.168629'
+click_btn=None
+'1056','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 20:52:55.819506'
+click_btn=None
+'1057','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 20:53:41.629283'
+click_btn=None
+'1058','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 20:53:57.238516'
+click_btn=None
+'1059','Yoga Tone 2' by 'Una',FULL,'2024-01-16 20:54:12.867279'
+click_btn=None
+'1060','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 20:54:28.517010'
+click_btn=None
+'1061','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 20:55:14.166480'
+click_btn=None
+'1062','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 20:55:29.805559'
+click_btn=None
+'1063','Yoga Tone 2' by 'Una',FULL,'2024-01-16 20:55:45.413105'
+click_btn=None
+'1064','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 20:56:01.031365'
+click_btn=None
+'1065','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 20:56:47.020207'
+click_btn=None
+'1066','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 20:57:02.628954'
+click_btn=None
+'1067','Yoga Tone 2' by 'Una',FULL,'2024-01-16 20:57:18.234467'
+click_btn=None
+'1068','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 20:57:33.834465'
+click_btn=None
+'1069','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 20:58:19.809880'
+click_btn=None
+'1070','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 20:58:35.410383'
+click_btn=None
+'1071','Yoga Tone 2' by 'Una',FULL,'2024-01-16 20:58:51.024385'
+click_btn=None
+'1072','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 20:59:06.665664'
+click_btn=None
+'1073','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 20:59:52.556506'
+click_btn=None
+'1074','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 21:00:08.167831'
+click_btn=None
+'1075','Yoga Tone 2' by 'Una',FULL,'2024-01-16 21:00:23.779123'
+click_btn=None
+'1076','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 21:00:39.399840'
+click_btn=None
+'1077','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 21:01:25.369358'
+click_btn=None
+'1078','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 21:01:40.974986'
+click_btn=None
+'1079','Yoga Tone 2' by 'Una',FULL,'2024-01-16 21:01:56.631054'
+click_btn=None
+'1080','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 21:02:12.229639'
+click_btn=None
+'1081','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 21:02:58.151610'
+click_btn=None
+'1082','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 21:03:13.755810'
+click_btn=None
+'1083','Yoga Tone 2' by 'Una',FULL,'2024-01-16 21:03:29.350866'
+click_btn=None
+'1084','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 21:03:44.976308'
+click_btn=None
+'1085','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 21:04:30.949221'
+click_btn=None
+'1086','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 21:04:46.569184'
+click_btn=None
+'1087','Yoga Tone 2' by 'Una',FULL,'2024-01-16 21:05:02.197959'
+click_btn=None
+'1088','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 21:05:17.781202'
+click_btn=None
+'1089','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 21:06:03.799086'
+click_btn=None
+'1090','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 21:06:19.430987'
+click_btn=None
+'1091','Yoga Tone 2' by 'Una',FULL,'2024-01-16 21:06:35.092718'
+click_btn=None
+'1092','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 21:06:50.752621'
+click_btn=None
+'1093','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 21:07:36.588991'
+click_btn=None
+'1094','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 21:07:52.230171'
+click_btn=None
+'1095','Yoga Tone 2' by 'Una',FULL,'2024-01-16 21:08:07.875378'
+click_btn=None
+'1096','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 21:08:23.485228'
+click_btn=None
+'1097','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 21:09:09.614846'
+click_btn=None
+'1098','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 21:09:25.239977'
+click_btn=None
+'1099','Yoga Tone 2' by 'Una',FULL,'2024-01-16 21:09:40.857431'
+click_btn=None
+'1100','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 21:09:56.477936'
+click_btn=None
+'1101','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 21:10:41.290730'
+click_btn=None
+'1102','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 21:10:56.901065'
+click_btn=None
+'1103','Yoga Tone 2' by 'Una',FULL,'2024-01-16 21:11:12.473312'
+click_btn=None
+'1104','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 21:11:28.131912'
+click_btn=None
+'1105','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 21:12:14.080692'
+click_btn=None
+'1106','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 21:12:29.739186'
+click_btn=None
+'1107','Yoga Tone 2' by 'Una',FULL,'2024-01-16 21:12:45.355031'
+click_btn=None
+'1108','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 21:13:00.969380'
+click_btn=None
+'1109','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 21:13:47.507732'
+click_btn=None
+'1110','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 21:14:03.154922'
+click_btn=None
+'1111','Yoga Tone 2' by 'Una',FULL,'2024-01-16 21:14:18.781264'
+click_btn=None
+'1112','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 21:14:34.411301'
+click_btn=None
+'1113','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 21:15:20.181688'
+click_btn=None
+'1114','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 21:15:35.831309'
+click_btn=None
+'1115','Yoga Tone 2' by 'Una',FULL,'2024-01-16 21:15:51.498332'
+click_btn=None
+'1116','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 21:16:07.118572'
+click_btn=None
+'1117','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 21:16:53.096561'
+click_btn=None
+'1118','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 21:17:08.704784'
+click_btn=None
+'1119','Yoga Tone 2' by 'Una',FULL,'2024-01-16 21:17:24.291246'
+click_btn=None
+'1120','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 21:17:39.875492'
+click_btn=None
+'1121','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 21:18:25.688414'
+click_btn=None
+'1122','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 21:18:41.275388'
+click_btn=None
+'1123','Yoga Tone 2' by 'Una',FULL,'2024-01-16 21:18:56.911962'
+click_btn=None
+'1124','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 21:19:12.557312'
+click_btn=None
+'1125','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 21:19:58.482858'
+click_btn=None
+'1126','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 21:20:14.125838'
+click_btn=None
+'1127','Yoga Tone 2' by 'Una',FULL,'2024-01-16 21:20:29.817115'
+click_btn=None
+'1128','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 21:20:45.431779'
+click_btn=None
+'1129','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 21:21:31.366201'
+click_btn=None
+'1130','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 21:21:47.000223'
+click_btn=None
+'1131','Yoga Tone 2' by 'Una',FULL,'2024-01-16 21:22:02.658015'
+click_btn=None
+'1132','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 21:22:18.283153'
+click_btn=None
+'1133','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 21:23:04.384853'
+click_btn=None
+'1134','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 21:23:19.997880'
+click_btn=None
+'1135','Yoga Tone 2' by 'Una',FULL,'2024-01-16 21:23:35.654085'
+click_btn=None
+'1136','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 21:23:51.286259'
+click_btn=None
+'1137','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 21:24:37.251570'
+click_btn=None
+'1138','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 21:24:52.870613'
+click_btn=None
+'1139','Yoga Tone 2' by 'Una',FULL,'2024-01-16 21:25:08.492647'
+click_btn=None
+'1140','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 21:25:24.136811'
+click_btn=None
+'1141','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 21:26:09.854820'
+click_btn=None
+'1142','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 21:26:25.501936'
+click_btn=None
+'1143','Yoga Tone 2' by 'Una',FULL,'2024-01-16 21:26:41.167931'
+click_btn=None
+'1144','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 21:26:56.788492'
+click_btn=None
+'1145','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 21:27:42.695841'
+click_btn=None
+'1146','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 21:27:58.301555'
+click_btn=None
+'1147','Yoga Tone 2' by 'Una',FULL,'2024-01-16 21:28:13.920103'
+click_btn=None
+'1148','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 21:28:29.551895'
+click_btn=None
+'1149','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 21:29:14.537657'
+click_btn=None
+'1150','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 21:29:30.157497'
+click_btn=None
+'1151','Yoga Tone 2' by 'Una',FULL,'2024-01-16 21:29:45.811278'
+click_btn=None
+'1152','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 21:30:01.417697'
+click_btn=None
+'1153','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 21:30:47.575796'
+click_btn=None
+'1154','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 21:31:03.197927'
+click_btn=None
+'1155','Yoga Tone 2' by 'Una',FULL,'2024-01-16 21:31:18.833994'
+click_btn=None
+'1156','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 21:31:34.450789'
+click_btn=None
+'1157','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 21:32:20.288497'
+click_btn=None
+'1158','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 21:32:35.931543'
+click_btn=None
+'1159','Yoga Tone 2' by 'Una',FULL,'2024-01-16 21:32:51.571801'
+click_btn=None
+'1160','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 21:33:07.196472'
+click_btn=None
+'1161','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 21:33:53.395348'
+click_btn=None
+'1162','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 21:34:09.031757'
+click_btn=None
+'1163','Yoga Tone 2' by 'Una',FULL,'2024-01-16 21:34:24.663384'
+click_btn=None
+'1164','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 21:34:40.270129'
+click_btn=None
+'1165','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 21:35:26.467843'
+click_btn=None
+'1166','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 21:35:42.084720'
+click_btn=None
+'1167','Yoga Tone 2' by 'Una',FULL,'2024-01-16 21:35:57.688418'
+click_btn=None
+'1168','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 21:36:13.312414'
+click_btn=None
+'1169','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 21:36:59.141051'
+click_btn=None
+'1170','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 21:37:14.785989'
+click_btn=None
+'1171','Yoga Tone 2' by 'Una',FULL,'2024-01-16 21:37:30.403726'
+click_btn=None
+'1172','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 21:37:46.063104'
+click_btn=None
+'1173','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 21:38:31.659292'
+click_btn=None
+'1174','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 21:38:47.280020'
+click_btn=None
+'1175','Yoga Tone 2' by 'Una',FULL,'2024-01-16 21:39:02.877085'
+click_btn=None
+'1176','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 21:39:18.529378'
+click_btn=None
+'1177','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 21:40:04.445066'
+click_btn=None
+'1178','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 21:40:20.048919'
+click_btn=None
+'1179','Yoga Tone 2' by 'Una',FULL,'2024-01-16 21:40:35.675047'
+click_btn=None
+'1180','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 21:40:51.263351'
+click_btn=None
+'1181','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 21:41:36.098095'
+click_btn=None
+'1182','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 21:41:51.672474'
+click_btn=None
+'1183','Yoga Tone 2' by 'Una',FULL,'2024-01-16 21:42:07.274644'
+click_btn=None
+'1184','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 21:42:23.145628'
+click_btn=None
+'1185','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 21:43:09.183648'
+click_btn=None
+'1186','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 21:43:24.784337'
+click_btn=None
+'1187','Yoga Tone 2' by 'Una',FULL,'2024-01-16 21:43:40.384735'
+click_btn=None
+'1188','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 21:43:56.019290'
+click_btn=None
+'1189','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 21:44:41.779379'
+click_btn=None
+'1190','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 21:44:57.421887'
+click_btn=None
+'1191','Yoga Tone 2' by 'Una',FULL,'2024-01-16 21:45:13.084796'
+click_btn=None
+'1192','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 21:45:28.726963'
+click_btn=None
+'1193','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 21:46:14.694715'
+click_btn=None
+'1194','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 21:46:30.304063'
+click_btn=None
+'1195','Yoga Tone 2' by 'Una',FULL,'2024-01-16 21:46:45.942743'
+click_btn=None
+'1196','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 21:47:01.557212'
+click_btn=None
+'1197','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 21:47:56.476649'
+click_btn=None
+'1198','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 21:48:12.062259'
+click_btn=None
+'1199','Yoga Tone 2' by 'Una',FULL,'2024-01-16 21:48:27.703568'
+click_btn=None
+'1200','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 21:48:43.370254'
+click_btn=None
+'1201','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 21:49:29.155881'
+click_btn=None
+'1202','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 21:49:44.775393'
+click_btn=None
+'1203','Yoga Tone 2' by 'Una',FULL,'2024-01-16 21:50:00.385504'
+click_btn=None
+'1204','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 21:50:16.012662'
+click_btn=None
+'1205','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 21:51:01.849412'
+click_btn=None
+'1206','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 21:51:17.493983'
+click_btn=None
+'1207','Yoga Tone 2' by 'Una',FULL,'2024-01-16 21:51:33.112055'
+click_btn=None
+'1208','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 21:51:48.759182'
+click_btn=None
+'1209','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 21:52:34.642997'
+click_btn=None
+'1210','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 21:52:50.267117'
+click_btn=None
+'1211','Yoga Tone 2' by 'Una',FULL,'2024-01-16 21:53:05.884542'
+click_btn=None
+'1212','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 21:53:21.488839'
+click_btn=None
+'1213','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 21:54:07.683904'
+click_btn=None
+'1214','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 21:54:23.266011'
+click_btn=None
+'1215','Yoga Tone 2' by 'Una',FULL,'2024-01-16 21:54:38.865533'
+click_btn=None
+'1216','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 21:54:54.506432'
+click_btn=None
+'1217','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 21:55:40.506598'
+click_btn=None
+'1218','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-01-16 21:55:56.147196'
+click_btn=None
+'1219','Yoga Tone 2' by 'Una',FULL,'2024-01-16 21:56:11.828516'
+click_btn=None
+'1220','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-01-16 21:56:27.480441'
+click_btn=None
+'1221','Counter Flow 1' by 'Marcus',FULL,'2024-01-16 21:57:13.487170'
+click_btn=None
