@@ -1,0 +1,30 @@
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="6a057946081ee673770d57dabf2cf946")>] at 2024-01-20 22:05:32.603584
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="ae560aa7a755dbc642811b1e1d8f1501")>] at 2024-01-20 22:05:33.581902
+sign in for class idx:0 at 2024-01-20 22:05:36.514056
+sign in for class idx:1 at 2024-01-20 22:05:41.162782
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+1: Gentle Yoga 和緩瑜珈 by Una is FULL at 2024-01-20 22:05:44.311388
+Failed to reserve the class idx:0 at 2024-01-20 22:05:44.311742
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+2: Vinyasa Intro 流暢瑜珈入門 by Una is FULL at 2024-01-20 22:05:44.403921
+Failed to reserve the class idx:1 at 2024-01-20 22:05:44.404078
