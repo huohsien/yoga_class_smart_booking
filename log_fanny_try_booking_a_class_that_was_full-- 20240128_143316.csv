@@ -1,0 +1,95 @@
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="bdf5dc09359450b280d8ae5accb3f9e1")>] at 2024-01-28 14:33:18.475463
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="a0dbf3050dc1ceb5d929a1b51f332f40")>] at 2024-01-28 14:33:19.355297
+sign in for class idx:0 at 2024-01-28 14:33:29.012107
+sign in for class idx:1 at 2024-01-28 14:33:41.127405
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+1: Yin Yang Yoga 陰陽瑜珈 by Marcus is FULL at 2024-01-28 14:33:44.593487
+Failed to reserve the class idx:0 at 2024-01-28 14:33:44.594694
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+2: Counter Flow 1 by Marcus is FULL at 2024-01-28 14:33:45.042299
+Failed to reserve the class idx:1 at 2024-01-28 14:33:45.042484
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="bdf5dc09359450b280d8ae5accb3f9e1")>] at 2024-01-28 14:33:50.117953
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="a0dbf3050dc1ceb5d929a1b51f332f40")>] at 2024-01-28 14:33:50.195854
+------------------
+courses to be booked:
+
+Yin Yang Yoga 陰陽瑜珈
+Counter Flow 1
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="a1a43c63ee525c0bc7c21baf1f3c1d50")>] at 2024-01-28 14:33:52.153333
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="944b94f1e3664acd8784e28191041890")>] at 2024-01-28 14:33:53.154863
+sign in for class idx:0 at 2024-01-28 14:34:03.063416
+sign in for class idx:1 at 2024-01-28 14:34:15.058776
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+3: Yin Yang Yoga 陰陽瑜珈 by Marcus is FULL at 2024-01-28 14:34:18.498477
+Failed to reserve the class idx:0 at 2024-01-28 14:34:18.498650
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+4: Counter Flow 1 by Marcus is FULL at 2024-01-28 14:34:18.938678
+Failed to reserve the class idx:1 at 2024-01-28 14:34:18.938846
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="a1a43c63ee525c0bc7c21baf1f3c1d50")>] at 2024-01-28 14:34:24.009716
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="944b94f1e3664acd8784e28191041890")>] at 2024-01-28 14:34:24.081884
+------------------
+courses to be booked:
+
+Yin Yang Yoga 陰陽瑜珈
+Counter Flow 1
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="7fd0c2215fbd1186df67130351bab166")>] at 2024-01-28 14:34:26.013156
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="caab6e573d8b56a7fe87507323cdeda0")>] at 2024-01-28 14:34:26.876852
+sign in for class idx:0 at 2024-01-28 14:34:36.372688
