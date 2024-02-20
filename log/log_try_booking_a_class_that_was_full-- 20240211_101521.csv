@@ -1,0 +1,3354 @@
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="205f9303efcae6f3286e560aa220f97d")>] at 2024-02-11 10:15:22.399228
+sign in for class idx:0 at 2024-02-11 10:15:25.397207
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+1: Hatha Yoga 哈達瑜珈 by Marcus is FULL at 2024-02-11 10:15:28.491013
+Failed to reserve the class idx:0 at 2024-02-11 10:15:28.491323
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="205f9303efcae6f3286e560aa220f97d")>] at 2024-02-11 10:15:33.554823
+------------------
+courses to be booked:
+
+Hatha Yoga 哈達瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="81d3b3392ff7700fdd93cbaeb2caff7b")>] at 2024-02-11 10:15:35.308209
+sign in for class idx:0 at 2024-02-11 10:15:38.277694
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+2: Hatha Yoga 哈達瑜珈 by Marcus is FULL at 2024-02-11 10:15:41.380481
+Failed to reserve the class idx:0 at 2024-02-11 10:15:41.380706
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="81d3b3392ff7700fdd93cbaeb2caff7b")>] at 2024-02-11 10:15:46.445330
+------------------
+courses to be booked:
+
+Hatha Yoga 哈達瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="8d5b1cf0c52d811adab9a02f91edd674")>] at 2024-02-11 10:15:48.203021
+sign in for class idx:0 at 2024-02-11 10:15:51.274417
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+3: Hatha Yoga 哈達瑜珈 by Marcus is FULL at 2024-02-11 10:15:54.385940
+Failed to reserve the class idx:0 at 2024-02-11 10:15:54.386296
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="8d5b1cf0c52d811adab9a02f91edd674")>] at 2024-02-11 10:15:59.449845
+------------------
+courses to be booked:
+
+Hatha Yoga 哈達瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="602e0627ec66a7bdbe991232614902e8")>] at 2024-02-11 10:16:01.201048
+sign in for class idx:0 at 2024-02-11 10:16:04.199357
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+4: Hatha Yoga 哈達瑜珈 by Marcus is FULL at 2024-02-11 10:16:07.284224
+Failed to reserve the class idx:0 at 2024-02-11 10:16:07.285560
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="602e0627ec66a7bdbe991232614902e8")>] at 2024-02-11 10:16:12.349020
+------------------
+courses to be booked:
+
+Hatha Yoga 哈達瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="762de5289d32b42c0841519c3703544d")>] at 2024-02-11 10:16:14.280288
+sign in for class idx:0 at 2024-02-11 10:16:17.298034
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+5: Hatha Yoga 哈達瑜珈 by Marcus is FULL at 2024-02-11 10:16:20.432636
+Failed to reserve the class idx:0 at 2024-02-11 10:16:20.432961
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="762de5289d32b42c0841519c3703544d")>] at 2024-02-11 10:16:25.497754
+------------------
+courses to be booked:
+
+Hatha Yoga 哈達瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="929671cf11cce018973647524415bccb")>] at 2024-02-11 10:16:27.259336
+sign in for class idx:0 at 2024-02-11 10:16:30.127826
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+6: Hatha Yoga 哈達瑜珈 by Marcus is FULL at 2024-02-11 10:16:33.226211
+Failed to reserve the class idx:0 at 2024-02-11 10:16:33.226531
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="929671cf11cce018973647524415bccb")>] at 2024-02-11 10:16:38.290760
+------------------
+courses to be booked:
+
+Hatha Yoga 哈達瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="dcfb730c7127f26f81466c745692908c")>] at 2024-02-11 10:16:40.073301
+sign in for class idx:0 at 2024-02-11 10:16:43.054208
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+7: Hatha Yoga 哈達瑜珈 by Marcus is FULL at 2024-02-11 10:16:46.148962
+Failed to reserve the class idx:0 at 2024-02-11 10:16:46.149231
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="dcfb730c7127f26f81466c745692908c")>] at 2024-02-11 10:16:51.213203
+------------------
+courses to be booked:
+
+Hatha Yoga 哈達瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="33ae18e362086b99a953bf533caabeab")>] at 2024-02-11 10:16:53.064986
+sign in for class idx:0 at 2024-02-11 10:16:56.067256
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+8: Hatha Yoga 哈達瑜珈 by Marcus is FULL at 2024-02-11 10:16:59.193118
+Failed to reserve the class idx:0 at 2024-02-11 10:16:59.193522
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="33ae18e362086b99a953bf533caabeab")>] at 2024-02-11 10:17:04.254853
+------------------
+courses to be booked:
+
+Hatha Yoga 哈達瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="72e3a87aa68d971ce348d7fbee63856a")>] at 2024-02-11 10:17:05.990020
+sign in for class idx:0 at 2024-02-11 10:17:08.981209
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+9: Hatha Yoga 哈達瑜珈 by Marcus is FULL at 2024-02-11 10:17:12.088451
+Failed to reserve the class idx:0 at 2024-02-11 10:17:12.088792
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="72e3a87aa68d971ce348d7fbee63856a")>] at 2024-02-11 10:17:17.153254
+------------------
+courses to be booked:
+
+Hatha Yoga 哈達瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="7c2350b210c9273be050687aea9cf3e4")>] at 2024-02-11 10:17:18.943326
+sign in for class idx:0 at 2024-02-11 10:17:21.917389
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+10: Hatha Yoga 哈達瑜珈 by Marcus is FULL at 2024-02-11 10:17:25.048239
+Failed to reserve the class idx:0 at 2024-02-11 10:17:25.048580
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="7c2350b210c9273be050687aea9cf3e4")>] at 2024-02-11 10:17:30.109948
+------------------
+courses to be booked:
+
+Hatha Yoga 哈達瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="fbc5ccf1471a5511a17866a8b4adfdf4")>] at 2024-02-11 10:17:31.919823
+sign in for class idx:0 at 2024-02-11 10:17:34.983262
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+11: Hatha Yoga 哈達瑜珈 by Marcus is FULL at 2024-02-11 10:17:38.070971
+Failed to reserve the class idx:0 at 2024-02-11 10:17:38.071270
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="fbc5ccf1471a5511a17866a8b4adfdf4")>] at 2024-02-11 10:17:43.141536
+------------------
+courses to be booked:
+
+Hatha Yoga 哈達瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="13dd3f9046754dbbbe450fe07dc25e8d")>] at 2024-02-11 10:17:44.926314
+sign in for class idx:0 at 2024-02-11 10:17:48.034898
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+12: Hatha Yoga 哈達瑜珈 by Marcus is FULL at 2024-02-11 10:17:51.126207
+Failed to reserve the class idx:0 at 2024-02-11 10:17:51.126644
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="13dd3f9046754dbbbe450fe07dc25e8d")>] at 2024-02-11 10:17:56.191297
+------------------
+courses to be booked:
+
+Hatha Yoga 哈達瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="563d0fffed5a2f47f748ed694b4902de")>] at 2024-02-11 10:17:57.968919
+sign in for class idx:0 at 2024-02-11 10:18:00.949452
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+13: Hatha Yoga 哈達瑜珈 by Marcus is FULL at 2024-02-11 10:18:04.062818
+Failed to reserve the class idx:0 at 2024-02-11 10:18:04.063125
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="563d0fffed5a2f47f748ed694b4902de")>] at 2024-02-11 10:18:09.136223
+------------------
+courses to be booked:
+
+Hatha Yoga 哈達瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="51ae458c2868bbeb7595eb23bd2612e0")>] at 2024-02-11 10:18:10.877612
+sign in for class idx:0 at 2024-02-11 10:18:14.381971
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+14: Hatha Yoga 哈達瑜珈 by Marcus is FULL at 2024-02-11 10:18:17.524395
+Failed to reserve the class idx:0 at 2024-02-11 10:18:17.524746
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="51ae458c2868bbeb7595eb23bd2612e0")>] at 2024-02-11 10:18:22.597825
+------------------
+courses to be booked:
+
+Hatha Yoga 哈達瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="2ad0eb5c73426b62da00b01724c6677c")>] at 2024-02-11 10:18:24.377002
+sign in for class idx:0 at 2024-02-11 10:18:36.399906
+
+************************
+status html: cannot find status text in the current site
+************************
+
+UNEXPECTED SCENARIO HAPPENED. NEED TO REVISE THE CODE
+
+ Current Page Source:
+<html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_Head1"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta name="theme-color" content="#592954"><meta name="viewport" content="width=1024, user-scalable=yes"><title>
+	CBSS System - 登入
+</title>
+    <link href="https://www2.trueclassbooking.com.tw/member/css/style.all.css?v=2.27.16.01" rel="stylesheet" type="text/css">
+    <!--[if IE]>
+        <link href="https://www2.trueclassbooking.com.tw/member/css/ie.css?v=2.27.16.01" rel="stylesheet" type="text/css" />
+    <![endif]-->
+    <!--[if IE 8]>
+	    <link href="https://www2.trueclassbooking.com.tw/member/css/ie8.css?v=2.27.16.01" rel="stylesheet" type="text/css" />
+    <![endif]-->
+<style>.cke{visibility:hidden;}</style><meta http-equiv="origin-trial" content="AymqwRC7u88Y4JPvfIF2F37QKylC04248hLCdJAsh8xgOfe/dVJPV3XS3wLFca1ZMVOtnBfVjaCMTVudWM//5g4AAAB7eyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjk1MTY3OTk5LCJpc1RoaXJkUGFydHkiOnRydWV9"></head>
+<body><div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" style="padding-bottom: 42px; padding-right: 42px; display: none;"><div id="cboxWrapper"><div><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxLoadedContent" style="width: 0px; height: 0px; overflow: hidden; float: left;"></div><div id="cboxLoadingOverlay" style="float: left;"></div><div id="cboxLoadingGraphic" style="float: left;"></div><div id="cboxTitle" style="float: left;"></div><div id="cboxCurrent" style="float: left;"></div><div id="cboxNext" style="float: left;"></div><div id="cboxPrevious" style="float: left;"></div><div id="cboxSlideshow" style="float: left;"></div><div id="cboxClose" style="float: left;"></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position: absolute; width: 9999px; visibility: hidden; display: none;"></div></div>
+
+    <form name="aspnetForm" method="post" action="./session-expired.aspx" id="aspnetForm">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEwMDUyNjYzMjhkZEWAooHY56euLAuU8FC+7463vUS+wKCkt+cJrRYxzJbl">
+</div>
+
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="E4BEE291">
+</div>
+
+        <!-- CONTENTS -->
+        <div id="popup">
+            
+    <div class="left al">系統無法取出用戶登入檔案資料。<br>請你您退出後再嘗試登入。</div>
+
+        </div>
+
+    </form>
+
+    <script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-3LV80BY46T&amp;cx=c&amp;_slc=1"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="https://www2.trueclassbooking.com.tw/member/js/script.all.js?v=2.27.16.01"></script>
+    <!-- JAVSCRIPTS -->
+    
+
+    <script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date(); a = s.createElement(o),
+  m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-45242383-2', 'www2.trueclassbooking.com.tw');
+        ga('send', 'pageview');
+
+</script>
+
+
+</body></html>Failed to reserve the class idx:0 at 2024-02-11 10:18:55.029821
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="2ad0eb5c73426b62da00b01724c6677c")>] at 2024-02-11 10:19:00.097859
+------------------
+courses to be booked:
+
+Hatha Yoga 哈達瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="049b19fca560ec8281d3a1eb4c890481")>] at 2024-02-11 10:19:01.868730
+sign in for class idx:0 at 2024-02-11 10:19:04.814513
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+16: Hatha Yoga 哈達瑜珈 by Marcus is FULL at 2024-02-11 10:19:07.936154
+Failed to reserve the class idx:0 at 2024-02-11 10:19:07.936445
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="049b19fca560ec8281d3a1eb4c890481")>] at 2024-02-11 10:19:13.002523
+------------------
+courses to be booked:
+
+Hatha Yoga 哈達瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="62cc8db03fcfc7b740e0ee1bf2c19f3d")>] at 2024-02-11 10:19:14.789902
+sign in for class idx:0 at 2024-02-11 10:19:17.829815
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+17: Hatha Yoga 哈達瑜珈 by Marcus is FULL at 2024-02-11 10:19:20.971396
+Failed to reserve the class idx:0 at 2024-02-11 10:19:20.971746
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="62cc8db03fcfc7b740e0ee1bf2c19f3d")>] at 2024-02-11 10:19:26.045461
+------------------
+courses to be booked:
+
+Hatha Yoga 哈達瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="2b0489b5070cef28775daa4d7acd6c09")>] at 2024-02-11 10:19:27.852053
+sign in for class idx:0 at 2024-02-11 10:19:30.838150
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+18: Hatha Yoga 哈達瑜珈 by Marcus is FULL at 2024-02-11 10:19:33.968629
+Failed to reserve the class idx:0 at 2024-02-11 10:19:33.968953
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="2b0489b5070cef28775daa4d7acd6c09")>] at 2024-02-11 10:19:39.041151
+------------------
+courses to be booked:
+
+Hatha Yoga 哈達瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="48185c87a6007b16234d5293a676f72e")>] at 2024-02-11 10:19:40.864734
+sign in for class idx:0 at 2024-02-11 10:19:43.822566
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+19: Hatha Yoga 哈達瑜珈 by Marcus is FULL at 2024-02-11 10:19:46.952884
+Failed to reserve the class idx:0 at 2024-02-11 10:19:46.953242
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="48185c87a6007b16234d5293a676f72e")>] at 2024-02-11 10:19:52.020618
+------------------
+courses to be booked:
+
+Hatha Yoga 哈達瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="ca9d60f27de3058371c521f7063a181e")>] at 2024-02-11 10:19:53.818448
+sign in for class idx:0 at 2024-02-11 10:19:56.829321
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+20: Hatha Yoga 哈達瑜珈 by Marcus is FULL at 2024-02-11 10:19:59.962272
+Failed to reserve the class idx:0 at 2024-02-11 10:19:59.962662
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="ca9d60f27de3058371c521f7063a181e")>] at 2024-02-11 10:20:05.033561
+------------------
+courses to be booked:
+
+Hatha Yoga 哈達瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="abfb69360983579a2bed8468a26ee266")>] at 2024-02-11 10:20:06.880830
+sign in for class idx:0 at 2024-02-11 10:20:09.862252
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+21: Hatha Yoga 哈達瑜珈 by Marcus is FULL at 2024-02-11 10:20:12.996251
+Failed to reserve the class idx:0 at 2024-02-11 10:20:12.996614
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="abfb69360983579a2bed8468a26ee266")>] at 2024-02-11 10:20:18.072284
+------------------
+courses to be booked:
+
+Hatha Yoga 哈達瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="bdf8c16363ae82f9d4d1d04855f592fc")>] at 2024-02-11 10:20:19.848804
+sign in for class idx:0 at 2024-02-11 10:20:22.868378
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+22: Hatha Yoga 哈達瑜珈 by Marcus is FULL at 2024-02-11 10:20:26.005114
+Failed to reserve the class idx:0 at 2024-02-11 10:20:26.005530
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="bdf8c16363ae82f9d4d1d04855f592fc")>] at 2024-02-11 10:20:31.077787
+------------------
+courses to be booked:
+
+Hatha Yoga 哈達瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="ef3788d62601a7b3b5524b17097d85a9")>] at 2024-02-11 10:20:32.891671
+sign in for class idx:0 at 2024-02-11 10:20:35.969957
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+23: Hatha Yoga 哈達瑜珈 by Marcus is FULL at 2024-02-11 10:20:39.096817
+Failed to reserve the class idx:0 at 2024-02-11 10:20:39.097164
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="ef3788d62601a7b3b5524b17097d85a9")>] at 2024-02-11 10:20:44.169318
+------------------
+courses to be booked:
+
+Hatha Yoga 哈達瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="1fb0d7acdeb41cdee027279c7a31ca2c")>] at 2024-02-11 10:20:45.957089
+sign in for class idx:0 at 2024-02-11 10:20:49.249472
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+24: Hatha Yoga 哈達瑜珈 by Marcus is FULL at 2024-02-11 10:20:52.337214
+Failed to reserve the class idx:0 at 2024-02-11 10:20:52.337610
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="1fb0d7acdeb41cdee027279c7a31ca2c")>] at 2024-02-11 10:20:57.397319
+------------------
+courses to be booked:
+
+Hatha Yoga 哈達瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="cc4e243bdb0e47f53d733c913d8929f8")>] at 2024-02-11 10:20:59.244156
+sign in for class idx:0 at 2024-02-11 10:21:02.234882
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+25: Hatha Yoga 哈達瑜珈 by Marcus is FULL at 2024-02-11 10:21:05.362119
+Failed to reserve the class idx:0 at 2024-02-11 10:21:05.362437
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="cc4e243bdb0e47f53d733c913d8929f8")>] at 2024-02-11 10:21:10.426856
+------------------
+courses to be booked:
+
+Hatha Yoga 哈達瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="bfac780a991ab9026972defbfd081367")>] at 2024-02-11 10:21:12.223961
+sign in for class idx:0 at 2024-02-11 10:21:15.149086
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+26: Hatha Yoga 哈達瑜珈 by Marcus is FULL at 2024-02-11 10:21:18.288781
+Failed to reserve the class idx:0 at 2024-02-11 10:21:18.289129
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="bfac780a991ab9026972defbfd081367")>] at 2024-02-11 10:21:23.352124
+------------------
+courses to be booked:
+
+Hatha Yoga 哈達瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="f9ca88fa32553fd1c38ed066f9234448")>] at 2024-02-11 10:21:25.151232
+sign in for class idx:0 at 2024-02-11 10:21:28.164986
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+27: Hatha Yoga 哈達瑜珈 by Marcus is FULL at 2024-02-11 10:21:31.296017
+Failed to reserve the class idx:0 at 2024-02-11 10:21:31.296367
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="f9ca88fa32553fd1c38ed066f9234448")>] at 2024-02-11 10:21:36.364384
+------------------
+courses to be booked:
+
+Hatha Yoga 哈達瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="1ca164ad10ec1ea2426dcb671a7a342d")>] at 2024-02-11 10:21:38.211513
+sign in for class idx:0 at 2024-02-11 10:21:41.273130
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+28: Hatha Yoga 哈達瑜珈 by Marcus is FULL at 2024-02-11 10:21:44.373787
+Failed to reserve the class idx:0 at 2024-02-11 10:21:44.374032
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="1ca164ad10ec1ea2426dcb671a7a342d")>] at 2024-02-11 10:21:49.436204
+------------------
+courses to be booked:
+
+Hatha Yoga 哈達瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="f235349725e6ec34194b7ce4050f2458")>] at 2024-02-11 10:21:51.288956
+sign in for class idx:0 at 2024-02-11 10:21:54.372860
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+29: Hatha Yoga 哈達瑜珈 by Marcus is FULL at 2024-02-11 10:21:57.459376
+Failed to reserve the class idx:0 at 2024-02-11 10:21:57.459668
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="f235349725e6ec34194b7ce4050f2458")>] at 2024-02-11 10:22:02.523765
+------------------
+courses to be booked:
+
+Hatha Yoga 哈達瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="0da49bb1616e35941b8e25660bda2dc9")>] at 2024-02-11 10:22:04.285333
+sign in for class idx:0 at 2024-02-11 10:22:07.222523
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+30: Hatha Yoga 哈達瑜珈 by Marcus is FULL at 2024-02-11 10:22:10.330026
+Failed to reserve the class idx:0 at 2024-02-11 10:22:10.330300
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="0da49bb1616e35941b8e25660bda2dc9")>] at 2024-02-11 10:22:15.391266
+------------------
+courses to be booked:
+
+Hatha Yoga 哈達瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="e766d0fdf6a6c4490dcfc39b088d473b")>] at 2024-02-11 10:22:17.173980
+sign in for class idx:0 at 2024-02-11 10:22:20.191566
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+31: Hatha Yoga 哈達瑜珈 by Marcus is FULL at 2024-02-11 10:22:23.313159
+Failed to reserve the class idx:0 at 2024-02-11 10:22:23.313575
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="e766d0fdf6a6c4490dcfc39b088d473b")>] at 2024-02-11 10:22:28.379373
+------------------
+courses to be booked:
+
+Hatha Yoga 哈達瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="d250869e2c41cfcf585dbf749e22a47e")>] at 2024-02-11 10:22:30.121411
+sign in for class idx:0 at 2024-02-11 10:22:33.125646
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+32: Hatha Yoga 哈達瑜珈 by Marcus is FULL at 2024-02-11 10:22:36.245564
+Failed to reserve the class idx:0 at 2024-02-11 10:22:36.245872
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="d250869e2c41cfcf585dbf749e22a47e")>] at 2024-02-11 10:22:41.311347
+------------------
+courses to be booked:
+
+Hatha Yoga 哈達瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="978c42476a782856b9934f2d55607f6e")>] at 2024-02-11 10:22:43.066123
+sign in for class idx:0 at 2024-02-11 10:22:45.983707
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+33: Hatha Yoga 哈達瑜珈 by Marcus is FULL at 2024-02-11 10:22:49.085353
+Failed to reserve the class idx:0 at 2024-02-11 10:22:49.085682
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="978c42476a782856b9934f2d55607f6e")>] at 2024-02-11 10:22:54.146107
+------------------
+courses to be booked:
+
+Hatha Yoga 哈達瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="6fda360a517588982c61f565cd9c4556")>] at 2024-02-11 10:22:55.905773
+sign in for class idx:0 at 2024-02-11 10:22:58.904771
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+34: Hatha Yoga 哈達瑜珈 by Marcus is FULL at 2024-02-11 10:23:02.018238
+Failed to reserve the class idx:0 at 2024-02-11 10:23:02.018515
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="6fda360a517588982c61f565cd9c4556")>] at 2024-02-11 10:23:07.082499
+------------------
+courses to be booked:
+
+Hatha Yoga 哈達瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="ddf8f963131f506e6c7cb91c3b04b24a")>] at 2024-02-11 10:23:08.886286
+sign in for class idx:0 at 2024-02-11 10:23:11.843152
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+35: Hatha Yoga 哈達瑜珈 by Marcus is FULL at 2024-02-11 10:23:14.942975
+Failed to reserve the class idx:0 at 2024-02-11 10:23:14.943338
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="ddf8f963131f506e6c7cb91c3b04b24a")>] at 2024-02-11 10:23:20.003335
+------------------
+courses to be booked:
+
+Hatha Yoga 哈達瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="b346d69e95ee796715731397fcc2f0d2")>] at 2024-02-11 10:23:21.771069
+sign in for class idx:0 at 2024-02-11 10:23:24.744061
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+36: Hatha Yoga 哈達瑜珈 by Marcus is FULL at 2024-02-11 10:23:27.856207
+Failed to reserve the class idx:0 at 2024-02-11 10:23:27.856520
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="b346d69e95ee796715731397fcc2f0d2")>] at 2024-02-11 10:23:32.924720
+------------------
+courses to be booked:
+
+Hatha Yoga 哈達瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="fcb05567899a55815fee513727950989")>] at 2024-02-11 10:23:34.721503
+sign in for class idx:0 at 2024-02-11 10:23:37.735458
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+37: Hatha Yoga 哈達瑜珈 by Marcus is FULL at 2024-02-11 10:23:40.856466
+Failed to reserve the class idx:0 at 2024-02-11 10:23:40.856792
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="fcb05567899a55815fee513727950989")>] at 2024-02-11 10:23:45.928498
+------------------
+courses to be booked:
+
+Hatha Yoga 哈達瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="2c52e7b9ad7035887946bfdb831be8cc")>] at 2024-02-11 10:23:47.695657
+sign in for class idx:0 at 2024-02-11 10:23:50.666732
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+38: Hatha Yoga 哈達瑜珈 by Marcus is FULL at 2024-02-11 10:23:53.786044
+Failed to reserve the class idx:0 at 2024-02-11 10:23:53.786382
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="2c52e7b9ad7035887946bfdb831be8cc")>] at 2024-02-11 10:23:58.857271
+------------------
+courses to be booked:
+
+Hatha Yoga 哈達瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="c6a6d2c064b69ce5fb41f9c0dfa0bbba")>] at 2024-02-11 10:24:00.671544
+sign in for class idx:0 at 2024-02-11 10:24:03.662461
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+39: Hatha Yoga 哈達瑜珈 by Marcus is FULL at 2024-02-11 10:24:06.785075
+Failed to reserve the class idx:0 at 2024-02-11 10:24:06.785449
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="c6a6d2c064b69ce5fb41f9c0dfa0bbba")>] at 2024-02-11 10:24:11.856211
+------------------
+courses to be booked:
+
+Hatha Yoga 哈達瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="fadbaae54ce956348525c66def4ac176")>] at 2024-02-11 10:24:13.621935
+sign in for class idx:0 at 2024-02-11 10:24:16.620381
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+40: Hatha Yoga 哈達瑜珈 by Marcus is FULL at 2024-02-11 10:24:19.715275
+Failed to reserve the class idx:0 at 2024-02-11 10:24:19.715588
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="fadbaae54ce956348525c66def4ac176")>] at 2024-02-11 10:24:24.786097
+------------------
+courses to be booked:
+
+Hatha Yoga 哈達瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="9505b520d398daf35e9b2734318f3cdb")>] at 2024-02-11 10:24:26.578423
+sign in for class idx:0 at 2024-02-11 10:24:29.615678
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+41: Hatha Yoga 哈達瑜珈 by Marcus is FULL at 2024-02-11 10:24:32.731418
+Failed to reserve the class idx:0 at 2024-02-11 10:24:32.731738
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="9505b520d398daf35e9b2734318f3cdb")>] at 2024-02-11 10:24:37.803224
+------------------
+courses to be booked:
+
+Hatha Yoga 哈達瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="6070875539a2332d636cf645a40ac9a4")>] at 2024-02-11 10:24:39.604334
+sign in for class idx:0 at 2024-02-11 10:24:42.557825
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+42: Hatha Yoga 哈達瑜珈 by Marcus is FULL at 2024-02-11 10:24:45.717053
+Failed to reserve the class idx:0 at 2024-02-11 10:24:45.717313
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="6070875539a2332d636cf645a40ac9a4")>] at 2024-02-11 10:24:50.787182
+------------------
+courses to be booked:
+
+Hatha Yoga 哈達瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="97e2a6cc6da4f853aaeb69cedad1c8f4")>] at 2024-02-11 10:24:52.576048
+sign in for class idx:0 at 2024-02-11 10:24:55.507461
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+43: Hatha Yoga 哈達瑜珈 by Marcus is FULL at 2024-02-11 10:24:58.617539
+Failed to reserve the class idx:0 at 2024-02-11 10:24:58.617855
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="97e2a6cc6da4f853aaeb69cedad1c8f4")>] at 2024-02-11 10:25:03.688268
+------------------
+courses to be booked:
+
+Hatha Yoga 哈達瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="c81326e7e558ac6b294779df15d344b2")>] at 2024-02-11 10:25:05.453011
+sign in for class idx:0 at 2024-02-11 10:25:08.403791
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+44: Hatha Yoga 哈達瑜珈 by Marcus is FULL at 2024-02-11 10:25:11.617667
+Failed to reserve the class idx:0 at 2024-02-11 10:25:11.617953
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="c81326e7e558ac6b294779df15d344b2")>] at 2024-02-11 10:25:16.689375
+------------------
+courses to be booked:
+
+Hatha Yoga 哈達瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="7779aa8dee9d56d2e945c8135951d7cc")>] at 2024-02-11 10:25:18.476351
+sign in for class idx:0 at 2024-02-11 10:25:21.392442
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+45: Hatha Yoga 哈達瑜珈 by Marcus is FULL at 2024-02-11 10:25:24.513875
+Failed to reserve the class idx:0 at 2024-02-11 10:25:24.514161
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="7779aa8dee9d56d2e945c8135951d7cc")>] at 2024-02-11 10:25:29.584047
+------------------
+courses to be booked:
+
+Hatha Yoga 哈達瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="46654365c923ddebdd21eff3e16de75d")>] at 2024-02-11 10:25:31.363808
+sign in for class idx:0 at 2024-02-11 10:25:34.346386
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+46: Hatha Yoga 哈達瑜珈 by Marcus is FULL at 2024-02-11 10:25:37.456952
+Failed to reserve the class idx:0 at 2024-02-11 10:25:37.457266
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="46654365c923ddebdd21eff3e16de75d")>] at 2024-02-11 10:25:42.528799
+------------------
+courses to be booked:
+
+Hatha Yoga 哈達瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="fce2a756732f2f5395e7be2f7887d536")>] at 2024-02-11 10:25:44.295331
+sign in for class idx:0 at 2024-02-11 10:25:47.349888
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+47: Hatha Yoga 哈達瑜珈 by Marcus is FULL at 2024-02-11 10:25:50.467422
+Failed to reserve the class idx:0 at 2024-02-11 10:25:50.467748
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="fce2a756732f2f5395e7be2f7887d536")>] at 2024-02-11 10:25:55.539699
+------------------
+courses to be booked:
+
+Hatha Yoga 哈達瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="cd61aea95dcc4afddf34a72e25e797e0")>] at 2024-02-11 10:25:57.312043
+sign in for class idx:0 at 2024-02-11 10:26:00.239878
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+48: Hatha Yoga 哈達瑜珈 by Marcus is FULL at 2024-02-11 10:26:03.325625
+Failed to reserve the class idx:0 at 2024-02-11 10:26:03.325848
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="cd61aea95dcc4afddf34a72e25e797e0")>] at 2024-02-11 10:26:08.395126
+------------------
+courses to be booked:
+
+Hatha Yoga 哈達瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="74a37db34b5a090fc7bc6ca361de4ad9")>] at 2024-02-11 10:26:10.176309
+sign in for class idx:0 at 2024-02-11 10:26:13.177256
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+49: Hatha Yoga 哈達瑜珈 by Marcus is FULL at 2024-02-11 10:26:16.295094
+Failed to reserve the class idx:0 at 2024-02-11 10:26:16.295384
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="74a37db34b5a090fc7bc6ca361de4ad9")>] at 2024-02-11 10:26:21.357271
+------------------
+courses to be booked:
+
+Hatha Yoga 哈達瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="cf3eb53312202c99a2d6e8bb6ab60ee0")>] at 2024-02-11 10:26:23.147137
+sign in for class idx:0 at 2024-02-11 10:26:26.103533
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+50: Hatha Yoga 哈達瑜珈 by Marcus is FULL at 2024-02-11 10:26:29.194435
+Failed to reserve the class idx:0 at 2024-02-11 10:26:29.194743
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="cf3eb53312202c99a2d6e8bb6ab60ee0")>] at 2024-02-11 10:26:34.257749
+------------------
+courses to be booked:
+
+Hatha Yoga 哈達瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="b02676fe51463e4c52da099476afcf51")>] at 2024-02-11 10:26:36.045097
+sign in for class idx:0 at 2024-02-11 10:26:39.022577
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+51: Hatha Yoga 哈達瑜珈 by Marcus is FULL at 2024-02-11 10:26:42.118556
+Failed to reserve the class idx:0 at 2024-02-11 10:26:42.118977
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="b02676fe51463e4c52da099476afcf51")>] at 2024-02-11 10:26:47.188712
+------------------
+courses to be booked:
+
+Hatha Yoga 哈達瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="582eeb639a5cfbbfd1cf4c5afde17f65")>] at 2024-02-11 10:26:48.976669
+sign in for class idx:0 at 2024-02-11 10:26:52.003185
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+52: Hatha Yoga 哈達瑜珈 by Marcus is FULL at 2024-02-11 10:26:55.116607
+Failed to reserve the class idx:0 at 2024-02-11 10:26:55.116900
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="582eeb639a5cfbbfd1cf4c5afde17f65")>] at 2024-02-11 10:27:00.187768
+------------------
+courses to be booked:
+
+Hatha Yoga 哈達瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="1a836a4cd0783271082c7c97bac169ff")>] at 2024-02-11 10:27:01.951439
+sign in for class idx:0 at 2024-02-11 10:27:04.987281
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+53: Hatha Yoga 哈達瑜珈 by Marcus is FULL at 2024-02-11 10:27:08.110737
+Failed to reserve the class idx:0 at 2024-02-11 10:27:08.111039
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="1a836a4cd0783271082c7c97bac169ff")>] at 2024-02-11 10:27:13.179760
+------------------
+courses to be booked:
+
+Hatha Yoga 哈達瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="b0afcb6c09bf111f59f2419d8a01093d")>] at 2024-02-11 10:27:14.994634
+sign in for class idx:0 at 2024-02-11 10:27:18.015235
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+54: Hatha Yoga 哈達瑜珈 by Marcus is FULL at 2024-02-11 10:27:21.130345
+Failed to reserve the class idx:0 at 2024-02-11 10:27:21.130692
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="b0afcb6c09bf111f59f2419d8a01093d")>] at 2024-02-11 10:27:26.200786
+------------------
+courses to be booked:
+
+Hatha Yoga 哈達瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="d6d8d112422ef5a0dfaffb1f47848aad")>] at 2024-02-11 10:27:27.988329
+sign in for class idx:0 at 2024-02-11 10:27:30.997242
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+55: Hatha Yoga 哈達瑜珈 by Marcus is FULL at 2024-02-11 10:27:34.115744
+Failed to reserve the class idx:0 at 2024-02-11 10:27:34.116045
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="d6d8d112422ef5a0dfaffb1f47848aad")>] at 2024-02-11 10:27:39.187397
+------------------
+courses to be booked:
+
+Hatha Yoga 哈達瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="5bdf844c05b1d5d67c5400005788b640")>] at 2024-02-11 10:27:40.971177
+sign in for class idx:0 at 2024-02-11 10:27:43.974872
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+56: Hatha Yoga 哈達瑜珈 by Marcus is FULL at 2024-02-11 10:27:47.092460
+Failed to reserve the class idx:0 at 2024-02-11 10:27:47.092873
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="5bdf844c05b1d5d67c5400005788b640")>] at 2024-02-11 10:27:52.153432
+------------------
+courses to be booked:
+
+Hatha Yoga 哈達瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="223b3b951479382634bd201e8d3713ce")>] at 2024-02-11 10:27:53.935653
+sign in for class idx:0 at 2024-02-11 10:27:56.898556
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+57: Hatha Yoga 哈達瑜珈 by Marcus is FULL at 2024-02-11 10:28:00.015969
+Failed to reserve the class idx:0 at 2024-02-11 10:28:00.016283
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="223b3b951479382634bd201e8d3713ce")>] at 2024-02-11 10:28:05.080973
+------------------
+courses to be booked:
+
+Hatha Yoga 哈達瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="03ff3cda4036c82890b2970e6e342e47")>] at 2024-02-11 10:28:06.836918
+sign in for class idx:0 at 2024-02-11 10:28:09.762007
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+58: Hatha Yoga 哈達瑜珈 by Marcus is FULL at 2024-02-11 10:28:12.878118
+Failed to reserve the class idx:0 at 2024-02-11 10:28:12.878531
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="03ff3cda4036c82890b2970e6e342e47")>] at 2024-02-11 10:28:17.948528
+------------------
+courses to be booked:
+
+Hatha Yoga 哈達瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="8523f4283dc3c65b27c0b1ad938aeeb9")>] at 2024-02-11 10:28:19.732897
+sign in for class idx:0 at 2024-02-11 10:28:22.772495
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+59: Hatha Yoga 哈達瑜珈 by Marcus is FULL at 2024-02-11 10:28:25.880561
+Failed to reserve the class idx:0 at 2024-02-11 10:28:25.880859
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="8523f4283dc3c65b27c0b1ad938aeeb9")>] at 2024-02-11 10:28:30.953773
+------------------
+courses to be booked:
+
+Hatha Yoga 哈達瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="6944fb4cdfa5eb5c9acfb68148a8884d")>] at 2024-02-11 10:28:32.749988
+sign in for class idx:0 at 2024-02-11 10:28:35.716796
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+60: Hatha Yoga 哈達瑜珈 by Marcus is FULL at 2024-02-11 10:28:38.839071
+Failed to reserve the class idx:0 at 2024-02-11 10:28:38.839360
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="6944fb4cdfa5eb5c9acfb68148a8884d")>] at 2024-02-11 10:28:43.909989
+------------------
+courses to be booked:
+
+Hatha Yoga 哈達瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="c902940230d433dc95508fdc214d7a93")>] at 2024-02-11 10:28:45.717463
+sign in for class idx:0 at 2024-02-11 10:28:48.691374
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+61: Hatha Yoga 哈達瑜珈 by Marcus is FULL at 2024-02-11 10:28:51.810071
+Failed to reserve the class idx:0 at 2024-02-11 10:28:51.810359
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="c902940230d433dc95508fdc214d7a93")>] at 2024-02-11 10:28:56.889692
+------------------
+courses to be booked:
+
+Hatha Yoga 哈達瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="b6a1af97eb479720a0d090a99b2bce84")>] at 2024-02-11 10:28:58.692510
+sign in for class idx:0 at 2024-02-11 10:29:01.774368
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+62: Hatha Yoga 哈達瑜珈 by Marcus is FULL at 2024-02-11 10:29:04.896489
+Failed to reserve the class idx:0 at 2024-02-11 10:29:04.896765
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="b6a1af97eb479720a0d090a99b2bce84")>] at 2024-02-11 10:29:09.977439
+------------------
+courses to be booked:
+
+Hatha Yoga 哈達瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="d3051c0b5ef0762dd862912fb0a6a5dd")>] at 2024-02-11 10:29:11.768335
+sign in for class idx:0 at 2024-02-11 10:29:14.758725
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+63: Hatha Yoga 哈達瑜珈 by Marcus is FULL at 2024-02-11 10:29:17.882241
+Failed to reserve the class idx:0 at 2024-02-11 10:29:17.882532
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="d3051c0b5ef0762dd862912fb0a6a5dd")>] at 2024-02-11 10:29:22.963321
+------------------
+courses to be booked:
+
+Hatha Yoga 哈達瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="5bb08cfae6281849fd92a4f407a3d039")>] at 2024-02-11 10:29:24.768776
+sign in for class idx:0 at 2024-02-11 10:29:27.749682
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+64: Hatha Yoga 哈達瑜珈 by Marcus is FULL at 2024-02-11 10:29:30.863467
+Failed to reserve the class idx:0 at 2024-02-11 10:29:30.863825
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="5bb08cfae6281849fd92a4f407a3d039")>] at 2024-02-11 10:29:35.945544
+------------------
+courses to be booked:
+
+Hatha Yoga 哈達瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="645bb9e9ccd74c4a56adeb38e21004df")>] at 2024-02-11 10:29:37.739734
+sign in for class idx:0 at 2024-02-11 10:29:40.718523
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+65: Hatha Yoga 哈達瑜珈 by Marcus is FULL at 2024-02-11 10:29:43.847618
+Failed to reserve the class idx:0 at 2024-02-11 10:29:43.847922
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="645bb9e9ccd74c4a56adeb38e21004df")>] at 2024-02-11 10:29:48.920939
+------------------
+courses to be booked:
+
+Hatha Yoga 哈達瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="ee37ec5531eb02e06b4d66736f7f31bb")>] at 2024-02-11 10:29:50.708743
+sign in for class idx:0 at 2024-02-11 10:29:53.667052
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+66: Hatha Yoga 哈達瑜珈 by Marcus is FULL at 2024-02-11 10:29:56.790835
+Failed to reserve the class idx:0 at 2024-02-11 10:29:56.791182
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="ee37ec5531eb02e06b4d66736f7f31bb")>] at 2024-02-11 10:30:01.872070
+------------------
+courses to be booked:
+
+Hatha Yoga 哈達瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="318dbe319e5239037cee53be70e071c0")>] at 2024-02-11 10:30:03.665673
+sign in for class idx:0 at 2024-02-11 10:30:06.642422
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+67: Hatha Yoga 哈達瑜珈 by Marcus is FULL at 2024-02-11 10:30:09.758206
+Failed to reserve the class idx:0 at 2024-02-11 10:30:09.758446
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="318dbe319e5239037cee53be70e071c0")>] at 2024-02-11 10:30:14.838947
+------------------
+courses to be booked:
+
+Hatha Yoga 哈達瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="f85d4bb11e4734b0ee6afea650952388")>] at 2024-02-11 10:30:16.615816
+sign in for class idx:0 at 2024-02-11 10:30:19.641230
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+68: Hatha Yoga 哈達瑜珈 by Marcus is FULL at 2024-02-11 10:30:22.774839
+Failed to reserve the class idx:0 at 2024-02-11 10:30:22.775132
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="f85d4bb11e4734b0ee6afea650952388")>] at 2024-02-11 10:30:27.855757
+------------------
+courses to be booked:
+
+Hatha Yoga 哈達瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="d1e828951806760de4190790306d0b69")>] at 2024-02-11 10:30:29.638612
+sign in for class idx:0 at 2024-02-11 10:30:32.595940
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+69: Hatha Yoga 哈達瑜珈 by Marcus is FULL at 2024-02-11 10:30:35.709596
+Failed to reserve the class idx:0 at 2024-02-11 10:30:35.709882
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="d1e828951806760de4190790306d0b69")>] at 2024-02-11 10:30:40.790437
+------------------
+courses to be booked:
+
+Hatha Yoga 哈達瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="7c354655a14b3e0ae16a483fb5c4105d")>] at 2024-02-11 10:30:42.582084
+sign in for class idx:0 at 2024-02-11 10:30:45.635942
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+70: Hatha Yoga 哈達瑜珈 by Marcus is FULL at 2024-02-11 10:30:48.774237
+Failed to reserve the class idx:0 at 2024-02-11 10:30:48.774563
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="7c354655a14b3e0ae16a483fb5c4105d")>] at 2024-02-11 10:30:53.856953
+------------------
+courses to be booked:
+
+Hatha Yoga 哈達瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="18ac3ae6c88d50030a739373d58e9b35")>] at 2024-02-11 10:30:55.643883
+sign in for class idx:0 at 2024-02-11 10:30:58.584656
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+71: Hatha Yoga 哈達瑜珈 by Marcus is FULL at 2024-02-11 10:31:01.707882
+Failed to reserve the class idx:0 at 2024-02-11 10:31:01.708162
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="18ac3ae6c88d50030a739373d58e9b35")>] at 2024-02-11 10:31:06.786068
+------------------
+courses to be booked:
+
+Hatha Yoga 哈達瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="e83776e55782b9ba5ca4552bb34d7ea3")>] at 2024-02-11 10:31:08.567507
+sign in for class idx:0 at 2024-02-11 10:31:11.627685
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+72: Hatha Yoga 哈達瑜珈 by Marcus is FULL at 2024-02-11 10:31:14.708001
+Failed to reserve the class idx:0 at 2024-02-11 10:31:14.708271
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="e83776e55782b9ba5ca4552bb34d7ea3")>] at 2024-02-11 10:31:19.781459
+------------------
+courses to be booked:
+
+Hatha Yoga 哈達瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="f448b7cbea7de5560f424d78821a8c89")>] at 2024-02-11 10:31:21.579683
+sign in for class idx:0 at 2024-02-11 10:31:24.642196
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+73: Hatha Yoga 哈達瑜珈 by Marcus is FULL at 2024-02-11 10:31:27.757752
+Failed to reserve the class idx:0 at 2024-02-11 10:31:27.758044
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="f448b7cbea7de5560f424d78821a8c89")>] at 2024-02-11 10:31:32.826344
+------------------
+courses to be booked:
+
+Hatha Yoga 哈達瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="8c9bb53488fb1162c03b03b1153a8bf3")>] at 2024-02-11 10:31:34.596307
+sign in for class idx:0 at 2024-02-11 10:31:37.582776
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+74: Hatha Yoga 哈達瑜珈 by Marcus is FULL at 2024-02-11 10:31:40.700682
+Failed to reserve the class idx:0 at 2024-02-11 10:31:40.701077
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="8c9bb53488fb1162c03b03b1153a8bf3")>] at 2024-02-11 10:31:45.787440
+------------------
+courses to be booked:
+
+Hatha Yoga 哈達瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="6725803c96206fb569c644c2705553ec")>] at 2024-02-11 10:31:47.571507
+sign in for class idx:0 at 2024-02-11 10:31:50.554696
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+75: Hatha Yoga 哈達瑜珈 by Marcus is FULL at 2024-02-11 10:31:53.681461
+Failed to reserve the class idx:0 at 2024-02-11 10:31:53.681748
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="6725803c96206fb569c644c2705553ec")>] at 2024-02-11 10:31:58.761629
+------------------
+courses to be booked:
+
+Hatha Yoga 哈達瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="5c4471d606af78ddde7e22bb72573c37")>] at 2024-02-11 10:32:00.540057
+sign in for class idx:0 at 2024-02-11 10:32:03.574266
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+76: Hatha Yoga 哈達瑜珈 by Marcus is FULL at 2024-02-11 10:32:06.694964
+Failed to reserve the class idx:0 at 2024-02-11 10:32:06.695274
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="5c4471d606af78ddde7e22bb72573c37")>] at 2024-02-11 10:32:11.775336
+------------------
+courses to be booked:
+
+Hatha Yoga 哈達瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="a58ec6e62b54ef859e1aa413942d9737")>] at 2024-02-11 10:32:13.568487
+sign in for class idx:0 at 2024-02-11 10:32:16.673662
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+77: Hatha Yoga 哈達瑜珈 by Marcus is FULL at 2024-02-11 10:32:19.784601
+Failed to reserve the class idx:0 at 2024-02-11 10:32:19.784842
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="a58ec6e62b54ef859e1aa413942d9737")>] at 2024-02-11 10:32:24.863289
+------------------
+courses to be booked:
+
+Hatha Yoga 哈達瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="c3b12a10600ac91951db78cb0c2cac67")>] at 2024-02-11 10:32:26.655426
+sign in for class idx:0 at 2024-02-11 10:32:29.670461
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+78: Hatha Yoga 哈達瑜珈 by Marcus is FULL at 2024-02-11 10:32:32.782379
+Failed to reserve the class idx:0 at 2024-02-11 10:32:32.782654
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="c3b12a10600ac91951db78cb0c2cac67")>] at 2024-02-11 10:32:37.863126
+------------------
+courses to be booked:
+
+Hatha Yoga 哈達瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="fe5270344decb1e3f4dae0849370e9dc")>] at 2024-02-11 10:32:39.655706
+sign in for class idx:0 at 2024-02-11 10:32:42.626534
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+79: Hatha Yoga 哈達瑜珈 by Marcus is FULL at 2024-02-11 10:32:45.721070
+Failed to reserve the class idx:0 at 2024-02-11 10:32:45.721349
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="fe5270344decb1e3f4dae0849370e9dc")>] at 2024-02-11 10:32:50.789758
+------------------
+courses to be booked:
+
+Hatha Yoga 哈達瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="6c51dcf34da5c78870a7fdd62991b38a")>] at 2024-02-11 10:32:52.520347
+sign in for class idx:0 at 2024-02-11 10:32:55.508759
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+80: Hatha Yoga 哈達瑜珈 by Marcus is FULL at 2024-02-11 10:32:58.633553
+Failed to reserve the class idx:0 at 2024-02-11 10:32:58.633913
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="6c51dcf34da5c78870a7fdd62991b38a")>] at 2024-02-11 10:33:03.715619
+------------------
+courses to be booked:
+
+Hatha Yoga 哈達瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="95390985bdcf765f1bd6b83826c3a463")>] at 2024-02-11 10:33:05.511538
+sign in for class idx:0 at 2024-02-11 10:33:08.508153
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+81: Hatha Yoga 哈達瑜珈 by Marcus is FULL at 2024-02-11 10:33:11.635800
+Failed to reserve the class idx:0 at 2024-02-11 10:33:11.636119
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="95390985bdcf765f1bd6b83826c3a463")>] at 2024-02-11 10:33:16.717654
+------------------
+courses to be booked:
+
+Hatha Yoga 哈達瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="8545bf919263383d697a13648a16c70a")>] at 2024-02-11 10:33:18.513479
+sign in for class idx:0 at 2024-02-11 10:33:21.571744
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+82: Hatha Yoga 哈達瑜珈 by Marcus is FULL at 2024-02-11 10:33:24.688774
+Failed to reserve the class idx:0 at 2024-02-11 10:33:24.689063
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="8545bf919263383d697a13648a16c70a")>] at 2024-02-11 10:33:29.770923
+------------------
+courses to be booked:
+
+Hatha Yoga 哈達瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="8682d9fa4ddc0df95fa4082a3adf3ccf")>] at 2024-02-11 10:33:31.577263
+sign in for class idx:0 at 2024-02-11 10:33:34.581348
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+83: Hatha Yoga 哈達瑜珈 by Marcus is FULL at 2024-02-11 10:33:37.697635
+Failed to reserve the class idx:0 at 2024-02-11 10:33:37.697946
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="8682d9fa4ddc0df95fa4082a3adf3ccf")>] at 2024-02-11 10:33:42.780084
+------------------
+courses to be booked:
+
+Hatha Yoga 哈達瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="d88387488711ef900ab68b0d541991a0")>] at 2024-02-11 10:33:44.586554
+sign in for class idx:0 at 2024-02-11 10:33:47.705800
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+84: Hatha Yoga 哈達瑜珈 by Marcus is FULL at 2024-02-11 10:33:50.824973
+Failed to reserve the class idx:0 at 2024-02-11 10:33:50.825256
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="d88387488711ef900ab68b0d541991a0")>] at 2024-02-11 10:33:55.899635
+------------------
+courses to be booked:
+
+Hatha Yoga 哈達瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="f4e097d130d18a79d8fa58a490b60d53")>] at 2024-02-11 10:33:57.686701
+sign in for class idx:0 at 2024-02-11 10:34:00.607509
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+85: Hatha Yoga 哈達瑜珈 by Marcus is FULL at 2024-02-11 10:34:03.728575
+Failed to reserve the class idx:0 at 2024-02-11 10:34:03.728899
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="f4e097d130d18a79d8fa58a490b60d53")>] at 2024-02-11 10:34:08.809989
+------------------
+courses to be booked:
+
+Hatha Yoga 哈達瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="d6fe2b0be0ad1b15cb2a273f6d9c09e4")>] at 2024-02-11 10:34:10.609142
+sign in for class idx:0 at 2024-02-11 10:34:13.550336
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+86: Hatha Yoga 哈達瑜珈 by Marcus is FULL at 2024-02-11 10:34:16.665583
+Failed to reserve the class idx:0 at 2024-02-11 10:34:16.665865
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="d6fe2b0be0ad1b15cb2a273f6d9c09e4")>] at 2024-02-11 10:34:21.740225
+------------------
+courses to be booked:
+
+Hatha Yoga 哈達瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="90ac2ae3ddaef44c38d57d10b18247c9")>] at 2024-02-11 10:34:23.535191
+sign in for class idx:0 at 2024-02-11 10:34:26.499363
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+87: Hatha Yoga 哈達瑜珈 by Marcus is FULL at 2024-02-11 10:34:29.619493
+Failed to reserve the class idx:0 at 2024-02-11 10:34:29.619776
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="90ac2ae3ddaef44c38d57d10b18247c9")>] at 2024-02-11 10:34:34.680085
+------------------
+courses to be booked:
+
+Hatha Yoga 哈達瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="0128dc1953e607f93ed446615d1b19d5")>] at 2024-02-11 10:34:36.438072
+sign in for class idx:0 at 2024-02-11 10:34:39.522609
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+88: Hatha Yoga 哈達瑜珈 by Marcus is FULL at 2024-02-11 10:34:42.630269
+Failed to reserve the class idx:0 at 2024-02-11 10:34:42.630592
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="0128dc1953e607f93ed446615d1b19d5")>] at 2024-02-11 10:34:47.711973
+------------------
+courses to be booked:
+
+Hatha Yoga 哈達瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="e8ce30dba96d9b4bdfa807d6a79af6cd")>] at 2024-02-11 10:34:49.507817
+sign in for class idx:0 at 2024-02-11 10:34:52.457542
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+89: Hatha Yoga 哈達瑜珈 by Marcus is FULL at 2024-02-11 10:34:55.573302
+Failed to reserve the class idx:0 at 2024-02-11 10:34:55.573590
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="e8ce30dba96d9b4bdfa807d6a79af6cd")>] at 2024-02-11 10:35:00.651975
+------------------
+courses to be booked:
+
+Hatha Yoga 哈達瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="46ccd12865831f9f2c1880beb7f52bd3")>] at 2024-02-11 10:35:02.445048
+sign in for class idx:0 at 2024-02-11 10:35:05.412899
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+90: Hatha Yoga 哈達瑜珈 by Marcus is FULL at 2024-02-11 10:35:08.531050
+Failed to reserve the class idx:0 at 2024-02-11 10:35:08.531359
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="46ccd12865831f9f2c1880beb7f52bd3")>] at 2024-02-11 10:35:13.599008
+------------------
+courses to be booked:
+
+Hatha Yoga 哈達瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="488a80e152302a6b81d8fe513c9554b8")>] at 2024-02-11 10:35:15.370141
+sign in for class idx:0 at 2024-02-11 10:35:18.339846
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+91: Hatha Yoga 哈達瑜珈 by Marcus is FULL at 2024-02-11 10:35:21.452389
+Failed to reserve the class idx:0 at 2024-02-11 10:35:21.452668
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="488a80e152302a6b81d8fe513c9554b8")>] at 2024-02-11 10:35:26.533666
+------------------
+courses to be booked:
+
+Hatha Yoga 哈達瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="1b092b490242591457aa0d783cf06e12")>] at 2024-02-11 10:35:28.317898
+sign in for class idx:0 at 2024-02-11 10:35:31.268337
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+92: Hatha Yoga 哈達瑜珈 by Marcus is FULL at 2024-02-11 10:35:34.391322
+Failed to reserve the class idx:0 at 2024-02-11 10:35:34.391627
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="1b092b490242591457aa0d783cf06e12")>] at 2024-02-11 10:35:39.460575
+------------------
+courses to be booked:
+
+Hatha Yoga 哈達瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="0fb6e09f3aba5a2efab5cd247a6a13ce")>] at 2024-02-11 10:35:41.258006
+sign in for class idx:0 at 2024-02-11 10:35:44.232245
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+93: Hatha Yoga 哈達瑜珈 by Marcus is FULL at 2024-02-11 10:35:47.352719
+Failed to reserve the class idx:0 at 2024-02-11 10:35:47.353006
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="0fb6e09f3aba5a2efab5cd247a6a13ce")>] at 2024-02-11 10:35:52.432774
+------------------
+courses to be booked:
+
+Hatha Yoga 哈達瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="6eff2043ed4e2eb0c785b0e929157c5d")>] at 2024-02-11 10:35:54.301700
+sign in for class idx:0 at 2024-02-11 10:35:57.244118
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+94: Hatha Yoga 哈達瑜珈 by Marcus is FULL at 2024-02-11 10:36:00.360091
+Failed to reserve the class idx:0 at 2024-02-11 10:36:00.360383
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="6eff2043ed4e2eb0c785b0e929157c5d")>] at 2024-02-11 10:36:05.438955
+------------------
+courses to be booked:
+
+Hatha Yoga 哈達瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="1f4520de5108b650ba3c2e034481bb21")>] at 2024-02-11 10:36:07.210128
+sign in for class idx:0 at 2024-02-11 10:36:10.232017
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+95: Hatha Yoga 哈達瑜珈 by Marcus is FULL at 2024-02-11 10:36:13.341713
+Failed to reserve the class idx:0 at 2024-02-11 10:36:13.342062
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="1f4520de5108b650ba3c2e034481bb21")>] at 2024-02-11 10:36:18.423791
+------------------
+courses to be booked:
+
+Hatha Yoga 哈達瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="1287931c1bfe578aa11f3b7d121b7e48")>] at 2024-02-11 10:36:20.224161
+sign in for class idx:0 at 2024-02-11 10:36:23.186412
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+96: Hatha Yoga 哈達瑜珈 by Marcus is FULL at 2024-02-11 10:36:26.310263
+Failed to reserve the class idx:0 at 2024-02-11 10:36:26.310545
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="1287931c1bfe578aa11f3b7d121b7e48")>] at 2024-02-11 10:36:31.392035
+------------------
+courses to be booked:
+
+Hatha Yoga 哈達瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="e310c3f7b5249a370e7349abdd46bc79")>] at 2024-02-11 10:36:33.228833
+sign in for class idx:0 at 2024-02-11 10:36:36.256392
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+97: Hatha Yoga 哈達瑜珈 by Marcus is FULL at 2024-02-11 10:36:39.376002
+Failed to reserve the class idx:0 at 2024-02-11 10:36:39.376320
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="e310c3f7b5249a370e7349abdd46bc79")>] at 2024-02-11 10:36:44.458652
+------------------
+courses to be booked:
+
+Hatha Yoga 哈達瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="185d9b0dc4d463d3bb194878ed88399f")>] at 2024-02-11 10:36:46.252889
+sign in for class idx:0 at 2024-02-11 10:36:49.262761
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+98: Hatha Yoga 哈達瑜珈 by Marcus is FULL at 2024-02-11 10:36:52.381991
+Failed to reserve the class idx:0 at 2024-02-11 10:36:52.382263
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="185d9b0dc4d463d3bb194878ed88399f")>] at 2024-02-11 10:36:57.460271
+------------------
+courses to be booked:
+
+Hatha Yoga 哈達瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="847ef436d67d16f48641b926cc092a58")>] at 2024-02-11 10:36:59.259526
+sign in for class idx:0 at 2024-02-11 10:37:02.288993
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+99: Hatha Yoga 哈達瑜珈 by Marcus is FULL at 2024-02-11 10:37:05.394313
+Failed to reserve the class idx:0 at 2024-02-11 10:37:05.394526
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="847ef436d67d16f48641b926cc092a58")>] at 2024-02-11 10:37:10.476284
+------------------
+courses to be booked:
+
+Hatha Yoga 哈達瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="767cb2b1eef9dca398dd71d4e856d6d7")>] at 2024-02-11 10:37:12.269034
+sign in for class idx:0 at 2024-02-11 10:37:15.372251
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+100: Hatha Yoga 哈達瑜珈 by Marcus is FULL at 2024-02-11 10:37:18.464606
+Failed to reserve the class idx:0 at 2024-02-11 10:37:18.464865
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="767cb2b1eef9dca398dd71d4e856d6d7")>] at 2024-02-11 10:37:23.529826
+------------------
+courses to be booked:
+
+Hatha Yoga 哈達瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="666ad95dacd356f9f5ef370a0cc4fadb")>] at 2024-02-11 10:37:25.323308
+sign in for class idx:0 at 2024-02-11 10:37:28.297445
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+101: Hatha Yoga 哈達瑜珈 by Marcus is FULL at 2024-02-11 10:37:31.418222
+Failed to reserve the class idx:0 at 2024-02-11 10:37:31.418516
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="666ad95dacd356f9f5ef370a0cc4fadb")>] at 2024-02-11 10:37:36.495950
+------------------
+courses to be booked:
+
+Hatha Yoga 哈達瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="9b29fcd634b9a605987402cdbdf42fc4")>] at 2024-02-11 10:37:38.276756
+sign in for class idx:0 at 2024-02-11 10:37:41.245427
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+102: Hatha Yoga 哈達瑜珈 by Marcus is FULL at 2024-02-11 10:37:44.367583
+Failed to reserve the class idx:0 at 2024-02-11 10:37:44.367874
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="9b29fcd634b9a605987402cdbdf42fc4")>] at 2024-02-11 10:37:49.434935
+------------------
+courses to be booked:
+
+Hatha Yoga 哈達瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="98cd4c43d5a2383f6979c439e6b156d9")>] at 2024-02-11 10:37:51.234098
+sign in for class idx:0 at 2024-02-11 10:37:54.204122
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+103: Hatha Yoga 哈達瑜珈 by Marcus is FULL at 2024-02-11 10:37:57.323764
+Failed to reserve the class idx:0 at 2024-02-11 10:37:57.324054
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="98cd4c43d5a2383f6979c439e6b156d9")>] at 2024-02-11 10:38:02.405808
+------------------
+courses to be booked:
+
+Hatha Yoga 哈達瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="24430d973230f7a91f5cdd6729693923")>] at 2024-02-11 10:38:04.157253
+sign in for class idx:0 at 2024-02-11 10:38:07.187827
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+104: Hatha Yoga 哈達瑜珈 by Marcus is FULL at 2024-02-11 10:38:10.308944
+Failed to reserve the class idx:0 at 2024-02-11 10:38:10.309265
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="24430d973230f7a91f5cdd6729693923")>] at 2024-02-11 10:38:15.387234
+------------------
+courses to be booked:
+
+Hatha Yoga 哈達瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="aebd9b06454766d48387e85deeb62133")>] at 2024-02-11 10:38:17.171096
+sign in for class idx:0 at 2024-02-11 10:38:20.117046
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+105: Hatha Yoga 哈達瑜珈 by Marcus is FULL at 2024-02-11 10:38:23.216567
+Failed to reserve the class idx:0 at 2024-02-11 10:38:23.216829
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="aebd9b06454766d48387e85deeb62133")>] at 2024-02-11 10:38:28.297980
+------------------
+courses to be booked:
+
+Hatha Yoga 哈達瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="59a03ab1d25cbff2dcfd59636542014c")>] at 2024-02-11 10:38:30.092507
+sign in for class idx:0 at 2024-02-11 10:38:33.088944
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+106: Hatha Yoga 哈達瑜珈 by Marcus is FULL at 2024-02-11 10:38:36.193056
+Failed to reserve the class idx:0 at 2024-02-11 10:38:36.193318
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="59a03ab1d25cbff2dcfd59636542014c")>] at 2024-02-11 10:38:41.274508
+------------------
+courses to be booked:
+
+Hatha Yoga 哈達瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="4c51fb7c8b43d2570fe747ba3aa88aa6")>] at 2024-02-11 10:38:43.067478
+sign in for class idx:0 at 2024-02-11 10:38:45.982157
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+107: Hatha Yoga 哈達瑜珈 by Marcus is FULL at 2024-02-11 10:38:49.067380
+Failed to reserve the class idx:0 at 2024-02-11 10:38:49.067626
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="4c51fb7c8b43d2570fe747ba3aa88aa6")>] at 2024-02-11 10:38:54.146354
+------------------
+courses to be booked:
+
+Hatha Yoga 哈達瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="c5bd05188634a68f34d548b95f2c1c0d")>] at 2024-02-11 10:38:55.967426
+sign in for class idx:0 at 2024-02-11 10:38:58.912447
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+108: Hatha Yoga 哈達瑜珈 by Marcus is FULL at 2024-02-11 10:39:02.035592
+Failed to reserve the class idx:0 at 2024-02-11 10:39:02.035887
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="c5bd05188634a68f34d548b95f2c1c0d")>] at 2024-02-11 10:39:07.117272
+------------------
+courses to be booked:
+
+Hatha Yoga 哈達瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="b7f0ff14a31c638a3485b1fe4d9d6802")>] at 2024-02-11 10:39:08.917247
+sign in for class idx:0 at 2024-02-11 10:39:11.910003
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+109: Hatha Yoga 哈達瑜珈 by Marcus is FULL at 2024-02-11 10:39:15.030819
+Failed to reserve the class idx:0 at 2024-02-11 10:39:15.031117
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="b7f0ff14a31c638a3485b1fe4d9d6802")>] at 2024-02-11 10:39:20.109117
+------------------
+courses to be booked:
+
+Hatha Yoga 哈達瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="54988ca1433d7adb31aa99a90b4108ef")>] at 2024-02-11 10:39:21.884166
+sign in for class idx:0 at 2024-02-11 10:39:24.835181
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+110: Hatha Yoga 哈達瑜珈 by Marcus is FULL at 2024-02-11 10:39:27.957565
+Failed to reserve the class idx:0 at 2024-02-11 10:39:27.957881
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="54988ca1433d7adb31aa99a90b4108ef")>] at 2024-02-11 10:39:33.038713
+------------------
+courses to be booked:
+
+Hatha Yoga 哈達瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="0d94664da20c5a5cf6a7eafcd5ec8b1b")>] at 2024-02-11 10:39:34.825121
+sign in for class idx:0 at 2024-02-11 10:39:37.850440
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+111: Hatha Yoga 哈達瑜珈 by Marcus is FULL at 2024-02-11 10:39:40.969863
+Failed to reserve the class idx:0 at 2024-02-11 10:39:40.970152
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="0d94664da20c5a5cf6a7eafcd5ec8b1b")>] at 2024-02-11 10:39:46.048323
+------------------
+courses to be booked:
+
+Hatha Yoga 哈達瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="42236e3ccd9d3519e60703eab5277d78")>] at 2024-02-11 10:39:47.855194
+sign in for class idx:0 at 2024-02-11 10:39:50.913459
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+112: Hatha Yoga 哈達瑜珈 by Marcus is FULL at 2024-02-11 10:39:54.029448
+Failed to reserve the class idx:0 at 2024-02-11 10:39:54.029735
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="42236e3ccd9d3519e60703eab5277d78")>] at 2024-02-11 10:39:59.096849
+------------------
+courses to be booked:
+
+Hatha Yoga 哈達瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="0383b6aff2315994832152fb34c3ad34")>] at 2024-02-11 10:40:00.888326
+sign in for class idx:0 at 2024-02-11 10:40:03.856102
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+113: Hatha Yoga 哈達瑜珈 by Marcus is FULL at 2024-02-11 10:40:06.979801
+Failed to reserve the class idx:0 at 2024-02-11 10:40:06.980101
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="0383b6aff2315994832152fb34c3ad34")>] at 2024-02-11 10:40:12.058517
+------------------
+courses to be booked:
+
+Hatha Yoga 哈達瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="acb182d4bc167a5f476b28cb0bf9ca96")>] at 2024-02-11 10:40:13.838811
+sign in for class idx:0 at 2024-02-11 10:40:16.803781
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                您已預訂此課。
+            
+************************
+
+114: Hatha Yoga 哈達瑜珈 by Marcus was BOOKED before 2024-02-11 10:40:19.914719
+Failed to reserve the class idx:0 at 2024-02-11 10:40:19.915068
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="acb182d4bc167a5f476b28cb0bf9ca96")>] at 2024-02-11 10:40:24.988973
+------------------
+courses to be booked:
+
+Hatha Yoga 哈達瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Hatha Yoga 哈達瑜珈
+
+------------------
+
+finish all 1 classes booking

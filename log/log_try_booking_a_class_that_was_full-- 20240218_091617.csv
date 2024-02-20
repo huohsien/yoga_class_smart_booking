@@ -1,0 +1,31 @@
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="b2393d87c87d82e77b5f985a8ba30eb2")>] at 2024-02-18 09:16:18.456961
+sign in for class idx:0 at 2024-02-18 09:16:21.564687
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                您已預訂此課。
+            
+************************
+
+1: Universal Yoga 寰宇瑜珈 by YaYa was BOOKED before 2024-02-18 09:16:24.680081
+Failed to reserve the class idx:0 at 2024-02-18 09:16:24.680356
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="b2393d87c87d82e77b5f985a8ba30eb2")>] at 2024-02-18 09:16:29.795065
+------------------
+courses to be booked:
+
+Universal Yoga 寰宇瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Universal Yoga 寰宇瑜珈
+
+------------------
+
+finish all 1 classes booking
