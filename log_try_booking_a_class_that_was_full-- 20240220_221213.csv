@@ -1,6 +1,0 @@
-create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="55bed3920b537a079a9e67ca2284269e")>] at 2024-02-20 22:12:14.546468
-create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="9dc8039b041533a8badda052ec6282aa")>] at 2024-02-20 22:12:15.539618
-create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="e48d872e37935592f3445ce212263690")>] at 2024-02-20 22:12:16.528220
-sign in for class idx:0 at 2024-02-20 22:12:19.584564
-sign in for class idx:1 at 2024-02-20 22:12:24.413483
-sign in for class idx:2 at 2024-02-20 22:12:29.184926
