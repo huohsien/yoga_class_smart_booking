@@ -1,0 +1,31 @@
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="8c66271aafd45116afa37d16f3d22826")>] at 2024-03-18 23:08:22.299099
+sign in for class idx:0 at 2024-03-18 23:08:28.317864
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                您已預訂此課。
+            
+************************
+
+1: Counter Flow 1 by Marcus was BOOKED before 2024-03-18 23:08:31.423187
+Failed to reserve the class idx:0 at 2024-03-18 23:08:31.423491
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="8c66271aafd45116afa37d16f3d22826")>] at 2024-03-18 23:08:36.495212
+------------------
+courses to be booked:
+
+Counter Flow 1
+
+------------------
+
+------------------
+booked classes:
+
+Counter Flow 1
+
+------------------
+
+finish all 1 classes booking
