@@ -1,0 +1,31 @@
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="2403e2322ffd4eabeb1a8bb118908656")>] at 2024-04-02 21:57:13.246454
+sign in for class idx:0 at 2024-04-02 21:57:16.804949
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                <a id="ctl00_cphContents_btnBook" class="btn-gradient btnLoader" href="javascript:__doPostBack('ctl00$cphContents$btnBook','')">現在就預訂此課</a>
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                
+            
+************************
+
+1: Yin Yang Yoga 陰陽瑜珈 by Marcus is BOOKED at 2024-04-02 21:57:22.671379
+Successfully reserved the class idx:0 at 2024-04-02 21:57:22.671664
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="2403e2322ffd4eabeb1a8bb118908656")>] at 2024-04-02 21:57:27.740828
+------------------
+courses to be booked:
+
+Yin Yang Yoga 陰陽瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yang Yoga 陰陽瑜珈
+
+------------------
+
+finish all 1 classes booking

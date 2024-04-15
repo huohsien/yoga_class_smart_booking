@@ -1,0 +1,843 @@
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="1bd076307f4eb7ff1c1db1fc5ff2d00f")>] at 2024-04-03 22:18:55.193912
+sign in for class idx:0 at 2024-04-03 22:19:03.114858
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+1: Yoga Wheel 瑜珈輪 by Marcus is FULL at 2024-04-03 22:19:06.248513
+Failed to reserve the class idx:0 at 2024-04-03 22:19:06.248772
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="1bd076307f4eb7ff1c1db1fc5ff2d00f")>] at 2024-04-03 22:19:11.327532
+------------------
+courses to be booked:
+
+Yoga Wheel 瑜珈輪
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="08e950dd6b86272e3984f8aa0e971a8d")>] at 2024-04-03 22:19:13.095721
+sign in for class idx:0 at 2024-04-03 22:19:18.033155
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+2: Yoga Wheel 瑜珈輪 by Marcus is FULL at 2024-04-03 22:19:21.164466
+Failed to reserve the class idx:0 at 2024-04-03 22:19:21.164743
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="08e950dd6b86272e3984f8aa0e971a8d")>] at 2024-04-03 22:19:26.240932
+------------------
+courses to be booked:
+
+Yoga Wheel 瑜珈輪
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="0c86763eff7702cc5fe5e2d2ac9faf6f")>] at 2024-04-03 22:19:28.033154
+sign in for class idx:0 at 2024-04-03 22:19:32.765687
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+3: Yoga Wheel 瑜珈輪 by Marcus is FULL at 2024-04-03 22:19:35.892147
+Failed to reserve the class idx:0 at 2024-04-03 22:19:35.892420
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="0c86763eff7702cc5fe5e2d2ac9faf6f")>] at 2024-04-03 22:19:40.974329
+------------------
+courses to be booked:
+
+Yoga Wheel 瑜珈輪
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="4e9415606796205a152f70a30dba4e43")>] at 2024-04-03 22:19:42.766375
+sign in for class idx:0 at 2024-04-03 22:19:47.408286
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+4: Yoga Wheel 瑜珈輪 by Marcus is FULL at 2024-04-03 22:19:50.533789
+Failed to reserve the class idx:0 at 2024-04-03 22:19:50.534073
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="4e9415606796205a152f70a30dba4e43")>] at 2024-04-03 22:19:55.609398
+------------------
+courses to be booked:
+
+Yoga Wheel 瑜珈輪
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="8d261631d30d83c69e00ec1488fdc499")>] at 2024-04-03 22:19:57.365371
+sign in for class idx:0 at 2024-04-03 22:20:01.966903
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+5: Yoga Wheel 瑜珈輪 by Marcus is FULL at 2024-04-03 22:20:05.098667
+Failed to reserve the class idx:0 at 2024-04-03 22:20:05.098947
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="8d261631d30d83c69e00ec1488fdc499")>] at 2024-04-03 22:20:10.180816
+------------------
+courses to be booked:
+
+Yoga Wheel 瑜珈輪
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="8fd8a9d6420d43a1c251b045042442bb")>] at 2024-04-03 22:20:11.967196
+sign in for class idx:0 at 2024-04-03 22:20:16.865925
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+6: Yoga Wheel 瑜珈輪 by Marcus is FULL at 2024-04-03 22:20:19.996101
+Failed to reserve the class idx:0 at 2024-04-03 22:20:19.996385
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="8fd8a9d6420d43a1c251b045042442bb")>] at 2024-04-03 22:20:25.059833
+------------------
+courses to be booked:
+
+Yoga Wheel 瑜珈輪
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="7d0738a5f13e37dcd6de535ff214ff3b")>] at 2024-04-03 22:20:26.849987
+sign in for class idx:0 at 2024-04-03 22:20:31.784401
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+7: Yoga Wheel 瑜珈輪 by Marcus is FULL at 2024-04-03 22:20:34.899108
+Failed to reserve the class idx:0 at 2024-04-03 22:20:34.899375
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="7d0738a5f13e37dcd6de535ff214ff3b")>] at 2024-04-03 22:20:39.979750
+------------------
+courses to be booked:
+
+Yoga Wheel 瑜珈輪
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="2ad77ef4b76342093939487ce7bb02f0")>] at 2024-04-03 22:20:41.768579
+sign in for class idx:0 at 2024-04-03 22:20:46.653910
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+8: Yoga Wheel 瑜珈輪 by Marcus is FULL at 2024-04-03 22:20:49.791500
+Failed to reserve the class idx:0 at 2024-04-03 22:20:49.791848
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="2ad77ef4b76342093939487ce7bb02f0")>] at 2024-04-03 22:20:54.874762
+------------------
+courses to be booked:
+
+Yoga Wheel 瑜珈輪
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="dc5b9e7b41468fb98271d353c9bfa637")>] at 2024-04-03 22:20:56.673832
+sign in for class idx:0 at 2024-04-03 22:21:01.355333
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+9: Yoga Wheel 瑜珈輪 by Marcus is FULL at 2024-04-03 22:21:04.510770
+Failed to reserve the class idx:0 at 2024-04-03 22:21:04.511048
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="dc5b9e7b41468fb98271d353c9bfa637")>] at 2024-04-03 22:21:09.593567
+------------------
+courses to be booked:
+
+Yoga Wheel 瑜珈輪
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="c0d5d924457c21d1de077b59722a508e")>] at 2024-04-03 22:21:11.372859
+sign in for class idx:0 at 2024-04-03 22:21:16.583775
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+10: Yoga Wheel 瑜珈輪 by Marcus is FULL at 2024-04-03 22:21:19.716771
+Failed to reserve the class idx:0 at 2024-04-03 22:21:19.717051
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="c0d5d924457c21d1de077b59722a508e")>] at 2024-04-03 22:21:24.795398
+------------------
+courses to be booked:
+
+Yoga Wheel 瑜珈輪
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="3b1a0b8b69f896d5d3064d49b0b63c1c")>] at 2024-04-03 22:21:26.570798
+sign in for class idx:0 at 2024-04-03 22:21:31.362031
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+11: Yoga Wheel 瑜珈輪 by Marcus is FULL at 2024-04-03 22:21:34.468890
+Failed to reserve the class idx:0 at 2024-04-03 22:21:34.469187
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="3b1a0b8b69f896d5d3064d49b0b63c1c")>] at 2024-04-03 22:21:39.549883
+------------------
+courses to be booked:
+
+Yoga Wheel 瑜珈輪
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="098994b367ced79f5d7dc46c941d4b2e")>] at 2024-04-03 22:21:41.325398
+sign in for class idx:0 at 2024-04-03 22:21:46.468599
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+12: Yoga Wheel 瑜珈輪 by Marcus is FULL at 2024-04-03 22:21:49.595876
+Failed to reserve the class idx:0 at 2024-04-03 22:21:49.596237
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="098994b367ced79f5d7dc46c941d4b2e")>] at 2024-04-03 22:21:54.674702
+------------------
+courses to be booked:
+
+Yoga Wheel 瑜珈輪
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="514ec3d76398eb3a80ee795db24021e9")>] at 2024-04-03 22:21:56.449228
+sign in for class idx:0 at 2024-04-03 22:22:01.308169
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+13: Yoga Wheel 瑜珈輪 by Marcus is FULL at 2024-04-03 22:22:04.430595
+Failed to reserve the class idx:0 at 2024-04-03 22:22:04.430864
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="514ec3d76398eb3a80ee795db24021e9")>] at 2024-04-03 22:22:09.503644
+------------------
+courses to be booked:
+
+Yoga Wheel 瑜珈輪
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="8fcd8e96b0a7ad1774c14de52122e89b")>] at 2024-04-03 22:22:11.302444
+sign in for class idx:0 at 2024-04-03 22:22:16.103556
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+14: Yoga Wheel 瑜珈輪 by Marcus is FULL at 2024-04-03 22:22:19.232290
+Failed to reserve the class idx:0 at 2024-04-03 22:22:19.232582
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="8fcd8e96b0a7ad1774c14de52122e89b")>] at 2024-04-03 22:22:24.313301
+------------------
+courses to be booked:
+
+Yoga Wheel 瑜珈輪
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="cc20d6f380b472f9a08a457d9de88043")>] at 2024-04-03 22:22:26.070835
+sign in for class idx:0 at 2024-04-03 22:22:30.962601
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+15: Yoga Wheel 瑜珈輪 by Marcus is FULL at 2024-04-03 22:22:34.073780
+Failed to reserve the class idx:0 at 2024-04-03 22:22:34.074018
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="cc20d6f380b472f9a08a457d9de88043")>] at 2024-04-03 22:22:39.154513
+------------------
+courses to be booked:
+
+Yoga Wheel 瑜珈輪
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="f498ad37998c34b664044abf65aad7a8")>] at 2024-04-03 22:22:40.917594
+sign in for class idx:0 at 2024-04-03 22:22:46.097244
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+16: Yoga Wheel 瑜珈輪 by Marcus is FULL at 2024-04-03 22:22:49.229816
+Failed to reserve the class idx:0 at 2024-04-03 22:22:49.230148
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="f498ad37998c34b664044abf65aad7a8")>] at 2024-04-03 22:22:54.312213
+------------------
+courses to be booked:
+
+Yoga Wheel 瑜珈輪
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="b3420689a0ce7c4b9999099164afe09c")>] at 2024-04-03 22:22:56.110078
+sign in for class idx:0 at 2024-04-03 22:23:01.359122
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+17: Yoga Wheel 瑜珈輪 by Marcus is FULL at 2024-04-03 22:23:04.488763
+Failed to reserve the class idx:0 at 2024-04-03 22:23:04.489037
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="b3420689a0ce7c4b9999099164afe09c")>] at 2024-04-03 22:23:09.570290
+------------------
+courses to be booked:
+
+Yoga Wheel 瑜珈輪
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="d81774ecb9f0595a9d33caf3042f0696")>] at 2024-04-03 22:23:11.363599
+sign in for class idx:0 at 2024-04-03 22:23:16.218667
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+18: Yoga Wheel 瑜珈輪 by Marcus is FULL at 2024-04-03 22:23:19.348493
+Failed to reserve the class idx:0 at 2024-04-03 22:23:19.348777
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="d81774ecb9f0595a9d33caf3042f0696")>] at 2024-04-03 22:23:24.431787
+------------------
+courses to be booked:
+
+Yoga Wheel 瑜珈輪
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="949aab5e0b0e1d3913f68f1640cfa528")>] at 2024-04-03 22:23:26.203751
+sign in for class idx:0 at 2024-04-03 22:23:30.846711
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+19: Yoga Wheel 瑜珈輪 by Marcus is FULL at 2024-04-03 22:23:33.944289
+Failed to reserve the class idx:0 at 2024-04-03 22:23:33.944752
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="949aab5e0b0e1d3913f68f1640cfa528")>] at 2024-04-03 22:23:39.026218
+------------------
+courses to be booked:
+
+Yoga Wheel 瑜珈輪
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="75b39e2e154d86f0c9e5be14e98db3e8")>] at 2024-04-03 22:23:40.815067
+sign in for class idx:0 at 2024-04-03 22:23:45.718451
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+20: Yoga Wheel 瑜珈輪 by Marcus is FULL at 2024-04-03 22:23:48.844163
+Failed to reserve the class idx:0 at 2024-04-03 22:23:48.844447
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="75b39e2e154d86f0c9e5be14e98db3e8")>] at 2024-04-03 22:23:53.927110
+------------------
+courses to be booked:
+
+Yoga Wheel 瑜珈輪
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="ba046ea27de4b320b307d5eb7fdbd5d0")>] at 2024-04-03 22:23:55.719701
+sign in for class idx:0 at 2024-04-03 22:24:00.357553
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+21: Yoga Wheel 瑜珈輪 by Marcus is FULL at 2024-04-03 22:24:03.487947
+Failed to reserve the class idx:0 at 2024-04-03 22:24:03.488235
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="ba046ea27de4b320b307d5eb7fdbd5d0")>] at 2024-04-03 22:24:08.562756
+------------------
+courses to be booked:
+
+Yoga Wheel 瑜珈輪
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="7125a065dbae76c5ecddf52d174c5b78")>] at 2024-04-03 22:24:10.357199
+sign in for class idx:0 at 2024-04-03 22:24:15.080671
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+22: Yoga Wheel 瑜珈輪 by Marcus is FULL at 2024-04-03 22:24:18.209181
+Failed to reserve the class idx:0 at 2024-04-03 22:24:18.209463
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="7125a065dbae76c5ecddf52d174c5b78")>] at 2024-04-03 22:24:23.292780
+------------------
+courses to be booked:
+
+Yoga Wheel 瑜珈輪
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="afc7d9e9b3fa0cd4955b5170d5dc6235")>] at 2024-04-03 22:24:25.083810
+sign in for class idx:0 at 2024-04-03 22:24:29.852059
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+23: Yoga Wheel 瑜珈輪 by Marcus is FULL at 2024-04-03 22:24:32.980093
+Failed to reserve the class idx:0 at 2024-04-03 22:24:32.980373
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="afc7d9e9b3fa0cd4955b5170d5dc6235")>] at 2024-04-03 22:24:38.061680
+------------------
+courses to be booked:
+
+Yoga Wheel 瑜珈輪
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="77410c9d1d7070793bed5543eec7cf5f")>] at 2024-04-03 22:24:39.851430
+sign in for class idx:0 at 2024-04-03 22:24:44.957643
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+24: Yoga Wheel 瑜珈輪 by Marcus is FULL at 2024-04-03 22:24:48.065884
+Failed to reserve the class idx:0 at 2024-04-03 22:24:48.066143
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="77410c9d1d7070793bed5543eec7cf5f")>] at 2024-04-03 22:24:53.150006
+------------------
+courses to be booked:
+
+Yoga Wheel 瑜珈輪
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="8c11be9124959336ff7a54f0a0451e54")>] at 2024-04-03 22:24:54.957772
+sign in for class idx:0 at 2024-04-03 22:24:59.592578
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+25: Yoga Wheel 瑜珈輪 by Marcus is FULL at 2024-04-03 22:25:02.720696
+Failed to reserve the class idx:0 at 2024-04-03 22:25:02.720988
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="8c11be9124959336ff7a54f0a0451e54")>] at 2024-04-03 22:25:07.801958
+------------------
+courses to be booked:
+
+Yoga Wheel 瑜珈輪
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="35685ef66b256a45b95ddc743a504b61")>] at 2024-04-03 22:25:09.580736
+sign in for class idx:0 at 2024-04-03 22:25:14.302046
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+26: Yoga Wheel 瑜珈輪 by Marcus is FULL at 2024-04-03 22:25:17.421090
+Failed to reserve the class idx:0 at 2024-04-03 22:25:17.421370
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="35685ef66b256a45b95ddc743a504b61")>] at 2024-04-03 22:25:22.479093
+------------------
+courses to be booked:
+
+Yoga Wheel 瑜珈輪
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="70cb9900a3f4a3b07cb9dec4ae4cddd8")>] at 2024-04-03 22:25:24.245418
+sign in for class idx:0 at 2024-04-03 22:25:28.991667
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+27: Yoga Wheel 瑜珈輪 by Marcus is FULL at 2024-04-03 22:25:32.111607
+Failed to reserve the class idx:0 at 2024-04-03 22:25:32.111940
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="70cb9900a3f4a3b07cb9dec4ae4cddd8")>] at 2024-04-03 22:25:37.193880
+------------------
+courses to be booked:
+
+Yoga Wheel 瑜珈輪
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="5879a9f7760caa7f580b21564569114c")>] at 2024-04-03 22:25:38.987535
+sign in for class idx:0 at 2024-04-03 22:25:44.091665
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+28: Yoga Wheel 瑜珈輪 by Marcus is FULL at 2024-04-03 22:25:47.215569
+Failed to reserve the class idx:0 at 2024-04-03 22:25:47.215858
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="5879a9f7760caa7f580b21564569114c")>] at 2024-04-03 22:25:52.298057
+------------------
+courses to be booked:
+
+Yoga Wheel 瑜珈輪
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="7868bf2ae87b439ff415d8c2e274131d")>] at 2024-04-03 22:25:54.090113
+sign in for class idx:0 at 2024-04-03 22:25:58.731299
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                <a id="ctl00_cphContents_btnBook" class="btn-gradient btnLoader" href="javascript:__doPostBack('ctl00$cphContents$btnBook','')">現在就預訂此課</a>
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                
+            
+************************
+
+29: Yoga Wheel 瑜珈輪 by Marcus is BOOKED at 2024-04-03 22:26:06.199063
+Successfully reserved the class idx:0 at 2024-04-03 22:26:06.199363
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="7868bf2ae87b439ff415d8c2e274131d")>] at 2024-04-03 22:26:11.280904
+------------------
+courses to be booked:
+
+Yoga Wheel 瑜珈輪
+
+------------------
+
+------------------
+booked classes:
+
+Yoga Wheel 瑜珈輪
+
+------------------
+
+finish all 1 classes booking
