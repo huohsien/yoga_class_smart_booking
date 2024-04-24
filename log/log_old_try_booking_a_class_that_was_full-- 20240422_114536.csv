@@ -1,0 +1,916 @@
+#,Class,Status,Time
+'1','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 11:46:13.140239'
+click_btn=None
+'2','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 11:46:28.719899'
+click_btn=None
+'3','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 11:46:44.366417'
+click_btn=None
+'4','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 11:47:26.448974'
+click_btn=None
+'5','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 11:47:42.063892'
+click_btn=None
+'6','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 11:47:57.668931'
+click_btn=None
+'7','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 11:48:37.126040'
+click_btn=None
+'8','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 11:48:52.746441'
+click_btn=None
+'9','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 11:49:08.310741'
+click_btn=None
+'10','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 11:49:57.845922'
+click_btn=None
+'11','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 11:50:13.441149'
+click_btn=None
+'12','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 11:50:29.021465'
+click_btn=None
+'13','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 11:51:07.679565'
+click_btn=None
+'14','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 11:51:23.303845'
+click_btn=None
+'15','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 11:51:38.902493'
+click_btn=None
+'16','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 11:52:22.985659'
+click_btn=None
+'17','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 11:52:38.611522'
+click_btn=None
+'18','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 11:52:54.194897'
+click_btn=None
+'19','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 11:53:36.981646'
+click_btn=None
+'20','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 11:53:52.633847'
+click_btn=None
+'21','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 11:54:08.220148'
+click_btn=None
+'22','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 11:54:52.738866'
+click_btn=None
+'23','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 11:55:08.340423'
+click_btn=None
+'24','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 11:55:23.969445'
+click_btn=None
+'25','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 11:56:05.662743'
+click_btn=None
+'26','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 11:56:21.348562'
+click_btn=None
+'27','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 11:56:36.956853'
+click_btn=None
+'28','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 11:57:19.142809'
+click_btn=None
+'29','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 11:57:34.795566'
+click_btn=None
+'30','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 11:57:50.410228'
+click_btn=None
+'31','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 11:58:32.253877'
+click_btn=None
+'32','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 11:58:47.910926'
+click_btn=None
+'33','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 11:59:03.556330'
+click_btn=None
+'34','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 11:59:47.186862'
+click_btn=None
+'35','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 12:00:02.808237'
+click_btn=None
+'36','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 12:00:18.507722'
+click_btn=None
+'37','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 12:01:01.559676'
+click_btn=None
+'38','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 12:01:17.114166'
+click_btn=None
+'39','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 12:01:32.691002'
+click_btn=None
+'40','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 12:02:15.445374'
+click_btn=None
+'41','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 12:02:31.001704'
+click_btn=None
+'42','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 12:02:46.548051'
+click_btn=None
+'43','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 12:03:25.406832'
+click_btn=None
+'44','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 12:03:41.010774'
+click_btn=None
+'45','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 12:03:56.610618'
+click_btn=None
+'46','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 12:04:48.047742'
+click_btn=None
+'47','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 12:05:03.689289'
+click_btn=None
+'48','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 12:05:19.311813'
+click_btn=None
+'49','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 12:06:02.132366'
+click_btn=None
+'50','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 12:06:17.741076'
+click_btn=None
+'51','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 12:06:33.379879'
+click_btn=None
+'52','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 12:07:15.385798'
+click_btn=None
+'53','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 12:07:30.985680'
+click_btn=None
+'54','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 12:07:46.606081'
+click_btn=None
+'55','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 12:08:28.408288'
+click_btn=None
+'56','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 12:08:44.003992'
+click_btn=None
+'57','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 12:08:59.629770'
+click_btn=None
+'58','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 12:09:43.239275'
+click_btn=None
+'59','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 12:09:58.873258'
+click_btn=None
+'60','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 12:10:14.501552'
+click_btn=None
+'61','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 12:10:56.591479'
+click_btn=None
+'62','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 12:11:12.232741'
+click_btn=None
+'63','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 12:11:27.815549'
+click_btn=None
+'64','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 12:12:10.235968'
+click_btn=None
+'65','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 12:12:25.867719'
+click_btn=None
+'66','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 12:12:41.507881'
+click_btn=None
+'67','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 12:13:23.771897'
+click_btn=None
+'68','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 12:13:39.411719'
+click_btn=None
+'69','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 12:13:55.168384'
+click_btn=None
+'70','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 12:14:37.782525'
+click_btn=None
+'71','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 12:14:53.380551'
+click_btn=None
+'72','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 12:15:08.990076'
+click_btn=None
+'73','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 12:15:53.110819'
+click_btn=None
+'74','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 12:16:08.841563'
+click_btn=None
+'75','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 12:16:24.478485'
+click_btn=None
+'76','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 12:17:15.222428'
+click_btn=None
+'77','Gentle Yoga 和緩瑜珈' by 'Una',BOOKED,'2024-04-22 12:17:17.677345'
+'77','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 12:17:33.275133'
+click_btn=None
+'78','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 12:18:15.256019'
+click_btn=None
+'79','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 12:18:30.857625'
+click_btn=None
+'80','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 12:18:46.457807'
+click_btn=None
+'81','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 12:19:28.347924'
+click_btn=None
+'82','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 12:19:43.976107'
+click_btn=None
+'83','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 12:19:59.687326'
+click_btn=None
+'84','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 12:20:41.819670'
+click_btn=None
+'85','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 12:20:57.404729'
+click_btn=None
+'86','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 12:21:13.033253'
+click_btn=None
+'87','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 12:21:55.260098'
+click_btn=None
+'88','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 12:22:10.848544'
+click_btn=None
+'89','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 12:22:26.454126'
+click_btn=None
+'90','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 12:23:08.394464'
+click_btn=None
+'91','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 12:23:23.974975'
+click_btn=None
+'92','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 12:23:39.599762'
+click_btn=None
+'93','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 12:24:21.497902'
+click_btn=None
+'94','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 12:24:37.101167'
+click_btn=None
+'95','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 12:24:52.715071'
+click_btn=None
+'96','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 12:25:34.359730'
+click_btn=None
+'97','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 12:25:49.953041'
+click_btn=None
+'98','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 12:26:05.561758'
+click_btn=None
+'99','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 12:26:47.285542'
+click_btn=None
+'100','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 12:27:02.905771'
+click_btn=None
+'101','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 12:27:18.507750'
+click_btn=None
+'102','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 12:28:00.594302'
+click_btn=None
+'103','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 12:28:16.228079'
+click_btn=None
+'104','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 12:28:31.965484'
+click_btn=None
+'105','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 12:29:14.361041'
+click_btn=None
+'106','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 12:29:29.967396'
+click_btn=None
+'107','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 12:29:45.592935'
+click_btn=None
+'108','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 12:30:28.038629'
+click_btn=None
+'109','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 12:30:43.638850'
+click_btn=None
+'110','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 12:30:59.292274'
+click_btn=None
+'111','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 12:31:41.080740'
+click_btn=None
+'112','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 12:31:56.683781'
+click_btn=None
+'113','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 12:32:12.301064'
+click_btn=None
+'114','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 12:32:55.410418'
+click_btn=None
+'115','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 12:33:11.025172'
+click_btn=None
+'116','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 12:33:26.764880'
+click_btn=None
+'117','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 12:34:09.078410'
+click_btn=None
+'118','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 12:34:24.747019'
+click_btn=None
+'119','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 12:34:40.357093'
+click_btn=None
+'120','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 12:35:31.246345'
+click_btn=None
+'121','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 12:35:46.840926'
+click_btn=None
+'122','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 12:36:02.502767'
+click_btn=None
+'123','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 12:36:44.865870'
+click_btn=None
+'124','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 12:37:00.480685'
+click_btn=None
+'125','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 12:37:16.112808'
+click_btn=None
+'126','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 12:37:58.066968'
+click_btn=None
+'127','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 12:38:13.661181'
+click_btn=None
+'128','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 12:38:29.265986'
+click_btn=None
+'129','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 12:39:11.121301'
+click_btn=None
+'130','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 12:39:26.733321'
+click_btn=None
+'131','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 12:39:42.351480'
+click_btn=None
+'132','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 12:40:25.729836'
+click_btn=None
+'133','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 12:40:41.353880'
+click_btn=None
+'134','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 12:40:56.982198'
+click_btn=None
+'135','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 12:41:39.001441'
+click_btn=None
+'136','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 12:41:54.627695'
+click_btn=None
+'137','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 12:42:10.232423'
+click_btn=None
+'138','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 12:42:53.621565'
+click_btn=None
+'139','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 12:43:09.231509'
+click_btn=None
+'140','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 12:43:24.821321'
+click_btn=None
+'141','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 12:44:15.630535'
+click_btn=None
+'142','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 12:44:31.249342'
+click_btn=None
+'143','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 12:44:46.863222'
+click_btn=None
+'144','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 12:45:28.652219'
+click_btn=None
+'145','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 12:45:44.257057'
+click_btn=None
+'146','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 12:45:59.912501'
+click_btn=None
+'147','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 12:46:41.591638'
+click_btn=None
+'148','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 12:46:57.181676'
+click_btn=None
+'149','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 12:47:12.804128'
+click_btn=None
+'150','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 12:47:54.501309'
+click_btn=None
+'151','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 12:48:10.094343'
+click_btn=None
+'152','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 12:48:25.726686'
+click_btn=None
+'153','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 12:49:07.493359'
+click_btn=None
+'154','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 12:49:23.194503'
+click_btn=None
+'155','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 12:49:38.793173'
+click_btn=None
+'156','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 12:50:20.631425'
+click_btn=None
+'157','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 12:50:36.247175'
+click_btn=None
+'158','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 12:50:51.846801'
+click_btn=None
+'159','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 12:51:33.876158'
+click_btn=None
+'160','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 12:51:49.531306'
+click_btn=None
+'161','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 12:52:05.107300'
+click_btn=None
+'162','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 12:52:48.579660'
+click_btn=None
+'163','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 12:53:04.167826'
+click_btn=None
+'164','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 12:53:19.858524'
+click_btn=None
+'165','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 12:54:01.854656'
+click_btn=None
+'166','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 12:54:17.460613'
+click_btn=None
+'167','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 12:54:33.042903'
+click_btn=None
+'168','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 12:55:14.840129'
+click_btn=None
+'169','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 12:55:30.412074'
+click_btn=None
+'170','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 12:55:46.036698'
+click_btn=None
+'171','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 12:56:28.422610'
+click_btn=None
+'172','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 12:56:44.021511'
+click_btn=None
+'173','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 12:56:59.588384'
+click_btn=None
+'174','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 12:57:41.369977'
+click_btn=None
+'175','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 12:57:57.015668'
+click_btn=None
+'176','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 12:58:12.648506'
+click_btn=None
+'177','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 12:58:54.848725'
+click_btn=None
+'178','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 12:59:10.477111'
+click_btn=None
+'179','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 12:59:26.062416'
+click_btn=None
+'180','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 13:00:07.776964'
+click_btn=None
+'181','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 13:00:23.355667'
+click_btn=None
+'182','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 13:00:38.986925'
+click_btn=None
+'183','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 13:01:23.007371'
+click_btn=None
+'184','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 13:01:38.594900'
+click_btn=None
+'185','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 13:01:54.206857'
+click_btn=None
+'186','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 13:02:37.085146'
+click_btn=None
+'187','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 13:02:52.715160'
+click_btn=None
+'188','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 13:03:08.323393'
+click_btn=None
+'189','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 13:03:50.284130'
+click_btn=None
+'190','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 13:04:05.910999'
+click_btn=None
+'191','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 13:04:21.483000'
+click_btn=None
+'192','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 13:05:03.905945'
+click_btn=None
+'193','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 13:05:19.544023'
+click_btn=None
+'194','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 13:05:35.151861'
+click_btn=None
+'195','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 13:06:16.879141'
+click_btn=None
+'196','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 13:06:32.458162'
+click_btn=None
+'197','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 13:06:48.054170'
+click_btn=None
+'198','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 13:07:30.350427'
+click_btn=None
+'199','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 13:07:45.934031'
+click_btn=None
+'200','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 13:08:01.571035'
+click_btn=None
+'201','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 13:08:43.474860'
+click_btn=None
+'202','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 13:08:59.076047'
+click_btn=None
+'203','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 13:09:14.717851'
+click_btn=None
+'204','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 13:09:57.392577'
+click_btn=None
+'205','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 13:10:12.985868'
+click_btn=None
+'206','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 13:10:28.572951'
+click_btn=None
+'207','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 13:11:10.881735'
+click_btn=None
+'208','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 13:11:26.488824'
+click_btn=None
+'209','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 13:11:42.138324'
+click_btn=None
+'210','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 13:12:25.284218'
+click_btn=None
+'211','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 13:12:40.888332'
+click_btn=None
+'212','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 13:12:56.516299'
+click_btn=None
+'213','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 13:13:38.344419'
+click_btn=None
+'214','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 13:13:53.953249'
+click_btn=None
+'215','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 13:14:09.567437'
+click_btn=None
+'216','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 13:14:51.747006'
+click_btn=None
+'217','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 13:15:07.320055'
+click_btn=None
+'218','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 13:15:22.935730'
+click_btn=None
+'219','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 13:16:05.383925'
+click_btn=None
+'220','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 13:16:20.988722'
+click_btn=None
+'221','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 13:16:36.621573'
+click_btn=None
+'222','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 13:17:18.617953'
+click_btn=None
+'223','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 13:17:34.214297'
+click_btn=None
+'224','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 13:17:49.811528'
+click_btn=None
+'225','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 13:18:31.961370'
+click_btn=None
+'226','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 13:18:47.534303'
+click_btn=None
+'227','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 13:19:03.129810'
+click_btn=None
+'228','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 13:19:45.038062'
+click_btn=None
+'229','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 13:20:00.654628'
+click_btn=None
+'230','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 13:20:16.286725'
+click_btn=None
+'231','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 13:20:58.186813'
+click_btn=None
+'232','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 13:21:13.769435'
+click_btn=None
+'233','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 13:21:29.357988'
+click_btn=None
+'234','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 13:22:12.032712'
+click_btn=None
+'235','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 13:22:27.644022'
+click_btn=None
+'236','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 13:22:43.249970'
+click_btn=None
+'237','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 13:23:25.069496'
+click_btn=None
+'238','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 13:23:40.706825'
+click_btn=None
+'239','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 13:23:56.315522'
+click_btn=None
+'240','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 13:24:47.434618'
+click_btn=None
+'241','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 13:25:02.997284'
+click_btn=None
+'242','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 13:25:18.599615'
+click_btn=None
+'243','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 13:26:00.825948'
+click_btn=None
+'244','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 13:26:16.438670'
+click_btn=None
+'245','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 13:26:32.071509'
+click_btn=None
+'246','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 13:27:13.420154'
+click_btn=None
+'247','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 13:27:28.990368'
+click_btn=None
+'248','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 13:27:44.599123'
+click_btn=None
+'249','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 13:28:26.226487'
+click_btn=None
+'250','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 13:28:41.828374'
+click_btn=None
+'251','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 13:28:57.440984'
+click_btn=None
+'252','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 13:29:39.461764'
+click_btn=None
+'253','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 13:29:55.041246'
+click_btn=None
+'254','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 13:30:10.704329'
+click_btn=None
+'255','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 13:30:53.230118'
+click_btn=None
+'256','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 13:31:08.870959'
+click_btn=None
+'257','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 13:31:24.460434'
+click_btn=None
+'258','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 13:32:07.501664'
+click_btn=None
+'259','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 13:32:23.108060'
+click_btn=None
+'260','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 13:32:38.755135'
+click_btn=None
+'261','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 13:33:21.012309'
+click_btn=None
+'262','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 13:33:36.611564'
+click_btn=None
+'263','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 13:33:52.217196'
+click_btn=None
+'264','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 13:34:37.161753'
+click_btn=None
+'265','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 13:34:52.787355'
+click_btn=None
+'266','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 13:35:08.444552'
+click_btn=None
+'267','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 13:35:50.951001'
+click_btn=None
+'268','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 13:36:06.545285'
+click_btn=None
+'269','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 13:36:22.178960'
+click_btn=None
+'270','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 13:37:04.390719'
+click_btn=None
+'271','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 13:37:20.031497'
+click_btn=None
+'272','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 13:37:35.610477'
+click_btn=None
+'273','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 13:38:18.052130'
+click_btn=None
+'274','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 13:38:33.680422'
+click_btn=None
+'275','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 13:38:49.267205'
+click_btn=None
+'276','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 13:39:31.709523'
+click_btn=None
+'277','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 13:39:47.327278'
+click_btn=None
+'278','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 13:40:02.949405'
+click_btn=None
+'279','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 13:40:44.951815'
+click_btn=None
+'280','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 13:41:00.559983'
+click_btn=None
+'281','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 13:41:16.191976'
+click_btn=None
+'282','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 13:41:58.485165'
+click_btn=None
+'283','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 13:42:14.105029'
+click_btn=None
+'284','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 13:42:29.701742'
+click_btn=None
+'285','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 13:43:57.590820'
+click_btn=None
+'286','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 13:44:13.196206'
+click_btn=None
+'287','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 13:44:28.784478'
+click_btn=None
+'288','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 13:45:12.270856'
+click_btn=None
+'289','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 13:45:27.959095'
+click_btn=None
+'290','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 13:45:43.551011'
+click_btn=None
+'291','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 13:46:25.451726'
+click_btn=None
+'292','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 13:46:41.071504'
+click_btn=None
+'293','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 13:46:56.679797'
+click_btn=None
+'294','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 13:47:41.019114'
+click_btn=None
+'295','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 13:47:56.623881'
+click_btn=None
+'296','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 13:48:12.202949'
+click_btn=None
+'297','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 13:48:54.399152'
+click_btn=None
+'298','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 13:49:10.010065'
+click_btn=None
+'299','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 13:49:25.669740'
+click_btn=None
+'300','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 13:50:09.198445'
+click_btn=None
+'301','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 13:50:24.787858'
+click_btn=None
+'302','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 13:50:40.369851'
+click_btn=None
+'303','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 13:51:22.561826'
+click_btn=None
+'304','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 13:51:38.257768'
+click_btn=None
+'305','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 13:51:53.868744'
+click_btn=None
+'306','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 13:52:45.915024'
+click_btn=None
+'307','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 13:53:01.566992'
+click_btn=None
+'308','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 13:53:17.143625'
+click_btn=None
+'309','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 13:53:59.096770'
+click_btn=None
+'310','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 13:54:14.706863'
+click_btn=None
+'311','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 13:54:30.314846'
+click_btn=None
+'312','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 13:55:12.623388'
+click_btn=None
+'313','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 13:55:28.252379'
+click_btn=None
+'314','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 13:55:43.891959'
+click_btn=None
+'315','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 13:56:26.033534'
+click_btn=None
+'316','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 13:56:41.621761'
+click_btn=None
+'317','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 13:56:57.207343'
+click_btn=None
+'318','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 13:57:39.781965'
+click_btn=None
+'319','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 13:57:55.401038'
+click_btn=None
+'320','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 13:58:11.065867'
+click_btn=None
+'321','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 13:58:54.238714'
+click_btn=None
+'322','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 13:59:09.810833'
+click_btn=None
+'323','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 13:59:25.396807'
+click_btn=None
+'324','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 14:00:07.006479'
+click_btn=None
+'325','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 14:00:22.573514'
+click_btn=None
+'326','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 14:00:38.149238'
+click_btn=None
+'327','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 14:01:20.115117'
+click_btn=None
+'328','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 14:01:35.726128'
+click_btn=None
+'329','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 14:01:51.356435'
+click_btn=None
+'330','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 14:02:33.256082'
+click_btn=None
+'331','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 14:02:48.874601'
+click_btn=None
+'332','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 14:03:04.514532'
+click_btn=None
+'333','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 14:03:47.065492'
+click_btn=None
+'334','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 14:04:02.665223'
+click_btn=None
+'335','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 14:04:18.262974'
+click_btn=None
+'336','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 14:05:00.034461'
+click_btn=None
+'337','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 14:05:15.632040'
+click_btn=None
+'338','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 14:05:31.223304'
+click_btn=None
+'339','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 14:06:13.165095'
+click_btn=None
+'340','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 14:06:28.734811'
+click_btn=None
+'341','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 14:06:44.315160'
+click_btn=None
+'342','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 14:07:26.215147'
+click_btn=None
+'343','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 14:07:41.851031'
+click_btn=None
+'344','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 14:07:57.451706'
+click_btn=None
+'345','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 14:08:39.434215'
+click_btn=None
+'346','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 14:08:54.998797'
+click_btn=None
+'347','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 14:09:10.585055'
+click_btn=None
+'348','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 14:09:52.524661'
+click_btn=None
+'349','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 14:10:08.143993'
+click_btn=None
+'350','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 14:10:23.761140'
+click_btn=None
+'351','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 14:11:07.349707'
+click_btn=None
+'352','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 14:11:22.931601'
+click_btn=None
+'353','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 14:11:38.569068'
+click_btn=None
+'354','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 14:12:21.843331'
+click_btn=None
+'355','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 14:12:37.435505'
+click_btn=None
+'356','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 14:12:53.002529'
+click_btn=None
+'357','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 14:13:43.909380'
+click_btn=None
+'358','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 14:13:59.482590'
+click_btn=None
+'359','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 14:14:15.110663'
+click_btn=None
+'360','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 14:14:56.767416'
+click_btn=None
+'361','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 14:15:12.413611'
+click_btn=None
+'362','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 14:15:28.038429'
+click_btn=None
+'363','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 14:16:10.770797'
+click_btn=None
+'364','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 14:16:26.383052'
+click_btn=None
+'365','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 14:16:42.010141'
+click_btn=None
+'366','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 14:17:24.594692'
+click_btn=None
+'367','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 14:17:40.197709'
+click_btn=None
+'368','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 14:17:55.815316'
+click_btn=None
+'369','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 14:18:38.999403'
+click_btn=None
+'370','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 14:18:54.617158'
+click_btn=None
+'371','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 14:19:10.227936'
+click_btn=None
+'372','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 14:20:01.446433'
+click_btn=None
+'373','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 14:20:17.083327'
+click_btn=None
+'374','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 14:20:32.670324'
+click_btn=None
+'375','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 14:21:14.354261'
+click_btn=None
+'376','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 14:21:29.949219'
+click_btn=None
+'377','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 14:21:45.532230'
+click_btn=None
+'378','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 14:22:28.305925'
+click_btn=None
+'379','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 14:22:43.919036'
+click_btn=None
+'380','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 14:22:59.519394'
+click_btn=None
+'381','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 14:23:41.636678'
+click_btn=None
+'382','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 14:23:57.274535'
+click_btn=None
+'383','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 14:24:12.854455'
+click_btn=None
+'384','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 14:24:54.667376'
+click_btn=None
+'385','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 14:25:10.235565'
+click_btn=None
+'386','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 14:25:25.844814'
+click_btn=None
+'387','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 14:26:09.945579'
+click_btn=None
+'388','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 14:26:25.591728'
+click_btn=None
+'389','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 14:26:41.229923'
+click_btn=None
+'390','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 14:27:23.500975'
+click_btn=None
+'391','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 14:27:39.088597'
+click_btn=None
+'392','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 14:27:54.712932'
+click_btn=None
+'393','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 14:28:36.820516'
+click_btn=None
+'394','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 14:28:52.486964'
+click_btn=None
+'395','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 14:29:08.079402'
+click_btn=None
+'396','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 14:29:50.228388'
+click_btn=None
+'397','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 14:30:05.830570'
+click_btn=None
+'398','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 14:30:21.433522'
+click_btn=None
+'399','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 14:31:03.134131'
+click_btn=None
+'400','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 14:31:18.746539'
+click_btn=None
+'401','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 14:31:34.325838'
+click_btn=None
+'402','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 14:32:16.030188'
+click_btn=None
+'403','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 14:32:31.622294'
+click_btn=None
+'404','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 14:32:47.208034'
+click_btn=None
+'405','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 14:33:31.114026'
+click_btn=None
+'406','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 14:33:46.708257'
+click_btn=None
+'407','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 14:34:02.338678'
+click_btn=None
+'408','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 14:34:53.276179'
+click_btn=None
+'409','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 14:35:08.846890'
+click_btn=None
+'410','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 14:35:24.484440'
+click_btn=None
+'411','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 14:36:06.720625'
+click_btn=None
+'412','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 14:36:22.313187'
+click_btn=None
+'413','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 14:36:37.919708'
+click_btn=None
+'414','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 14:37:28.836258'
+click_btn=None
+'415','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 14:37:44.415590'
+click_btn=None
+'416','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 14:38:00.003665'
+click_btn=None
+'417','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 14:38:41.828562'
+click_btn=None
+'418','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 14:38:57.443289'
+click_btn=None
+'419','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 14:39:13.018487'
+click_btn=None
+'420','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 14:39:55.087248'
+click_btn=None
+'421','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 14:40:10.681439'
+click_btn=None
+'422','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 14:40:26.309949'
+click_btn=None
+'423','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 14:41:17.009780'
+click_btn=None
+'424','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 14:41:32.613163'
+click_btn=None
+'425','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 14:41:48.226680'
+click_btn=None
+'426','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 14:42:29.978732'
+click_btn=None
+'427','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 14:42:45.564557'
+click_btn=None
+'428','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 14:43:01.140826'
+click_btn=None
+'429','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 14:43:43.041397'
+click_btn=None
+'430','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 14:43:58.654356'
+click_btn=None
+'431','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 14:44:14.280714'
+click_btn=None
+'432','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 14:44:56.350908'
+click_btn=None
+'433','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 14:45:11.950860'
+click_btn=None
+'434','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 14:45:27.566278'
+click_btn=None
+'435','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 14:46:09.426302'
+click_btn=None
+'436','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 14:46:25.004489'
+click_btn=None
+'437','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 14:46:40.588462'
+click_btn=None
+'438','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 14:47:22.397447'
+click_btn=None
+'439','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 14:47:38.011392'
+click_btn=None
+'440','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 14:47:53.637515'
+click_btn=None
+'441','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 14:48:35.316240'
+click_btn=None
+'442','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 14:48:50.910129'
+click_btn=None
+'443','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 14:49:06.494738'
+click_btn=None
+'444','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 14:49:48.372989'
+click_btn=None
+'445','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 14:50:03.951103'
+click_btn=None
+'446','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 14:50:19.525024'
+click_btn=None
+'447','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 14:51:01.471656'
+click_btn=None
+'448','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 14:51:17.066119'
+click_btn=None
+'449','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 14:51:32.652924'
+click_btn=None
+'450','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 14:52:14.464489'
+click_btn=None
+'451','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 14:52:30.197380'
+click_btn=None
+'452','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 14:52:45.807025'
+click_btn=None
+'453','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 14:53:27.853921'
+click_btn=None
+'454','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 14:53:43.480680'
+click_btn=None
+'455','Vinyasa Intro 流暢瑜珈入門' by 'Una',FULL,'2024-04-22 14:53:59.058856'
+click_btn=None
+'456','Warm Stretch 溫和伸展' by 'Mei Wang',FULL,'2024-04-22 14:54:41.217719'
+click_btn=None
+'457','Gentle Yoga 和緩瑜珈' by 'Una',FULL,'2024-04-22 14:54:56.796218'
+click_btn=None
