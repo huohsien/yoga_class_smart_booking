@@ -1,0 +1,87 @@
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="f83ee549c068fe244d0263154288a38f")>] at 2024-04-25 18:45:15.230755
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="5974fcc5cc8b920237cc82150bb39ff5")>] at 2024-04-25 18:45:16.304603
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="6686fef8e18e209f34663c0a746abf4c")>] at 2024-04-25 18:45:17.368190
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="badadb5d2469043314dcb6959775f630")>] at 2024-04-25 18:45:18.452616
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="852b02985ce109f5c0aec600d886ab95")>] at 2024-04-25 18:45:19.534856
+sign in for class idx:0 at 2024-04-25 18:45:31.761117
+sign in for class idx:1 at 2024-04-25 18:45:35.565946
+sign in for class idx:2 at 2024-04-25 18:45:39.480010
+sign in for class idx:3 at 2024-04-25 18:45:43.408704
+sign in for class idx:4 at 2024-04-25 18:45:47.215150
+
+************************
+status html: cannot find status text in the current site
+************************
+
+UNEXPECTED SCENARIO HAPPENED. NEED TO REVISE THE CODE
+
+ Current Page Source:
+<html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_Head1"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta name="theme-color" content="#592954"><meta name="viewport" content="width=1024, user-scalable=yes"><title>
+	CBSS System - 登入
+</title>
+    <link href="https://www2.trueclassbooking.com.tw/member/css/style.all.css?v=2.27.17.00" rel="stylesheet" type="text/css">
+    <!--[if IE]>
+        <link href="https://www2.trueclassbooking.com.tw/member/css/ie.css?v=2.27.17.00" rel="stylesheet" type="text/css" />
+    <![endif]-->
+    <!--[if IE 8]>
+	    <link href="https://www2.trueclassbooking.com.tw/member/css/ie8.css?v=2.27.17.00" rel="stylesheet" type="text/css" />
+    <![endif]-->
+<style>.cke{visibility:hidden;}</style></head>
+<body><div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" style="padding-bottom: 42px; padding-right: 42px; display: none;"><div id="cboxWrapper"><div><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxLoadedContent" style="width: 0px; height: 0px; overflow: hidden; float: left;"></div><div id="cboxLoadingOverlay" style="float: left;"></div><div id="cboxLoadingGraphic" style="float: left;"></div><div id="cboxTitle" style="float: left;"></div><div id="cboxCurrent" style="float: left;"></div><div id="cboxNext" style="float: left;"></div><div id="cboxPrevious" style="float: left;"></div><div id="cboxSlideshow" style="float: left;"></div><div id="cboxClose" style="float: left;"></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position: absolute; width: 9999px; visibility: hidden; display: none;"></div></div>
+
+    <form name="aspnetForm" method="post" action="./session-expired.aspx" id="aspnetForm">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEwMDUyNjYzMjhkZEWAooHY56euLAuU8FC+7463vUS+wKCkt+cJrRYxzJbl">
+</div>
+
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="E4BEE291">
+</div>
+
+        <!-- CONTENTS -->
+        <div id="popup">
+            
+    <div class="left al">系統無法取出用戶登入檔案資料。<br>請你您退出後再嘗試登入。</div>
+
+        </div>
+
+    </form>
+
+    <script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-3LV80BY46T&amp;cx=c&amp;_slc=1"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="https://www2.trueclassbooking.com.tw/member/js/script.all.js?v=2.27.17.00"></script>
+    <!-- JAVSCRIPTS -->
+    
+
+    <script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date(); a = s.createElement(o),
+  m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-45242383-2', 'www2.trueclassbooking.com.tw');
+        ga('send', 'pageview');
+
+</script>
+
+
+</body></html>Failed to reserve the class idx:0 at 2024-04-25 18:46:05.799518
+
+************************
+status html: cannot find status text in the current site
+************************
+
+UNEXPECTED SCENARIO HAPPENED. NEED TO REVISE THE CODE
+
+ Current Page Source:
+<html><head></head><body>我們檢測到來自您的地址的異常流量。 請在 2024-04-25 06:46:43 PM 後重試。</body></html>Failed to reserve the class idx:1 at 2024-04-25 18:46:21.376804
+
+************************
+status html: cannot find status text in the current site
+************************
+
+UNEXPECTED SCENARIO HAPPENED. NEED TO REVISE THE CODE
+
+ Current Page Source:
+<html><head></head><body>我們檢測到來自您的地址的異常流量。 請在 2024-04-25 06:46:43 PM 後重試。</body></html>Failed to reserve the class idx:2 at 2024-04-25 18:46:36.920775
