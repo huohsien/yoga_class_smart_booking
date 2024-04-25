@@ -1,0 +1,921 @@
+#,Class,Status,Time
+'1','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-04-25 01:23:38.573111'
+click_btn=None
+'2','Yoga Tone 2' by 'Una',FULL,'2024-04-25 01:23:54.142270'
+click_btn=None
+'3','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-04-25 01:24:09.734041'
+click_btn=None
+'4','Flow Yoga 動瑜珈' by 'Moorthi',FULL,'2024-04-25 01:24:25.388289'
+click_btn=None
+'5','Yin Yoga 陰瑜珈' by 'Moorthi',FULL,'2024-04-25 01:24:40.974740'
+click_btn=None
+'6','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-04-25 01:25:33.740788'
+click_btn=None
+'7','Yoga Tone 2' by 'Una',FULL,'2024-04-25 01:25:49.359929'
+click_btn=None
+'8','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-04-25 01:26:04.954346'
+click_btn=None
+'9','Flow Yoga 動瑜珈' by 'Moorthi',FULL,'2024-04-25 01:26:20.587313'
+click_btn=None
+'10','Yin Yoga 陰瑜珈' by 'Moorthi',FULL,'2024-04-25 01:26:36.199921'
+click_btn=None
+'11','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-04-25 01:27:27.800390'
+click_btn=None
+'12','Yoga Tone 2' by 'Una',FULL,'2024-04-25 01:27:43.409023'
+click_btn=None
+'13','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-04-25 01:27:59.016267'
+click_btn=None
+'14','Flow Yoga 動瑜珈' by 'Moorthi',FULL,'2024-04-25 01:28:14.567830'
+click_btn=None
+'15','Yin Yoga 陰瑜珈' by 'Moorthi',FULL,'2024-04-25 01:28:30.132830'
+click_btn=None
+'16','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-04-25 01:29:17.448942'
+click_btn=None
+'17','Yoga Tone 2' by 'Una',FULL,'2024-04-25 01:29:33.054019'
+click_btn=None
+'18','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-04-25 01:29:48.596942'
+click_btn=None
+'19','Flow Yoga 動瑜珈' by 'Moorthi',FULL,'2024-04-25 01:30:04.156817'
+click_btn=None
+'20','Yin Yoga 陰瑜珈' by 'Moorthi',FULL,'2024-04-25 01:30:19.765605'
+click_btn=None
+'21','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-04-25 01:31:12.195242'
+click_btn=None
+'22','Yoga Tone 2' by 'Una',FULL,'2024-04-25 01:31:27.947791'
+click_btn=None
+'23','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-04-25 01:31:43.569796'
+click_btn=None
+'24','Flow Yoga 動瑜珈' by 'Moorthi',FULL,'2024-04-25 01:31:59.160717'
+click_btn=None
+'25','Yin Yoga 陰瑜珈' by 'Moorthi',FULL,'2024-04-25 01:32:14.779479'
+click_btn=None
+'26','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-04-25 01:33:07.554521'
+click_btn=None
+'27','Yoga Tone 2' by 'Una',FULL,'2024-04-25 01:33:23.153616'
+click_btn=None
+'28','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-04-25 01:33:38.781237'
+click_btn=None
+'29','Flow Yoga 動瑜珈' by 'Moorthi',FULL,'2024-04-25 01:33:54.394346'
+click_btn=None
+'30','Yin Yoga 陰瑜珈' by 'Moorthi',FULL,'2024-04-25 01:34:10.007569'
+click_btn=None
+'31','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-04-25 01:35:02.769925'
+click_btn=None
+'32','Yoga Tone 2' by 'Una',FULL,'2024-04-25 01:35:18.398075'
+click_btn=None
+'33','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-04-25 01:35:34.027326'
+click_btn=None
+'34','Flow Yoga 動瑜珈' by 'Moorthi',FULL,'2024-04-25 01:35:49.661631'
+click_btn=None
+'35','Yin Yoga 陰瑜珈' by 'Moorthi',FULL,'2024-04-25 01:36:05.249360'
+click_btn=None
+'36','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-04-25 01:36:58.146493'
+click_btn=None
+'37','Yoga Tone 2' by 'Una',FULL,'2024-04-25 01:37:13.796579'
+click_btn=None
+'38','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-04-25 01:37:29.395809'
+click_btn=None
+'39','Flow Yoga 動瑜珈' by 'Moorthi',FULL,'2024-04-25 01:37:44.963157'
+click_btn=None
+'40','Yin Yoga 陰瑜珈' by 'Moorthi',FULL,'2024-04-25 01:38:00.538363'
+click_btn=None
+'41','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-04-25 01:38:47.929955'
+click_btn=None
+'42','Yoga Tone 2' by 'Una',FULL,'2024-04-25 01:39:03.486642'
+click_btn=None
+'43','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-04-25 01:39:19.023802'
+click_btn=None
+'44','Flow Yoga 動瑜珈' by 'Moorthi',FULL,'2024-04-25 01:39:34.585740'
+click_btn=None
+'45','Yin Yoga 陰瑜珈' by 'Moorthi',FULL,'2024-04-25 01:39:50.140158'
+click_btn=None
+'46','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-04-25 01:40:39.876170'
+click_btn=None
+'47','Yoga Tone 2' by 'Una',FULL,'2024-04-25 01:40:55.486901'
+click_btn=None
+'48','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-04-25 01:41:11.147757'
+click_btn=None
+'49','Flow Yoga 動瑜珈' by 'Moorthi',FULL,'2024-04-25 01:41:26.727588'
+click_btn=None
+'50','Yin Yoga 陰瑜珈' by 'Moorthi',FULL,'2024-04-25 01:41:42.361592'
+click_btn=None
+'51','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-04-25 01:42:53.086426'
+click_btn=None
+'52','Yoga Tone 2' by 'Una',FULL,'2024-04-25 01:43:08.649319'
+click_btn=None
+'53','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-04-25 01:43:24.239311'
+click_btn=None
+'54','Flow Yoga 動瑜珈' by 'Moorthi',FULL,'2024-04-25 01:43:39.861640'
+click_btn=None
+'55','Yin Yoga 陰瑜珈' by 'Moorthi',FULL,'2024-04-25 01:43:55.468312'
+click_btn=None
+'56','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-04-25 01:44:48.446225'
+click_btn=None
+'57','Yoga Tone 2' by 'Una',FULL,'2024-04-25 01:45:04.065863'
+click_btn=None
+'58','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-04-25 01:45:19.687563'
+click_btn=None
+'59','Flow Yoga 動瑜珈' by 'Moorthi',FULL,'2024-04-25 01:45:35.307414'
+click_btn=None
+'60','Yin Yoga 陰瑜珈' by 'Moorthi',FULL,'2024-04-25 01:45:50.948124'
+click_btn=None
+'61','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-04-25 01:46:43.883464'
+click_btn=None
+'62','Yoga Tone 2' by 'Una',FULL,'2024-04-25 01:46:59.530825'
+click_btn=None
+'63','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-04-25 01:47:15.133136'
+click_btn=None
+'64','Flow Yoga 動瑜珈' by 'Moorthi',FULL,'2024-04-25 01:47:30.727231'
+click_btn=None
+'65','Yin Yoga 陰瑜珈' by 'Moorthi',FULL,'2024-04-25 01:47:46.319620'
+click_btn=None
+'66','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-04-25 01:48:39.185011'
+click_btn=None
+'67','Yoga Tone 2' by 'Una',FULL,'2024-04-25 01:48:54.768141'
+click_btn=None
+'68','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-04-25 01:49:10.369756'
+click_btn=None
+'69','Flow Yoga 動瑜珈' by 'Moorthi',FULL,'2024-04-25 01:49:25.993503'
+click_btn=None
+'70','Yin Yoga 陰瑜珈' by 'Moorthi',FULL,'2024-04-25 01:49:41.557635'
+click_btn=None
+'71','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-04-25 01:50:29.071821'
+click_btn=None
+'72','Yoga Tone 2' by 'Una',FULL,'2024-04-25 01:50:44.637541'
+click_btn=None
+'73','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-04-25 01:51:00.222376'
+click_btn=None
+'74','Flow Yoga 動瑜珈' by 'Moorthi',FULL,'2024-04-25 01:51:15.790007'
+click_btn=None
+'75','Yin Yoga 陰瑜珈' by 'Moorthi',FULL,'2024-04-25 01:51:31.351584'
+click_btn=None
+'76','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-04-25 01:52:24.522420'
+click_btn=None
+'77','Yoga Tone 2' by 'Una',FULL,'2024-04-25 01:52:40.174293'
+click_btn=None
+'78','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-04-25 01:52:55.807446'
+click_btn=None
+'79','Flow Yoga 動瑜珈' by 'Moorthi',FULL,'2024-04-25 01:53:11.452649'
+click_btn=None
+'80','Yin Yoga 陰瑜珈' by 'Moorthi',FULL,'2024-04-25 01:53:27.051996'
+click_btn=None
+'81','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-04-25 01:54:19.901406'
+click_btn=None
+'82','Yoga Tone 2' by 'Una',FULL,'2024-04-25 01:54:35.520179'
+click_btn=None
+'83','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-04-25 01:54:51.109358'
+click_btn=None
+'84','Flow Yoga 動瑜珈' by 'Moorthi',FULL,'2024-04-25 01:55:06.748308'
+click_btn=None
+'85','Yin Yoga 陰瑜珈' by 'Moorthi',FULL,'2024-04-25 01:55:22.342989'
+click_btn=None
+'86','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-04-25 01:56:15.090798'
+click_btn=None
+'87','Yoga Tone 2' by 'Una',FULL,'2024-04-25 01:56:30.685027'
+click_btn=None
+'88','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-04-25 01:56:46.313074'
+click_btn=None
+'89','Flow Yoga 動瑜珈' by 'Moorthi',FULL,'2024-04-25 01:57:01.959869'
+click_btn=None
+'90','Yin Yoga 陰瑜珈' by 'Moorthi',FULL,'2024-04-25 01:57:17.594261'
+click_btn=None
+'91','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-04-25 01:58:10.718379'
+click_btn=None
+'92','Yoga Tone 2' by 'Una',FULL,'2024-04-25 01:58:26.314184'
+click_btn=None
+'93','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-04-25 01:58:41.892270'
+click_btn=None
+'94','Flow Yoga 動瑜珈' by 'Moorthi',FULL,'2024-04-25 01:58:57.493585'
+click_btn=None
+'95','Yin Yoga 陰瑜珈' by 'Moorthi',FULL,'2024-04-25 01:59:13.128562'
+click_btn=None
+'96','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-04-25 02:00:13.721114'
+click_btn=None
+'97','Yoga Tone 2' by 'Una',FULL,'2024-04-25 02:00:29.271884'
+click_btn=None
+'98','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-04-25 02:00:44.868245'
+click_btn=None
+'99','Flow Yoga 動瑜珈' by 'Moorthi',FULL,'2024-04-25 02:01:00.457787'
+click_btn=None
+'100','Yin Yoga 陰瑜珈' by 'Moorthi',FULL,'2024-04-25 02:01:16.021777'
+click_btn=None
+'101','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-04-25 02:02:03.376637'
+click_btn=None
+'102','Yoga Tone 2' by 'Una',FULL,'2024-04-25 02:02:18.978454'
+click_btn=None
+'103','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-04-25 02:02:34.571356'
+click_btn=None
+'104','Flow Yoga 動瑜珈' by 'Moorthi',FULL,'2024-04-25 02:02:50.188114'
+click_btn=None
+'105','Yin Yoga 陰瑜珈' by 'Moorthi',FULL,'2024-04-25 02:03:05.756643'
+click_btn=None
+'106','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-04-25 02:03:58.700602'
+click_btn=None
+'107','Yoga Tone 2' by 'Una',FULL,'2024-04-25 02:04:14.326565'
+click_btn=None
+'108','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-04-25 02:04:29.915865'
+click_btn=None
+'109','Flow Yoga 動瑜珈' by 'Moorthi',FULL,'2024-04-25 02:04:45.550054'
+click_btn=None
+'110','Yin Yoga 陰瑜珈' by 'Moorthi',FULL,'2024-04-25 02:05:01.146518'
+click_btn=None
+'111','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-04-25 02:05:54.117562'
+click_btn=None
+'112','Yoga Tone 2' by 'Una',FULL,'2024-04-25 02:06:09.736171'
+click_btn=None
+'113','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-04-25 02:06:25.371566'
+click_btn=None
+'114','Flow Yoga 動瑜珈' by 'Moorthi',FULL,'2024-04-25 02:06:40.974942'
+click_btn=None
+'115','Yin Yoga 陰瑜珈' by 'Moorthi',FULL,'2024-04-25 02:06:56.577243'
+click_btn=None
+'116','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-04-25 02:07:50.071367'
+click_btn=None
+'117','Yoga Tone 2' by 'Una',FULL,'2024-04-25 02:08:05.658259'
+click_btn=None
+'118','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-04-25 02:08:21.307881'
+click_btn=None
+'119','Flow Yoga 動瑜珈' by 'Moorthi',FULL,'2024-04-25 02:08:36.919344'
+click_btn=None
+'120','Yin Yoga 陰瑜珈' by 'Moorthi',FULL,'2024-04-25 02:08:52.541265'
+click_btn=None
+'121','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-04-25 02:09:45.739461'
+click_btn=None
+'122','Yoga Tone 2' by 'Una',FULL,'2024-04-25 02:10:01.366255'
+click_btn=None
+'123','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-04-25 02:10:16.980953'
+click_btn=None
+'124','Flow Yoga 動瑜珈' by 'Moorthi',FULL,'2024-04-25 02:10:32.594188'
+click_btn=None
+'125','Yin Yoga 陰瑜珈' by 'Moorthi',FULL,'2024-04-25 02:10:48.224034'
+click_btn=None
+'126','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-04-25 02:11:35.562985'
+click_btn=None
+'127','Yoga Tone 2' by 'Una',FULL,'2024-04-25 02:11:51.119040'
+click_btn=None
+'128','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-04-25 02:12:06.709581'
+click_btn=None
+'129','Flow Yoga 動瑜珈' by 'Moorthi',FULL,'2024-04-25 02:12:22.285569'
+click_btn=None
+'130','Yin Yoga 陰瑜珈' by 'Moorthi',FULL,'2024-04-25 02:12:37.856853'
+click_btn=None
+'131','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-04-25 02:13:25.326226'
+click_btn=None
+'132','Yoga Tone 2' by 'Una',FULL,'2024-04-25 02:13:40.888134'
+click_btn=None
+'133','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-04-25 02:13:56.490673'
+click_btn=None
+'134','Flow Yoga 動瑜珈' by 'Moorthi',FULL,'2024-04-25 02:14:12.136719'
+click_btn=None
+'135','Yin Yoga 陰瑜珈' by 'Moorthi',FULL,'2024-04-25 02:14:27.797660'
+click_btn=None
+'136','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-04-25 02:15:21.107236'
+click_btn=None
+'137','Yoga Tone 2' by 'Una',FULL,'2024-04-25 02:15:36.725629'
+click_btn=None
+'138','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-04-25 02:15:52.309036'
+click_btn=None
+'139','Flow Yoga 動瑜珈' by 'Moorthi',FULL,'2024-04-25 02:16:07.906659'
+click_btn=None
+'140','Yin Yoga 陰瑜珈' by 'Moorthi',FULL,'2024-04-25 02:16:23.529510'
+click_btn=None
+'141','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-04-25 02:17:16.850873'
+click_btn=None
+'142','Yoga Tone 2' by 'Una',FULL,'2024-04-25 02:17:32.437499'
+click_btn=None
+'143','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-04-25 02:17:48.068518'
+click_btn=None
+'144','Flow Yoga 動瑜珈' by 'Moorthi',FULL,'2024-04-25 02:18:03.711089'
+click_btn=None
+'145','Yin Yoga 陰瑜珈' by 'Moorthi',FULL,'2024-04-25 02:18:19.313895'
+click_btn=None
+'146','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-04-25 02:19:12.867404'
+click_btn=None
+'147','Yoga Tone 2' by 'Una',FULL,'2024-04-25 02:19:28.468548'
+click_btn=None
+'148','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-04-25 02:19:44.093965'
+click_btn=None
+'149','Flow Yoga 動瑜珈' by 'Moorthi',FULL,'2024-04-25 02:19:59.706158'
+click_btn=None
+'150','Yin Yoga 陰瑜珈' by 'Moorthi',FULL,'2024-04-25 02:20:15.336221'
+click_btn=None
+'151','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-04-25 02:21:04.995475'
+click_btn=None
+'152','Yoga Tone 2' by 'Una',FULL,'2024-04-25 02:21:20.611915'
+click_btn=None
+'153','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-04-25 02:21:36.213205'
+click_btn=None
+'154','Flow Yoga 動瑜珈' by 'Moorthi',FULL,'2024-04-25 02:21:51.792473'
+click_btn=None
+'155','Yin Yoga 陰瑜珈' by 'Moorthi',FULL,'2024-04-25 02:22:07.385072'
+click_btn=None
+'156','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-04-25 02:22:54.791146'
+click_btn=None
+'157','Yoga Tone 2' by 'Una',FULL,'2024-04-25 02:23:10.368089'
+click_btn=None
+'158','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-04-25 02:23:25.917449'
+click_btn=None
+'159','Flow Yoga 動瑜珈' by 'Moorthi',FULL,'2024-04-25 02:23:41.523799'
+click_btn=None
+'160','Yin Yoga 陰瑜珈' by 'Moorthi',FULL,'2024-04-25 02:23:57.159744'
+click_btn=None
+'161','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-04-25 02:24:50.429617'
+click_btn=None
+'162','Yoga Tone 2' by 'Una',FULL,'2024-04-25 02:25:06.050834'
+click_btn=None
+'163','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-04-25 02:25:21.675057'
+click_btn=None
+'164','Flow Yoga 動瑜珈' by 'Moorthi',FULL,'2024-04-25 02:25:37.289095'
+click_btn=None
+'165','Yin Yoga 陰瑜珈' by 'Moorthi',FULL,'2024-04-25 02:25:52.904666'
+click_btn=None
+'166','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-04-25 02:26:46.104272'
+click_btn=None
+'167','Yoga Tone 2' by 'Una',FULL,'2024-04-25 02:27:01.687492'
+click_btn=None
+'168','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-04-25 02:27:17.307547'
+click_btn=None
+'169','Flow Yoga 動瑜珈' by 'Moorthi',FULL,'2024-04-25 02:27:32.912774'
+click_btn=None
+'170','Yin Yoga 陰瑜珈' by 'Moorthi',FULL,'2024-04-25 02:27:48.526615'
+click_btn=None
+'171','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-04-25 02:28:41.508139'
+click_btn=None
+'172','Yoga Tone 2' by 'Una',FULL,'2024-04-25 02:28:57.144994'
+click_btn=None
+'173','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-04-25 02:29:12.778729'
+click_btn=None
+'174','Flow Yoga 動瑜珈' by 'Moorthi',FULL,'2024-04-25 02:29:28.393330'
+click_btn=None
+'175','Yin Yoga 陰瑜珈' by 'Moorthi',FULL,'2024-04-25 02:29:44.020318'
+click_btn=None
+'176','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-04-25 02:30:46.081069'
+click_btn=None
+'177','Yoga Tone 2' by 'Una',FULL,'2024-04-25 02:31:01.697435'
+click_btn=None
+'178','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-04-25 02:31:17.315649'
+click_btn=None
+'179','Flow Yoga 動瑜珈' by 'Moorthi',FULL,'2024-04-25 02:31:32.980762'
+click_btn=None
+'180','Yin Yoga 陰瑜珈' by 'Moorthi',FULL,'2024-04-25 02:31:48.593568'
+click_btn=None
+'181','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-04-25 02:32:41.798858'
+click_btn=None
+'182','Yoga Tone 2' by 'Una',FULL,'2024-04-25 02:32:57.388636'
+click_btn=None
+'183','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-04-25 02:33:13.017716'
+click_btn=None
+'184','Flow Yoga 動瑜珈' by 'Moorthi',FULL,'2024-04-25 02:33:28.619853'
+click_btn=None
+'185','Yin Yoga 陰瑜珈' by 'Moorthi',FULL,'2024-04-25 02:33:44.204115'
+click_btn=None
+'186','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-04-25 02:34:31.728741'
+click_btn=None
+'187','Yoga Tone 2' by 'Una',FULL,'2024-04-25 02:34:47.310050'
+click_btn=None
+'188','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-04-25 02:35:02.868240'
+click_btn=None
+'189','Flow Yoga 動瑜珈' by 'Moorthi',FULL,'2024-04-25 02:35:18.434842'
+click_btn=None
+'190','Yin Yoga 陰瑜珈' by 'Moorthi',FULL,'2024-04-25 02:35:34.046324'
+click_btn=None
+'191','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-04-25 02:36:21.334098'
+click_btn=None
+'192','Yoga Tone 2' by 'Una',FULL,'2024-04-25 02:36:36.997397'
+click_btn=None
+'193','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-04-25 02:36:52.609964'
+click_btn=None
+'194','Flow Yoga 動瑜珈' by 'Moorthi',FULL,'2024-04-25 02:37:08.271717'
+click_btn=None
+'195','Yin Yoga 陰瑜珈' by 'Moorthi',FULL,'2024-04-25 02:37:23.888481'
+click_btn=None
+'196','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-04-25 02:38:28.718240'
+click_btn=None
+'197','Yoga Tone 2' by 'Una',FULL,'2024-04-25 02:38:44.322594'
+click_btn=None
+'198','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-04-25 02:38:59.918082'
+click_btn=None
+'199','Flow Yoga 動瑜珈' by 'Moorthi',FULL,'2024-04-25 02:39:15.517211'
+click_btn=None
+'200','Yin Yoga 陰瑜珈' by 'Moorthi',FULL,'2024-04-25 02:39:31.123765'
+click_btn=None
+'201','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-04-25 02:40:24.420175'
+click_btn=None
+'202','Yoga Tone 2' by 'Una',FULL,'2024-04-25 02:40:40.020301'
+click_btn=None
+'203','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-04-25 02:40:55.611987'
+click_btn=None
+'204','Flow Yoga 動瑜珈' by 'Moorthi',FULL,'2024-04-25 02:41:11.225410'
+click_btn=None
+'205','Yin Yoga 陰瑜珈' by 'Moorthi',FULL,'2024-04-25 02:41:26.834540'
+click_btn=None
+'206','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-04-25 02:42:20.109855'
+click_btn=None
+'207','Yoga Tone 2' by 'Una',FULL,'2024-04-25 02:42:35.728367'
+click_btn=None
+'208','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-04-25 02:42:51.355741'
+click_btn=None
+'209','Flow Yoga 動瑜珈' by 'Moorthi',FULL,'2024-04-25 02:43:06.972561'
+click_btn=None
+'210','Yin Yoga 陰瑜珈' by 'Moorthi',FULL,'2024-04-25 02:43:22.564131'
+click_btn=None
+'211','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-04-25 02:44:14.662705'
+click_btn=None
+'212','Yoga Tone 2' by 'Una',FULL,'2024-04-25 02:44:30.227533'
+click_btn=None
+'213','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-04-25 02:44:45.797495'
+click_btn=None
+'214','Flow Yoga 動瑜珈' by 'Moorthi',FULL,'2024-04-25 02:45:01.387144'
+click_btn=None
+'215','Yin Yoga 陰瑜珈' by 'Moorthi',FULL,'2024-04-25 02:45:16.996229'
+click_btn=None
+'216','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-04-25 02:46:04.248392'
+click_btn=None
+'217','Yoga Tone 2' by 'Una',FULL,'2024-04-25 02:46:19.860536'
+click_btn=None
+'218','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-04-25 02:46:35.421878'
+click_btn=None
+'219','Flow Yoga 動瑜珈' by 'Moorthi',FULL,'2024-04-25 02:46:51.012420'
+click_btn=None
+'220','Yin Yoga 陰瑜珈' by 'Moorthi',FULL,'2024-04-25 02:47:06.605347'
+click_btn=None
+'221','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-04-25 02:47:59.774392'
+click_btn=None
+'222','Yoga Tone 2' by 'Una',FULL,'2024-04-25 02:48:15.479347'
+click_btn=None
+'223','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-04-25 02:48:31.074816'
+click_btn=None
+'224','Flow Yoga 動瑜珈' by 'Moorthi',FULL,'2024-04-25 02:48:46.690110'
+click_btn=None
+'225','Yin Yoga 陰瑜珈' by 'Moorthi',FULL,'2024-04-25 02:49:02.299252'
+click_btn=None
+'226','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-04-25 02:49:55.406181'
+click_btn=None
+'227','Yoga Tone 2' by 'Una',FULL,'2024-04-25 02:50:11.007797'
+click_btn=None
+'228','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-04-25 02:50:26.608791'
+click_btn=None
+'229','Flow Yoga 動瑜珈' by 'Moorthi',FULL,'2024-04-25 02:50:42.184560'
+click_btn=None
+'230','Yin Yoga 陰瑜珈' by 'Moorthi',FULL,'2024-04-25 02:50:57.768095'
+click_btn=None
+'231','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-04-25 02:51:50.611451'
+click_btn=None
+'232','Yoga Tone 2' by 'Una',FULL,'2024-04-25 02:52:06.229364'
+click_btn=None
+'233','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-04-25 02:52:21.842781'
+click_btn=None
+'234','Flow Yoga 動瑜珈' by 'Moorthi',FULL,'2024-04-25 02:52:37.457497'
+click_btn=None
+'235','Yin Yoga 陰瑜珈' by 'Moorthi',FULL,'2024-04-25 02:52:53.036998'
+click_btn=None
+'236','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-04-25 02:53:46.266805'
+click_btn=None
+'237','Yoga Tone 2' by 'Una',FULL,'2024-04-25 02:54:01.925448'
+click_btn=None
+'238','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-04-25 02:54:17.510416'
+click_btn=None
+'239','Flow Yoga 動瑜珈' by 'Moorthi',FULL,'2024-04-25 02:54:33.097997'
+click_btn=None
+'240','Yin Yoga 陰瑜珈' by 'Moorthi',FULL,'2024-04-25 02:54:48.680663'
+click_btn=None
+'241','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-04-25 02:55:36.486469'
+click_btn=None
+'242','Yoga Tone 2' by 'Una',FULL,'2024-04-25 02:55:52.039872'
+click_btn=None
+'243','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-04-25 02:56:07.621594'
+click_btn=None
+'244','Flow Yoga 動瑜珈' by 'Moorthi',FULL,'2024-04-25 02:56:23.185826'
+click_btn=None
+'245','Yin Yoga 陰瑜珈' by 'Moorthi',FULL,'2024-04-25 02:56:38.723674'
+click_btn=None
+'246','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-04-25 02:57:27.361010'
+click_btn=None
+'247','Yoga Tone 2' by 'Una',FULL,'2024-04-25 02:57:43.017570'
+click_btn=None
+'248','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-04-25 02:57:58.605796'
+click_btn=None
+'249','Flow Yoga 動瑜珈' by 'Moorthi',FULL,'2024-04-25 02:58:14.247246'
+click_btn=None
+'250','Yin Yoga 陰瑜珈' by 'Moorthi',FULL,'2024-04-25 02:58:29.882240'
+click_btn=None
+'251','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-04-25 02:59:23.279938'
+click_btn=None
+'252','Yoga Tone 2' by 'Una',FULL,'2024-04-25 02:59:38.855689'
+click_btn=None
+'253','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-04-25 02:59:54.451854'
+click_btn=None
+'254','Flow Yoga 動瑜珈' by 'Moorthi',FULL,'2024-04-25 03:00:10.050390'
+click_btn=None
+'255','Yin Yoga 陰瑜珈' by 'Moorthi',FULL,'2024-04-25 03:00:25.683429'
+click_btn=None
+'256','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-04-25 03:01:18.881713'
+click_btn=None
+'257','Yoga Tone 2' by 'Una',FULL,'2024-04-25 03:01:34.488510'
+click_btn=None
+'258','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-04-25 03:01:50.112008'
+click_btn=None
+'259','Flow Yoga 動瑜珈' by 'Moorthi',FULL,'2024-04-25 03:02:05.771170'
+click_btn=None
+'260','Yin Yoga 陰瑜珈' by 'Moorthi',FULL,'2024-04-25 03:02:21.374330'
+click_btn=None
+'261','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-04-25 03:03:14.926414'
+click_btn=None
+'262','Yoga Tone 2' by 'Una',FULL,'2024-04-25 03:03:30.523756'
+click_btn=None
+'263','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-04-25 03:03:46.106246'
+click_btn=None
+'264','Flow Yoga 動瑜珈' by 'Moorthi',FULL,'2024-04-25 03:04:01.735322'
+click_btn=None
+'265','Yin Yoga 陰瑜珈' by 'Moorthi',FULL,'2024-04-25 03:04:17.373174'
+click_btn=None
+'266','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-04-25 03:05:10.548400'
+click_btn=None
+'267','Yoga Tone 2' by 'Una',FULL,'2024-04-25 03:05:26.158584'
+click_btn=None
+'268','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-04-25 03:05:41.817163'
+click_btn=None
+'269','Flow Yoga 動瑜珈' by 'Moorthi',FULL,'2024-04-25 03:05:57.406945'
+click_btn=None
+'270','Yin Yoga 陰瑜珈' by 'Moorthi',FULL,'2024-04-25 03:06:12.992126'
+click_btn=None
+'271','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-04-25 03:07:00.332818'
+click_btn=None
+'272','Yoga Tone 2' by 'Una',FULL,'2024-04-25 03:07:15.911968'
+click_btn=None
+'273','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-04-25 03:07:31.509541'
+click_btn=None
+'274','Flow Yoga 動瑜珈' by 'Moorthi',FULL,'2024-04-25 03:07:47.109636'
+click_btn=None
+'275','Yin Yoga 陰瑜珈' by 'Moorthi',FULL,'2024-04-25 03:08:02.714373'
+click_btn=None
+'276','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-04-25 03:08:52.271818'
+click_btn=None
+'277','Yoga Tone 2' by 'Una',FULL,'2024-04-25 03:09:07.941505'
+click_btn=None
+'278','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-04-25 03:09:23.575073'
+click_btn=None
+'279','Flow Yoga 動瑜珈' by 'Moorthi',FULL,'2024-04-25 03:09:39.154764'
+click_btn=None
+'280','Yin Yoga 陰瑜珈' by 'Moorthi',FULL,'2024-04-25 03:09:54.785178'
+click_btn=None
+'281','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-04-25 03:10:47.199955'
+click_btn=None
+'282','Yoga Tone 2' by 'Una',FULL,'2024-04-25 03:11:02.771620'
+click_btn=None
+'283','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-04-25 03:11:18.382194'
+click_btn=None
+'284','Flow Yoga 動瑜珈' by 'Moorthi',FULL,'2024-04-25 03:11:33.976469'
+click_btn=None
+'285','Yin Yoga 陰瑜珈' by 'Moorthi',FULL,'2024-04-25 03:11:49.559393'
+click_btn=None
+'286','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-04-25 03:12:42.891387'
+click_btn=None
+'287','Yoga Tone 2' by 'Una',FULL,'2024-04-25 03:12:58.529776'
+click_btn=None
+'288','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-04-25 03:13:14.138510'
+click_btn=None
+'289','Flow Yoga 動瑜珈' by 'Moorthi',FULL,'2024-04-25 03:13:29.782389'
+click_btn=None
+'290','Yin Yoga 陰瑜珈' by 'Moorthi',FULL,'2024-04-25 03:13:45.397388'
+click_btn=None
+'291','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-04-25 03:14:38.303563'
+click_btn=None
+'292','Yoga Tone 2' by 'Una',FULL,'2024-04-25 03:14:53.879619'
+click_btn=None
+'293','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-04-25 03:15:09.460994'
+click_btn=None
+'294','Flow Yoga 動瑜珈' by 'Moorthi',FULL,'2024-04-25 03:15:25.086423'
+click_btn=None
+'295','Yin Yoga 陰瑜珈' by 'Moorthi',FULL,'2024-04-25 03:15:40.667847'
+click_btn=None
+'296','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-04-25 03:16:32.383431'
+click_btn=None
+'297','Yoga Tone 2' by 'Una',FULL,'2024-04-25 03:16:47.941080'
+click_btn=None
+'298','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-04-25 03:17:03.535845'
+click_btn=None
+'299','Flow Yoga 動瑜珈' by 'Moorthi',FULL,'2024-04-25 03:17:19.146467'
+click_btn=None
+'300','Yin Yoga 陰瑜珈' by 'Moorthi',FULL,'2024-04-25 03:17:34.752858'
+click_btn=None
+'301','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-04-25 03:18:22.110035'
+click_btn=None
+'302','Yoga Tone 2' by 'Una',FULL,'2024-04-25 03:18:37.701211'
+click_btn=None
+'303','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-04-25 03:18:53.287181'
+click_btn=None
+'304','Flow Yoga 動瑜珈' by 'Moorthi',FULL,'2024-04-25 03:19:08.845582'
+click_btn=None
+'305','Yin Yoga 陰瑜珈' by 'Moorthi',FULL,'2024-04-25 03:19:24.427658'
+click_btn=None
+'306','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-04-25 03:20:25.993482'
+click_btn=None
+'307','Yoga Tone 2' by 'Una',FULL,'2024-04-25 03:20:41.615432'
+click_btn=None
+'308','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-04-25 03:20:57.211664'
+click_btn=None
+'309','Flow Yoga 動瑜珈' by 'Moorthi',FULL,'2024-04-25 03:21:12.815503'
+click_btn=None
+'310','Yin Yoga 陰瑜珈' by 'Moorthi',FULL,'2024-04-25 03:21:28.434567'
+click_btn=None
+'311','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-04-25 03:22:21.212164'
+click_btn=None
+'312','Yoga Tone 2' by 'Una',FULL,'2024-04-25 03:22:36.833882'
+click_btn=None
+'313','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-04-25 03:22:52.425346'
+click_btn=None
+'314','Flow Yoga 動瑜珈' by 'Moorthi',FULL,'2024-04-25 03:23:08.054191'
+click_btn=None
+'315','Yin Yoga 陰瑜珈' by 'Moorthi',FULL,'2024-04-25 03:23:23.714202'
+click_btn=None
+'316','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-04-25 03:24:16.380542'
+click_btn=None
+'317','Yoga Tone 2' by 'Una',FULL,'2024-04-25 03:24:31.970941'
+click_btn=None
+'318','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-04-25 03:24:47.560418'
+click_btn=None
+'319','Flow Yoga 動瑜珈' by 'Moorthi',FULL,'2024-04-25 03:25:03.170232'
+click_btn=None
+'320','Yin Yoga 陰瑜珈' by 'Moorthi',FULL,'2024-04-25 03:25:18.792480'
+click_btn=None
+'321','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-04-25 03:26:11.442667'
+click_btn=None
+'322','Yoga Tone 2' by 'Una',FULL,'2024-04-25 03:26:27.052789'
+click_btn=None
+'323','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-04-25 03:26:42.654437'
+click_btn=None
+'324','Flow Yoga 動瑜珈' by 'Moorthi',FULL,'2024-04-25 03:26:58.232978'
+click_btn=None
+'325','Yin Yoga 陰瑜珈' by 'Moorthi',FULL,'2024-04-25 03:27:13.807764'
+click_btn=None
+'326','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-04-25 03:28:01.383349'
+click_btn=None
+'327','Yoga Tone 2' by 'Una',FULL,'2024-04-25 03:28:16.974885'
+click_btn=None
+'328','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-04-25 03:28:32.677303'
+click_btn=None
+'329','Flow Yoga 動瑜珈' by 'Moorthi',FULL,'2024-04-25 03:28:48.219097'
+click_btn=None
+'330','Yin Yoga 陰瑜珈' by 'Moorthi',FULL,'2024-04-25 03:29:03.815564'
+click_btn=None
+'331','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-04-25 03:29:51.328037'
+click_btn=None
+'332','Yoga Tone 2' by 'Una',FULL,'2024-04-25 03:30:06.886985'
+click_btn=None
+'333','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-04-25 03:30:22.470097'
+click_btn=None
+'334','Flow Yoga 動瑜珈' by 'Moorthi',FULL,'2024-04-25 03:30:38.111912'
+click_btn=None
+'335','Yin Yoga 陰瑜珈' by 'Moorthi',FULL,'2024-04-25 03:30:53.770649'
+click_btn=None
+'336','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-04-25 03:31:46.651777'
+click_btn=None
+'337','Yoga Tone 2' by 'Una',FULL,'2024-04-25 03:32:02.254835'
+click_btn=None
+'338','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-04-25 03:32:17.873524'
+click_btn=None
+'339','Flow Yoga 動瑜珈' by 'Moorthi',FULL,'2024-04-25 03:32:33.485441'
+click_btn=None
+'340','Yin Yoga 陰瑜珈' by 'Moorthi',FULL,'2024-04-25 03:32:49.074065'
+click_btn=None
+'341','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-04-25 03:33:42.020621'
+click_btn=None
+'342','Yoga Tone 2' by 'Una',FULL,'2024-04-25 03:33:57.649796'
+click_btn=None
+'343','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-04-25 03:34:13.242055'
+click_btn=None
+'344','Flow Yoga 動瑜珈' by 'Moorthi',FULL,'2024-04-25 03:34:28.854450'
+click_btn=None
+'345','Yin Yoga 陰瑜珈' by 'Moorthi',FULL,'2024-04-25 03:34:44.481891'
+click_btn=None
+'346','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-04-25 03:35:37.200778'
+click_btn=None
+'347','Yoga Tone 2' by 'Una',FULL,'2024-04-25 03:35:52.795945'
+click_btn=None
+'348','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-04-25 03:36:08.364909'
+click_btn=None
+'349','Flow Yoga 動瑜珈' by 'Moorthi',FULL,'2024-04-25 03:36:23.955264'
+click_btn=None
+'350','Yin Yoga 陰瑜珈' by 'Moorthi',FULL,'2024-04-25 03:36:39.543383'
+click_btn=None
+'351','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-04-25 03:37:30.536857'
+click_btn=None
+'352','Yoga Tone 2' by 'Una',FULL,'2024-04-25 03:37:46.141182'
+click_btn=None
+'353','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-04-25 03:38:01.749695'
+click_btn=None
+'354','Flow Yoga 動瑜珈' by 'Moorthi',FULL,'2024-04-25 03:38:17.310600'
+click_btn=None
+'355','Yin Yoga 陰瑜珈' by 'Moorthi',FULL,'2024-04-25 03:38:33.003228'
+click_btn=None
+'356','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-04-25 03:39:20.744408'
+click_btn=None
+'357','Yoga Tone 2' by 'Una',FULL,'2024-04-25 03:39:36.337250'
+click_btn=None
+'358','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-04-25 03:39:51.946665'
+click_btn=None
+'359','Flow Yoga 動瑜珈' by 'Moorthi',FULL,'2024-04-25 03:40:07.508878'
+click_btn=None
+'360','Yin Yoga 陰瑜珈' by 'Moorthi',FULL,'2024-04-25 03:40:23.136933'
+click_btn=None
+'361','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-04-25 03:41:15.828153'
+click_btn=None
+'362','Yoga Tone 2' by 'Una',FULL,'2024-04-25 03:41:31.415898'
+click_btn=None
+'363','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-04-25 03:41:46.993637'
+click_btn=None
+'364','Flow Yoga 動瑜珈' by 'Moorthi',FULL,'2024-04-25 03:42:02.665360'
+click_btn=None
+'365','Yin Yoga 陰瑜珈' by 'Moorthi',FULL,'2024-04-25 03:42:18.283609'
+click_btn=None
+'366','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-04-25 03:43:11.186212'
+click_btn=None
+'367','Yoga Tone 2' by 'Una',FULL,'2024-04-25 03:43:26.809855'
+click_btn=None
+'368','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-04-25 03:43:42.464762'
+click_btn=None
+'369','Flow Yoga 動瑜珈' by 'Moorthi',FULL,'2024-04-25 03:43:58.071599'
+click_btn=None
+'370','Yin Yoga 陰瑜珈' by 'Moorthi',FULL,'2024-04-25 03:44:13.684849'
+click_btn=None
+'371','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-04-25 03:45:06.744619'
+click_btn=None
+'372','Yoga Tone 2' by 'Una',FULL,'2024-04-25 03:45:22.351852'
+click_btn=None
+'373','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-04-25 03:45:37.998788'
+click_btn=None
+'374','Flow Yoga 動瑜珈' by 'Moorthi',FULL,'2024-04-25 03:45:53.595321'
+click_btn=None
+'375','Yin Yoga 陰瑜珈' by 'Moorthi',FULL,'2024-04-25 03:46:09.243847'
+click_btn=None
+'376','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-04-25 03:47:02.030372'
+click_btn=None
+'377','Yoga Tone 2' by 'Una',FULL,'2024-04-25 03:47:17.648344'
+click_btn=None
+'378','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-04-25 03:47:33.212041'
+click_btn=None
+'379','Flow Yoga 動瑜珈' by 'Moorthi',FULL,'2024-04-25 03:47:48.848874'
+click_btn=None
+'380','Yin Yoga 陰瑜珈' by 'Moorthi',FULL,'2024-04-25 03:48:04.524160'
+click_btn=None
+'381','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-04-25 03:48:51.885921'
+click_btn=None
+'382','Yoga Tone 2' by 'Una',FULL,'2024-04-25 03:49:07.469956'
+click_btn=None
+'383','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-04-25 03:49:23.061512'
+click_btn=None
+'384','Flow Yoga 動瑜珈' by 'Moorthi',FULL,'2024-04-25 03:49:38.657231'
+click_btn=None
+'385','Yin Yoga 陰瑜珈' by 'Moorthi',FULL,'2024-04-25 03:49:54.228407'
+click_btn=None
+'386','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-04-25 03:50:41.676382'
+click_btn=None
+'387','Yoga Tone 2' by 'Una',FULL,'2024-04-25 03:50:57.258990'
+click_btn=None
+'388','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-04-25 03:51:12.881829'
+click_btn=None
+'389','Flow Yoga 動瑜珈' by 'Moorthi',FULL,'2024-04-25 03:51:28.552063'
+click_btn=None
+'390','Yin Yoga 陰瑜珈' by 'Moorthi',FULL,'2024-04-25 03:51:44.195931'
+click_btn=None
+'391','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-04-25 03:52:36.983542'
+click_btn=None
+'392','Yoga Tone 2' by 'Una',FULL,'2024-04-25 03:52:52.600419'
+click_btn=None
+'393','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-04-25 03:53:08.210265'
+click_btn=None
+'394','Flow Yoga 動瑜珈' by 'Moorthi',FULL,'2024-04-25 03:53:23.805250'
+click_btn=None
+'395','Yin Yoga 陰瑜珈' by 'Moorthi',FULL,'2024-04-25 03:53:39.467297'
+click_btn=None
+'396','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-04-25 03:54:32.791360'
+click_btn=None
+'397','Yoga Tone 2' by 'Una',FULL,'2024-04-25 03:54:48.412699'
+click_btn=None
+'398','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-04-25 03:55:03.977762'
+click_btn=None
+'399','Flow Yoga 動瑜珈' by 'Moorthi',FULL,'2024-04-25 03:55:19.625436'
+click_btn=None
+'400','Yin Yoga 陰瑜珈' by 'Moorthi',FULL,'2024-04-25 03:55:35.243606'
+click_btn=None
+'401','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-04-25 03:56:27.944463'
+click_btn=None
+'402','Yoga Tone 2' by 'Una',FULL,'2024-04-25 03:56:43.555099'
+click_btn=None
+'403','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-04-25 03:56:59.169007'
+click_btn=None
+'404','Flow Yoga 動瑜珈' by 'Moorthi',FULL,'2024-04-25 03:57:14.785166'
+click_btn=None
+'405','Yin Yoga 陰瑜珈' by 'Moorthi',FULL,'2024-04-25 03:57:30.392970'
+click_btn=None
+'406','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-04-25 03:58:23.153564'
+click_btn=None
+'407','Yoga Tone 2' by 'Una',FULL,'2024-04-25 03:58:38.752152'
+click_btn=None
+'408','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-04-25 03:58:54.384874'
+click_btn=None
+'409','Flow Yoga 動瑜珈' by 'Moorthi',FULL,'2024-04-25 03:59:10.031347'
+click_btn=None
+'410','Yin Yoga 陰瑜珈' by 'Moorthi',FULL,'2024-04-25 03:59:25.595212'
+click_btn=None
+'411','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-04-25 04:00:12.925331'
+click_btn=None
+'412','Yoga Tone 2' by 'Una',FULL,'2024-04-25 04:00:28.506895'
+click_btn=None
+'413','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-04-25 04:00:44.100537'
+click_btn=None
+'414','Flow Yoga 動瑜珈' by 'Moorthi',FULL,'2024-04-25 04:00:59.655612'
+click_btn=None
+'415','Yin Yoga 陰瑜珈' by 'Moorthi',FULL,'2024-04-25 04:01:15.215371'
+click_btn=None
+'416','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-04-25 04:02:02.879739'
+click_btn=None
+'417','Yoga Tone 2' by 'Una',FULL,'2024-04-25 04:02:18.444977'
+click_btn=None
+'418','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-04-25 04:02:34.077240'
+click_btn=None
+'419','Flow Yoga 動瑜珈' by 'Moorthi',FULL,'2024-04-25 04:02:49.689643'
+click_btn=None
+'420','Yin Yoga 陰瑜珈' by 'Moorthi',FULL,'2024-04-25 04:03:05.304516'
+click_btn=None
+'421','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-04-25 04:03:58.282491'
+click_btn=None
+'422','Yoga Tone 2' by 'Una',FULL,'2024-04-25 04:04:13.939924'
+click_btn=None
+'423','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-04-25 04:04:29.552382'
+click_btn=None
+'424','Flow Yoga 動瑜珈' by 'Moorthi',FULL,'2024-04-25 04:04:45.175333'
+click_btn=None
+'425','Yin Yoga 陰瑜珈' by 'Moorthi',FULL,'2024-04-25 04:05:00.758767'
+click_btn=None
+'426','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-04-25 04:05:53.881962'
+click_btn=None
+'427','Yoga Tone 2' by 'Una',FULL,'2024-04-25 04:06:09.514384'
+click_btn=None
+'428','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-04-25 04:06:25.111013'
+click_btn=None
+'429','Flow Yoga 動瑜珈' by 'Moorthi',FULL,'2024-04-25 04:06:40.756006'
+click_btn=None
+'430','Yin Yoga 陰瑜珈' by 'Moorthi',FULL,'2024-04-25 04:06:56.399963'
+click_btn=None
+'431','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-04-25 04:08:07.357271'
+click_btn=None
+'432','Yoga Tone 2' by 'Una',FULL,'2024-04-25 04:08:22.980154'
+click_btn=None
+'433','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-04-25 04:08:38.557009'
+click_btn=None
+'434','Flow Yoga 動瑜珈' by 'Moorthi',FULL,'2024-04-25 04:08:54.159173'
+click_btn=None
+'435','Yin Yoga 陰瑜珈' by 'Moorthi',FULL,'2024-04-25 04:09:09.747394'
+click_btn=None
+'436','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-04-25 04:09:59.176479'
+click_btn=None
+'437','Yoga Tone 2' by 'Una',FULL,'2024-04-25 04:10:14.788220'
+click_btn=None
+'438','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-04-25 04:10:30.394173'
+click_btn=None
+'439','Flow Yoga 動瑜珈' by 'Moorthi',FULL,'2024-04-25 04:10:45.956194'
+click_btn=None
+'440','Yin Yoga 陰瑜珈' by 'Moorthi',FULL,'2024-04-25 04:11:01.624677'
+click_btn=None
+'441','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-04-25 04:11:49.026594'
+click_btn=None
+'442','Yoga Tone 2' by 'Una',FULL,'2024-04-25 04:12:04.572893'
+click_btn=None
+'443','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-04-25 04:12:20.173522'
+click_btn=None
+'444','Flow Yoga 動瑜珈' by 'Moorthi',FULL,'2024-04-25 04:12:35.776775'
+click_btn=None
+'445','Yin Yoga 陰瑜珈' by 'Moorthi',FULL,'2024-04-25 04:12:51.427467'
+click_btn=None
+'446','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-04-25 04:13:44.401868'
+click_btn=None
+'447','Yoga Tone 2' by 'Una',FULL,'2024-04-25 04:13:59.977214'
+click_btn=None
+'448','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-04-25 04:14:15.569677'
+click_btn=None
+'449','Flow Yoga 動瑜珈' by 'Moorthi',FULL,'2024-04-25 04:14:31.153192'
+click_btn=None
+'450','Yin Yoga 陰瑜珈' by 'Moorthi',FULL,'2024-04-25 04:14:46.720338'
+click_btn=None
+'451','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-04-25 04:15:39.600713'
+click_btn=None
+'452','Yoga Tone 2' by 'Una',FULL,'2024-04-25 04:15:55.223864'
+click_btn=None
+'453','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-04-25 04:16:10.796803'
+click_btn=None
+'454','Flow Yoga 動瑜珈' by 'Moorthi',FULL,'2024-04-25 04:16:26.405389'
+click_btn=None
+'455','Yin Yoga 陰瑜珈' by 'Moorthi',FULL,'2024-04-25 04:16:42.046223'
+click_btn=None
+'456','Yoga Wheel 瑜珈輪' by 'Una',FULL,'2024-04-25 04:17:36.297419'
+click_btn=None
+'457','Yoga Tone 2' by 'Una',FULL,'2024-04-25 04:17:51.926300'
+click_btn=None
+'458','Hatha Basic 哈達基礎' by 'Una',FULL,'2024-04-25 04:18:07.543575'
+click_btn=None
+'459','Flow Yoga 動瑜珈' by 'Moorthi',FULL,'2024-04-25 04:18:23.158246'
+click_btn=None
+'460','Yin Yoga 陰瑜珈' by 'Moorthi',FULL,'2024-04-25 04:18:38.781159'
+click_btn=None

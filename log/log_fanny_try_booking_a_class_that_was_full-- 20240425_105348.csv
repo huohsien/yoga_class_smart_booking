@@ -1,0 +1,39 @@
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="261adebbdf205579f3b257ff7b00ef5f")>] at 2024-04-25 10:53:48.991862
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="dab71a9b5c4151ba0ddcbb420254dfd5")>] at 2024-04-25 10:53:50.099225
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="14cadca609aca7d8499ae3cc2603604f")>] at 2024-04-25 10:53:51.182630
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="f8cabd5565deed5853c6783bf9ce8970")>] at 2024-04-25 10:53:52.295457
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="4b5649071ec37c7d0eeb18b969206d3f")>] at 2024-04-25 10:53:53.372958
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="36022c88d19709e1f2decc423fb466e0")>] at 2024-04-25 10:53:54.460638
+sign in for class idx:0 at 2024-04-25 10:53:58.074369
+sign in for class idx:1 at 2024-04-25 10:54:02.978914
+sign in for class idx:2 at 2024-04-25 10:54:07.751431
+sign in for class idx:3 at 2024-04-25 10:54:12.565565
+sign in for class idx:4 at 2024-04-25 10:54:17.334291
+sign in for class idx:5 at 2024-04-25 10:54:22.121801
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+1: Flow Yoga 動瑜珈 by Moorthi is FULL at 2024-04-25 10:54:25.214015
+Failed to reserve the class idx:0 at 2024-04-25 10:54:25.214292
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>25-04-2024 12:45 下午
+            
+************************
+
+2: Universal Basic 寰宇瑜珈基礎 by YaYa is not available for booking yet at 2024-04-25 10:54:25.294550. You should try after 25-04-2024 12:45 下午
+            
+Failed to reserve the class idx:1 at 2024-04-25 10:54:25.294745
