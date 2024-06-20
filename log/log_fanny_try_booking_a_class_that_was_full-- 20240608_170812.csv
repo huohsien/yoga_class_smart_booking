@@ -1,0 +1,3570 @@
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="e1b5167dc3fcebca4d44209484024c01")>] at 2024-06-08 17:08:12.961736
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="2ad8cf743173b87c9fcf75b0bb658927")>] at 2024-06-08 17:08:14.072283
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="872bbb1e035ba9c32374600af4d31f3d")>] at 2024-06-08 17:08:15.168800
+sign in for class idx:0 at 2024-06-08 17:08:18.893839
+sign in for class idx:1 at 2024-06-08 17:08:23.666557
+sign in for class idx:2 at 2024-06-08 17:08:28.371025
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                <a id="ctl00_cphContents_btnBook" class="btn-gradient btnLoader" href="javascript:__doPostBack('ctl00$cphContents$btnBook','')">現在就預訂此課</a>
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                
+            
+************************
+
+1: Warm Stretch 溫和伸展 by Mei Wang is BOOKED at 2024-06-08 17:08:35.411412
+Successfully reserved the class idx:0 at 2024-06-08 17:08:35.411918
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 05:45 下午
+            
+************************
+
+2: Yin Yang Yoga 陰陽瑜珈 by Marcus is not available for booking yet at 2024-06-08 17:08:35.495081. You should try after 08-06-2024 05:45 下午
+            
+Failed to reserve the class idx:1 at 2024-06-08 17:08:35.495264
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 07:15 下午
+            
+************************
+
+3: Counter Flow 1 by Marcus is not available for booking yet at 2024-06-08 17:08:35.570279. You should try after 08-06-2024 07:15 下午
+            
+Failed to reserve the class idx:2 at 2024-06-08 17:08:35.570440
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="e1b5167dc3fcebca4d44209484024c01")>] at 2024-06-08 17:08:40.633272
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="2ad8cf743173b87c9fcf75b0bb658927")>] at 2024-06-08 17:08:40.689269
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="872bbb1e035ba9c32374600af4d31f3d")>] at 2024-06-08 17:08:40.743678
+------------------
+courses to be booked:
+
+Warm Stretch 溫和伸展
+Yin Yang Yoga 陰陽瑜珈
+Counter Flow 1
+
+------------------
+
+------------------
+booked classes:
+
+Warm Stretch 溫和伸展
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="b2cb1acc61cfab6f0086f3130d3dfee2")>] at 2024-06-08 17:08:42.497945
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="e0782488e8afdd1ba96a2a950654aaba")>] at 2024-06-08 17:08:43.548677
+sign in for class idx:1 at 2024-06-08 17:08:46.760977
+sign in for class idx:2 at 2024-06-08 17:08:51.755748
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 05:45 下午
+            
+************************
+
+4: Yin Yang Yoga 陰陽瑜珈 by Marcus is not available for booking yet at 2024-06-08 17:08:54.857780. You should try after 08-06-2024 05:45 下午
+            
+Failed to reserve the class idx:1 at 2024-06-08 17:08:54.858107
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 07:15 下午
+            
+************************
+
+5: Counter Flow 1 by Marcus is not available for booking yet at 2024-06-08 17:08:54.941897. You should try after 08-06-2024 07:15 下午
+            
+Failed to reserve the class idx:2 at 2024-06-08 17:08:54.942049
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="b2cb1acc61cfab6f0086f3130d3dfee2")>] at 2024-06-08 17:09:00.020850
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="e0782488e8afdd1ba96a2a950654aaba")>] at 2024-06-08 17:09:00.088583
+------------------
+courses to be booked:
+
+Warm Stretch 溫和伸展
+Yin Yang Yoga 陰陽瑜珈
+Counter Flow 1
+
+------------------
+
+------------------
+booked classes:
+
+Warm Stretch 溫和伸展
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="19cd08ba8f577739195b6336c63b7bc0")>] at 2024-06-08 17:09:01.854854
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="f35d9e66b766340740ae3e078a83dad4")>] at 2024-06-08 17:09:02.968638
+sign in for class idx:1 at 2024-06-08 17:09:06.018052
+sign in for class idx:2 at 2024-06-08 17:09:10.904830
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 05:45 下午
+            
+************************
+
+6: Yin Yang Yoga 陰陽瑜珈 by Marcus is not available for booking yet at 2024-06-08 17:09:13.993139. You should try after 08-06-2024 05:45 下午
+            
+Failed to reserve the class idx:1 at 2024-06-08 17:09:13.993401
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 07:15 下午
+            
+************************
+
+7: Counter Flow 1 by Marcus is not available for booking yet at 2024-06-08 17:09:14.070104. You should try after 08-06-2024 07:15 下午
+            
+Failed to reserve the class idx:2 at 2024-06-08 17:09:14.070263
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="19cd08ba8f577739195b6336c63b7bc0")>] at 2024-06-08 17:09:19.148977
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="f35d9e66b766340740ae3e078a83dad4")>] at 2024-06-08 17:09:19.215772
+------------------
+courses to be booked:
+
+Warm Stretch 溫和伸展
+Yin Yang Yoga 陰陽瑜珈
+Counter Flow 1
+
+------------------
+
+------------------
+booked classes:
+
+Warm Stretch 溫和伸展
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="c0c5dcd954328b5e44faef2cdb563efd")>] at 2024-06-08 17:09:20.978952
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="895598234f5224188f60dbc75f67567c")>] at 2024-06-08 17:09:22.109842
+sign in for class idx:1 at 2024-06-08 17:09:25.292932
+sign in for class idx:2 at 2024-06-08 17:09:30.037918
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 05:45 下午
+            
+************************
+
+8: Yin Yang Yoga 陰陽瑜珈 by Marcus is not available for booking yet at 2024-06-08 17:09:33.149201. You should try after 08-06-2024 05:45 下午
+            
+Failed to reserve the class idx:1 at 2024-06-08 17:09:33.149470
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 07:15 下午
+            
+************************
+
+9: Counter Flow 1 by Marcus is not available for booking yet at 2024-06-08 17:09:33.223819. You should try after 08-06-2024 07:15 下午
+            
+Failed to reserve the class idx:2 at 2024-06-08 17:09:33.223940
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="c0c5dcd954328b5e44faef2cdb563efd")>] at 2024-06-08 17:09:38.290309
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="895598234f5224188f60dbc75f67567c")>] at 2024-06-08 17:09:38.354537
+------------------
+courses to be booked:
+
+Warm Stretch 溫和伸展
+Yin Yang Yoga 陰陽瑜珈
+Counter Flow 1
+
+------------------
+
+------------------
+booked classes:
+
+Warm Stretch 溫和伸展
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="c9aa548daf4aae4882a323c9bf2e8bb7")>] at 2024-06-08 17:09:40.069891
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="1894e6c566b7bc943c402dea12e128b2")>] at 2024-06-08 17:09:41.219411
+sign in for class idx:1 at 2024-06-08 17:09:44.358105
+sign in for class idx:2 at 2024-06-08 17:09:49.211827
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 05:45 下午
+            
+************************
+
+10: Yin Yang Yoga 陰陽瑜珈 by Marcus is not available for booking yet at 2024-06-08 17:09:52.325693. You should try after 08-06-2024 05:45 下午
+            
+Failed to reserve the class idx:1 at 2024-06-08 17:09:52.326007
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 07:15 下午
+            
+************************
+
+11: Counter Flow 1 by Marcus is not available for booking yet at 2024-06-08 17:09:52.402662. You should try after 08-06-2024 07:15 下午
+            
+Failed to reserve the class idx:2 at 2024-06-08 17:09:52.402805
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="c9aa548daf4aae4882a323c9bf2e8bb7")>] at 2024-06-08 17:09:57.476901
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="1894e6c566b7bc943c402dea12e128b2")>] at 2024-06-08 17:09:57.540739
+------------------
+courses to be booked:
+
+Warm Stretch 溫和伸展
+Yin Yang Yoga 陰陽瑜珈
+Counter Flow 1
+
+------------------
+
+------------------
+booked classes:
+
+Warm Stretch 溫和伸展
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="de44fa1e29df96b7a16738112b6ec9e9")>] at 2024-06-08 17:09:59.332318
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="642c69b2e8f6068e1be7df0c1a3227e8")>] at 2024-06-08 17:10:00.437257
+sign in for class idx:1 at 2024-06-08 17:10:03.732753
+sign in for class idx:2 at 2024-06-08 17:10:08.487435
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 05:45 下午
+            
+************************
+
+12: Yin Yang Yoga 陰陽瑜珈 by Marcus is not available for booking yet at 2024-06-08 17:10:11.589059. You should try after 08-06-2024 05:45 下午
+            
+Failed to reserve the class idx:1 at 2024-06-08 17:10:11.589359
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 07:15 下午
+            
+************************
+
+13: Counter Flow 1 by Marcus is not available for booking yet at 2024-06-08 17:10:11.665736. You should try after 08-06-2024 07:15 下午
+            
+Failed to reserve the class idx:2 at 2024-06-08 17:10:11.665886
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="de44fa1e29df96b7a16738112b6ec9e9")>] at 2024-06-08 17:10:16.731273
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="642c69b2e8f6068e1be7df0c1a3227e8")>] at 2024-06-08 17:10:16.793944
+------------------
+courses to be booked:
+
+Warm Stretch 溫和伸展
+Yin Yang Yoga 陰陽瑜珈
+Counter Flow 1
+
+------------------
+
+------------------
+booked classes:
+
+Warm Stretch 溫和伸展
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="695cb0353a80eaf43d428d6c6f68060d")>] at 2024-06-08 17:10:18.567510
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="6306e3481b6891605dc88cbd7d23b557")>] at 2024-06-08 17:10:19.675048
+sign in for class idx:1 at 2024-06-08 17:10:22.836879
+sign in for class idx:2 at 2024-06-08 17:10:27.558647
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 05:45 下午
+            
+************************
+
+14: Yin Yang Yoga 陰陽瑜珈 by Marcus is not available for booking yet at 2024-06-08 17:10:30.663196. You should try after 08-06-2024 05:45 下午
+            
+Failed to reserve the class idx:1 at 2024-06-08 17:10:30.663433
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 07:15 下午
+            
+************************
+
+15: Counter Flow 1 by Marcus is not available for booking yet at 2024-06-08 17:10:30.739950. You should try after 08-06-2024 07:15 下午
+            
+Failed to reserve the class idx:2 at 2024-06-08 17:10:30.740194
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="695cb0353a80eaf43d428d6c6f68060d")>] at 2024-06-08 17:10:35.817083
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="6306e3481b6891605dc88cbd7d23b557")>] at 2024-06-08 17:10:35.880897
+------------------
+courses to be booked:
+
+Warm Stretch 溫和伸展
+Yin Yang Yoga 陰陽瑜珈
+Counter Flow 1
+
+------------------
+
+------------------
+booked classes:
+
+Warm Stretch 溫和伸展
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="f4e097740fcae4ba7b29a8126df522aa")>] at 2024-06-08 17:10:37.694753
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="f98f1d1a7f980b6a720b3297d0be1975")>] at 2024-06-08 17:10:38.841407
+sign in for class idx:1 at 2024-06-08 17:10:42.072454
+sign in for class idx:2 at 2024-06-08 17:10:46.919718
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 05:45 下午
+            
+************************
+
+16: Yin Yang Yoga 陰陽瑜珈 by Marcus is not available for booking yet at 2024-06-08 17:10:50.027524. You should try after 08-06-2024 05:45 下午
+            
+Failed to reserve the class idx:1 at 2024-06-08 17:10:50.027802
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 07:15 下午
+            
+************************
+
+17: Counter Flow 1 by Marcus is not available for booking yet at 2024-06-08 17:10:50.109853. You should try after 08-06-2024 07:15 下午
+            
+Failed to reserve the class idx:2 at 2024-06-08 17:10:50.109980
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="f4e097740fcae4ba7b29a8126df522aa")>] at 2024-06-08 17:10:55.186159
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="f98f1d1a7f980b6a720b3297d0be1975")>] at 2024-06-08 17:10:55.253993
+------------------
+courses to be booked:
+
+Warm Stretch 溫和伸展
+Yin Yang Yoga 陰陽瑜珈
+Counter Flow 1
+
+------------------
+
+------------------
+booked classes:
+
+Warm Stretch 溫和伸展
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="a5fe41253587f21a519763d7093f3604")>] at 2024-06-08 17:10:57.043062
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="2858eda77c682597eba6a9f1817a237c")>] at 2024-06-08 17:10:58.185445
+sign in for class idx:1 at 2024-06-08 17:11:01.392601
+sign in for class idx:2 at 2024-06-08 17:11:06.253824
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 05:45 下午
+            
+************************
+
+18: Yin Yang Yoga 陰陽瑜珈 by Marcus is not available for booking yet at 2024-06-08 17:11:09.357126. You should try after 08-06-2024 05:45 下午
+            
+Failed to reserve the class idx:1 at 2024-06-08 17:11:09.357449
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 07:15 下午
+            
+************************
+
+19: Counter Flow 1 by Marcus is not available for booking yet at 2024-06-08 17:11:09.432207. You should try after 08-06-2024 07:15 下午
+            
+Failed to reserve the class idx:2 at 2024-06-08 17:11:09.432378
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="a5fe41253587f21a519763d7093f3604")>] at 2024-06-08 17:11:14.506312
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="2858eda77c682597eba6a9f1817a237c")>] at 2024-06-08 17:11:14.563158
+------------------
+courses to be booked:
+
+Warm Stretch 溫和伸展
+Yin Yang Yoga 陰陽瑜珈
+Counter Flow 1
+
+------------------
+
+------------------
+booked classes:
+
+Warm Stretch 溫和伸展
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="7dd8e4175fb2ebb060eeacff274695dc")>] at 2024-06-08 17:11:16.330385
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="d28156057c96ab8edba9eb0749b0047e")>] at 2024-06-08 17:11:17.450976
+sign in for class idx:1 at 2024-06-08 17:11:20.559533
+sign in for class idx:2 at 2024-06-08 17:11:25.392270
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 05:45 下午
+            
+************************
+
+20: Yin Yang Yoga 陰陽瑜珈 by Marcus is not available for booking yet at 2024-06-08 17:11:28.477182. You should try after 08-06-2024 05:45 下午
+            
+Failed to reserve the class idx:1 at 2024-06-08 17:11:28.477452
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 07:15 下午
+            
+************************
+
+21: Counter Flow 1 by Marcus is not available for booking yet at 2024-06-08 17:11:28.553698. You should try after 08-06-2024 07:15 下午
+            
+Failed to reserve the class idx:2 at 2024-06-08 17:11:28.553865
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="7dd8e4175fb2ebb060eeacff274695dc")>] at 2024-06-08 17:11:33.630954
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="d28156057c96ab8edba9eb0749b0047e")>] at 2024-06-08 17:11:33.698323
+------------------
+courses to be booked:
+
+Warm Stretch 溫和伸展
+Yin Yang Yoga 陰陽瑜珈
+Counter Flow 1
+
+------------------
+
+------------------
+booked classes:
+
+Warm Stretch 溫和伸展
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="77158c6891fd4b05bd14d9e6bbf9d133")>] at 2024-06-08 17:11:35.473184
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="981f9c78ce0d64a867f86a630699aef5")>] at 2024-06-08 17:11:36.681646
+sign in for class idx:1 at 2024-06-08 17:11:39.777032
+sign in for class idx:2 at 2024-06-08 17:11:44.521498
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 05:45 下午
+            
+************************
+
+22: Yin Yang Yoga 陰陽瑜珈 by Marcus is not available for booking yet at 2024-06-08 17:11:47.610610. You should try after 08-06-2024 05:45 下午
+            
+Failed to reserve the class idx:1 at 2024-06-08 17:11:47.610956
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 07:15 下午
+            
+************************
+
+23: Counter Flow 1 by Marcus is not available for booking yet at 2024-06-08 17:11:47.688388. You should try after 08-06-2024 07:15 下午
+            
+Failed to reserve the class idx:2 at 2024-06-08 17:11:47.688578
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="77158c6891fd4b05bd14d9e6bbf9d133")>] at 2024-06-08 17:11:52.750155
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="981f9c78ce0d64a867f86a630699aef5")>] at 2024-06-08 17:11:52.809406
+------------------
+courses to be booked:
+
+Warm Stretch 溫和伸展
+Yin Yang Yoga 陰陽瑜珈
+Counter Flow 1
+
+------------------
+
+------------------
+booked classes:
+
+Warm Stretch 溫和伸展
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="856618d0885ab2ea713bec1148821efc")>] at 2024-06-08 17:11:54.596478
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="2cc1fb46398a8bbefaaa3454d497542e")>] at 2024-06-08 17:11:55.693013
+sign in for class idx:1 at 2024-06-08 17:11:58.781392
+sign in for class idx:2 at 2024-06-08 17:12:03.538250
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 05:45 下午
+            
+************************
+
+24: Yin Yang Yoga 陰陽瑜珈 by Marcus is not available for booking yet at 2024-06-08 17:12:06.614808. You should try after 08-06-2024 05:45 下午
+            
+Failed to reserve the class idx:1 at 2024-06-08 17:12:06.615108
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 07:15 下午
+            
+************************
+
+25: Counter Flow 1 by Marcus is not available for booking yet at 2024-06-08 17:12:06.685166. You should try after 08-06-2024 07:15 下午
+            
+Failed to reserve the class idx:2 at 2024-06-08 17:12:06.685339
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="856618d0885ab2ea713bec1148821efc")>] at 2024-06-08 17:12:11.749426
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="2cc1fb46398a8bbefaaa3454d497542e")>] at 2024-06-08 17:12:11.808246
+------------------
+courses to be booked:
+
+Warm Stretch 溫和伸展
+Yin Yang Yoga 陰陽瑜珈
+Counter Flow 1
+
+------------------
+
+------------------
+booked classes:
+
+Warm Stretch 溫和伸展
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="41693707fc04d51a02b5a2be6b9cdd5b")>] at 2024-06-08 17:12:13.587686
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="7b5ac899df678fda9439c3ad02de0570")>] at 2024-06-08 17:12:14.687558
+sign in for class idx:1 at 2024-06-08 17:12:17.841252
+sign in for class idx:2 at 2024-06-08 17:12:22.565914
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 05:45 下午
+            
+************************
+
+26: Yin Yang Yoga 陰陽瑜珈 by Marcus is not available for booking yet at 2024-06-08 17:12:25.688676. You should try after 08-06-2024 05:45 下午
+            
+Failed to reserve the class idx:1 at 2024-06-08 17:12:25.688984
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 07:15 下午
+            
+************************
+
+27: Counter Flow 1 by Marcus is not available for booking yet at 2024-06-08 17:12:25.765218. You should try after 08-06-2024 07:15 下午
+            
+Failed to reserve the class idx:2 at 2024-06-08 17:12:25.765390
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="41693707fc04d51a02b5a2be6b9cdd5b")>] at 2024-06-08 17:12:30.834009
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="7b5ac899df678fda9439c3ad02de0570")>] at 2024-06-08 17:12:30.895232
+------------------
+courses to be booked:
+
+Warm Stretch 溫和伸展
+Yin Yang Yoga 陰陽瑜珈
+Counter Flow 1
+
+------------------
+
+------------------
+booked classes:
+
+Warm Stretch 溫和伸展
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="c681bc57486fc903805ef26bb237da72")>] at 2024-06-08 17:12:32.680212
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="0bf99553ac271c3c1d5cb3245dedb847")>] at 2024-06-08 17:12:33.787079
+sign in for class idx:1 at 2024-06-08 17:12:37.088116
+sign in for class idx:2 at 2024-06-08 17:12:41.900035
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 05:45 下午
+            
+************************
+
+28: Yin Yang Yoga 陰陽瑜珈 by Marcus is not available for booking yet at 2024-06-08 17:12:44.987611. You should try after 08-06-2024 05:45 下午
+            
+Failed to reserve the class idx:1 at 2024-06-08 17:12:44.987849
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 07:15 下午
+            
+************************
+
+29: Counter Flow 1 by Marcus is not available for booking yet at 2024-06-08 17:12:45.070094. You should try after 08-06-2024 07:15 下午
+            
+Failed to reserve the class idx:2 at 2024-06-08 17:12:45.070223
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="c681bc57486fc903805ef26bb237da72")>] at 2024-06-08 17:12:50.131181
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="0bf99553ac271c3c1d5cb3245dedb847")>] at 2024-06-08 17:12:50.193075
+------------------
+courses to be booked:
+
+Warm Stretch 溫和伸展
+Yin Yang Yoga 陰陽瑜珈
+Counter Flow 1
+
+------------------
+
+------------------
+booked classes:
+
+Warm Stretch 溫和伸展
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="f2fd61a972f0fa2ec41a078f3f416b9a")>] at 2024-06-08 17:12:51.943400
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="0ac41b1ed748fe93e84d4680b6569e7b")>] at 2024-06-08 17:12:53.054588
+sign in for class idx:1 at 2024-06-08 17:12:56.184163
+sign in for class idx:2 at 2024-06-08 17:13:00.910815
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 05:45 下午
+            
+************************
+
+30: Yin Yang Yoga 陰陽瑜珈 by Marcus is not available for booking yet at 2024-06-08 17:13:03.992504. You should try after 08-06-2024 05:45 下午
+            
+Failed to reserve the class idx:1 at 2024-06-08 17:13:03.992779
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 07:15 下午
+            
+************************
+
+31: Counter Flow 1 by Marcus is not available for booking yet at 2024-06-08 17:13:04.060871. You should try after 08-06-2024 07:15 下午
+            
+Failed to reserve the class idx:2 at 2024-06-08 17:13:04.061049
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="f2fd61a972f0fa2ec41a078f3f416b9a")>] at 2024-06-08 17:13:09.127852
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="0ac41b1ed748fe93e84d4680b6569e7b")>] at 2024-06-08 17:13:09.186445
+------------------
+courses to be booked:
+
+Warm Stretch 溫和伸展
+Yin Yang Yoga 陰陽瑜珈
+Counter Flow 1
+
+------------------
+
+------------------
+booked classes:
+
+Warm Stretch 溫和伸展
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="fe2ac919ae4ce380c24abe52570e067b")>] at 2024-06-08 17:13:10.954014
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="42cb50ba81cf12c91f80c177e355cc40")>] at 2024-06-08 17:13:12.063337
+sign in for class idx:1 at 2024-06-08 17:13:15.390051
+sign in for class idx:2 at 2024-06-08 17:13:20.173881
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 05:45 下午
+            
+************************
+
+32: Yin Yang Yoga 陰陽瑜珈 by Marcus is not available for booking yet at 2024-06-08 17:13:23.286188. You should try after 08-06-2024 05:45 下午
+            
+Failed to reserve the class idx:1 at 2024-06-08 17:13:23.286522
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 07:15 下午
+            
+************************
+
+33: Counter Flow 1 by Marcus is not available for booking yet at 2024-06-08 17:13:23.371159. You should try after 08-06-2024 07:15 下午
+            
+Failed to reserve the class idx:2 at 2024-06-08 17:13:23.371369
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="fe2ac919ae4ce380c24abe52570e067b")>] at 2024-06-08 17:13:28.441443
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="42cb50ba81cf12c91f80c177e355cc40")>] at 2024-06-08 17:13:28.503773
+------------------
+courses to be booked:
+
+Warm Stretch 溫和伸展
+Yin Yang Yoga 陰陽瑜珈
+Counter Flow 1
+
+------------------
+
+------------------
+booked classes:
+
+Warm Stretch 溫和伸展
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="a4d7be25a3f8118603704bab5ca020c1")>] at 2024-06-08 17:13:30.273568
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="d72517d19fa2de80d297340e4d999e1c")>] at 2024-06-08 17:13:31.386653
+sign in for class idx:1 at 2024-06-08 17:13:34.594851
+sign in for class idx:2 at 2024-06-08 17:13:39.330699
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 05:45 下午
+            
+************************
+
+34: Yin Yang Yoga 陰陽瑜珈 by Marcus is not available for booking yet at 2024-06-08 17:13:42.425807. You should try after 08-06-2024 05:45 下午
+            
+Failed to reserve the class idx:1 at 2024-06-08 17:13:42.426028
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 07:15 下午
+            
+************************
+
+35: Counter Flow 1 by Marcus is not available for booking yet at 2024-06-08 17:13:42.508605. You should try after 08-06-2024 07:15 下午
+            
+Failed to reserve the class idx:2 at 2024-06-08 17:13:42.508748
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="a4d7be25a3f8118603704bab5ca020c1")>] at 2024-06-08 17:13:47.570844
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="d72517d19fa2de80d297340e4d999e1c")>] at 2024-06-08 17:13:47.629726
+------------------
+courses to be booked:
+
+Warm Stretch 溫和伸展
+Yin Yang Yoga 陰陽瑜珈
+Counter Flow 1
+
+------------------
+
+------------------
+booked classes:
+
+Warm Stretch 溫和伸展
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="f08cb942db39bfd6b70dc4f45abf79f8")>] at 2024-06-08 17:13:49.402940
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="63661db09fc1476e31454b9635aab8b6")>] at 2024-06-08 17:13:50.499595
+sign in for class idx:1 at 2024-06-08 17:13:53.685669
+sign in for class idx:2 at 2024-06-08 17:13:58.688350
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 05:45 下午
+            
+************************
+
+36: Yin Yang Yoga 陰陽瑜珈 by Marcus is not available for booking yet at 2024-06-08 17:14:01.787985. You should try after 08-06-2024 05:45 下午
+            
+Failed to reserve the class idx:1 at 2024-06-08 17:14:01.788373
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 07:15 下午
+            
+************************
+
+37: Counter Flow 1 by Marcus is not available for booking yet at 2024-06-08 17:14:01.865044. You should try after 08-06-2024 07:15 下午
+            
+Failed to reserve the class idx:2 at 2024-06-08 17:14:01.865255
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="f08cb942db39bfd6b70dc4f45abf79f8")>] at 2024-06-08 17:14:06.931001
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="63661db09fc1476e31454b9635aab8b6")>] at 2024-06-08 17:14:06.987313
+------------------
+courses to be booked:
+
+Warm Stretch 溫和伸展
+Yin Yang Yoga 陰陽瑜珈
+Counter Flow 1
+
+------------------
+
+------------------
+booked classes:
+
+Warm Stretch 溫和伸展
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="fbae34ed4ed4456ba9c36b6cd386a0ee")>] at 2024-06-08 17:14:08.747752
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="41081ad3988bd4a60bf97a7009158201")>] at 2024-06-08 17:14:09.867917
+sign in for class idx:1 at 2024-06-08 17:14:13.139434
+sign in for class idx:2 at 2024-06-08 17:14:17.978056
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 05:45 下午
+            
+************************
+
+38: Yin Yang Yoga 陰陽瑜珈 by Marcus is not available for booking yet at 2024-06-08 17:14:21.091795. You should try after 08-06-2024 05:45 下午
+            
+Failed to reserve the class idx:1 at 2024-06-08 17:14:21.092103
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 07:15 下午
+            
+************************
+
+39: Counter Flow 1 by Marcus is not available for booking yet at 2024-06-08 17:14:21.180988. You should try after 08-06-2024 07:15 下午
+            
+Failed to reserve the class idx:2 at 2024-06-08 17:14:21.181160
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="fbae34ed4ed4456ba9c36b6cd386a0ee")>] at 2024-06-08 17:14:26.248245
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="41081ad3988bd4a60bf97a7009158201")>] at 2024-06-08 17:14:26.309893
+------------------
+courses to be booked:
+
+Warm Stretch 溫和伸展
+Yin Yang Yoga 陰陽瑜珈
+Counter Flow 1
+
+------------------
+
+------------------
+booked classes:
+
+Warm Stretch 溫和伸展
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="3356423435177d527f60f2404cd2c38f")>] at 2024-06-08 17:14:28.078326
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="feb3586d8f8ba706d2a4a64044c3bd9f")>] at 2024-06-08 17:14:29.163171
+sign in for class idx:1 at 2024-06-08 17:14:32.326600
+sign in for class idx:2 at 2024-06-08 17:14:37.183841
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 05:45 下午
+            
+************************
+
+40: Yin Yang Yoga 陰陽瑜珈 by Marcus is not available for booking yet at 2024-06-08 17:14:40.283369. You should try after 08-06-2024 05:45 下午
+            
+Failed to reserve the class idx:1 at 2024-06-08 17:14:40.283636
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 07:15 下午
+            
+************************
+
+41: Counter Flow 1 by Marcus is not available for booking yet at 2024-06-08 17:14:40.366253. You should try after 08-06-2024 07:15 下午
+            
+Failed to reserve the class idx:2 at 2024-06-08 17:14:40.366392
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="3356423435177d527f60f2404cd2c38f")>] at 2024-06-08 17:14:45.430885
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="feb3586d8f8ba706d2a4a64044c3bd9f")>] at 2024-06-08 17:14:45.489399
+------------------
+courses to be booked:
+
+Warm Stretch 溫和伸展
+Yin Yang Yoga 陰陽瑜珈
+Counter Flow 1
+
+------------------
+
+------------------
+booked classes:
+
+Warm Stretch 溫和伸展
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="b38275ad95974245eb6682065ce1cfa3")>] at 2024-06-08 17:14:47.264840
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="a4a9111b7a28d32f82468f36b4780534")>] at 2024-06-08 17:14:48.399428
+sign in for class idx:1 at 2024-06-08 17:14:51.539819
+sign in for class idx:2 at 2024-06-08 17:14:56.230803
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 05:45 下午
+            
+************************
+
+42: Yin Yang Yoga 陰陽瑜珈 by Marcus is not available for booking yet at 2024-06-08 17:14:59.316902. You should try after 08-06-2024 05:45 下午
+            
+Failed to reserve the class idx:1 at 2024-06-08 17:14:59.317214
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 07:15 下午
+            
+************************
+
+43: Counter Flow 1 by Marcus is not available for booking yet at 2024-06-08 17:14:59.390933. You should try after 08-06-2024 07:15 下午
+            
+Failed to reserve the class idx:2 at 2024-06-08 17:14:59.391082
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="b38275ad95974245eb6682065ce1cfa3")>] at 2024-06-08 17:15:04.459313
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="a4a9111b7a28d32f82468f36b4780534")>] at 2024-06-08 17:15:04.520989
+------------------
+courses to be booked:
+
+Warm Stretch 溫和伸展
+Yin Yang Yoga 陰陽瑜珈
+Counter Flow 1
+
+------------------
+
+------------------
+booked classes:
+
+Warm Stretch 溫和伸展
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="63915174336ab10ffecbeb62b0c52a6f")>] at 2024-06-08 17:15:06.276395
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="2eaef836ea629d123e2ffe6c6ec9d211")>] at 2024-06-08 17:15:07.387922
+sign in for class idx:1 at 2024-06-08 17:15:10.474135
+sign in for class idx:2 at 2024-06-08 17:15:15.186395
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 05:45 下午
+            
+************************
+
+44: Yin Yang Yoga 陰陽瑜珈 by Marcus is not available for booking yet at 2024-06-08 17:15:18.267651. You should try after 08-06-2024 05:45 下午
+            
+Failed to reserve the class idx:1 at 2024-06-08 17:15:18.267921
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 07:15 下午
+            
+************************
+
+45: Counter Flow 1 by Marcus is not available for booking yet at 2024-06-08 17:15:18.338151. You should try after 08-06-2024 07:15 下午
+            
+Failed to reserve the class idx:2 at 2024-06-08 17:15:18.338305
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="63915174336ab10ffecbeb62b0c52a6f")>] at 2024-06-08 17:15:23.401643
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="2eaef836ea629d123e2ffe6c6ec9d211")>] at 2024-06-08 17:15:23.460178
+------------------
+courses to be booked:
+
+Warm Stretch 溫和伸展
+Yin Yang Yoga 陰陽瑜珈
+Counter Flow 1
+
+------------------
+
+------------------
+booked classes:
+
+Warm Stretch 溫和伸展
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="b5e5f898735a099de67dff2f640c36f3")>] at 2024-06-08 17:15:25.243737
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="5bfd121291d2e358ec4e1608ff790cb8")>] at 2024-06-08 17:15:26.337668
+sign in for class idx:1 at 2024-06-08 17:15:29.608959
+sign in for class idx:2 at 2024-06-08 17:15:34.514262
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 05:45 下午
+            
+************************
+
+46: Yin Yang Yoga 陰陽瑜珈 by Marcus is not available for booking yet at 2024-06-08 17:15:37.592992. You should try after 08-06-2024 05:45 下午
+            
+Failed to reserve the class idx:1 at 2024-06-08 17:15:37.593291
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 07:15 下午
+            
+************************
+
+47: Counter Flow 1 by Marcus is not available for booking yet at 2024-06-08 17:15:37.674088. You should try after 08-06-2024 07:15 下午
+            
+Failed to reserve the class idx:2 at 2024-06-08 17:15:37.674245
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="b5e5f898735a099de67dff2f640c36f3")>] at 2024-06-08 17:15:42.732986
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="5bfd121291d2e358ec4e1608ff790cb8")>] at 2024-06-08 17:15:42.791300
+------------------
+courses to be booked:
+
+Warm Stretch 溫和伸展
+Yin Yang Yoga 陰陽瑜珈
+Counter Flow 1
+
+------------------
+
+------------------
+booked classes:
+
+Warm Stretch 溫和伸展
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="382de6af465d285b8d32e5ba48f5aa79")>] at 2024-06-08 17:15:44.565128
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="c0d4ef783d4d5dd9c6f0a6b2209ae30d")>] at 2024-06-08 17:15:45.646992
+sign in for class idx:1 at 2024-06-08 17:15:48.771750
+sign in for class idx:2 at 2024-06-08 17:15:53.575546
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 05:45 下午
+            
+************************
+
+48: Yin Yang Yoga 陰陽瑜珈 by Marcus is not available for booking yet at 2024-06-08 17:15:56.680870. You should try after 08-06-2024 05:45 下午
+            
+Failed to reserve the class idx:1 at 2024-06-08 17:15:56.681171
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 07:15 下午
+            
+************************
+
+49: Counter Flow 1 by Marcus is not available for booking yet at 2024-06-08 17:15:56.758594. You should try after 08-06-2024 07:15 下午
+            
+Failed to reserve the class idx:2 at 2024-06-08 17:15:56.758727
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="382de6af465d285b8d32e5ba48f5aa79")>] at 2024-06-08 17:16:01.826124
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="c0d4ef783d4d5dd9c6f0a6b2209ae30d")>] at 2024-06-08 17:16:01.885540
+------------------
+courses to be booked:
+
+Warm Stretch 溫和伸展
+Yin Yang Yoga 陰陽瑜珈
+Counter Flow 1
+
+------------------
+
+------------------
+booked classes:
+
+Warm Stretch 溫和伸展
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="67fb695efa57cf5f13c93bf55103d7cb")>] at 2024-06-08 17:16:03.634224
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="2d42af76c2d5ac1eafb9c647dbe0bcd5")>] at 2024-06-08 17:16:04.731999
+sign in for class idx:1 at 2024-06-08 17:16:07.831877
+sign in for class idx:2 at 2024-06-08 17:16:12.744284
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 05:45 下午
+            
+************************
+
+50: Yin Yang Yoga 陰陽瑜珈 by Marcus is not available for booking yet at 2024-06-08 17:16:15.838585. You should try after 08-06-2024 05:45 下午
+            
+Failed to reserve the class idx:1 at 2024-06-08 17:16:15.838885
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 07:15 下午
+            
+************************
+
+51: Counter Flow 1 by Marcus is not available for booking yet at 2024-06-08 17:16:15.914126. You should try after 08-06-2024 07:15 下午
+            
+Failed to reserve the class idx:2 at 2024-06-08 17:16:15.914309
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="67fb695efa57cf5f13c93bf55103d7cb")>] at 2024-06-08 17:16:20.983128
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="2d42af76c2d5ac1eafb9c647dbe0bcd5")>] at 2024-06-08 17:16:21.044782
+------------------
+courses to be booked:
+
+Warm Stretch 溫和伸展
+Yin Yang Yoga 陰陽瑜珈
+Counter Flow 1
+
+------------------
+
+------------------
+booked classes:
+
+Warm Stretch 溫和伸展
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="2f4ccf93d395925f652e0a339738be0f")>] at 2024-06-08 17:16:22.812793
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="a2509c49d7b4bc461adf8f70338e4c3f")>] at 2024-06-08 17:16:23.898699
+sign in for class idx:1 at 2024-06-08 17:16:26.988956
+sign in for class idx:2 at 2024-06-08 17:16:31.810122
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 05:45 下午
+            
+************************
+
+52: Yin Yang Yoga 陰陽瑜珈 by Marcus is not available for booking yet at 2024-06-08 17:16:34.921918. You should try after 08-06-2024 05:45 下午
+            
+Failed to reserve the class idx:1 at 2024-06-08 17:16:34.922236
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 07:15 下午
+            
+************************
+
+53: Counter Flow 1 by Marcus is not available for booking yet at 2024-06-08 17:16:34.998781. You should try after 08-06-2024 07:15 下午
+            
+Failed to reserve the class idx:2 at 2024-06-08 17:16:34.998939
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="2f4ccf93d395925f652e0a339738be0f")>] at 2024-06-08 17:16:40.062187
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="a2509c49d7b4bc461adf8f70338e4c3f")>] at 2024-06-08 17:16:40.120071
+------------------
+courses to be booked:
+
+Warm Stretch 溫和伸展
+Yin Yang Yoga 陰陽瑜珈
+Counter Flow 1
+
+------------------
+
+------------------
+booked classes:
+
+Warm Stretch 溫和伸展
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="b9f9703ca307ebe62fd386f760b80529")>] at 2024-06-08 17:16:41.878249
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="46a4c74da3679a5186bd3ad494e12b5f")>] at 2024-06-08 17:16:42.988799
+sign in for class idx:1 at 2024-06-08 17:16:46.179273
+sign in for class idx:2 at 2024-06-08 17:16:51.280414
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 05:45 下午
+            
+************************
+
+54: Yin Yang Yoga 陰陽瑜珈 by Marcus is not available for booking yet at 2024-06-08 17:16:54.373299. You should try after 08-06-2024 05:45 下午
+            
+Failed to reserve the class idx:1 at 2024-06-08 17:16:54.373641
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 07:15 下午
+            
+************************
+
+55: Counter Flow 1 by Marcus is not available for booking yet at 2024-06-08 17:16:54.452604. You should try after 08-06-2024 07:15 下午
+            
+Failed to reserve the class idx:2 at 2024-06-08 17:16:54.452757
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="b9f9703ca307ebe62fd386f760b80529")>] at 2024-06-08 17:16:59.519879
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="46a4c74da3679a5186bd3ad494e12b5f")>] at 2024-06-08 17:16:59.580436
+------------------
+courses to be booked:
+
+Warm Stretch 溫和伸展
+Yin Yang Yoga 陰陽瑜珈
+Counter Flow 1
+
+------------------
+
+------------------
+booked classes:
+
+Warm Stretch 溫和伸展
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="ba70f84ae9a81918627fab4c71988785")>] at 2024-06-08 17:17:01.338316
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="adccbcb36fd4b9019a0f6ab2c6820b8f")>] at 2024-06-08 17:17:02.452001
+sign in for class idx:1 at 2024-06-08 17:17:05.555946
+sign in for class idx:2 at 2024-06-08 17:17:10.520568
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 05:45 下午
+            
+************************
+
+56: Yin Yang Yoga 陰陽瑜珈 by Marcus is not available for booking yet at 2024-06-08 17:17:13.608678. You should try after 08-06-2024 05:45 下午
+            
+Failed to reserve the class idx:1 at 2024-06-08 17:17:13.609005
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 07:15 下午
+            
+************************
+
+57: Counter Flow 1 by Marcus is not available for booking yet at 2024-06-08 17:17:13.683550. You should try after 08-06-2024 07:15 下午
+            
+Failed to reserve the class idx:2 at 2024-06-08 17:17:13.683709
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="ba70f84ae9a81918627fab4c71988785")>] at 2024-06-08 17:17:18.748728
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="adccbcb36fd4b9019a0f6ab2c6820b8f")>] at 2024-06-08 17:17:18.809639
+------------------
+courses to be booked:
+
+Warm Stretch 溫和伸展
+Yin Yang Yoga 陰陽瑜珈
+Counter Flow 1
+
+------------------
+
+------------------
+booked classes:
+
+Warm Stretch 溫和伸展
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="9b746ad486f0466a2548a715af621179")>] at 2024-06-08 17:17:20.576500
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="d02ba1e174ebe8cdb7c8a6c083111191")>] at 2024-06-08 17:17:21.692331
+sign in for class idx:1 at 2024-06-08 17:17:24.776288
+sign in for class idx:2 at 2024-06-08 17:17:29.642646
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 05:45 下午
+            
+************************
+
+58: Yin Yang Yoga 陰陽瑜珈 by Marcus is not available for booking yet at 2024-06-08 17:17:32.743650. You should try after 08-06-2024 05:45 下午
+            
+Failed to reserve the class idx:1 at 2024-06-08 17:17:32.743943
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 07:15 下午
+            
+************************
+
+59: Counter Flow 1 by Marcus is not available for booking yet at 2024-06-08 17:17:32.820452. You should try after 08-06-2024 07:15 下午
+            
+Failed to reserve the class idx:2 at 2024-06-08 17:17:32.820609
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="9b746ad486f0466a2548a715af621179")>] at 2024-06-08 17:17:37.887009
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="d02ba1e174ebe8cdb7c8a6c083111191")>] at 2024-06-08 17:17:37.946998
+------------------
+courses to be booked:
+
+Warm Stretch 溫和伸展
+Yin Yang Yoga 陰陽瑜珈
+Counter Flow 1
+
+------------------
+
+------------------
+booked classes:
+
+Warm Stretch 溫和伸展
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="895f01ce327abf33420136f1fe7d15f2")>] at 2024-06-08 17:17:39.705428
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="087704f1b5a437e30af54f0fb2429ad1")>] at 2024-06-08 17:17:40.800921
+sign in for class idx:1 at 2024-06-08 17:17:43.989976
+sign in for class idx:2 at 2024-06-08 17:17:48.776814
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 05:45 下午
+            
+************************
+
+60: Yin Yang Yoga 陰陽瑜珈 by Marcus is not available for booking yet at 2024-06-08 17:17:51.881229. You should try after 08-06-2024 05:45 下午
+            
+Failed to reserve the class idx:1 at 2024-06-08 17:17:51.881536
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 07:15 下午
+            
+************************
+
+61: Counter Flow 1 by Marcus is not available for booking yet at 2024-06-08 17:17:51.960772. You should try after 08-06-2024 07:15 下午
+            
+Failed to reserve the class idx:2 at 2024-06-08 17:17:51.960914
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="895f01ce327abf33420136f1fe7d15f2")>] at 2024-06-08 17:17:57.019329
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="087704f1b5a437e30af54f0fb2429ad1")>] at 2024-06-08 17:17:57.078979
+------------------
+courses to be booked:
+
+Warm Stretch 溫和伸展
+Yin Yang Yoga 陰陽瑜珈
+Counter Flow 1
+
+------------------
+
+------------------
+booked classes:
+
+Warm Stretch 溫和伸展
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="6aa406787e0b2caa4e3746630998ad52")>] at 2024-06-08 17:17:58.855995
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="ad4ddd0f16ef27825f5100d92c6d54d2")>] at 2024-06-08 17:17:59.949399
+sign in for class idx:1 at 2024-06-08 17:18:03.078084
+sign in for class idx:2 at 2024-06-08 17:18:07.941621
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 05:45 下午
+            
+************************
+
+62: Yin Yang Yoga 陰陽瑜珈 by Marcus is not available for booking yet at 2024-06-08 17:18:11.024461. You should try after 08-06-2024 05:45 下午
+            
+Failed to reserve the class idx:1 at 2024-06-08 17:18:11.024737
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 07:15 下午
+            
+************************
+
+63: Counter Flow 1 by Marcus is not available for booking yet at 2024-06-08 17:18:11.094445. You should try after 08-06-2024 07:15 下午
+            
+Failed to reserve the class idx:2 at 2024-06-08 17:18:11.094600
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="6aa406787e0b2caa4e3746630998ad52")>] at 2024-06-08 17:18:16.162509
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="ad4ddd0f16ef27825f5100d92c6d54d2")>] at 2024-06-08 17:18:16.222761
+------------------
+courses to be booked:
+
+Warm Stretch 溫和伸展
+Yin Yang Yoga 陰陽瑜珈
+Counter Flow 1
+
+------------------
+
+------------------
+booked classes:
+
+Warm Stretch 溫和伸展
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="a800d8a3fda779fe7c619387ae88b14c")>] at 2024-06-08 17:18:17.988084
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="df75c0cede643224687b590074a0bc2a")>] at 2024-06-08 17:18:19.060829
+sign in for class idx:1 at 2024-06-08 17:18:22.301572
+sign in for class idx:2 at 2024-06-08 17:18:27.161778
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 05:45 下午
+            
+************************
+
+64: Yin Yang Yoga 陰陽瑜珈 by Marcus is not available for booking yet at 2024-06-08 17:18:30.263489. You should try after 08-06-2024 05:45 下午
+            
+Failed to reserve the class idx:1 at 2024-06-08 17:18:30.263833
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 07:15 下午
+            
+************************
+
+65: Counter Flow 1 by Marcus is not available for booking yet at 2024-06-08 17:18:30.341179. You should try after 08-06-2024 07:15 下午
+            
+Failed to reserve the class idx:2 at 2024-06-08 17:18:30.341336
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="a800d8a3fda779fe7c619387ae88b14c")>] at 2024-06-08 17:18:35.409367
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="df75c0cede643224687b590074a0bc2a")>] at 2024-06-08 17:18:35.469827
+------------------
+courses to be booked:
+
+Warm Stretch 溫和伸展
+Yin Yang Yoga 陰陽瑜珈
+Counter Flow 1
+
+------------------
+
+------------------
+booked classes:
+
+Warm Stretch 溫和伸展
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="5b703d7071e524f1c20127d67f628cb0")>] at 2024-06-08 17:18:37.222886
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="a8d07d85212b34e1f7e2e79c60e395a5")>] at 2024-06-08 17:18:38.327591
+sign in for class idx:1 at 2024-06-08 17:18:41.514458
+sign in for class idx:2 at 2024-06-08 17:18:46.455403
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 05:45 下午
+            
+************************
+
+66: Yin Yang Yoga 陰陽瑜珈 by Marcus is not available for booking yet at 2024-06-08 17:18:49.545344. You should try after 08-06-2024 05:45 下午
+            
+Failed to reserve the class idx:1 at 2024-06-08 17:18:49.545619
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 07:15 下午
+            
+************************
+
+67: Counter Flow 1 by Marcus is not available for booking yet at 2024-06-08 17:18:49.617619. You should try after 08-06-2024 07:15 下午
+            
+Failed to reserve the class idx:2 at 2024-06-08 17:18:49.617777
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="5b703d7071e524f1c20127d67f628cb0")>] at 2024-06-08 17:18:54.684808
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="a8d07d85212b34e1f7e2e79c60e395a5")>] at 2024-06-08 17:18:54.744976
+------------------
+courses to be booked:
+
+Warm Stretch 溫和伸展
+Yin Yang Yoga 陰陽瑜珈
+Counter Flow 1
+
+------------------
+
+------------------
+booked classes:
+
+Warm Stretch 溫和伸展
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="00227bd5c0fa7f5de449d094c38cfdc3")>] at 2024-06-08 17:18:56.515726
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="23ba1f645c5f62c666ea9e60be018b01")>] at 2024-06-08 17:18:57.616495
+sign in for class idx:1 at 2024-06-08 17:19:00.989158
+sign in for class idx:2 at 2024-06-08 17:19:05.913219
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 05:45 下午
+            
+************************
+
+68: Yin Yang Yoga 陰陽瑜珈 by Marcus is not available for booking yet at 2024-06-08 17:19:08.998065. You should try after 08-06-2024 05:45 下午
+            
+Failed to reserve the class idx:1 at 2024-06-08 17:19:08.998367
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 07:15 下午
+            
+************************
+
+69: Counter Flow 1 by Marcus is not available for booking yet at 2024-06-08 17:19:09.067478. You should try after 08-06-2024 07:15 下午
+            
+Failed to reserve the class idx:2 at 2024-06-08 17:19:09.067562
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="00227bd5c0fa7f5de449d094c38cfdc3")>] at 2024-06-08 17:19:14.134241
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="23ba1f645c5f62c666ea9e60be018b01")>] at 2024-06-08 17:19:14.195896
+------------------
+courses to be booked:
+
+Warm Stretch 溫和伸展
+Yin Yang Yoga 陰陽瑜珈
+Counter Flow 1
+
+------------------
+
+------------------
+booked classes:
+
+Warm Stretch 溫和伸展
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="93c577783d312e4bdab591bd260fd25a")>] at 2024-06-08 17:19:15.968600
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="6fcd07ca84e7e04efccd568865a9f184")>] at 2024-06-08 17:19:17.080248
+sign in for class idx:1 at 2024-06-08 17:19:20.235326
+sign in for class idx:2 at 2024-06-08 17:19:24.996152
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 05:45 下午
+            
+************************
+
+70: Yin Yang Yoga 陰陽瑜珈 by Marcus is not available for booking yet at 2024-06-08 17:19:28.100488. You should try after 08-06-2024 05:45 下午
+            
+Failed to reserve the class idx:1 at 2024-06-08 17:19:28.100779
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 07:15 下午
+            
+************************
+
+71: Counter Flow 1 by Marcus is not available for booking yet at 2024-06-08 17:19:28.184876. You should try after 08-06-2024 07:15 下午
+            
+Failed to reserve the class idx:2 at 2024-06-08 17:19:28.185070
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="93c577783d312e4bdab591bd260fd25a")>] at 2024-06-08 17:19:33.248394
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="6fcd07ca84e7e04efccd568865a9f184")>] at 2024-06-08 17:19:33.306643
+------------------
+courses to be booked:
+
+Warm Stretch 溫和伸展
+Yin Yang Yoga 陰陽瑜珈
+Counter Flow 1
+
+------------------
+
+------------------
+booked classes:
+
+Warm Stretch 溫和伸展
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="1996c74effb9c912b85493698d6fae71")>] at 2024-06-08 17:19:35.070934
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="7742d2e976d5033805a776ea8ae28aee")>] at 2024-06-08 17:19:36.177811
+sign in for class idx:1 at 2024-06-08 17:19:39.333575
+sign in for class idx:2 at 2024-06-08 17:19:44.121311
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 05:45 下午
+            
+************************
+
+72: Yin Yang Yoga 陰陽瑜珈 by Marcus is not available for booking yet at 2024-06-08 17:19:47.227179. You should try after 08-06-2024 05:45 下午
+            
+Failed to reserve the class idx:1 at 2024-06-08 17:19:47.227476
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 07:15 下午
+            
+************************
+
+73: Counter Flow 1 by Marcus is not available for booking yet at 2024-06-08 17:19:47.312234. You should try after 08-06-2024 07:15 下午
+            
+Failed to reserve the class idx:2 at 2024-06-08 17:19:47.312377
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="1996c74effb9c912b85493698d6fae71")>] at 2024-06-08 17:19:52.378921
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="7742d2e976d5033805a776ea8ae28aee")>] at 2024-06-08 17:19:52.439503
+------------------
+courses to be booked:
+
+Warm Stretch 溫和伸展
+Yin Yang Yoga 陰陽瑜珈
+Counter Flow 1
+
+------------------
+
+------------------
+booked classes:
+
+Warm Stretch 溫和伸展
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="649bb1608a44e5b27f7c6619943ae6c6")>] at 2024-06-08 17:19:54.204292
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="bb0f9fba0298720f750510d280a81d00")>] at 2024-06-08 17:19:55.295767
+sign in for class idx:1 at 2024-06-08 17:19:58.413410
+sign in for class idx:2 at 2024-06-08 17:20:03.316694
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 05:45 下午
+            
+************************
+
+74: Yin Yang Yoga 陰陽瑜珈 by Marcus is not available for booking yet at 2024-06-08 17:20:06.416997. You should try after 08-06-2024 05:45 下午
+            
+Failed to reserve the class idx:1 at 2024-06-08 17:20:06.417320
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 07:15 下午
+            
+************************
+
+75: Counter Flow 1 by Marcus is not available for booking yet at 2024-06-08 17:20:06.497298. You should try after 08-06-2024 07:15 下午
+            
+Failed to reserve the class idx:2 at 2024-06-08 17:20:06.497481
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="649bb1608a44e5b27f7c6619943ae6c6")>] at 2024-06-08 17:20:11.564668
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="bb0f9fba0298720f750510d280a81d00")>] at 2024-06-08 17:20:11.624577
+------------------
+courses to be booked:
+
+Warm Stretch 溫和伸展
+Yin Yang Yoga 陰陽瑜珈
+Counter Flow 1
+
+------------------
+
+------------------
+booked classes:
+
+Warm Stretch 溫和伸展
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="182045a82f24f832a48268923c709527")>] at 2024-06-08 17:20:13.405712
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="3c4b1fd79ada4021ef429485c1b4514a")>] at 2024-06-08 17:20:14.516658
+sign in for class idx:1 at 2024-06-08 17:20:17.715326
+sign in for class idx:2 at 2024-06-08 17:20:22.547167
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 05:45 下午
+            
+************************
+
+76: Yin Yang Yoga 陰陽瑜珈 by Marcus is not available for booking yet at 2024-06-08 17:20:25.657140. You should try after 08-06-2024 05:45 下午
+            
+Failed to reserve the class idx:1 at 2024-06-08 17:20:25.657404
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 07:15 下午
+            
+************************
+
+77: Counter Flow 1 by Marcus is not available for booking yet at 2024-06-08 17:20:25.743371. You should try after 08-06-2024 07:15 下午
+            
+Failed to reserve the class idx:2 at 2024-06-08 17:20:25.743537
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="182045a82f24f832a48268923c709527")>] at 2024-06-08 17:20:30.811728
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="3c4b1fd79ada4021ef429485c1b4514a")>] at 2024-06-08 17:20:30.878001
+------------------
+courses to be booked:
+
+Warm Stretch 溫和伸展
+Yin Yang Yoga 陰陽瑜珈
+Counter Flow 1
+
+------------------
+
+------------------
+booked classes:
+
+Warm Stretch 溫和伸展
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="c12797129681964eaf6f571dedd7f048")>] at 2024-06-08 17:20:32.657523
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="517823d97d528804dffaa33ba8d5df16")>] at 2024-06-08 17:20:33.790571
+sign in for class idx:1 at 2024-06-08 17:20:37.106866
+sign in for class idx:2 at 2024-06-08 17:20:41.883745
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 05:45 下午
+            
+************************
+
+78: Yin Yang Yoga 陰陽瑜珈 by Marcus is not available for booking yet at 2024-06-08 17:20:44.980848. You should try after 08-06-2024 05:45 下午
+            
+Failed to reserve the class idx:1 at 2024-06-08 17:20:44.981137
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 07:15 下午
+            
+************************
+
+79: Counter Flow 1 by Marcus is not available for booking yet at 2024-06-08 17:20:45.053301. You should try after 08-06-2024 07:15 下午
+            
+Failed to reserve the class idx:2 at 2024-06-08 17:20:45.053413
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="c12797129681964eaf6f571dedd7f048")>] at 2024-06-08 17:20:50.118641
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="517823d97d528804dffaa33ba8d5df16")>] at 2024-06-08 17:20:50.181963
+------------------
+courses to be booked:
+
+Warm Stretch 溫和伸展
+Yin Yang Yoga 陰陽瑜珈
+Counter Flow 1
+
+------------------
+
+------------------
+booked classes:
+
+Warm Stretch 溫和伸展
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="392b0d4952aeca91ed7c79d82c167077")>] at 2024-06-08 17:20:51.955136
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="5618befb3e8f778c7b1d7a000e31fa16")>] at 2024-06-08 17:20:53.095264
+sign in for class idx:1 at 2024-06-08 17:20:56.281779
+sign in for class idx:2 at 2024-06-08 17:21:01.093444
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 05:45 下午
+            
+************************
+
+80: Yin Yang Yoga 陰陽瑜珈 by Marcus is not available for booking yet at 2024-06-08 17:21:04.183455. You should try after 08-06-2024 05:45 下午
+            
+Failed to reserve the class idx:1 at 2024-06-08 17:21:04.183746
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 07:15 下午
+            
+************************
+
+81: Counter Flow 1 by Marcus is not available for booking yet at 2024-06-08 17:21:04.263319. You should try after 08-06-2024 07:15 下午
+            
+Failed to reserve the class idx:2 at 2024-06-08 17:21:04.263481
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="392b0d4952aeca91ed7c79d82c167077")>] at 2024-06-08 17:21:09.341665
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="5618befb3e8f778c7b1d7a000e31fa16")>] at 2024-06-08 17:21:09.399755
+------------------
+courses to be booked:
+
+Warm Stretch 溫和伸展
+Yin Yang Yoga 陰陽瑜珈
+Counter Flow 1
+
+------------------
+
+------------------
+booked classes:
+
+Warm Stretch 溫和伸展
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="c5f656483161b7c39120a6b63c13648f")>] at 2024-06-08 17:21:11.191493
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="68227d2ceed7347892979d9deb997758")>] at 2024-06-08 17:21:12.311996
+sign in for class idx:1 at 2024-06-08 17:21:15.524047
+sign in for class idx:2 at 2024-06-08 17:21:20.278333
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 05:45 下午
+            
+************************
+
+82: Yin Yang Yoga 陰陽瑜珈 by Marcus is not available for booking yet at 2024-06-08 17:21:23.384517. You should try after 08-06-2024 05:45 下午
+            
+Failed to reserve the class idx:1 at 2024-06-08 17:21:23.384809
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 07:15 下午
+            
+************************
+
+83: Counter Flow 1 by Marcus is not available for booking yet at 2024-06-08 17:21:23.466081. You should try after 08-06-2024 07:15 下午
+            
+Failed to reserve the class idx:2 at 2024-06-08 17:21:23.466230
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="c5f656483161b7c39120a6b63c13648f")>] at 2024-06-08 17:21:28.543269
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="68227d2ceed7347892979d9deb997758")>] at 2024-06-08 17:21:28.604262
+------------------
+courses to be booked:
+
+Warm Stretch 溫和伸展
+Yin Yang Yoga 陰陽瑜珈
+Counter Flow 1
+
+------------------
+
+------------------
+booked classes:
+
+Warm Stretch 溫和伸展
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="fff88a8a9d6b7aebe1147a8f648f4dbd")>] at 2024-06-08 17:21:30.365906
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="663cbd5665c12868bcbbd0f0531903bd")>] at 2024-06-08 17:21:31.488586
+sign in for class idx:1 at 2024-06-08 17:21:34.673971
+sign in for class idx:2 at 2024-06-08 17:21:39.523881
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 05:45 下午
+            
+************************
+
+84: Yin Yang Yoga 陰陽瑜珈 by Marcus is not available for booking yet at 2024-06-08 17:21:42.614886. You should try after 08-06-2024 05:45 下午
+            
+Failed to reserve the class idx:1 at 2024-06-08 17:21:42.615131
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 07:15 下午
+            
+************************
+
+85: Counter Flow 1 by Marcus is not available for booking yet at 2024-06-08 17:21:42.693016. You should try after 08-06-2024 07:15 下午
+            
+Failed to reserve the class idx:2 at 2024-06-08 17:21:42.693174
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="fff88a8a9d6b7aebe1147a8f648f4dbd")>] at 2024-06-08 17:21:47.757220
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="663cbd5665c12868bcbbd0f0531903bd")>] at 2024-06-08 17:21:47.816586
+------------------
+courses to be booked:
+
+Warm Stretch 溫和伸展
+Yin Yang Yoga 陰陽瑜珈
+Counter Flow 1
+
+------------------
+
+------------------
+booked classes:
+
+Warm Stretch 溫和伸展
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="4350ab241d886d279684d1d6a90622a4")>] at 2024-06-08 17:21:49.607112
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="de583cf197c1fc5639102d184c1e69d9")>] at 2024-06-08 17:21:50.725708
+sign in for class idx:1 at 2024-06-08 17:21:53.833439
+sign in for class idx:2 at 2024-06-08 17:21:58.593936
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 05:45 下午
+            
+************************
+
+86: Yin Yang Yoga 陰陽瑜珈 by Marcus is not available for booking yet at 2024-06-08 17:22:01.676917. You should try after 08-06-2024 05:45 下午
+            
+Failed to reserve the class idx:1 at 2024-06-08 17:22:01.677146
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 07:15 下午
+            
+************************
+
+87: Counter Flow 1 by Marcus is not available for booking yet at 2024-06-08 17:22:01.749132. You should try after 08-06-2024 07:15 下午
+            
+Failed to reserve the class idx:2 at 2024-06-08 17:22:01.749269
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="4350ab241d886d279684d1d6a90622a4")>] at 2024-06-08 17:22:06.816604
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="de583cf197c1fc5639102d184c1e69d9")>] at 2024-06-08 17:22:06.879083
+------------------
+courses to be booked:
+
+Warm Stretch 溫和伸展
+Yin Yang Yoga 陰陽瑜珈
+Counter Flow 1
+
+------------------
+
+------------------
+booked classes:
+
+Warm Stretch 溫和伸展
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="66496db01f8f7c43baef0c4210d6a570")>] at 2024-06-08 17:22:08.604454
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="ad58308659dc67d9bc579b87a1f0e14b")>] at 2024-06-08 17:22:09.739886
+sign in for class idx:1 at 2024-06-08 17:22:12.920696
+sign in for class idx:2 at 2024-06-08 17:22:17.804458
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 05:45 下午
+            
+************************
+
+88: Yin Yang Yoga 陰陽瑜珈 by Marcus is not available for booking yet at 2024-06-08 17:22:20.916531. You should try after 08-06-2024 05:45 下午
+            
+Failed to reserve the class idx:1 at 2024-06-08 17:22:20.916821
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 07:15 下午
+            
+************************
+
+89: Counter Flow 1 by Marcus is not available for booking yet at 2024-06-08 17:22:21.002647. You should try after 08-06-2024 07:15 下午
+            
+Failed to reserve the class idx:2 at 2024-06-08 17:22:21.002786
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="66496db01f8f7c43baef0c4210d6a570")>] at 2024-06-08 17:22:26.081937
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="ad58308659dc67d9bc579b87a1f0e14b")>] at 2024-06-08 17:22:26.149598
+------------------
+courses to be booked:
+
+Warm Stretch 溫和伸展
+Yin Yang Yoga 陰陽瑜珈
+Counter Flow 1
+
+------------------
+
+------------------
+booked classes:
+
+Warm Stretch 溫和伸展
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="71446c720ee4dd4823c72bf246e79b69")>] at 2024-06-08 17:22:27.917461
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="3ff044fddc4cf5c08ee71c5ba4cd04bd")>] at 2024-06-08 17:22:29.043234
+sign in for class idx:1 at 2024-06-08 17:22:32.220596
+sign in for class idx:2 at 2024-06-08 17:22:36.950323
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 05:45 下午
+            
+************************
+
+90: Yin Yang Yoga 陰陽瑜珈 by Marcus is not available for booking yet at 2024-06-08 17:22:40.028992. You should try after 08-06-2024 05:45 下午
+            
+Failed to reserve the class idx:1 at 2024-06-08 17:22:40.032269
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 07:15 下午
+            
+************************
+
+91: Counter Flow 1 by Marcus is not available for booking yet at 2024-06-08 17:22:40.101623. You should try after 08-06-2024 07:15 下午
+            
+Failed to reserve the class idx:2 at 2024-06-08 17:22:40.101752
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="71446c720ee4dd4823c72bf246e79b69")>] at 2024-06-08 17:22:45.180042
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="3ff044fddc4cf5c08ee71c5ba4cd04bd")>] at 2024-06-08 17:22:45.247857
+------------------
+courses to be booked:
+
+Warm Stretch 溫和伸展
+Yin Yang Yoga 陰陽瑜珈
+Counter Flow 1
+
+------------------
+
+------------------
+booked classes:
+
+Warm Stretch 溫和伸展
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="c34d543a332308c7da63c322c1752c89")>] at 2024-06-08 17:22:47.020709
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="38bb780ed3c7c4eff229fb96b0cdce0d")>] at 2024-06-08 17:22:48.141058
+sign in for class idx:1 at 2024-06-08 17:22:51.257225
+sign in for class idx:2 at 2024-06-08 17:22:56.162111
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 05:45 下午
+            
+************************
+
+92: Yin Yang Yoga 陰陽瑜珈 by Marcus is not available for booking yet at 2024-06-08 17:22:59.255105. You should try after 08-06-2024 05:45 下午
+            
+Failed to reserve the class idx:1 at 2024-06-08 17:22:59.255397
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 07:15 下午
+            
+************************
+
+93: Counter Flow 1 by Marcus is not available for booking yet at 2024-06-08 17:22:59.336352. You should try after 08-06-2024 07:15 下午
+            
+Failed to reserve the class idx:2 at 2024-06-08 17:22:59.336506
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="c34d543a332308c7da63c322c1752c89")>] at 2024-06-08 17:23:04.414479
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="38bb780ed3c7c4eff229fb96b0cdce0d")>] at 2024-06-08 17:23:04.480530
+------------------
+courses to be booked:
+
+Warm Stretch 溫和伸展
+Yin Yang Yoga 陰陽瑜珈
+Counter Flow 1
+
+------------------
+
+------------------
+booked classes:
+
+Warm Stretch 溫和伸展
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="a4534307a742788c6904946f4b63f680")>] at 2024-06-08 17:23:06.267641
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="aa466edb67a951d10462da2eee417cd8")>] at 2024-06-08 17:23:07.398072
+sign in for class idx:1 at 2024-06-08 17:23:10.451880
+sign in for class idx:2 at 2024-06-08 17:23:15.242908
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 05:45 下午
+            
+************************
+
+94: Yin Yang Yoga 陰陽瑜珈 by Marcus is not available for booking yet at 2024-06-08 17:23:18.353932. You should try after 08-06-2024 05:45 下午
+            
+Failed to reserve the class idx:1 at 2024-06-08 17:23:18.354217
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 07:15 下午
+            
+************************
+
+95: Counter Flow 1 by Marcus is not available for booking yet at 2024-06-08 17:23:18.430772. You should try after 08-06-2024 07:15 下午
+            
+Failed to reserve the class idx:2 at 2024-06-08 17:23:18.430924
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="a4534307a742788c6904946f4b63f680")>] at 2024-06-08 17:23:23.506194
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="aa466edb67a951d10462da2eee417cd8")>] at 2024-06-08 17:23:23.571592
+------------------
+courses to be booked:
+
+Warm Stretch 溫和伸展
+Yin Yang Yoga 陰陽瑜珈
+Counter Flow 1
+
+------------------
+
+------------------
+booked classes:
+
+Warm Stretch 溫和伸展
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="cc09c92bfcdb3f82e80d31afe67ec0b4")>] at 2024-06-08 17:23:25.371655
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="7b0aa0c3b4f547d130666a24b677bd4f")>] at 2024-06-08 17:23:26.490534
+sign in for class idx:1 at 2024-06-08 17:23:29.789782
+sign in for class idx:2 at 2024-06-08 17:23:34.537897
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 05:45 下午
+            
+************************
+
+96: Yin Yang Yoga 陰陽瑜珈 by Marcus is not available for booking yet at 2024-06-08 17:23:37.635865. You should try after 08-06-2024 05:45 下午
+            
+Failed to reserve the class idx:1 at 2024-06-08 17:23:37.636140
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 07:15 下午
+            
+************************
+
+97: Counter Flow 1 by Marcus is not available for booking yet at 2024-06-08 17:23:37.710302. You should try after 08-06-2024 07:15 下午
+            
+Failed to reserve the class idx:2 at 2024-06-08 17:23:37.710431
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="cc09c92bfcdb3f82e80d31afe67ec0b4")>] at 2024-06-08 17:23:42.777776
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="7b0aa0c3b4f547d130666a24b677bd4f")>] at 2024-06-08 17:23:42.836803
+------------------
+courses to be booked:
+
+Warm Stretch 溫和伸展
+Yin Yang Yoga 陰陽瑜珈
+Counter Flow 1
+
+------------------
+
+------------------
+booked classes:
+
+Warm Stretch 溫和伸展
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="88edf0e219ba472ca97c32ee05b12b61")>] at 2024-06-08 17:23:44.621257
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="863644c32bb4e983dfeb04bd59dee903")>] at 2024-06-08 17:23:45.747803
+sign in for class idx:1 at 2024-06-08 17:23:48.951186
+sign in for class idx:2 at 2024-06-08 17:23:53.857987
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 05:45 下午
+            
+************************
+
+98: Yin Yang Yoga 陰陽瑜珈 by Marcus is not available for booking yet at 2024-06-08 17:23:56.963441. You should try after 08-06-2024 05:45 下午
+            
+Failed to reserve the class idx:1 at 2024-06-08 17:23:56.963716
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 07:15 下午
+            
+************************
+
+99: Counter Flow 1 by Marcus is not available for booking yet at 2024-06-08 17:23:57.041118. You should try after 08-06-2024 07:15 下午
+            
+Failed to reserve the class idx:2 at 2024-06-08 17:23:57.041252
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="88edf0e219ba472ca97c32ee05b12b61")>] at 2024-06-08 17:24:02.102548
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="863644c32bb4e983dfeb04bd59dee903")>] at 2024-06-08 17:24:02.163670
+------------------
+courses to be booked:
+
+Warm Stretch 溫和伸展
+Yin Yang Yoga 陰陽瑜珈
+Counter Flow 1
+
+------------------
+
+------------------
+booked classes:
+
+Warm Stretch 溫和伸展
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="dc2e0884b49f083e3cb0abc899d01bc8")>] at 2024-06-08 17:24:03.958271
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="fbd4ec6912f723af1fed4299b6576726")>] at 2024-06-08 17:24:05.102562
+sign in for class idx:1 at 2024-06-08 17:24:08.351976
+sign in for class idx:2 at 2024-06-08 17:24:13.083150
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 05:45 下午
+            
+************************
+
+100: Yin Yang Yoga 陰陽瑜珈 by Marcus is not available for booking yet at 2024-06-08 17:24:16.191377. You should try after 08-06-2024 05:45 下午
+            
+Failed to reserve the class idx:1 at 2024-06-08 17:24:16.191669
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 07:15 下午
+            
+************************
+
+101: Counter Flow 1 by Marcus is not available for booking yet at 2024-06-08 17:24:16.271608. You should try after 08-06-2024 07:15 下午
+            
+Failed to reserve the class idx:2 at 2024-06-08 17:24:16.271759
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="dc2e0884b49f083e3cb0abc899d01bc8")>] at 2024-06-08 17:24:21.350208
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="fbd4ec6912f723af1fed4299b6576726")>] at 2024-06-08 17:24:21.418293
+------------------
+courses to be booked:
+
+Warm Stretch 溫和伸展
+Yin Yang Yoga 陰陽瑜珈
+Counter Flow 1
+
+------------------
+
+------------------
+booked classes:
+
+Warm Stretch 溫和伸展
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="8433bcf91d737498e20e9914f684eecc")>] at 2024-06-08 17:24:23.191323
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="992467714e02396099cc5008ebd7f184")>] at 2024-06-08 17:24:24.292476
+sign in for class idx:1 at 2024-06-08 17:24:27.453398
+sign in for class idx:2 at 2024-06-08 17:24:32.481097
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 05:45 下午
+            
+************************
+
+102: Yin Yang Yoga 陰陽瑜珈 by Marcus is not available for booking yet at 2024-06-08 17:24:35.584526. You should try after 08-06-2024 05:45 下午
+            
+Failed to reserve the class idx:1 at 2024-06-08 17:24:35.584829
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 07:15 下午
+            
+************************
+
+103: Counter Flow 1 by Marcus is not available for booking yet at 2024-06-08 17:24:35.658259. You should try after 08-06-2024 07:15 下午
+            
+Failed to reserve the class idx:2 at 2024-06-08 17:24:35.658405
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="8433bcf91d737498e20e9914f684eecc")>] at 2024-06-08 17:24:40.732354
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="992467714e02396099cc5008ebd7f184")>] at 2024-06-08 17:24:40.788879
+------------------
+courses to be booked:
+
+Warm Stretch 溫和伸展
+Yin Yang Yoga 陰陽瑜珈
+Counter Flow 1
+
+------------------
+
+------------------
+booked classes:
+
+Warm Stretch 溫和伸展
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="9889de48fb9685ad916199bccd256583")>] at 2024-06-08 17:24:42.551608
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="06966d49d98fc4bcd257341f2b7d9b8a")>] at 2024-06-08 17:24:43.654070
+sign in for class idx:1 at 2024-06-08 17:24:46.880597
+sign in for class idx:2 at 2024-06-08 17:24:51.747379
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 05:45 下午
+            
+************************
+
+104: Yin Yang Yoga 陰陽瑜珈 by Marcus is not available for booking yet at 2024-06-08 17:24:54.829077. You should try after 08-06-2024 05:45 下午
+            
+Failed to reserve the class idx:1 at 2024-06-08 17:24:54.829354
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 07:15 下午
+            
+************************
+
+105: Counter Flow 1 by Marcus is not available for booking yet at 2024-06-08 17:24:54.898233. You should try after 08-06-2024 07:15 下午
+            
+Failed to reserve the class idx:2 at 2024-06-08 17:24:54.898371
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="9889de48fb9685ad916199bccd256583")>] at 2024-06-08 17:24:59.971425
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="06966d49d98fc4bcd257341f2b7d9b8a")>] at 2024-06-08 17:25:00.025522
+------------------
+courses to be booked:
+
+Warm Stretch 溫和伸展
+Yin Yang Yoga 陰陽瑜珈
+Counter Flow 1
+
+------------------
+
+------------------
+booked classes:
+
+Warm Stretch 溫和伸展
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="0ed206510801664a4bc99736e8819259")>] at 2024-06-08 17:25:01.802727
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="0772f9a60f86d4e2c01d3df034f8a696")>] at 2024-06-08 17:25:02.901771
+sign in for class idx:1 at 2024-06-08 17:25:06.137737
+sign in for class idx:2 at 2024-06-08 17:25:10.885329
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 05:45 下午
+            
+************************
+
+106: Yin Yang Yoga 陰陽瑜珈 by Marcus is not available for booking yet at 2024-06-08 17:25:13.981781. You should try after 08-06-2024 05:45 下午
+            
+Failed to reserve the class idx:1 at 2024-06-08 17:25:13.982048
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 07:15 下午
+            
+************************
+
+107: Counter Flow 1 by Marcus is not available for booking yet at 2024-06-08 17:25:14.064579. You should try after 08-06-2024 07:15 下午
+            
+Failed to reserve the class idx:2 at 2024-06-08 17:25:14.064697
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="0ed206510801664a4bc99736e8819259")>] at 2024-06-08 17:25:19.143551
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="0772f9a60f86d4e2c01d3df034f8a696")>] at 2024-06-08 17:25:19.203586
+------------------
+courses to be booked:
+
+Warm Stretch 溫和伸展
+Yin Yang Yoga 陰陽瑜珈
+Counter Flow 1
+
+------------------
+
+------------------
+booked classes:
+
+Warm Stretch 溫和伸展
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="086faf78973738044bc25a93e5902083")>] at 2024-06-08 17:25:20.988293
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="520fb21f3173b74f9ee241b2590955e7")>] at 2024-06-08 17:25:22.120916
+sign in for class idx:1 at 2024-06-08 17:25:25.403341
+sign in for class idx:2 at 2024-06-08 17:25:30.204893
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 05:45 下午
+            
+************************
+
+108: Yin Yang Yoga 陰陽瑜珈 by Marcus is not available for booking yet at 2024-06-08 17:25:33.292388. You should try after 08-06-2024 05:45 下午
+            
+Failed to reserve the class idx:1 at 2024-06-08 17:25:33.292667
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 07:15 下午
+            
+************************
+
+109: Counter Flow 1 by Marcus is not available for booking yet at 2024-06-08 17:25:33.366623. You should try after 08-06-2024 07:15 下午
+            
+Failed to reserve the class idx:2 at 2024-06-08 17:25:33.366767
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="086faf78973738044bc25a93e5902083")>] at 2024-06-08 17:25:38.423685
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="520fb21f3173b74f9ee241b2590955e7")>] at 2024-06-08 17:25:38.487202
+------------------
+courses to be booked:
+
+Warm Stretch 溫和伸展
+Yin Yang Yoga 陰陽瑜珈
+Counter Flow 1
+
+------------------
+
+------------------
+booked classes:
+
+Warm Stretch 溫和伸展
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="4ea50b2d4024ff7a5e4674af2824f2a8")>] at 2024-06-08 17:25:40.199030
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="eb95fc8fa5c2c7f21c19a9ba93340451")>] at 2024-06-08 17:25:41.310668
+sign in for class idx:1 at 2024-06-08 17:25:44.411257
+sign in for class idx:2 at 2024-06-08 17:25:49.134471
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 05:45 下午
+            
+************************
+
+110: Yin Yang Yoga 陰陽瑜珈 by Marcus is not available for booking yet at 2024-06-08 17:25:52.242966. You should try after 08-06-2024 05:45 下午
+            
+Failed to reserve the class idx:1 at 2024-06-08 17:25:52.243257
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 07:15 下午
+            
+************************
+
+111: Counter Flow 1 by Marcus is not available for booking yet at 2024-06-08 17:25:52.326049. You should try after 08-06-2024 07:15 下午
+            
+Failed to reserve the class idx:2 at 2024-06-08 17:25:52.326195
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="4ea50b2d4024ff7a5e4674af2824f2a8")>] at 2024-06-08 17:25:57.400926
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="eb95fc8fa5c2c7f21c19a9ba93340451")>] at 2024-06-08 17:25:57.466894
+------------------
+courses to be booked:
+
+Warm Stretch 溫和伸展
+Yin Yang Yoga 陰陽瑜珈
+Counter Flow 1
+
+------------------
+
+------------------
+booked classes:
+
+Warm Stretch 溫和伸展
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="e6a862aa42f2bc88d8391035da26b823")>] at 2024-06-08 17:25:59.250342
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="af47c3e9ad129fb8ef3467c01adf6bea")>] at 2024-06-08 17:26:00.369470
+sign in for class idx:1 at 2024-06-08 17:26:03.498491
+sign in for class idx:2 at 2024-06-08 17:26:08.320180
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 05:45 下午
+            
+************************
+
+112: Yin Yang Yoga 陰陽瑜珈 by Marcus is not available for booking yet at 2024-06-08 17:26:11.411491. You should try after 08-06-2024 05:45 下午
+            
+Failed to reserve the class idx:1 at 2024-06-08 17:26:11.411754
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 07:15 下午
+            
+************************
+
+113: Counter Flow 1 by Marcus is not available for booking yet at 2024-06-08 17:26:11.490870. You should try after 08-06-2024 07:15 下午
+            
+Failed to reserve the class idx:2 at 2024-06-08 17:26:11.491647
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="e6a862aa42f2bc88d8391035da26b823")>] at 2024-06-08 17:26:16.565563
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="af47c3e9ad129fb8ef3467c01adf6bea")>] at 2024-06-08 17:26:16.621153
+------------------
+courses to be booked:
+
+Warm Stretch 溫和伸展
+Yin Yang Yoga 陰陽瑜珈
+Counter Flow 1
+
+------------------
+
+------------------
+booked classes:
+
+Warm Stretch 溫和伸展
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="b8725faefb932416617cac6f8959ba30")>] at 2024-06-08 17:26:18.389108
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="183f315e7912cf4adb48a326155112a9")>] at 2024-06-08 17:26:19.532514
+sign in for class idx:1 at 2024-06-08 17:26:22.679211
+sign in for class idx:2 at 2024-06-08 17:26:27.561719
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 05:45 下午
+            
+************************
+
+114: Yin Yang Yoga 陰陽瑜珈 by Marcus is not available for booking yet at 2024-06-08 17:26:30.641951. You should try after 08-06-2024 05:45 下午
+            
+Failed to reserve the class idx:1 at 2024-06-08 17:26:30.642219
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 07:15 下午
+            
+************************
+
+115: Counter Flow 1 by Marcus is not available for booking yet at 2024-06-08 17:26:30.719361. You should try after 08-06-2024 07:15 下午
+            
+Failed to reserve the class idx:2 at 2024-06-08 17:26:30.719524
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="b8725faefb932416617cac6f8959ba30")>] at 2024-06-08 17:26:35.796786
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="183f315e7912cf4adb48a326155112a9")>] at 2024-06-08 17:26:35.863600
+------------------
+courses to be booked:
+
+Warm Stretch 溫和伸展
+Yin Yang Yoga 陰陽瑜珈
+Counter Flow 1
+
+------------------
+
+------------------
+booked classes:
+
+Warm Stretch 溫和伸展
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="dad112705854ce92732e89341677e725")>] at 2024-06-08 17:26:37.663893
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="8b0a6a1922939679f5ace69a9ec7df0f")>] at 2024-06-08 17:26:38.802144
+sign in for class idx:1 at 2024-06-08 17:26:41.931708
+sign in for class idx:2 at 2024-06-08 17:26:46.911958
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 05:45 下午
+            
+************************
+
+116: Yin Yang Yoga 陰陽瑜珈 by Marcus is not available for booking yet at 2024-06-08 17:26:50.009696. You should try after 08-06-2024 05:45 下午
+            
+Failed to reserve the class idx:1 at 2024-06-08 17:26:50.010034
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 07:15 下午
+            
+************************
+
+117: Counter Flow 1 by Marcus is not available for booking yet at 2024-06-08 17:26:50.090437. You should try after 08-06-2024 07:15 下午
+            
+Failed to reserve the class idx:2 at 2024-06-08 17:26:50.090589
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="dad112705854ce92732e89341677e725")>] at 2024-06-08 17:26:55.162172
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="8b0a6a1922939679f5ace69a9ec7df0f")>] at 2024-06-08 17:26:55.228816
+------------------
+courses to be booked:
+
+Warm Stretch 溫和伸展
+Yin Yang Yoga 陰陽瑜珈
+Counter Flow 1
+
+------------------
+
+------------------
+booked classes:
+
+Warm Stretch 溫和伸展
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="adfd8f93925acad8878920e675e914ac")>] at 2024-06-08 17:26:57.009584
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="10eabfdfa2f5d751d1319b7c7f40d99d")>] at 2024-06-08 17:26:58.160780
+sign in for class idx:1 at 2024-06-08 17:27:01.407489
+sign in for class idx:2 at 2024-06-08 17:27:06.200713
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 05:45 下午
+            
+************************
+
+118: Yin Yang Yoga 陰陽瑜珈 by Marcus is not available for booking yet at 2024-06-08 17:27:09.307658. You should try after 08-06-2024 05:45 下午
+            
+Failed to reserve the class idx:1 at 2024-06-08 17:27:09.308030
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 07:15 下午
+            
+************************
+
+119: Counter Flow 1 by Marcus is not available for booking yet at 2024-06-08 17:27:09.385814. You should try after 08-06-2024 07:15 下午
+            
+Failed to reserve the class idx:2 at 2024-06-08 17:27:09.385975
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="adfd8f93925acad8878920e675e914ac")>] at 2024-06-08 17:27:14.464019
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="10eabfdfa2f5d751d1319b7c7f40d99d")>] at 2024-06-08 17:27:14.529544
+------------------
+courses to be booked:
+
+Warm Stretch 溫和伸展
+Yin Yang Yoga 陰陽瑜珈
+Counter Flow 1
+
+------------------
+
+------------------
+booked classes:
+
+Warm Stretch 溫和伸展
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="720e271c0cef7762fd4ae736757888b5")>] at 2024-06-08 17:27:16.306638
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="57c0794cc854eb127db84202f24d1434")>] at 2024-06-08 17:27:17.447809
+sign in for class idx:1 at 2024-06-08 17:27:20.621674
+sign in for class idx:2 at 2024-06-08 17:27:25.493638
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 05:45 下午
+            
+************************
+
+120: Yin Yang Yoga 陰陽瑜珈 by Marcus is not available for booking yet at 2024-06-08 17:27:28.597153. You should try after 08-06-2024 05:45 下午
+            
+Failed to reserve the class idx:1 at 2024-06-08 17:27:28.597455
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 07:15 下午
+            
+************************
+
+121: Counter Flow 1 by Marcus is not available for booking yet at 2024-06-08 17:27:28.672219. You should try after 08-06-2024 07:15 下午
+            
+Failed to reserve the class idx:2 at 2024-06-08 17:27:28.672371
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="720e271c0cef7762fd4ae736757888b5")>] at 2024-06-08 17:27:33.738233
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="57c0794cc854eb127db84202f24d1434")>] at 2024-06-08 17:27:33.793098
+------------------
+courses to be booked:
+
+Warm Stretch 溫和伸展
+Yin Yang Yoga 陰陽瑜珈
+Counter Flow 1
+
+------------------
+
+------------------
+booked classes:
+
+Warm Stretch 溫和伸展
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="4906030c1e2044ba28c3a02324dff84c")>] at 2024-06-08 17:27:35.565038
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="9b57aa02f97c0710adb4cc8d466c4cdc")>] at 2024-06-08 17:27:36.694085
+sign in for class idx:1 at 2024-06-08 17:27:39.727483
+sign in for class idx:2 at 2024-06-08 17:27:44.480527
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 05:45 下午
+            
+************************
+
+122: Yin Yang Yoga 陰陽瑜珈 by Marcus is not available for booking yet at 2024-06-08 17:27:47.607482. You should try after 08-06-2024 05:45 下午
+            
+Failed to reserve the class idx:1 at 2024-06-08 17:27:47.607765
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 07:15 下午
+            
+************************
+
+123: Counter Flow 1 by Marcus is not available for booking yet at 2024-06-08 17:27:47.684887. You should try after 08-06-2024 07:15 下午
+            
+Failed to reserve the class idx:2 at 2024-06-08 17:27:47.685042
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="4906030c1e2044ba28c3a02324dff84c")>] at 2024-06-08 17:27:52.763622
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="9b57aa02f97c0710adb4cc8d466c4cdc")>] at 2024-06-08 17:27:52.828254
+------------------
+courses to be booked:
+
+Warm Stretch 溫和伸展
+Yin Yang Yoga 陰陽瑜珈
+Counter Flow 1
+
+------------------
+
+------------------
+booked classes:
+
+Warm Stretch 溫和伸展
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="d210dd53fea165c496eb098450296f5c")>] at 2024-06-08 17:27:54.621718
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="6c2d85642742cc2c76bb8dcdc6a710e5")>] at 2024-06-08 17:27:55.748650
+sign in for class idx:1 at 2024-06-08 17:27:59.003538
+sign in for class idx:2 at 2024-06-08 17:28:03.834727
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 05:45 下午
+            
+************************
+
+124: Yin Yang Yoga 陰陽瑜珈 by Marcus is not available for booking yet at 2024-06-08 17:28:06.929685. You should try after 08-06-2024 05:45 下午
+            
+Failed to reserve the class idx:1 at 2024-06-08 17:28:06.929961
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 07:15 下午
+            
+************************
+
+125: Counter Flow 1 by Marcus is not available for booking yet at 2024-06-08 17:28:07.004293. You should try after 08-06-2024 07:15 下午
+            
+Failed to reserve the class idx:2 at 2024-06-08 17:28:07.004442
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="d210dd53fea165c496eb098450296f5c")>] at 2024-06-08 17:28:12.068826
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="6c2d85642742cc2c76bb8dcdc6a710e5")>] at 2024-06-08 17:28:12.132456
+------------------
+courses to be booked:
+
+Warm Stretch 溫和伸展
+Yin Yang Yoga 陰陽瑜珈
+Counter Flow 1
+
+------------------
+
+------------------
+booked classes:
+
+Warm Stretch 溫和伸展
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="ab5ca90bee0e47d7a288f4959d877b12")>] at 2024-06-08 17:28:13.897762
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="71d081fdea3f35bc8207aacf5a2c9d15")>] at 2024-06-08 17:28:15.039685
+sign in for class idx:1 at 2024-06-08 17:28:18.249500
+sign in for class idx:2 at 2024-06-08 17:28:23.364425
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 05:45 下午
+            
+************************
+
+126: Yin Yang Yoga 陰陽瑜珈 by Marcus is not available for booking yet at 2024-06-08 17:28:26.472143. You should try after 08-06-2024 05:45 下午
+            
+Failed to reserve the class idx:1 at 2024-06-08 17:28:26.472444
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 07:15 下午
+            
+************************
+
+127: Counter Flow 1 by Marcus is not available for booking yet at 2024-06-08 17:28:26.550294. You should try after 08-06-2024 07:15 下午
+            
+Failed to reserve the class idx:2 at 2024-06-08 17:28:26.550457
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="ab5ca90bee0e47d7a288f4959d877b12")>] at 2024-06-08 17:28:31.629565
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="71d081fdea3f35bc8207aacf5a2c9d15")>] at 2024-06-08 17:28:31.696547
+------------------
+courses to be booked:
+
+Warm Stretch 溫和伸展
+Yin Yang Yoga 陰陽瑜珈
+Counter Flow 1
+
+------------------
+
+------------------
+booked classes:
+
+Warm Stretch 溫和伸展
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="c659dceeb1d3856ff2bb778030189feb")>] at 2024-06-08 17:28:33.467276
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="0dfce25a883168dc86b0c79c38499b76")>] at 2024-06-08 17:28:34.579922
+sign in for class idx:1 at 2024-06-08 17:28:37.916421
+sign in for class idx:2 at 2024-06-08 17:28:42.660873
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 05:45 下午
+            
+************************
+
+128: Yin Yang Yoga 陰陽瑜珈 by Marcus is not available for booking yet at 2024-06-08 17:28:45.741385. You should try after 08-06-2024 05:45 下午
+            
+Failed to reserve the class idx:1 at 2024-06-08 17:28:45.741596
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 07:15 下午
+            
+************************
+
+129: Counter Flow 1 by Marcus is not available for booking yet at 2024-06-08 17:28:45.814565. You should try after 08-06-2024 07:15 下午
+            
+Failed to reserve the class idx:2 at 2024-06-08 17:28:45.814716
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="c659dceeb1d3856ff2bb778030189feb")>] at 2024-06-08 17:28:50.889403
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="0dfce25a883168dc86b0c79c38499b76")>] at 2024-06-08 17:28:50.948844
+------------------
+courses to be booked:
+
+Warm Stretch 溫和伸展
+Yin Yang Yoga 陰陽瑜珈
+Counter Flow 1
+
+------------------
+
+------------------
+booked classes:
+
+Warm Stretch 溫和伸展
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="98f27f5c0c3f312758ed2cfe73de209d")>] at 2024-06-08 17:28:52.716110
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="630622a774262bd1315f7f51bdf733ca")>] at 2024-06-08 17:28:53.844120
+sign in for class idx:1 at 2024-06-08 17:28:56.962949
+sign in for class idx:2 at 2024-06-08 17:29:01.796814
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 05:45 下午
+            
+************************
+
+130: Yin Yang Yoga 陰陽瑜珈 by Marcus is not available for booking yet at 2024-06-08 17:29:04.888204. You should try after 08-06-2024 05:45 下午
+            
+Failed to reserve the class idx:1 at 2024-06-08 17:29:04.888520
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 07:15 下午
+            
+************************
+
+131: Counter Flow 1 by Marcus is not available for booking yet at 2024-06-08 17:29:04.964527. You should try after 08-06-2024 07:15 下午
+            
+Failed to reserve the class idx:2 at 2024-06-08 17:29:04.964656
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="98f27f5c0c3f312758ed2cfe73de209d")>] at 2024-06-08 17:29:10.037902
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="630622a774262bd1315f7f51bdf733ca")>] at 2024-06-08 17:29:10.101197
+------------------
+courses to be booked:
+
+Warm Stretch 溫和伸展
+Yin Yang Yoga 陰陽瑜珈
+Counter Flow 1
+
+------------------
+
+------------------
+booked classes:
+
+Warm Stretch 溫和伸展
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="c12e2a989c787a378c6530a1d0168a5e")>] at 2024-06-08 17:29:11.880574
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="8307a7dc6c09b9bcbaaaaedff600174f")>] at 2024-06-08 17:29:13.007233
+sign in for class idx:1 at 2024-06-08 17:29:16.196904
+sign in for class idx:2 at 2024-06-08 17:29:20.948720
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 05:45 下午
+            
+************************
+
+132: Yin Yang Yoga 陰陽瑜珈 by Marcus is not available for booking yet at 2024-06-08 17:29:24.053761. You should try after 08-06-2024 05:45 下午
+            
+Failed to reserve the class idx:1 at 2024-06-08 17:29:24.054057
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 07:15 下午
+            
+************************
+
+133: Counter Flow 1 by Marcus is not available for booking yet at 2024-06-08 17:29:24.133795. You should try after 08-06-2024 07:15 下午
+            
+Failed to reserve the class idx:2 at 2024-06-08 17:29:24.133953
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="c12e2a989c787a378c6530a1d0168a5e")>] at 2024-06-08 17:29:29.201301
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="8307a7dc6c09b9bcbaaaaedff600174f")>] at 2024-06-08 17:29:29.266804
+------------------
+courses to be booked:
+
+Warm Stretch 溫和伸展
+Yin Yang Yoga 陰陽瑜珈
+Counter Flow 1
+
+------------------
+
+------------------
+booked classes:
+
+Warm Stretch 溫和伸展
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="7f5ae61c25b409411884149b95aa7121")>] at 2024-06-08 17:29:31.057697
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="6ba90cc0d645698c0976a2b2d7d4a7ee")>] at 2024-06-08 17:29:32.184385
+sign in for class idx:1 at 2024-06-08 17:29:35.362835
+sign in for class idx:2 at 2024-06-08 17:29:40.156047
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 05:45 下午
+            
+************************
+
+134: Yin Yang Yoga 陰陽瑜珈 by Marcus is not available for booking yet at 2024-06-08 17:29:43.239879. You should try after 08-06-2024 05:45 下午
+            
+Failed to reserve the class idx:1 at 2024-06-08 17:29:43.240121
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 07:15 下午
+            
+************************
+
+135: Counter Flow 1 by Marcus is not available for booking yet at 2024-06-08 17:29:43.314191. You should try after 08-06-2024 07:15 下午
+            
+Failed to reserve the class idx:2 at 2024-06-08 17:29:43.314328
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="7f5ae61c25b409411884149b95aa7121")>] at 2024-06-08 17:29:48.381125
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="6ba90cc0d645698c0976a2b2d7d4a7ee")>] at 2024-06-08 17:29:48.445205
+------------------
+courses to be booked:
+
+Warm Stretch 溫和伸展
+Yin Yang Yoga 陰陽瑜珈
+Counter Flow 1
+
+------------------
+
+------------------
+booked classes:
+
+Warm Stretch 溫和伸展
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="4d6f44da7a70ce1410b1498fab4ce3c7")>] at 2024-06-08 17:29:50.233794
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="05cb844e004f8d968da8bdd74482c95a")>] at 2024-06-08 17:29:51.364895
+sign in for class idx:1 at 2024-06-08 17:29:54.656123
+sign in for class idx:2 at 2024-06-08 17:29:59.420245
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 05:45 下午
+            
+************************
+
+136: Yin Yang Yoga 陰陽瑜珈 by Marcus is not available for booking yet at 2024-06-08 17:30:02.508652. You should try after 08-06-2024 05:45 下午
+            
+Failed to reserve the class idx:1 at 2024-06-08 17:30:02.508899
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 07:15 下午
+            
+************************
+
+137: Counter Flow 1 by Marcus is not available for booking yet at 2024-06-08 17:30:02.582157. You should try after 08-06-2024 07:15 下午
+            
+Failed to reserve the class idx:2 at 2024-06-08 17:30:02.582277
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="4d6f44da7a70ce1410b1498fab4ce3c7")>] at 2024-06-08 17:30:07.654610
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="05cb844e004f8d968da8bdd74482c95a")>] at 2024-06-08 17:30:07.719869
+------------------
+courses to be booked:
+
+Warm Stretch 溫和伸展
+Yin Yang Yoga 陰陽瑜珈
+Counter Flow 1
+
+------------------
+
+------------------
+booked classes:
+
+Warm Stretch 溫和伸展
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="ec8fc71eeed5b3c4a1e95a0d31499f0b")>] at 2024-06-08 17:30:09.520413
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="99ea7d5d102310c612c565871772f737")>] at 2024-06-08 17:30:10.667006
+sign in for class idx:1 at 2024-06-08 17:30:14.042540
+sign in for class idx:2 at 2024-06-08 17:30:18.705388
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 05:45 下午
+            
+************************
+
+138: Yin Yang Yoga 陰陽瑜珈 by Marcus is not available for booking yet at 2024-06-08 17:30:21.815134. You should try after 08-06-2024 05:45 下午
+            
+Failed to reserve the class idx:1 at 2024-06-08 17:30:21.815433
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 07:15 下午
+            
+************************
+
+139: Counter Flow 1 by Marcus is not available for booking yet at 2024-06-08 17:30:21.891013. You should try after 08-06-2024 07:15 下午
+            
+Failed to reserve the class idx:2 at 2024-06-08 17:30:21.891162
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="ec8fc71eeed5b3c4a1e95a0d31499f0b")>] at 2024-06-08 17:30:26.969893
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="99ea7d5d102310c612c565871772f737")>] at 2024-06-08 17:30:27.038253
+------------------
+courses to be booked:
+
+Warm Stretch 溫和伸展
+Yin Yang Yoga 陰陽瑜珈
+Counter Flow 1
+
+------------------
+
+------------------
+booked classes:
+
+Warm Stretch 溫和伸展
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="919261575405c7c27c3fa308f1074fa8")>] at 2024-06-08 17:30:28.828288
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="4a18647923e392a968d4f0e144ed7fe1")>] at 2024-06-08 17:30:29.957758
+sign in for class idx:1 at 2024-06-08 17:30:33.096654
+sign in for class idx:2 at 2024-06-08 17:30:37.813758
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 05:45 下午
+            
+************************
+
+140: Yin Yang Yoga 陰陽瑜珈 by Marcus is not available for booking yet at 2024-06-08 17:30:40.913994. You should try after 08-06-2024 05:45 下午
+            
+Failed to reserve the class idx:1 at 2024-06-08 17:30:40.914255
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 07:15 下午
+            
+************************
+
+141: Counter Flow 1 by Marcus is not available for booking yet at 2024-06-08 17:30:40.992401. You should try after 08-06-2024 07:15 下午
+            
+Failed to reserve the class idx:2 at 2024-06-08 17:30:40.992549
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="919261575405c7c27c3fa308f1074fa8")>] at 2024-06-08 17:30:46.062498
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="4a18647923e392a968d4f0e144ed7fe1")>] at 2024-06-08 17:30:46.124969
+------------------
+courses to be booked:
+
+Warm Stretch 溫和伸展
+Yin Yang Yoga 陰陽瑜珈
+Counter Flow 1
+
+------------------
+
+------------------
+booked classes:
+
+Warm Stretch 溫和伸展
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="de970930c97305e0b98808fc40f1a682")>] at 2024-06-08 17:30:47.891232
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="6ccdc9438f498c3b06eb81cfaa01d43c")>] at 2024-06-08 17:30:49.034581
+sign in for class idx:1 at 2024-06-08 17:30:52.092326
+sign in for class idx:2 at 2024-06-08 17:30:56.849572
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 05:45 下午
+            
+************************
+
+142: Yin Yang Yoga 陰陽瑜珈 by Marcus is not available for booking yet at 2024-06-08 17:30:59.956079. You should try after 08-06-2024 05:45 下午
+            
+Failed to reserve the class idx:1 at 2024-06-08 17:30:59.956371
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                預訂開始日期:<br>08-06-2024 07:15 下午
+            
+************************
+
+143: Counter Flow 1 by Marcus is not available for booking yet at 2024-06-08 17:31:00.042037. You should try after 08-06-2024 07:15 下午
+            
+Failed to reserve the class idx:2 at 2024-06-08 17:31:00.042184
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="de970930c97305e0b98808fc40f1a682")>] at 2024-06-08 17:31:05.106122
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="6ccdc9438f498c3b06eb81cfaa01d43c")>] at 2024-06-08 17:31:05.164360
+------------------
+courses to be booked:
+
+Warm Stretch 溫和伸展
+Yin Yang Yoga 陰陽瑜珈
+Counter Flow 1
+
+------------------
+
+------------------
+booked classes:
+
+Warm Stretch 溫和伸展
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="e1fa7f51b9b8ab1ee62119ea590f7362")>] at 2024-06-08 17:31:06.928760
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="e412a867da97f0a6b0b639548ffd60a5")>] at 2024-06-08 17:31:08.021756
+sign in for class idx:1 at 2024-06-08 17:31:11.106556
+sign in for class idx:2 at 2024-06-08 17:31:15.885185

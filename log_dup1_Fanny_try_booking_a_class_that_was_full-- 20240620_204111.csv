@@ -1,0 +1,31 @@
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="985226baaa1dc46a0608d544c01c3bfa")>] at 2024-06-20 20:41:12.225851
+sign in for class idx:0 at 2024-06-20 20:41:15.458171
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+1: Gentle Yoga 和緩瑜珈 by Una is FULL at 2024-06-20 20:41:18.575389
+Failed to reserve the class idx:0 at 2024-06-20 20:41:18.575664
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="985226baaa1dc46a0608d544c01c3bfa")>] at 2024-06-20 20:41:23.638873
+------------------
+courses to be booked:
+
+Gentle Yoga 和緩瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="00ba736cb67c8bcec4070f78fad84a83")>] at 2024-06-20 20:41:25.415142
+sign in for class idx:0 at 2024-06-20 20:41:28.520539
