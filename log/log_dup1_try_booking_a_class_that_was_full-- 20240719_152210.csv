@@ -1,0 +1,31 @@
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="749d0274984012315340a04a3f9a2879")>] at 2024-07-19 15:22:11.439145
+sign in for class idx:0 at 2024-07-19 15:22:14.992305
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                線上預訂已截止。
+            
+************************
+
+1: Booking of "Healing Yoga 療癒瑜珈 by Tumai" was CLOSED
+Failed to reserve the class idx:0 at 2024-07-19 15:22:18.068818
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="749d0274984012315340a04a3f9a2879")>] at 2024-07-19 15:22:23.130213
+------------------
+courses to be booked:
+
+Healing Yoga 療癒瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Healing Yoga 療癒瑜珈
+
+------------------
+
+finish all 1 classes booking
