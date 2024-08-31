@@ -1,0 +1,2077 @@
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="e0ee6aede989bbca683688fd31ddf90d")>] at 2024-08-31 21:02:50.085131
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="7feca52f61aa977a1c6cbb6efd3dd43f")>] at 2024-08-31 21:02:54.273197
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="9b0a4a498614d1bc1c0f50b2611e64d1")>] at 2024-08-31 21:02:58.447393
+sign in for class idx:0 at 2024-08-31 21:03:07.987718
+sign in for class idx:1 at 2024-08-31 21:03:18.601263
+sign in for class idx:2 at 2024-08-31 21:03:31.232564
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+1: Universal Basic 寰宇瑜珈基礎 by YaYa is FULL at 2024-08-31 21:03:35.127592
+
+Failed to reserve the class idx:0 at 2024-08-31 21:03:35.128021
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+2: Universal Yoga 寰宇瑜珈 by YaYa is FULL at 2024-08-31 21:03:36.138845
+
+Failed to reserve the class idx:1 at 2024-08-31 21:03:36.139277
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+3: Yin Yoga 陰瑜珈 by YaYa is FULL at 2024-08-31 21:03:36.654535
+
+Failed to reserve the class idx:2 at 2024-08-31 21:03:36.655030
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="e0ee6aede989bbca683688fd31ddf90d")>] at 2024-08-31 21:03:41.772131
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="7feca52f61aa977a1c6cbb6efd3dd43f")>] at 2024-08-31 21:03:41.884947
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="9b0a4a498614d1bc1c0f50b2611e64d1")>] at 2024-08-31 21:03:41.997593
+------------------
+courses to be booked:
+
+Universal Basic 寰宇瑜珈基礎
+Universal Yoga 寰宇瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="608d4c0c3ff78e54bd2c84595212ad96")>] at 2024-08-31 21:03:47.217933
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="6b5e53421d4d073f8f1985e1760de63a")>] at 2024-08-31 21:03:51.400628
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="97f6291fc44868c4fb8e218c278009bd")>] at 2024-08-31 21:03:55.547898
+sign in for class idx:0 at 2024-08-31 21:04:05.230184
+sign in for class idx:1 at 2024-08-31 21:04:15.749395
+sign in for class idx:2 at 2024-08-31 21:04:26.979680
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+4: Universal Basic 寰宇瑜珈基礎 by YaYa is FULL at 2024-08-31 21:04:32.526515
+
+Failed to reserve the class idx:0 at 2024-08-31 21:04:32.526964
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+5: Universal Yoga 寰宇瑜珈 by YaYa is FULL at 2024-08-31 21:04:33.010310
+
+Failed to reserve the class idx:1 at 2024-08-31 21:04:33.013669
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+6: Yin Yoga 陰瑜珈 by YaYa is FULL at 2024-08-31 21:04:33.774836
+
+Failed to reserve the class idx:2 at 2024-08-31 21:04:33.778010
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="608d4c0c3ff78e54bd2c84595212ad96")>] at 2024-08-31 21:04:38.888799
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="6b5e53421d4d073f8f1985e1760de63a")>] at 2024-08-31 21:04:39.003781
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="97f6291fc44868c4fb8e218c278009bd")>] at 2024-08-31 21:04:39.113161
+------------------
+courses to be booked:
+
+Universal Basic 寰宇瑜珈基礎
+Universal Yoga 寰宇瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="f52dffb8fa07811d769a848ffeafcde8")>] at 2024-08-31 21:04:44.365383
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="e12cf8d31f65e85ba7b394d317323e4a")>] at 2024-08-31 21:04:48.625473
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="6aac2a2295239bf90b5f09be0af2013f")>] at 2024-08-31 21:04:52.805004
+sign in for class idx:0 at 2024-08-31 21:05:03.526131
+sign in for class idx:1 at 2024-08-31 21:05:14.290138
+sign in for class idx:2 at 2024-08-31 21:05:25.588061
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+7: Universal Basic 寰宇瑜珈基礎 by YaYa is FULL at 2024-08-31 21:05:29.156173
+
+Failed to reserve the class idx:0 at 2024-08-31 21:05:29.156538
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+8: Universal Yoga 寰宇瑜珈 by YaYa is FULL at 2024-08-31 21:05:29.549867
+
+Failed to reserve the class idx:1 at 2024-08-31 21:05:29.550207
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+9: Yin Yoga 陰瑜珈 by YaYa is FULL at 2024-08-31 21:05:30.030812
+
+Failed to reserve the class idx:2 at 2024-08-31 21:05:30.031352
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="f52dffb8fa07811d769a848ffeafcde8")>] at 2024-08-31 21:05:35.155663
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="e12cf8d31f65e85ba7b394d317323e4a")>] at 2024-08-31 21:05:35.268590
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="6aac2a2295239bf90b5f09be0af2013f")>] at 2024-08-31 21:05:35.385144
+------------------
+courses to be booked:
+
+Universal Basic 寰宇瑜珈基礎
+Universal Yoga 寰宇瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="82362212cd3e3a7bf7c29f564d7459e4")>] at 2024-08-31 21:05:40.648867
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="c46aa4a192d098220669ed9a97e3a951")>] at 2024-08-31 21:05:44.872157
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="9210f1a9a6969c93d4d1e0078f31be9f")>] at 2024-08-31 21:05:49.099775
+sign in for class idx:0 at 2024-08-31 21:06:00.000356
+sign in for class idx:1 at 2024-08-31 21:06:10.671191
+sign in for class idx:2 at 2024-08-31 21:06:21.307250
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+10: Universal Basic 寰宇瑜珈基礎 by YaYa is FULL at 2024-08-31 21:06:24.791075
+
+Failed to reserve the class idx:0 at 2024-08-31 21:06:24.796002
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+11: Universal Yoga 寰宇瑜珈 by YaYa is FULL at 2024-08-31 21:06:25.194658
+
+Failed to reserve the class idx:1 at 2024-08-31 21:06:25.195064
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                您已預訂此課。
+            
+************************
+
+12: Yin Yoga 陰瑜珈 by YaYa was BOOKED before 2024-08-31 21:06:25.658654
+Failed to reserve the class idx:2 at 2024-08-31 21:06:25.659051
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="82362212cd3e3a7bf7c29f564d7459e4")>] at 2024-08-31 21:06:30.779725
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="c46aa4a192d098220669ed9a97e3a951")>] at 2024-08-31 21:06:30.893961
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="9210f1a9a6969c93d4d1e0078f31be9f")>] at 2024-08-31 21:06:31.007151
+------------------
+courses to be booked:
+
+Universal Basic 寰宇瑜珈基礎
+Universal Yoga 寰宇瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="27716cb64d1f44636faf11ab535a6236")>] at 2024-08-31 21:06:36.156253
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="6e333e62159031c0873e77d278eff0b6")>] at 2024-08-31 21:06:40.315825
+sign in for class idx:0 at 2024-08-31 21:06:49.911501
+sign in for class idx:1 at 2024-08-31 21:07:01.629913
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+13: Universal Basic 寰宇瑜珈基礎 by YaYa is FULL at 2024-08-31 21:07:05.151697
+
+Failed to reserve the class idx:0 at 2024-08-31 21:07:05.152162
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+14: Universal Yoga 寰宇瑜珈 by YaYa is FULL at 2024-08-31 21:07:05.530073
+
+Failed to reserve the class idx:1 at 2024-08-31 21:07:05.530441
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="27716cb64d1f44636faf11ab535a6236")>] at 2024-08-31 21:07:10.663596
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="6e333e62159031c0873e77d278eff0b6")>] at 2024-08-31 21:07:10.786754
+------------------
+courses to be booked:
+
+Universal Basic 寰宇瑜珈基礎
+Universal Yoga 寰宇瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="b5ace7f5ca6faf98011b2a4de5333389")>] at 2024-08-31 21:07:15.912179
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="b227fe8313c5ff0049497a03338ab5bf")>] at 2024-08-31 21:07:20.068989
+sign in for class idx:0 at 2024-08-31 21:07:28.691699
+sign in for class idx:1 at 2024-08-31 21:07:40.565907
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+15: Universal Basic 寰宇瑜珈基礎 by YaYa is FULL at 2024-08-31 21:07:44.090715
+
+Failed to reserve the class idx:0 at 2024-08-31 21:07:44.091068
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+16: Universal Yoga 寰宇瑜珈 by YaYa is FULL at 2024-08-31 21:07:44.439326
+
+Failed to reserve the class idx:1 at 2024-08-31 21:07:44.439659
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="b5ace7f5ca6faf98011b2a4de5333389")>] at 2024-08-31 21:07:49.578587
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="b227fe8313c5ff0049497a03338ab5bf")>] at 2024-08-31 21:07:49.701113
+------------------
+courses to be booked:
+
+Universal Basic 寰宇瑜珈基礎
+Universal Yoga 寰宇瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="ab79a6fd981f3d8cf608226b57c2c590")>] at 2024-08-31 21:07:54.862481
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="38279eade176e8feb249f2618cb9a994")>] at 2024-08-31 21:07:59.004015
+sign in for class idx:0 at 2024-08-31 21:08:07.983422
+sign in for class idx:1 at 2024-08-31 21:08:19.111204
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+17: Universal Basic 寰宇瑜珈基礎 by YaYa is FULL at 2024-08-31 21:08:22.542192
+
+Failed to reserve the class idx:0 at 2024-08-31 21:08:22.542523
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+18: Universal Yoga 寰宇瑜珈 by YaYa is FULL at 2024-08-31 21:08:22.891488
+
+Failed to reserve the class idx:1 at 2024-08-31 21:08:22.891816
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="ab79a6fd981f3d8cf608226b57c2c590")>] at 2024-08-31 21:08:28.009222
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="38279eade176e8feb249f2618cb9a994")>] at 2024-08-31 21:08:28.117034
+------------------
+courses to be booked:
+
+Universal Basic 寰宇瑜珈基礎
+Universal Yoga 寰宇瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="21860c0d5e4f811fb55af03e7accf82b")>] at 2024-08-31 21:08:33.334065
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="18495682c2326fd229daa1d852c7ffaf")>] at 2024-08-31 21:08:37.554670
+sign in for class idx:0 at 2024-08-31 21:08:55.325870
+sign in for class idx:1 at 2024-08-31 21:09:05.476652
+
+************************
+status html: cannot find status text in the current site
+************************
+
+UNEXPECTED SCENARIO HAPPENED. NEED TO REVISE THE CODE
+
+ Current Page Source:
+<html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_Head1"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta name="theme-color" content="#592954"><meta name="viewport" content="width=1024, user-scalable=yes"><title>
+	CBSS System - 登入
+</title>
+    <link href="https://www.trueclassbooking.com.tw/member/css/style.all.css?v=2.27.17.00" rel="stylesheet" type="text/css">
+    <!--[if IE]>
+        <link href="https://www.trueclassbooking.com.tw/member/css/ie.css?v=2.27.17.00" rel="stylesheet" type="text/css" />
+    <![endif]-->
+    <!--[if IE 8]>
+	    <link href="https://www.trueclassbooking.com.tw/member/css/ie8.css?v=2.27.17.00" rel="stylesheet" type="text/css" />
+    <![endif]-->
+<style>.cke{visibility:hidden;}</style></head>
+<body><div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" style="padding-bottom: 42px; padding-right: 42px; display: none;"><div id="cboxWrapper"><div><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxLoadedContent" style="width: 0px; height: 0px; overflow: hidden; float: left;"></div><div id="cboxLoadingOverlay" style="float: left;"></div><div id="cboxLoadingGraphic" style="float: left;"></div><div id="cboxTitle" style="float: left;"></div><div id="cboxCurrent" style="float: left;"></div><div id="cboxNext" style="float: left;"></div><div id="cboxPrevious" style="float: left;"></div><div id="cboxSlideshow" style="float: left;"></div><div id="cboxClose" style="float: left;"></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position: absolute; width: 9999px; visibility: hidden; display: none;"></div></div>
+
+    <form name="aspnetForm" method="post" action="./session-expired.aspx" id="aspnetForm">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEwMDUyNjYzMjhkZAUPhUTjtiLFX3l1h5e/8b6Q0Pmz9YRswtJooHAdDgXA">
+</div>
+
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="E4BEE291">
+</div>
+
+        <!-- CONTENTS -->
+        <div id="popup">
+            
+    <div class="left al">系統無法取出用戶登入檔案資料。<br>請你您退出後再嘗試登入。</div>
+
+        </div>
+
+    </form>
+
+    <script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-3LV80BY46T&amp;cx=c&amp;_slc=1"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="https://www.trueclassbooking.com.tw/member/js/script.all.js?v=2.27.17.00"></script>
+    <!-- JAVSCRIPTS -->
+    
+
+    <script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date(); a = s.createElement(o),
+  m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-45242383-2', 'www.trueclassbooking.com.tw');
+        ga('send', 'pageview');
+
+</script>
+
+
+</body></html>Failed to reserve the class idx:0 at 2024-08-31 21:09:27.952626
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+20: Universal Yoga 寰宇瑜珈 by YaYa is FULL at 2024-08-31 21:09:28.485614
+
+Failed to reserve the class idx:1 at 2024-08-31 21:09:28.485982
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="21860c0d5e4f811fb55af03e7accf82b")>] at 2024-08-31 21:09:33.823572
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="18495682c2326fd229daa1d852c7ffaf")>] at 2024-08-31 21:09:33.942413
+------------------
+courses to be booked:
+
+Universal Basic 寰宇瑜珈基礎
+Universal Yoga 寰宇瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="a33b3c40eea3630f87d5c31529c6b0dc")>] at 2024-08-31 21:09:39.164091
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="cc3eac3d77035a0986a13d98aaa151c6")>] at 2024-08-31 21:09:43.366032
+sign in for class idx:0 at 2024-08-31 21:09:53.227422
+sign in for class idx:1 at 2024-08-31 21:10:04.299803
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+21: Universal Basic 寰宇瑜珈基礎 by YaYa is FULL at 2024-08-31 21:10:07.885799
+
+Failed to reserve the class idx:0 at 2024-08-31 21:10:07.886238
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+22: Universal Yoga 寰宇瑜珈 by YaYa is FULL at 2024-08-31 21:10:08.386368
+
+Failed to reserve the class idx:1 at 2024-08-31 21:10:08.386781
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="a33b3c40eea3630f87d5c31529c6b0dc")>] at 2024-08-31 21:10:13.505773
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="cc3eac3d77035a0986a13d98aaa151c6")>] at 2024-08-31 21:10:13.613188
+------------------
+courses to be booked:
+
+Universal Basic 寰宇瑜珈基礎
+Universal Yoga 寰宇瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="3be0a5b986a3b6e8bc3018037a00399c")>] at 2024-08-31 21:10:18.825248
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="af9bb75df8542070e2fa7041c899426a")>] at 2024-08-31 21:10:23.056121
+sign in for class idx:0 at 2024-08-31 21:10:32.364644
+sign in for class idx:1 at 2024-08-31 21:10:51.577302
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+23: Universal Basic 寰宇瑜珈基礎 by YaYa is FULL at 2024-08-31 21:10:55.452223
+
+Failed to reserve the class idx:0 at 2024-08-31 21:10:55.453426
+
+************************
+status html: cannot find status text in the current site
+************************
+
+UNEXPECTED SCENARIO HAPPENED. NEED TO REVISE THE CODE
+
+ Current Page Source:
+<html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_Head1"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta name="theme-color" content="#592954"><meta name="viewport" content="width=1024, user-scalable=yes"><title>
+	CBSS System - 登入
+</title>
+    <link href="https://www.trueclassbooking.com.tw/member/css/style.all.css?v=2.27.17.00" rel="stylesheet" type="text/css">
+    <!--[if IE]>
+        <link href="https://www.trueclassbooking.com.tw/member/css/ie.css?v=2.27.17.00" rel="stylesheet" type="text/css" />
+    <![endif]-->
+    <!--[if IE 8]>
+	    <link href="https://www.trueclassbooking.com.tw/member/css/ie8.css?v=2.27.17.00" rel="stylesheet" type="text/css" />
+    <![endif]-->
+<style>.cke{visibility:hidden;}</style></head>
+<body><div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" style="padding-bottom: 42px; padding-right: 42px; display: none;"><div id="cboxWrapper"><div><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxLoadedContent" style="width: 0px; height: 0px; overflow: hidden; float: left;"></div><div id="cboxLoadingOverlay" style="float: left;"></div><div id="cboxLoadingGraphic" style="float: left;"></div><div id="cboxTitle" style="float: left;"></div><div id="cboxCurrent" style="float: left;"></div><div id="cboxNext" style="float: left;"></div><div id="cboxPrevious" style="float: left;"></div><div id="cboxSlideshow" style="float: left;"></div><div id="cboxClose" style="float: left;"></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position: absolute; width: 9999px; visibility: hidden; display: none;"></div></div>
+
+    <form name="aspnetForm" method="post" action="./session-expired.aspx" id="aspnetForm">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEwMDUyNjYzMjhkZAUPhUTjtiLFX3l1h5e/8b6Q0Pmz9YRswtJooHAdDgXA">
+</div>
+
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="E4BEE291">
+</div>
+
+        <!-- CONTENTS -->
+        <div id="popup">
+            
+    <div class="left al">系統無法取出用戶登入檔案資料。<br>請你您退出後再嘗試登入。</div>
+
+        </div>
+
+    </form>
+
+    <script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-3LV80BY46T&amp;cx=c&amp;_slc=1"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="https://www.trueclassbooking.com.tw/member/js/script.all.js?v=2.27.17.00"></script>
+    <!-- JAVSCRIPTS -->
+    
+
+    <script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date(); a = s.createElement(o),
+  m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-45242383-2', 'www.trueclassbooking.com.tw');
+        ga('send', 'pageview');
+
+</script>
+
+
+</body></html>Failed to reserve the class idx:1 at 2024-08-31 21:11:15.034658
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="3be0a5b986a3b6e8bc3018037a00399c")>] at 2024-08-31 21:11:20.171050
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="af9bb75df8542070e2fa7041c899426a")>] at 2024-08-31 21:11:20.354040
+------------------
+courses to be booked:
+
+Universal Basic 寰宇瑜珈基礎
+Universal Yoga 寰宇瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="24fd37105c82dcad40d2b453a5e10db1")>] at 2024-08-31 21:11:25.513213
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="bcc2c61e44479928d26f949318457fcc")>] at 2024-08-31 21:11:29.722531
+sign in for class idx:0 at 2024-08-31 21:11:39.329521
+sign in for class idx:1 at 2024-08-31 21:11:50.487284
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+25: Universal Basic 寰宇瑜珈基礎 by YaYa is FULL at 2024-08-31 21:11:54.013933
+
+Failed to reserve the class idx:0 at 2024-08-31 21:11:54.014343
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+26: Universal Yoga 寰宇瑜珈 by YaYa is FULL at 2024-08-31 21:11:54.355970
+
+Failed to reserve the class idx:1 at 2024-08-31 21:11:54.356316
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="24fd37105c82dcad40d2b453a5e10db1")>] at 2024-08-31 21:11:59.490731
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="bcc2c61e44479928d26f949318457fcc")>] at 2024-08-31 21:11:59.601244
+------------------
+courses to be booked:
+
+Universal Basic 寰宇瑜珈基礎
+Universal Yoga 寰宇瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="e8f15628f7711c9f201cf5238d2e8f98")>] at 2024-08-31 21:12:04.879059
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="fbf015368e4983df13f5baf1b0fa22d0")>] at 2024-08-31 21:12:09.036933
+sign in for class idx:0 at 2024-08-31 21:12:17.867888
+sign in for class idx:1 at 2024-08-31 21:12:29.530621
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+27: Universal Basic 寰宇瑜珈基礎 by YaYa is FULL at 2024-08-31 21:12:32.898790
+
+Failed to reserve the class idx:0 at 2024-08-31 21:12:32.899215
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+28: Universal Yoga 寰宇瑜珈 by YaYa is FULL at 2024-08-31 21:12:33.271181
+
+Failed to reserve the class idx:1 at 2024-08-31 21:12:33.271512
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="e8f15628f7711c9f201cf5238d2e8f98")>] at 2024-08-31 21:12:38.464530
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="fbf015368e4983df13f5baf1b0fa22d0")>] at 2024-08-31 21:12:38.587373
+------------------
+courses to be booked:
+
+Universal Basic 寰宇瑜珈基礎
+Universal Yoga 寰宇瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="6054c300a9da746a8bb34f7552d4ce8c")>] at 2024-08-31 21:12:43.793379
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="0d1717b36379c939d6f2fcd3c8e562fe")>] at 2024-08-31 21:12:47.965827
+sign in for class idx:0 at 2024-08-31 21:12:56.959505
+sign in for class idx:1 at 2024-08-31 21:13:07.661701
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+29: Universal Basic 寰宇瑜珈基礎 by YaYa is FULL at 2024-08-31 21:13:11.187138
+
+Failed to reserve the class idx:0 at 2024-08-31 21:13:11.187643
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+30: Universal Yoga 寰宇瑜珈 by YaYa is FULL at 2024-08-31 21:13:11.669995
+
+Failed to reserve the class idx:1 at 2024-08-31 21:13:11.670444
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="6054c300a9da746a8bb34f7552d4ce8c")>] at 2024-08-31 21:13:16.793316
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="0d1717b36379c939d6f2fcd3c8e562fe")>] at 2024-08-31 21:13:16.913860
+------------------
+courses to be booked:
+
+Universal Basic 寰宇瑜珈基礎
+Universal Yoga 寰宇瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="9032e7829ab85a7889a43aa8bc960f00")>] at 2024-08-31 21:13:22.118178
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="a2402ab0cd94fad63b699936ae8429a1")>] at 2024-08-31 21:13:26.258656
+sign in for class idx:0 at 2024-08-31 21:13:35.002225
+sign in for class idx:1 at 2024-08-31 21:13:45.520096
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+31: Universal Basic 寰宇瑜珈基礎 by YaYa is FULL at 2024-08-31 21:13:49.474489
+
+Failed to reserve the class idx:0 at 2024-08-31 21:13:49.474891
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+32: Universal Yoga 寰宇瑜珈 by YaYa is FULL at 2024-08-31 21:13:49.864434
+
+Failed to reserve the class idx:1 at 2024-08-31 21:13:49.864842
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="9032e7829ab85a7889a43aa8bc960f00")>] at 2024-08-31 21:13:54.990433
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="a2402ab0cd94fad63b699936ae8429a1")>] at 2024-08-31 21:13:55.112906
+------------------
+courses to be booked:
+
+Universal Basic 寰宇瑜珈基礎
+Universal Yoga 寰宇瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="05b3aeb228a853e7aef030c5bd6c88ae")>] at 2024-08-31 21:14:00.341157
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="c5ba23d4178530374b5568ded6f52a22")>] at 2024-08-31 21:14:04.537887
+sign in for class idx:0 at 2024-08-31 21:14:13.324360
+sign in for class idx:1 at 2024-08-31 21:14:23.945316
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+33: Universal Basic 寰宇瑜珈基礎 by YaYa is FULL at 2024-08-31 21:14:27.754011
+
+Failed to reserve the class idx:0 at 2024-08-31 21:14:27.754414
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+34: Universal Yoga 寰宇瑜珈 by YaYa is FULL at 2024-08-31 21:14:28.242885
+
+Failed to reserve the class idx:1 at 2024-08-31 21:14:28.243324
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="05b3aeb228a853e7aef030c5bd6c88ae")>] at 2024-08-31 21:14:33.371740
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="c5ba23d4178530374b5568ded6f52a22")>] at 2024-08-31 21:14:33.496264
+------------------
+courses to be booked:
+
+Universal Basic 寰宇瑜珈基礎
+Universal Yoga 寰宇瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="89557c3d53eafaca489c4e1297366e16")>] at 2024-08-31 21:14:38.691985
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="ea930bbc49420420845303f70370b525")>] at 2024-08-31 21:14:42.919966
+sign in for class idx:0 at 2024-08-31 21:14:51.303288
+sign in for class idx:1 at 2024-08-31 21:15:01.481456
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+35: Universal Basic 寰宇瑜珈基礎 by YaYa is FULL at 2024-08-31 21:15:04.943283
+
+Failed to reserve the class idx:0 at 2024-08-31 21:15:04.943656
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+36: Universal Yoga 寰宇瑜珈 by YaYa is FULL at 2024-08-31 21:15:05.414710
+
+Failed to reserve the class idx:1 at 2024-08-31 21:15:05.415145
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="89557c3d53eafaca489c4e1297366e16")>] at 2024-08-31 21:15:10.548667
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="ea930bbc49420420845303f70370b525")>] at 2024-08-31 21:15:10.671614
+------------------
+courses to be booked:
+
+Universal Basic 寰宇瑜珈基礎
+Universal Yoga 寰宇瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="b3d452eb0675797d7496294c4667d940")>] at 2024-08-31 21:15:15.882129
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="a3d7a2e55b81deec793cb6f13bc63269")>] at 2024-08-31 21:15:20.100450
+sign in for class idx:0 at 2024-08-31 21:15:30.171891
+sign in for class idx:1 at 2024-08-31 21:15:40.758681
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+37: Universal Basic 寰宇瑜珈基礎 by YaYa is FULL at 2024-08-31 21:15:44.369898
+
+Failed to reserve the class idx:0 at 2024-08-31 21:15:44.370238
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+38: Universal Yoga 寰宇瑜珈 by YaYa is FULL at 2024-08-31 21:15:44.754902
+
+Failed to reserve the class idx:1 at 2024-08-31 21:15:44.755750
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="b3d452eb0675797d7496294c4667d940")>] at 2024-08-31 21:15:49.889823
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="a3d7a2e55b81deec793cb6f13bc63269")>] at 2024-08-31 21:15:50.007784
+------------------
+courses to be booked:
+
+Universal Basic 寰宇瑜珈基礎
+Universal Yoga 寰宇瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="11b473fc7ecf1156813d11c6600f02c5")>] at 2024-08-31 21:15:55.160333
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="64cd9d581c9ba81e835e8cdc130dcdac")>] at 2024-08-31 21:15:59.384064
+sign in for class idx:0 at 2024-08-31 21:16:09.504333
+sign in for class idx:1 at 2024-08-31 21:16:27.957296
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+39: Universal Basic 寰宇瑜珈基礎 by YaYa is FULL at 2024-08-31 21:16:31.793715
+
+Failed to reserve the class idx:0 at 2024-08-31 21:16:31.794113
+
+************************
+status html: cannot find status text in the current site
+************************
+
+UNEXPECTED SCENARIO HAPPENED. NEED TO REVISE THE CODE
+
+ Current Page Source:
+<html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_Head1"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta name="theme-color" content="#592954"><meta name="viewport" content="width=1024, user-scalable=yes"><title>
+	CBSS System - 登入
+</title>
+    <link href="https://www.trueclassbooking.com.tw/member/css/style.all.css?v=2.27.17.00" rel="stylesheet" type="text/css">
+    <!--[if IE]>
+        <link href="https://www.trueclassbooking.com.tw/member/css/ie.css?v=2.27.17.00" rel="stylesheet" type="text/css" />
+    <![endif]-->
+    <!--[if IE 8]>
+	    <link href="https://www.trueclassbooking.com.tw/member/css/ie8.css?v=2.27.17.00" rel="stylesheet" type="text/css" />
+    <![endif]-->
+<style>.cke{visibility:hidden;}</style></head>
+<body><div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" style="padding-bottom: 42px; padding-right: 42px; display: none;"><div id="cboxWrapper"><div><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxLoadedContent" style="width: 0px; height: 0px; overflow: hidden; float: left;"></div><div id="cboxLoadingOverlay" style="float: left;"></div><div id="cboxLoadingGraphic" style="float: left;"></div><div id="cboxTitle" style="float: left;"></div><div id="cboxCurrent" style="float: left;"></div><div id="cboxNext" style="float: left;"></div><div id="cboxPrevious" style="float: left;"></div><div id="cboxSlideshow" style="float: left;"></div><div id="cboxClose" style="float: left;"></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position: absolute; width: 9999px; visibility: hidden; display: none;"></div></div>
+
+    <form name="aspnetForm" method="post" action="./session-expired.aspx" id="aspnetForm">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEwMDUyNjYzMjhkZAUPhUTjtiLFX3l1h5e/8b6Q0Pmz9YRswtJooHAdDgXA">
+</div>
+
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="E4BEE291">
+</div>
+
+        <!-- CONTENTS -->
+        <div id="popup">
+            
+    <div class="left al">系統無法取出用戶登入檔案資料。<br>請你您退出後再嘗試登入。</div>
+
+        </div>
+
+    </form>
+
+    <script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-3LV80BY46T&amp;cx=c&amp;_slc=1"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="https://www.trueclassbooking.com.tw/member/js/script.all.js?v=2.27.17.00"></script>
+    <!-- JAVSCRIPTS -->
+    
+
+    <script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date(); a = s.createElement(o),
+  m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-45242383-2', 'www.trueclassbooking.com.tw');
+        ga('send', 'pageview');
+
+</script>
+
+
+</body></html>Failed to reserve the class idx:1 at 2024-08-31 21:16:51.401477
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="11b473fc7ecf1156813d11c6600f02c5")>] at 2024-08-31 21:16:56.525251
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="64cd9d581c9ba81e835e8cdc130dcdac")>] at 2024-08-31 21:16:56.704399
+------------------
+courses to be booked:
+
+Universal Basic 寰宇瑜珈基礎
+Universal Yoga 寰宇瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="2bc97a41311f86af3401384e864331e2")>] at 2024-08-31 21:17:01.807190
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="66b52b1e5ccd5279534beaa8c4db2342")>] at 2024-08-31 21:17:06.033406
+sign in for class idx:0 at 2024-08-31 21:17:17.124498
+sign in for class idx:1 at 2024-08-31 21:17:28.880558
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+41: Universal Basic 寰宇瑜珈基礎 by YaYa is FULL at 2024-08-31 21:17:32.322315
+
+Failed to reserve the class idx:0 at 2024-08-31 21:17:32.322666
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+42: Universal Yoga 寰宇瑜珈 by YaYa is FULL at 2024-08-31 21:17:32.723816
+
+Failed to reserve the class idx:1 at 2024-08-31 21:17:32.724162
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="2bc97a41311f86af3401384e864331e2")>] at 2024-08-31 21:17:37.852551
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="66b52b1e5ccd5279534beaa8c4db2342")>] at 2024-08-31 21:17:37.969503
+------------------
+courses to be booked:
+
+Universal Basic 寰宇瑜珈基礎
+Universal Yoga 寰宇瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="5d0341954f25497100c9b0df8b531db3")>] at 2024-08-31 21:17:43.244268
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="0a79290eca3adf547365fd85ba6b56c3")>] at 2024-08-31 21:17:47.485106
+sign in for class idx:0 at 2024-08-31 21:17:58.234755
+sign in for class idx:1 at 2024-08-31 21:18:09.297312
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+43: Universal Basic 寰宇瑜珈基礎 by YaYa is FULL at 2024-08-31 21:18:12.898062
+
+Failed to reserve the class idx:0 at 2024-08-31 21:18:12.898520
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+44: Universal Yoga 寰宇瑜珈 by YaYa is FULL at 2024-08-31 21:18:13.225380
+
+Failed to reserve the class idx:1 at 2024-08-31 21:18:13.225745
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="5d0341954f25497100c9b0df8b531db3")>] at 2024-08-31 21:18:18.359676
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="0a79290eca3adf547365fd85ba6b56c3")>] at 2024-08-31 21:18:18.482230
+------------------
+courses to be booked:
+
+Universal Basic 寰宇瑜珈基礎
+Universal Yoga 寰宇瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="5a585590836353a2d8ada8528480d92e")>] at 2024-08-31 21:18:23.613024
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="c85ac7ba7a1ec292ad15dd3f3a4e7e7c")>] at 2024-08-31 21:18:27.869698
+sign in for class idx:0 at 2024-08-31 21:18:38.244288
+sign in for class idx:1 at 2024-08-31 21:18:49.014957
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                您已預訂此課。
+            
+************************
+
+45: Universal Basic 寰宇瑜珈基礎 by YaYa was BOOKED before 2024-08-31 21:18:52.823065
+Failed to reserve the class idx:0 at 2024-08-31 21:18:52.823402
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+46: Universal Yoga 寰宇瑜珈 by YaYa is FULL at 2024-08-31 21:18:53.167382
+
+Failed to reserve the class idx:1 at 2024-08-31 21:18:53.167808
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="5a585590836353a2d8ada8528480d92e")>] at 2024-08-31 21:18:58.301144
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="c85ac7ba7a1ec292ad15dd3f3a4e7e7c")>] at 2024-08-31 21:18:58.423819
+------------------
+courses to be booked:
+
+Universal Basic 寰宇瑜珈基礎
+Universal Yoga 寰宇瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+Universal Basic 寰宇瑜珈基礎
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="f6d37f0998bad98f5e1f4a770bcee7b2")>] at 2024-08-31 21:19:03.628406
+sign in for class idx:1 at 2024-08-31 21:19:14.085033
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+47: Universal Yoga 寰宇瑜珈 by YaYa is FULL at 2024-08-31 21:19:17.445172
+
+Failed to reserve the class idx:1 at 2024-08-31 21:19:17.445589
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="f6d37f0998bad98f5e1f4a770bcee7b2")>] at 2024-08-31 21:19:22.566237
+------------------
+courses to be booked:
+
+Universal Basic 寰宇瑜珈基礎
+Universal Yoga 寰宇瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+Universal Basic 寰宇瑜珈基礎
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="8696289488f78dce149c1117293b83b2")>] at 2024-08-31 21:19:27.757708
+sign in for class idx:1 at 2024-08-31 21:19:38.487085
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+48: Universal Yoga 寰宇瑜珈 by YaYa is FULL at 2024-08-31 21:19:42.170655
+
+Failed to reserve the class idx:1 at 2024-08-31 21:19:42.171011
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="8696289488f78dce149c1117293b83b2")>] at 2024-08-31 21:19:47.287602
+------------------
+courses to be booked:
+
+Universal Basic 寰宇瑜珈基礎
+Universal Yoga 寰宇瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+Universal Basic 寰宇瑜珈基礎
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="2f416565965168f5299e0cc91d0500e6")>] at 2024-08-31 21:19:52.424884
+sign in for class idx:1 at 2024-08-31 21:20:00.443773
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+49: Universal Yoga 寰宇瑜珈 by YaYa is FULL at 2024-08-31 21:20:04.010325
+
+Failed to reserve the class idx:1 at 2024-08-31 21:20:04.010761
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="2f416565965168f5299e0cc91d0500e6")>] at 2024-08-31 21:20:09.130128
+------------------
+courses to be booked:
+
+Universal Basic 寰宇瑜珈基礎
+Universal Yoga 寰宇瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+Universal Basic 寰宇瑜珈基礎
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="a57c3a12aa7c42ae937672c2e40dd731")>] at 2024-08-31 21:20:14.273640
+sign in for class idx:1 at 2024-08-31 21:20:23.906297
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+50: Universal Yoga 寰宇瑜珈 by YaYa is FULL at 2024-08-31 21:20:27.431356
+
+Failed to reserve the class idx:1 at 2024-08-31 21:20:27.431743
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="a57c3a12aa7c42ae937672c2e40dd731")>] at 2024-08-31 21:20:32.548384
+------------------
+courses to be booked:
+
+Universal Basic 寰宇瑜珈基礎
+Universal Yoga 寰宇瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+Universal Basic 寰宇瑜珈基礎
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="4c838eb72c5de30388a6d5c5c150eb8f")>] at 2024-08-31 21:20:37.686086
+sign in for class idx:1 at 2024-08-31 21:20:46.136727
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+51: Universal Yoga 寰宇瑜珈 by YaYa is FULL at 2024-08-31 21:20:49.644802
+
+Failed to reserve the class idx:1 at 2024-08-31 21:20:49.645164
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="4c838eb72c5de30388a6d5c5c150eb8f")>] at 2024-08-31 21:20:54.777091
+------------------
+courses to be booked:
+
+Universal Basic 寰宇瑜珈基礎
+Universal Yoga 寰宇瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+Universal Basic 寰宇瑜珈基礎
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="ba2bc722b4dbe18df60fcfed05626b40")>] at 2024-08-31 21:20:59.905592
+sign in for class idx:1 at 2024-08-31 21:21:08.823347
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+52: Universal Yoga 寰宇瑜珈 by YaYa is FULL at 2024-08-31 21:21:12.628379
+
+Failed to reserve the class idx:1 at 2024-08-31 21:21:12.628777
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="ba2bc722b4dbe18df60fcfed05626b40")>] at 2024-08-31 21:21:17.758259
+------------------
+courses to be booked:
+
+Universal Basic 寰宇瑜珈基礎
+Universal Yoga 寰宇瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+Universal Basic 寰宇瑜珈基礎
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="3fccee4e8d8895687e6f5ad9f948393e")>] at 2024-08-31 21:21:22.904097
+sign in for class idx:1 at 2024-08-31 21:21:31.470013
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+53: Universal Yoga 寰宇瑜珈 by YaYa is FULL at 2024-08-31 21:21:35.307624
+
+Failed to reserve the class idx:1 at 2024-08-31 21:21:35.308082
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="3fccee4e8d8895687e6f5ad9f948393e")>] at 2024-08-31 21:21:40.433908
+------------------
+courses to be booked:
+
+Universal Basic 寰宇瑜珈基礎
+Universal Yoga 寰宇瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+Universal Basic 寰宇瑜珈基礎
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="f05acda575f102f558e2ce145e375b95")>] at 2024-08-31 21:21:45.610890
+sign in for class idx:1 at 2024-08-31 21:21:54.242044
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+54: Universal Yoga 寰宇瑜珈 by YaYa is FULL at 2024-08-31 21:21:58.088771
+
+Failed to reserve the class idx:1 at 2024-08-31 21:21:58.089169
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="f05acda575f102f558e2ce145e375b95")>] at 2024-08-31 21:22:03.217354
+------------------
+courses to be booked:
+
+Universal Basic 寰宇瑜珈基礎
+Universal Yoga 寰宇瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+Universal Basic 寰宇瑜珈基礎
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="b80d5025774339259c086959436868af")>] at 2024-08-31 21:22:08.398285
+sign in for class idx:1 at 2024-08-31 21:22:16.469344
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+55: Universal Yoga 寰宇瑜珈 by YaYa is FULL at 2024-08-31 21:22:20.435856
+
+Failed to reserve the class idx:1 at 2024-08-31 21:22:20.436374
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="b80d5025774339259c086959436868af")>] at 2024-08-31 21:22:25.568766
+------------------
+courses to be booked:
+
+Universal Basic 寰宇瑜珈基礎
+Universal Yoga 寰宇瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+Universal Basic 寰宇瑜珈基礎
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="e4d88eacdec25a13de624820b571191c")>] at 2024-08-31 21:22:30.708432
+sign in for class idx:1 at 2024-08-31 21:22:39.057920
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+56: Universal Yoga 寰宇瑜珈 by YaYa is FULL at 2024-08-31 21:22:42.892201
+
+Failed to reserve the class idx:1 at 2024-08-31 21:22:42.892579
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="e4d88eacdec25a13de624820b571191c")>] at 2024-08-31 21:22:48.022186
+------------------
+courses to be booked:
+
+Universal Basic 寰宇瑜珈基礎
+Universal Yoga 寰宇瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+Universal Basic 寰宇瑜珈基礎
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="bb2694372576588e6dcd093a9dc1c495")>] at 2024-08-31 21:22:53.191557
+sign in for class idx:1 at 2024-08-31 21:23:10.940255
+
+************************
+status html: cannot find status text in the current site
+************************
+
+UNEXPECTED SCENARIO HAPPENED. NEED TO REVISE THE CODE
+
+ Current Page Source:
+<html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_Head1"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta name="theme-color" content="#592954"><meta name="viewport" content="width=1024, user-scalable=yes"><title>
+	CBSS System - 登入
+</title>
+    <link href="https://www.trueclassbooking.com.tw/member/css/style.all.css?v=2.27.17.00" rel="stylesheet" type="text/css">
+    <!--[if IE]>
+        <link href="https://www.trueclassbooking.com.tw/member/css/ie.css?v=2.27.17.00" rel="stylesheet" type="text/css" />
+    <![endif]-->
+    <!--[if IE 8]>
+	    <link href="https://www.trueclassbooking.com.tw/member/css/ie8.css?v=2.27.17.00" rel="stylesheet" type="text/css" />
+    <![endif]-->
+<style>.cke{visibility:hidden;}</style></head>
+<body><div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" style="padding-bottom: 42px; padding-right: 42px; display: none;"><div id="cboxWrapper"><div><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxLoadedContent" style="width: 0px; height: 0px; overflow: hidden; float: left;"></div><div id="cboxLoadingOverlay" style="float: left;"></div><div id="cboxLoadingGraphic" style="float: left;"></div><div id="cboxTitle" style="float: left;"></div><div id="cboxCurrent" style="float: left;"></div><div id="cboxNext" style="float: left;"></div><div id="cboxPrevious" style="float: left;"></div><div id="cboxSlideshow" style="float: left;"></div><div id="cboxClose" style="float: left;"></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position: absolute; width: 9999px; visibility: hidden; display: none;"></div></div>
+
+    <form name="aspnetForm" method="post" action="./session-expired.aspx" id="aspnetForm">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEwMDUyNjYzMjhkZAUPhUTjtiLFX3l1h5e/8b6Q0Pmz9YRswtJooHAdDgXA">
+</div>
+
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="E4BEE291">
+</div>
+
+        <!-- CONTENTS -->
+        <div id="popup">
+            
+    <div class="left al">系統無法取出用戶登入檔案資料。<br>請你您退出後再嘗試登入。</div>
+
+        </div>
+
+    </form>
+
+    <script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-3LV80BY46T&amp;cx=c&amp;_slc=1"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="https://www.trueclassbooking.com.tw/member/js/script.all.js?v=2.27.17.00"></script>
+    <!-- JAVSCRIPTS -->
+    
+
+    <script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date(); a = s.createElement(o),
+  m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-45242383-2', 'www.trueclassbooking.com.tw');
+        ga('send', 'pageview');
+
+</script>
+
+
+</body></html>Failed to reserve the class idx:1 at 2024-08-31 21:23:33.424452
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="bb2694372576588e6dcd093a9dc1c495")>] at 2024-08-31 21:23:38.623558
+------------------
+courses to be booked:
+
+Universal Basic 寰宇瑜珈基礎
+Universal Yoga 寰宇瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+Universal Basic 寰宇瑜珈基礎
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="9220001c35a8329f5197c89cba7f8dcf")>] at 2024-08-31 21:23:43.786450
+sign in for class idx:1 at 2024-08-31 21:23:51.526347
+
+************************
+status html: cannot find status text in the current site
+************************
+
+我們檢測到來自您的地址的異常流量
+Failed to reserve the class idx:1 at 2024-08-31 21:24:14.165913
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="9220001c35a8329f5197c89cba7f8dcf")>] at 2024-08-31 21:24:19.287140
+------------------
+courses to be booked:
+
+Universal Basic 寰宇瑜珈基礎
+Universal Yoga 寰宇瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+Universal Basic 寰宇瑜珈基礎
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="4304d3307bc1a7f8b0b804d669e47bfc")>] at 2024-08-31 21:24:24.485994
+sign in for class idx:1 at 2024-08-31 21:24:29.965191
+
+************************
+status html: cannot find status text in the current site
+************************
+
+我們檢測到來自您的地址的異常流量
+Failed to reserve the class idx:1 at 2024-08-31 21:24:52.634780
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="4304d3307bc1a7f8b0b804d669e47bfc")>] at 2024-08-31 21:24:57.768663
+------------------
+courses to be booked:
+
+Universal Basic 寰宇瑜珈基礎
+Universal Yoga 寰宇瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+Universal Basic 寰宇瑜珈基礎
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="49d28adc7571b71bc9c75d5d6d2050d2")>] at 2024-08-31 21:25:02.941411
+sign in for class idx:1 at 2024-08-31 21:25:08.595225
+
+************************
+status html: cannot find status text in the current site
+************************
+
+我們檢測到來自您的地址的異常流量
+Failed to reserve the class idx:1 at 2024-08-31 21:25:31.278012
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="49d28adc7571b71bc9c75d5d6d2050d2")>] at 2024-08-31 21:25:36.410520
+------------------
+courses to be booked:
+
+Universal Basic 寰宇瑜珈基礎
+Universal Yoga 寰宇瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+Universal Basic 寰宇瑜珈基礎
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="97fbd62b1644918675f53f3d2010a6a2")>] at 2024-08-31 21:25:41.540311
+sign in for class idx:1 at 2024-08-31 21:25:46.890639
+
+************************
+status html: cannot find status text in the current site
+************************
+
+我們檢測到來自您的地址的異常流量
+Failed to reserve the class idx:1 at 2024-08-31 21:26:09.569751
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="97fbd62b1644918675f53f3d2010a6a2")>] at 2024-08-31 21:26:14.755418
+------------------
+courses to be booked:
+
+Universal Basic 寰宇瑜珈基礎
+Universal Yoga 寰宇瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+Universal Basic 寰宇瑜珈基礎
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="4a0705a95a6ee388d75173f4d542d78f")>] at 2024-08-31 21:26:19.923339
+sign in for class idx:1 at 2024-08-31 21:26:25.467756
+
+************************
+status html: cannot find status text in the current site
+************************
+
+我們檢測到來自您的地址的異常流量
+Failed to reserve the class idx:1 at 2024-08-31 21:26:48.097527
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="4a0705a95a6ee388d75173f4d542d78f")>] at 2024-08-31 21:26:53.220613
+------------------
+courses to be booked:
+
+Universal Basic 寰宇瑜珈基礎
+Universal Yoga 寰宇瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+Universal Basic 寰宇瑜珈基礎
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="2fdfa8548af103693a02dced9a33f78a")>] at 2024-08-31 21:26:58.382240
+sign in for class idx:1 at 2024-08-31 21:27:07.085147
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+63: Universal Yoga 寰宇瑜珈 by YaYa is FULL at 2024-08-31 21:27:10.495347
+
+Failed to reserve the class idx:1 at 2024-08-31 21:27:10.495703
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="2fdfa8548af103693a02dced9a33f78a")>] at 2024-08-31 21:27:15.628119
+------------------
+courses to be booked:
+
+Universal Basic 寰宇瑜珈基礎
+Universal Yoga 寰宇瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+Universal Basic 寰宇瑜珈基礎
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="56442c472ddf0eb81d8c6079a014a991")>] at 2024-08-31 21:27:20.791462
+sign in for class idx:1 at 2024-08-31 21:27:29.619136
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+64: Universal Yoga 寰宇瑜珈 by YaYa is FULL at 2024-08-31 21:27:33.322585
+
+Failed to reserve the class idx:1 at 2024-08-31 21:27:33.325988
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="56442c472ddf0eb81d8c6079a014a991")>] at 2024-08-31 21:27:38.456423
+------------------
+courses to be booked:
+
+Universal Basic 寰宇瑜珈基礎
+Universal Yoga 寰宇瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+Universal Basic 寰宇瑜珈基礎
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="72c83204c3a0e14c89d25ef029144c86")>] at 2024-08-31 21:27:43.683662
+sign in for class idx:1 at 2024-08-31 21:27:52.008709
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+65: Universal Yoga 寰宇瑜珈 by YaYa is FULL at 2024-08-31 21:27:55.860071
+
+Failed to reserve the class idx:1 at 2024-08-31 21:27:55.860484
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="72c83204c3a0e14c89d25ef029144c86")>] at 2024-08-31 21:28:00.991523
+------------------
+courses to be booked:
+
+Universal Basic 寰宇瑜珈基礎
+Universal Yoga 寰宇瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+Universal Basic 寰宇瑜珈基礎
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="883a7cedd698a6aa3602861825d19471")>] at 2024-08-31 21:28:06.203938
+sign in for class idx:1 at 2024-08-31 21:28:15.206836
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+66: Universal Yoga 寰宇瑜珈 by YaYa is FULL at 2024-08-31 21:28:18.740759
+
+Failed to reserve the class idx:1 at 2024-08-31 21:28:18.741127
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="883a7cedd698a6aa3602861825d19471")>] at 2024-08-31 21:28:23.876676
+------------------
+courses to be booked:
+
+Universal Basic 寰宇瑜珈基礎
+Universal Yoga 寰宇瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+Universal Basic 寰宇瑜珈基礎
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="3ef9bc833d5e3ed86bf8fdcd263f0659")>] at 2024-08-31 21:28:29.037429
+sign in for class idx:1 at 2024-08-31 21:28:37.270443
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+67: Universal Yoga 寰宇瑜珈 by YaYa is FULL at 2024-08-31 21:28:40.676810
+
+Failed to reserve the class idx:1 at 2024-08-31 21:28:40.677190
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="3ef9bc833d5e3ed86bf8fdcd263f0659")>] at 2024-08-31 21:28:45.810020
+------------------
+courses to be booked:
+
+Universal Basic 寰宇瑜珈基礎
+Universal Yoga 寰宇瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+Universal Basic 寰宇瑜珈基礎
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="09ec506d54fea3d17537ac72e117e1a3")>] at 2024-08-31 21:28:51.047888
+sign in for class idx:1 at 2024-08-31 21:28:59.277152
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+68: Universal Yoga 寰宇瑜珈 by YaYa is FULL at 2024-08-31 21:29:02.887107
+
+Failed to reserve the class idx:1 at 2024-08-31 21:29:02.887457
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="09ec506d54fea3d17537ac72e117e1a3")>] at 2024-08-31 21:29:08.006973
+------------------
+courses to be booked:
+
+Universal Basic 寰宇瑜珈基礎
+Universal Yoga 寰宇瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+Universal Basic 寰宇瑜珈基礎
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="76af95a1e003e28339d511652c11389d")>] at 2024-08-31 21:29:13.151376
+sign in for class idx:1 at 2024-08-31 21:29:21.602776
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+69: Universal Yoga 寰宇瑜珈 by YaYa is FULL at 2024-08-31 21:29:25.127572
+
+Failed to reserve the class idx:1 at 2024-08-31 21:29:25.127911
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="76af95a1e003e28339d511652c11389d")>] at 2024-08-31 21:29:30.257109
+------------------
+courses to be booked:
+
+Universal Basic 寰宇瑜珈基礎
+Universal Yoga 寰宇瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+Universal Basic 寰宇瑜珈基礎
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="5ccfbdd70c1ae9802bebc69cd3019846")>] at 2024-08-31 21:29:35.391755
+sign in for class idx:1 at 2024-08-31 21:29:43.518759
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+70: Universal Yoga 寰宇瑜珈 by YaYa is FULL at 2024-08-31 21:29:47.147802
+
+Failed to reserve the class idx:1 at 2024-08-31 21:29:47.148168
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="5ccfbdd70c1ae9802bebc69cd3019846")>] at 2024-08-31 21:29:52.275188
+------------------
+courses to be booked:
+
+Universal Basic 寰宇瑜珈基礎
+Universal Yoga 寰宇瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+Universal Basic 寰宇瑜珈基礎
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="b22468c891e08980b96f8f7626f4421c")>] at 2024-08-31 21:29:58.138887
+sign in for class idx:1 at 2024-08-31 21:30:15.056020
