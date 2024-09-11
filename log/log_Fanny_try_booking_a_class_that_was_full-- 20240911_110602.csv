@@ -1,0 +1,3445 @@
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="16fbbc9ba298e3ec1d3ca2c7735e3288")>] at 2024-09-11 11:06:03.582922
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="08a6858091f14ad582d216d546245e31")>] at 2024-09-11 11:06:04.833493
+sign in for class idx:0 at 2024-09-11 11:10:11.473206
+sign in for class idx:1 at 2024-09-11 11:11:32.527326
+
+************************
+status html: cannot find status text in the current site
+************************
+
+UNEXPECTED SCENARIO HAPPENED. NEED TO REVISE THE CODE
+
+ Current Page Source:
+<html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_Head1"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta name="theme-color" content="#592954"><meta name="viewport" content="width=1024, user-scalable=yes"><title>
+	CBSS System - 
+</title>
+    <link href="https://www.trueclassbooking.com.tw/member/css/style.all.css?v=2.27.17.00" rel="stylesheet" type="text/css">
+    <!--[if IE]>
+        <link href="https://www.trueclassbooking.com.tw/member/css/ie.css?v=2.27.17.00" rel="stylesheet" type="text/css" />
+    <![endif]-->
+    <!--[if IE 8]>
+	    <link href="https://www.trueclassbooking.com.tw/member/css/ie8.css?v=2.27.17.00" rel="stylesheet" type="text/css" />
+    <![endif]-->
+<style>.cke{visibility:hidden;}</style></head>
+<body><div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" style="padding-bottom: 42px; padding-right: 42px; display: none;"><div id="cboxWrapper"><div><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxLoadedContent" style="width: 0px; height: 0px; overflow: hidden; float: left;"></div><div id="cboxLoadingOverlay" style="float: left;"></div><div id="cboxLoadingGraphic" style="float: left;"></div><div id="cboxTitle" style="float: left;"></div><div id="cboxCurrent" style="float: left;"></div><div id="cboxNext" style="float: left;"></div><div id="cboxPrevious" style="float: left;"></div><div id="cboxSlideshow" style="float: left;"></div><div id="cboxClose" style="float: left;"></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position: absolute; width: 9999px; visibility: hidden; display: none;"></div></div>
+
+    <form name="aspnetForm" method="post" action="./session-expired.aspx" id="aspnetForm">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEwMDUyNjYzMjhkZAUPhUTjtiLFX3l1h5e/8b6Q0Pmz9YRswtJooHAdDgXA">
+</div>
+
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="E4BEE291">
+</div>
+
+        <!-- CONTENTS -->
+        <div id="popup">
+            
+    <div class="left al">系統無法取出用戶登入檔案資料。<br>請你您退出後再嘗試登入。</div>
+
+        </div>
+
+    </form>
+
+    <script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-3LV80BY46T&amp;cx=c&amp;_slc=1"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="https://www.trueclassbooking.com.tw/member/js/script.all.js?v=2.27.17.00"></script>
+    <!-- JAVSCRIPTS -->
+    
+
+    <script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date(); a = s.createElement(o),
+  m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-45242383-2', 'www.trueclassbooking.com.tw');
+        ga('send', 'pageview');
+
+</script>
+
+
+</body></html>Failed to reserve the class idx:0 at 2024-09-11 11:13:16.802555
+
+************************
+status html: cannot find status text in the current site
+************************
+
+UNEXPECTED SCENARIO HAPPENED. NEED TO REVISE THE CODE
+
+ Current Page Source:
+<html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_Head1"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta name="theme-color" content="#592954"><meta name="viewport" content="width=1024, user-scalable=yes"><title>
+	CBSS System - 登入
+</title>
+    <link href="https://www.trueclassbooking.com.tw/member/css/style.all.css?v=2.27.17.00" rel="stylesheet" type="text/css">
+    <!--[if IE]>
+        <link href="https://www.trueclassbooking.com.tw/member/css/ie.css?v=2.27.17.00" rel="stylesheet" type="text/css" />
+    <![endif]-->
+    <!--[if IE 8]>
+	    <link href="https://www.trueclassbooking.com.tw/member/css/ie8.css?v=2.27.17.00" rel="stylesheet" type="text/css" />
+    <![endif]-->
+<style>.cke{visibility:hidden;}</style></head>
+<body><div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" style="padding-bottom: 42px; padding-right: 42px; display: none;"><div id="cboxWrapper"><div><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxLoadedContent" style="width: 0px; height: 0px; overflow: hidden; float: left;"></div><div id="cboxLoadingOverlay" style="float: left;"></div><div id="cboxLoadingGraphic" style="float: left;"></div><div id="cboxTitle" style="float: left;"></div><div id="cboxCurrent" style="float: left;"></div><div id="cboxNext" style="float: left;"></div><div id="cboxPrevious" style="float: left;"></div><div id="cboxSlideshow" style="float: left;"></div><div id="cboxClose" style="float: left;"></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position: absolute; width: 9999px; visibility: hidden; display: none;"></div></div>
+
+    <form name="aspnetForm" method="post" action="./session-expired.aspx" id="aspnetForm">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEwMDUyNjYzMjhkZAUPhUTjtiLFX3l1h5e/8b6Q0Pmz9YRswtJooHAdDgXA">
+</div>
+
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="E4BEE291">
+</div>
+
+        <!-- CONTENTS -->
+        <div id="popup">
+            
+    <div class="left al">系統無法取出用戶登入檔案資料。<br>請你您退出後再嘗試登入。</div>
+
+        </div>
+
+    </form>
+
+    <script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-3LV80BY46T&amp;cx=c&amp;_slc=1"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="https://www.trueclassbooking.com.tw/member/js/script.all.js?v=2.27.17.00"></script>
+    <!-- JAVSCRIPTS -->
+    
+
+    <script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date(); a = s.createElement(o),
+  m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-45242383-2', 'www.trueclassbooking.com.tw');
+        ga('send', 'pageview');
+
+</script>
+
+
+</body></html>Failed to reserve the class idx:1 at 2024-09-11 11:13:35.994042
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="16fbbc9ba298e3ec1d3ca2c7735e3288")>] at 2024-09-11 11:13:41.126281
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="08a6858091f14ad582d216d546245e31")>] at 2024-09-11 11:13:41.232988
+------------------
+courses to be booked:
+
+Flow Yoga 動瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="ac57f3fb12d332d20692e6bc0d404a9c")>] at 2024-09-11 11:13:43.085367
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="8e5747334cc8ef825b4483c7ad235a53")>] at 2024-09-11 11:13:44.027104
+sign in for class idx:0 at 2024-09-11 11:13:48.508939
+sign in for class idx:1 at 2024-09-11 11:13:54.283097
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+3: Flow Yoga 動瑜珈 by Moorthi is FULL at 2024-09-11 11:13:57.759197
+
+Failed to reserve the class idx:0 at 2024-09-11 11:13:57.765864
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                您已預訂此課。
+            
+************************
+
+4: Yin Yoga 陰瑜珈 by Moorthi was BOOKED before 2024-09-11 11:13:58.126294
+Failed to reserve the class idx:1 at 2024-09-11 11:13:58.200094
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="ac57f3fb12d332d20692e6bc0d404a9c")>] at 2024-09-11 11:14:03.394435
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="8e5747334cc8ef825b4483c7ad235a53")>] at 2024-09-11 11:14:03.501825
+------------------
+courses to be booked:
+
+Flow Yoga 動瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="cf61a3e85fb0f1b3ad848bfe02b04edf")>] at 2024-09-11 11:14:05.444319
+sign in for class idx:0 at 2024-09-11 11:14:09.473318
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+5: Flow Yoga 動瑜珈 by Moorthi is FULL at 2024-09-11 11:14:12.675459
+
+Failed to reserve the class idx:0 at 2024-09-11 11:14:12.675789
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="cf61a3e85fb0f1b3ad848bfe02b04edf")>] at 2024-09-11 11:14:17.789467
+------------------
+courses to be booked:
+
+Flow Yoga 動瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="4ea0cb9517a92d342806c1ba33e9f0d4")>] at 2024-09-11 11:14:19.553566
+sign in for class idx:0 at 2024-09-11 11:14:24.171769
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+6: Flow Yoga 動瑜珈 by Moorthi is FULL at 2024-09-11 11:14:27.352738
+
+Failed to reserve the class idx:0 at 2024-09-11 11:14:27.353117
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="4ea0cb9517a92d342806c1ba33e9f0d4")>] at 2024-09-11 11:14:32.462177
+------------------
+courses to be booked:
+
+Flow Yoga 動瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="51dfce29301af84e000ac6f8b5ff394c")>] at 2024-09-11 11:14:34.292095
+sign in for class idx:0 at 2024-09-11 11:14:38.588344
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+7: Flow Yoga 動瑜珈 by Moorthi is FULL at 2024-09-11 11:14:41.813578
+
+Failed to reserve the class idx:0 at 2024-09-11 11:14:41.813874
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="51dfce29301af84e000ac6f8b5ff394c")>] at 2024-09-11 11:14:46.921766
+------------------
+courses to be booked:
+
+Flow Yoga 動瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="762748bb948de7e1eeae0dffc073c258")>] at 2024-09-11 11:14:48.791721
+sign in for class idx:0 at 2024-09-11 11:14:53.037106
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+8: Flow Yoga 動瑜珈 by Moorthi is FULL at 2024-09-11 11:14:56.246109
+
+Failed to reserve the class idx:0 at 2024-09-11 11:14:56.246451
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="762748bb948de7e1eeae0dffc073c258")>] at 2024-09-11 11:15:01.359287
+------------------
+courses to be booked:
+
+Flow Yoga 動瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="d6c9aadfa6cbc73f5008a7741f44503c")>] at 2024-09-11 11:15:03.034024
+sign in for class idx:0 at 2024-09-11 11:15:06.685977
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+9: Flow Yoga 動瑜珈 by Moorthi is FULL at 2024-09-11 11:15:09.849891
+
+Failed to reserve the class idx:0 at 2024-09-11 11:15:09.858947
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="d6c9aadfa6cbc73f5008a7741f44503c")>] at 2024-09-11 11:15:15.007206
+------------------
+courses to be booked:
+
+Flow Yoga 動瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="86d56d3cf9501a51ce650bdcdeff309c")>] at 2024-09-11 11:15:16.715421
+sign in for class idx:0 at 2024-09-11 11:15:21.089610
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+10: Flow Yoga 動瑜珈 by Moorthi is FULL at 2024-09-11 11:15:24.317422
+
+Failed to reserve the class idx:0 at 2024-09-11 11:15:24.367227
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="86d56d3cf9501a51ce650bdcdeff309c")>] at 2024-09-11 11:15:29.635548
+------------------
+courses to be booked:
+
+Flow Yoga 動瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="eea52e30e87fc45ceae1010478820ad5")>] at 2024-09-11 11:15:31.501149
+sign in for class idx:0 at 2024-09-11 11:15:36.212664
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+11: Flow Yoga 動瑜珈 by Moorthi is FULL at 2024-09-11 11:15:39.482505
+
+Failed to reserve the class idx:0 at 2024-09-11 11:15:39.523933
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="eea52e30e87fc45ceae1010478820ad5")>] at 2024-09-11 11:15:44.879214
+------------------
+courses to be booked:
+
+Flow Yoga 動瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="14c67e7653734ac7c44a01d86826bbf4")>] at 2024-09-11 11:15:46.860549
+sign in for class idx:0 at 2024-09-11 11:15:51.518710
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+12: Flow Yoga 動瑜珈 by Moorthi is FULL at 2024-09-11 11:15:54.849414
+
+Failed to reserve the class idx:0 at 2024-09-11 11:15:54.911500
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="14c67e7653734ac7c44a01d86826bbf4")>] at 2024-09-11 11:16:00.167103
+------------------
+courses to be booked:
+
+Flow Yoga 動瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="0f81a785b4d4959d10efe0116a8ec7d0")>] at 2024-09-11 11:16:02.059304
+sign in for class idx:0 at 2024-09-11 11:16:05.397782
+
+************************
+status html: cannot find status text in the current site
+************************
+
+UNEXPECTED SCENARIO HAPPENED. NEED TO REVISE THE CODE
+
+ Current Page Source:
+<html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_Head1"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta name="theme-color" content="#592954"><meta name="viewport" content="width=1024, user-scalable=yes"><title>
+	CBSS System - 登入
+</title>
+    <link href="https://www.trueclassbooking.com.tw/member/css/style.all.css?v=2.27.17.00" rel="stylesheet" type="text/css">
+    <!--[if IE]>
+        <link href="https://www.trueclassbooking.com.tw/member/css/ie.css?v=2.27.17.00" rel="stylesheet" type="text/css" />
+    <![endif]-->
+    <!--[if IE 8]>
+	    <link href="https://www.trueclassbooking.com.tw/member/css/ie8.css?v=2.27.17.00" rel="stylesheet" type="text/css" />
+    <![endif]-->
+<style>.cke{visibility:hidden;}</style></head>
+<body><div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" style="padding-bottom: 42px; padding-right: 42px; display: none;"><div id="cboxWrapper"><div><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxLoadedContent" style="width: 0px; height: 0px; overflow: hidden; float: left;"></div><div id="cboxLoadingOverlay" style="float: left;"></div><div id="cboxLoadingGraphic" style="float: left;"></div><div id="cboxTitle" style="float: left;"></div><div id="cboxCurrent" style="float: left;"></div><div id="cboxNext" style="float: left;"></div><div id="cboxPrevious" style="float: left;"></div><div id="cboxSlideshow" style="float: left;"></div><div id="cboxClose" style="float: left;"></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position: absolute; width: 9999px; visibility: hidden; display: none;"></div></div>
+
+    <form name="aspnetForm" method="post" action="./session-expired.aspx" id="aspnetForm">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEwMDUyNjYzMjhkZAUPhUTjtiLFX3l1h5e/8b6Q0Pmz9YRswtJooHAdDgXA">
+</div>
+
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="E4BEE291">
+</div>
+
+        <!-- CONTENTS -->
+        <div id="popup">
+            
+    <div class="left al">系統無法取出用戶登入檔案資料。<br>請你您退出後再嘗試登入。</div>
+
+        </div>
+
+    </form>
+
+    <script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-3LV80BY46T&amp;cx=c&amp;_slc=1"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="https://www.trueclassbooking.com.tw/member/js/script.all.js?v=2.27.17.00"></script>
+    <!-- JAVSCRIPTS -->
+    
+
+    <script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date(); a = s.createElement(o),
+  m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-45242383-2', 'www.trueclassbooking.com.tw');
+        ga('send', 'pageview');
+
+</script>
+
+
+</body></html>Failed to reserve the class idx:0 at 2024-09-11 11:16:27.664314
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="0f81a785b4d4959d10efe0116a8ec7d0")>] at 2024-09-11 11:16:32.812593
+------------------
+courses to be booked:
+
+Flow Yoga 動瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="f38d3e806d03c297a357eeed353da8a6")>] at 2024-09-11 11:16:36.941875
+sign in for class idx:0 at 2024-09-11 11:16:41.194634
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+14: Flow Yoga 動瑜珈 by Moorthi is FULL at 2024-09-11 11:16:44.409020
+
+Failed to reserve the class idx:0 at 2024-09-11 11:16:44.416822
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="f38d3e806d03c297a357eeed353da8a6")>] at 2024-09-11 11:16:49.959869
+------------------
+courses to be booked:
+
+Flow Yoga 動瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="f5e3410623d0de858747857d248b1f76")>] at 2024-09-11 11:16:53.146405
+sign in for class idx:0 at 2024-09-11 11:16:57.351731
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+15: Flow Yoga 動瑜珈 by Moorthi is FULL at 2024-09-11 11:17:00.523048
+
+Failed to reserve the class idx:0 at 2024-09-11 11:17:00.544676
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="f5e3410623d0de858747857d248b1f76")>] at 2024-09-11 11:17:05.687881
+------------------
+courses to be booked:
+
+Flow Yoga 動瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="20a0e9eb829f83850a93674486a34d57")>] at 2024-09-11 11:17:08.088306
+sign in for class idx:0 at 2024-09-11 11:17:13.255726
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+16: Flow Yoga 動瑜珈 by Moorthi is FULL at 2024-09-11 11:17:16.455254
+
+Failed to reserve the class idx:0 at 2024-09-11 11:17:16.471327
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="20a0e9eb829f83850a93674486a34d57")>] at 2024-09-11 11:17:21.581836
+------------------
+courses to be booked:
+
+Flow Yoga 動瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="d00882e42625507489b10d97c276eb3b")>] at 2024-09-11 11:17:24.221982
+sign in for class idx:0 at 2024-09-11 11:17:29.010989
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+17: Flow Yoga 動瑜珈 by Moorthi is FULL at 2024-09-11 11:17:32.255823
+
+Failed to reserve the class idx:0 at 2024-09-11 11:17:32.264964
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="d00882e42625507489b10d97c276eb3b")>] at 2024-09-11 11:17:37.394994
+------------------
+courses to be booked:
+
+Flow Yoga 動瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="5b11d0b65a34c7715d755297dc8cb38d")>] at 2024-09-11 11:17:42.952898
+sign in for class idx:0 at 2024-09-11 11:17:46.833451
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+18: Flow Yoga 動瑜珈 by Moorthi is FULL at 2024-09-11 11:17:50.055827
+
+Failed to reserve the class idx:0 at 2024-09-11 11:17:50.101047
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="5b11d0b65a34c7715d755297dc8cb38d")>] at 2024-09-11 11:17:55.560962
+------------------
+courses to be booked:
+
+Flow Yoga 動瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="85dd8e0c87eb6478894a06af0cd5d48a")>] at 2024-09-11 11:17:58.053826
+sign in for class idx:0 at 2024-09-11 11:18:02.407683
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+19: Flow Yoga 動瑜珈 by Moorthi is FULL at 2024-09-11 11:18:05.599904
+
+Failed to reserve the class idx:0 at 2024-09-11 11:18:05.600196
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="85dd8e0c87eb6478894a06af0cd5d48a")>] at 2024-09-11 11:18:11.055317
+------------------
+courses to be booked:
+
+Flow Yoga 動瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="d82bfb2255dff8dec30a37895b391dcb")>] at 2024-09-11 11:18:13.434226
+sign in for class idx:0 at 2024-09-11 11:18:17.333456
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+20: Flow Yoga 動瑜珈 by Moorthi is FULL at 2024-09-11 11:18:20.558251
+
+Failed to reserve the class idx:0 at 2024-09-11 11:18:20.558633
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="d82bfb2255dff8dec30a37895b391dcb")>] at 2024-09-11 11:18:25.675859
+------------------
+courses to be booked:
+
+Flow Yoga 動瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="ad106ba65586e4178e591ac2b70ae22f")>] at 2024-09-11 11:18:27.334537
+sign in for class idx:0 at 2024-09-11 11:18:31.915747
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+21: Flow Yoga 動瑜珈 by Moorthi is FULL at 2024-09-11 11:18:35.073430
+
+Failed to reserve the class idx:0 at 2024-09-11 11:18:35.073765
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="ad106ba65586e4178e591ac2b70ae22f")>] at 2024-09-11 11:18:40.249888
+------------------
+courses to be booked:
+
+Flow Yoga 動瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="c63f0a90f4ebcd1486f473f61fc17788")>] at 2024-09-11 11:18:41.949254
+sign in for class idx:0 at 2024-09-11 11:18:46.429357
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+22: Flow Yoga 動瑜珈 by Moorthi is FULL at 2024-09-11 11:18:49.592269
+
+Failed to reserve the class idx:0 at 2024-09-11 11:18:49.645915
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="c63f0a90f4ebcd1486f473f61fc17788")>] at 2024-09-11 11:18:54.806867
+------------------
+courses to be booked:
+
+Flow Yoga 動瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="03ae49f73133a2ac8cbfb64bfd9c4865")>] at 2024-09-11 11:18:56.720629
+sign in for class idx:0 at 2024-09-11 11:19:01.150164
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+23: Flow Yoga 動瑜珈 by Moorthi is FULL at 2024-09-11 11:19:04.364792
+
+Failed to reserve the class idx:0 at 2024-09-11 11:19:04.401604
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="03ae49f73133a2ac8cbfb64bfd9c4865")>] at 2024-09-11 11:19:09.830986
+------------------
+courses to be booked:
+
+Flow Yoga 動瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="c7dc297bb5211a0a01a75d50b8f9dd40")>] at 2024-09-11 11:19:11.469688
+sign in for class idx:0 at 2024-09-11 11:19:15.987643
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+24: Flow Yoga 動瑜珈 by Moorthi is FULL at 2024-09-11 11:19:19.222809
+
+Failed to reserve the class idx:0 at 2024-09-11 11:19:19.277284
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="c7dc297bb5211a0a01a75d50b8f9dd40")>] at 2024-09-11 11:19:24.694621
+------------------
+courses to be booked:
+
+Flow Yoga 動瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="cdb14f36a33e0098c81484004512e4c2")>] at 2024-09-11 11:19:26.299630
+sign in for class idx:0 at 2024-09-11 11:19:30.266253
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+25: Flow Yoga 動瑜珈 by Moorthi is FULL at 2024-09-11 11:19:33.472160
+
+Failed to reserve the class idx:0 at 2024-09-11 11:19:33.472491
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="cdb14f36a33e0098c81484004512e4c2")>] at 2024-09-11 11:19:38.885344
+------------------
+courses to be booked:
+
+Flow Yoga 動瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="29066f41f11bd0282e555b6259201c3c")>] at 2024-09-11 11:19:40.940441
+sign in for class idx:0 at 2024-09-11 11:19:44.926327
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+26: Flow Yoga 動瑜珈 by Moorthi is FULL at 2024-09-11 11:19:48.194408
+
+Failed to reserve the class idx:0 at 2024-09-11 11:19:48.228030
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="29066f41f11bd0282e555b6259201c3c")>] at 2024-09-11 11:19:53.696808
+------------------
+courses to be booked:
+
+Flow Yoga 動瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="b418f03bde6bee78af805efcbcf51dc7")>] at 2024-09-11 11:19:55.716018
+sign in for class idx:0 at 2024-09-11 11:19:59.864768
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+27: Flow Yoga 動瑜珈 by Moorthi is FULL at 2024-09-11 11:20:03.054323
+
+Failed to reserve the class idx:0 at 2024-09-11 11:20:03.110748
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="b418f03bde6bee78af805efcbcf51dc7")>] at 2024-09-11 11:20:08.501290
+------------------
+courses to be booked:
+
+Flow Yoga 動瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="bb83eacd56a350ec37acce834b28fc56")>] at 2024-09-11 11:20:11.156337
+sign in for class idx:0 at 2024-09-11 11:20:15.924999
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+28: Flow Yoga 動瑜珈 by Moorthi is FULL at 2024-09-11 11:20:19.119696
+
+Failed to reserve the class idx:0 at 2024-09-11 11:20:19.131352
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="bb83eacd56a350ec37acce834b28fc56")>] at 2024-09-11 11:20:24.301002
+------------------
+courses to be booked:
+
+Flow Yoga 動瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="452e239a69e61d0c8521e427efc2fbac")>] at 2024-09-11 11:20:27.110017
+sign in for class idx:0 at 2024-09-11 11:20:32.096533
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+29: Flow Yoga 動瑜珈 by Moorthi is FULL at 2024-09-11 11:20:35.273856
+
+Failed to reserve the class idx:0 at 2024-09-11 11:20:35.299202
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="452e239a69e61d0c8521e427efc2fbac")>] at 2024-09-11 11:20:40.592528
+------------------
+courses to be booked:
+
+Flow Yoga 動瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="07ca77be51fd0f679bfdbf4761ec9347")>] at 2024-09-11 11:20:43.128154
+sign in for class idx:0 at 2024-09-11 11:20:47.761208
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+30: Flow Yoga 動瑜珈 by Moorthi is FULL at 2024-09-11 11:20:50.954480
+
+Failed to reserve the class idx:0 at 2024-09-11 11:20:51.020051
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="07ca77be51fd0f679bfdbf4761ec9347")>] at 2024-09-11 11:20:56.296183
+------------------
+courses to be booked:
+
+Flow Yoga 動瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="cbd95c3a70a42ae9647be444a8f453c9")>] at 2024-09-11 11:20:58.290078
+sign in for class idx:0 at 2024-09-11 11:21:02.926952
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+31: Flow Yoga 動瑜珈 by Moorthi is FULL at 2024-09-11 11:21:06.166430
+
+Failed to reserve the class idx:0 at 2024-09-11 11:21:06.246652
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="cbd95c3a70a42ae9647be444a8f453c9")>] at 2024-09-11 11:21:11.516425
+------------------
+courses to be booked:
+
+Flow Yoga 動瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="c23695401d0f8d55dd549cb3f71dac52")>] at 2024-09-11 11:21:13.974487
+sign in for class idx:0 at 2024-09-11 11:21:18.441195
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+32: Flow Yoga 動瑜珈 by Moorthi is FULL at 2024-09-11 11:21:21.677208
+
+Failed to reserve the class idx:0 at 2024-09-11 11:21:21.695099
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="c23695401d0f8d55dd549cb3f71dac52")>] at 2024-09-11 11:21:26.951037
+------------------
+courses to be booked:
+
+Flow Yoga 動瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="308fa0369dc8c6910a12dcfb37a9e748")>] at 2024-09-11 11:21:28.885970
+sign in for class idx:0 at 2024-09-11 11:21:33.631146
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+33: Flow Yoga 動瑜珈 by Moorthi is FULL at 2024-09-11 11:21:36.827188
+
+Failed to reserve the class idx:0 at 2024-09-11 11:21:36.841957
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="308fa0369dc8c6910a12dcfb37a9e748")>] at 2024-09-11 11:21:41.990531
+------------------
+courses to be booked:
+
+Flow Yoga 動瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="c7f0707d81a8e7d6b8a8f5696887202b")>] at 2024-09-11 11:21:43.910283
+sign in for class idx:0 at 2024-09-11 11:21:48.708723
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+34: Flow Yoga 動瑜珈 by Moorthi is FULL at 2024-09-11 11:21:51.883387
+
+Failed to reserve the class idx:0 at 2024-09-11 11:21:51.913410
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="c7f0707d81a8e7d6b8a8f5696887202b")>] at 2024-09-11 11:21:57.094189
+------------------
+courses to be booked:
+
+Flow Yoga 動瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="df288869d4ec3188906c0be54bc560e6")>] at 2024-09-11 11:21:58.771528
+sign in for class idx:0 at 2024-09-11 11:22:03.783264
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+35: Flow Yoga 動瑜珈 by Moorthi is FULL at 2024-09-11 11:22:06.934218
+
+Failed to reserve the class idx:0 at 2024-09-11 11:22:06.942149
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="df288869d4ec3188906c0be54bc560e6")>] at 2024-09-11 11:22:12.225428
+------------------
+courses to be booked:
+
+Flow Yoga 動瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="209d271c37bda9a72d5216e334db2c4c")>] at 2024-09-11 11:22:13.890585
+sign in for class idx:0 at 2024-09-11 11:22:18.608928
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+36: Flow Yoga 動瑜珈 by Moorthi is FULL at 2024-09-11 11:22:21.838150
+
+Failed to reserve the class idx:0 at 2024-09-11 11:22:21.856038
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="209d271c37bda9a72d5216e334db2c4c")>] at 2024-09-11 11:22:27.124526
+------------------
+courses to be booked:
+
+Flow Yoga 動瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="a2619cb6380b49c2d0634833c03f8ed0")>] at 2024-09-11 11:22:29.219684
+sign in for class idx:0 at 2024-09-11 11:22:33.385672
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+37: Flow Yoga 動瑜珈 by Moorthi is FULL at 2024-09-11 11:22:36.565574
+
+Failed to reserve the class idx:0 at 2024-09-11 11:22:36.607532
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="a2619cb6380b49c2d0634833c03f8ed0")>] at 2024-09-11 11:22:41.771394
+------------------
+courses to be booked:
+
+Flow Yoga 動瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="800147f7cdc4625d5be8ff8d065efc4c")>] at 2024-09-11 11:22:43.816833
+sign in for class idx:0 at 2024-09-11 11:22:48.850311
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+38: Flow Yoga 動瑜珈 by Moorthi is FULL at 2024-09-11 11:22:52.089689
+
+Failed to reserve the class idx:0 at 2024-09-11 11:22:52.122600
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="800147f7cdc4625d5be8ff8d065efc4c")>] at 2024-09-11 11:22:57.507981
+------------------
+courses to be booked:
+
+Flow Yoga 動瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="a439b3dc719151bd1a4eb3b6f0be8fe6")>] at 2024-09-11 11:22:59.193964
+sign in for class idx:0 at 2024-09-11 11:23:03.288432
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+39: Flow Yoga 動瑜珈 by Moorthi is FULL at 2024-09-11 11:23:06.496305
+
+Failed to reserve the class idx:0 at 2024-09-11 11:23:06.528411
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="a439b3dc719151bd1a4eb3b6f0be8fe6")>] at 2024-09-11 11:23:11.810873
+------------------
+courses to be booked:
+
+Flow Yoga 動瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="0db948d8fdffd01d318b2846058f6f19")>] at 2024-09-11 11:23:13.505593
+sign in for class idx:0 at 2024-09-11 11:23:17.897874
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+40: Flow Yoga 動瑜珈 by Moorthi is FULL at 2024-09-11 11:23:21.066749
+
+Failed to reserve the class idx:0 at 2024-09-11 11:23:21.098326
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="0db948d8fdffd01d318b2846058f6f19")>] at 2024-09-11 11:23:26.307911
+------------------
+courses to be booked:
+
+Flow Yoga 動瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="0313e0f048fdb92206dfcf5a63f0c24c")>] at 2024-09-11 11:23:28.813138
+sign in for class idx:0 at 2024-09-11 11:23:32.752925
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+41: Flow Yoga 動瑜珈 by Moorthi is FULL at 2024-09-11 11:23:36.027944
+
+Failed to reserve the class idx:0 at 2024-09-11 11:23:36.067077
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="0313e0f048fdb92206dfcf5a63f0c24c")>] at 2024-09-11 11:23:41.421919
+------------------
+courses to be booked:
+
+Flow Yoga 動瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="092b76257be154fcf51e4f3fcc3c39db")>] at 2024-09-11 11:23:43.275955
+sign in for class idx:0 at 2024-09-11 11:23:47.457086
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+42: Flow Yoga 動瑜珈 by Moorthi is FULL at 2024-09-11 11:23:50.602755
+
+Failed to reserve the class idx:0 at 2024-09-11 11:23:50.623736
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="092b76257be154fcf51e4f3fcc3c39db")>] at 2024-09-11 11:23:56.048502
+------------------
+courses to be booked:
+
+Flow Yoga 動瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="65701570f9e39607a6258ec7bf2f20c2")>] at 2024-09-11 11:24:03.063373
+sign in for class idx:0 at 2024-09-11 11:24:07.013938
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+43: Flow Yoga 動瑜珈 by Moorthi is FULL at 2024-09-11 11:24:10.213698
+
+Failed to reserve the class idx:0 at 2024-09-11 11:24:10.221648
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="65701570f9e39607a6258ec7bf2f20c2")>] at 2024-09-11 11:24:15.634090
+------------------
+courses to be booked:
+
+Flow Yoga 動瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="9fb8c1c86c570c5cdeaf9359c135dcca")>] at 2024-09-11 11:24:17.665828
+sign in for class idx:0 at 2024-09-11 11:24:22.026990
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+44: Flow Yoga 動瑜珈 by Moorthi is FULL at 2024-09-11 11:24:25.201638
+
+Failed to reserve the class idx:0 at 2024-09-11 11:24:25.212563
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="9fb8c1c86c570c5cdeaf9359c135dcca")>] at 2024-09-11 11:24:30.598441
+------------------
+courses to be booked:
+
+Flow Yoga 動瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="8d75cca5ddb5df5acda3afe180e99aaf")>] at 2024-09-11 11:24:32.486661
+sign in for class idx:0 at 2024-09-11 11:24:36.335095
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+45: Flow Yoga 動瑜珈 by Moorthi is FULL at 2024-09-11 11:24:39.533228
+
+Failed to reserve the class idx:0 at 2024-09-11 11:24:39.545693
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="8d75cca5ddb5df5acda3afe180e99aaf")>] at 2024-09-11 11:24:44.835624
+------------------
+courses to be booked:
+
+Flow Yoga 動瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="dfd5c54147c3cfb1fecb2aed91ae508b")>] at 2024-09-11 11:24:46.946763
+sign in for class idx:0 at 2024-09-11 11:24:52.094982
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+46: Flow Yoga 動瑜珈 by Moorthi is FULL at 2024-09-11 11:24:55.361710
+
+Failed to reserve the class idx:0 at 2024-09-11 11:24:55.362067
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="dfd5c54147c3cfb1fecb2aed91ae508b")>] at 2024-09-11 11:25:00.583016
+------------------
+courses to be booked:
+
+Flow Yoga 動瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="ecba50f0181b22a72cfa96b367791388")>] at 2024-09-11 11:25:03.139529
+sign in for class idx:0 at 2024-09-11 11:25:07.832542
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+47: Flow Yoga 動瑜珈 by Moorthi is FULL at 2024-09-11 11:25:11.185706
+
+Failed to reserve the class idx:0 at 2024-09-11 11:25:11.186009
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="ecba50f0181b22a72cfa96b367791388")>] at 2024-09-11 11:25:16.400346
+------------------
+courses to be booked:
+
+Flow Yoga 動瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="61390bd127b6ef9e67449f16518a0f85")>] at 2024-09-11 11:25:18.946425
+sign in for class idx:0 at 2024-09-11 11:25:23.367849
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+48: Flow Yoga 動瑜珈 by Moorthi is FULL at 2024-09-11 11:25:26.495119
+
+Failed to reserve the class idx:0 at 2024-09-11 11:25:26.495404
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="61390bd127b6ef9e67449f16518a0f85")>] at 2024-09-11 11:25:31.666936
+------------------
+courses to be booked:
+
+Flow Yoga 動瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="e2d4eb1774a7674e9f586e9a05d1e9a8")>] at 2024-09-11 11:25:34.346037
+sign in for class idx:0 at 2024-09-11 11:25:38.890039
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+49: Flow Yoga 動瑜珈 by Moorthi is FULL at 2024-09-11 11:25:42.064030
+
+Failed to reserve the class idx:0 at 2024-09-11 11:25:42.064391
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="e2d4eb1774a7674e9f586e9a05d1e9a8")>] at 2024-09-11 11:25:47.182468
+------------------
+courses to be booked:
+
+Flow Yoga 動瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="3c5e2bc67a1006e05d219e4357cec71c")>] at 2024-09-11 11:25:49.432100
+sign in for class idx:0 at 2024-09-11 11:25:54.439358
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+50: Flow Yoga 動瑜珈 by Moorthi is FULL at 2024-09-11 11:25:57.671679
+
+Failed to reserve the class idx:0 at 2024-09-11 11:25:57.672031
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="3c5e2bc67a1006e05d219e4357cec71c")>] at 2024-09-11 11:26:02.798796
+------------------
+courses to be booked:
+
+Flow Yoga 動瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="3627af1bdefcbf89f1475ea1f6b86297")>] at 2024-09-11 11:26:05.057583
+sign in for class idx:0 at 2024-09-11 11:26:09.621856
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+51: Flow Yoga 動瑜珈 by Moorthi is FULL at 2024-09-11 11:26:12.817142
+
+Failed to reserve the class idx:0 at 2024-09-11 11:26:12.895233
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="3627af1bdefcbf89f1475ea1f6b86297")>] at 2024-09-11 11:26:18.036901
+------------------
+courses to be booked:
+
+Flow Yoga 動瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="611a498be14c094003bfaeb6def8d037")>] at 2024-09-11 11:26:19.658306
+sign in for class idx:0 at 2024-09-11 11:26:24.471713
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+52: Flow Yoga 動瑜珈 by Moorthi is FULL at 2024-09-11 11:26:27.907398
+
+Failed to reserve the class idx:0 at 2024-09-11 11:26:27.922973
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="611a498be14c094003bfaeb6def8d037")>] at 2024-09-11 11:26:33.081010
+------------------
+courses to be booked:
+
+Flow Yoga 動瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="4fddadaf60a6a3758da208a37862648a")>] at 2024-09-11 11:26:35.004097
+sign in for class idx:0 at 2024-09-11 11:26:40.019281
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+53: Flow Yoga 動瑜珈 by Moorthi is FULL at 2024-09-11 11:26:43.244868
+
+Failed to reserve the class idx:0 at 2024-09-11 11:26:43.261721
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="4fddadaf60a6a3758da208a37862648a")>] at 2024-09-11 11:26:48.552530
+------------------
+courses to be booked:
+
+Flow Yoga 動瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="0b4187ca4b14a70b731e1ba40262b7db")>] at 2024-09-11 11:26:50.622748
+sign in for class idx:0 at 2024-09-11 11:26:54.855258
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+54: Flow Yoga 動瑜珈 by Moorthi is FULL at 2024-09-11 11:26:58.035913
+
+Failed to reserve the class idx:0 at 2024-09-11 11:26:58.083875
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="0b4187ca4b14a70b731e1ba40262b7db")>] at 2024-09-11 11:27:03.217986
+------------------
+courses to be booked:
+
+Flow Yoga 動瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="0b2a3a9cc12d9ba347b270bccada6370")>] at 2024-09-11 11:27:05.096056
+sign in for class idx:0 at 2024-09-11 11:27:09.318290
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+55: Flow Yoga 動瑜珈 by Moorthi is FULL at 2024-09-11 11:27:12.568499
+
+Failed to reserve the class idx:0 at 2024-09-11 11:27:12.582084
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="0b2a3a9cc12d9ba347b270bccada6370")>] at 2024-09-11 11:27:17.844347
+------------------
+courses to be booked:
+
+Flow Yoga 動瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="d4dc666f2ac4f100105db6d049d07091")>] at 2024-09-11 11:27:19.455119
+sign in for class idx:0 at 2024-09-11 11:27:24.317553
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+56: Flow Yoga 動瑜珈 by Moorthi is FULL at 2024-09-11 11:27:27.538709
+
+Failed to reserve the class idx:0 at 2024-09-11 11:27:27.542584
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="d4dc666f2ac4f100105db6d049d07091")>] at 2024-09-11 11:27:32.690228
+------------------
+courses to be booked:
+
+Flow Yoga 動瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="6aa352baadcd7d10451f02f1c1196025")>] at 2024-09-11 11:27:34.275490
+sign in for class idx:0 at 2024-09-11 11:27:38.630273
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+57: Flow Yoga 動瑜珈 by Moorthi is FULL at 2024-09-11 11:27:41.783912
+
+Failed to reserve the class idx:0 at 2024-09-11 11:27:41.797034
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="6aa352baadcd7d10451f02f1c1196025")>] at 2024-09-11 11:27:47.041026
+------------------
+courses to be booked:
+
+Flow Yoga 動瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="cb0c9da5a7adb3a089482801f718e3ec")>] at 2024-09-11 11:27:48.949765
+sign in for class idx:0 at 2024-09-11 11:27:53.153630
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+58: Flow Yoga 動瑜珈 by Moorthi is FULL at 2024-09-11 11:27:56.320667
+
+Failed to reserve the class idx:0 at 2024-09-11 11:27:56.344106
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="cb0c9da5a7adb3a089482801f718e3ec")>] at 2024-09-11 11:28:01.765948
+------------------
+courses to be booked:
+
+Flow Yoga 動瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="373dc45ba1efe1def35e82bfb59b1fa0")>] at 2024-09-11 11:28:03.937931
+sign in for class idx:0 at 2024-09-11 11:28:08.506496
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+59: Flow Yoga 動瑜珈 by Moorthi is FULL at 2024-09-11 11:28:11.714206
+
+Failed to reserve the class idx:0 at 2024-09-11 11:28:11.768296
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="373dc45ba1efe1def35e82bfb59b1fa0")>] at 2024-09-11 11:28:16.908158
+------------------
+courses to be booked:
+
+Flow Yoga 動瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="cd7584b73ff07c1604d65434b04f4023")>] at 2024-09-11 11:28:19.067767
+sign in for class idx:0 at 2024-09-11 11:28:23.957485
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+60: Flow Yoga 動瑜珈 by Moorthi is FULL at 2024-09-11 11:28:27.134197
+
+Failed to reserve the class idx:0 at 2024-09-11 11:28:27.192342
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="cd7584b73ff07c1604d65434b04f4023")>] at 2024-09-11 11:28:32.309974
+------------------
+courses to be booked:
+
+Flow Yoga 動瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="48da487b43ed6c314785d3916c18beb9")>] at 2024-09-11 11:28:34.662287
+sign in for class idx:0 at 2024-09-11 11:28:39.330472
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+61: Flow Yoga 動瑜珈 by Moorthi is FULL at 2024-09-11 11:28:42.553069
+
+Failed to reserve the class idx:0 at 2024-09-11 11:28:42.554009
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="48da487b43ed6c314785d3916c18beb9")>] at 2024-09-11 11:28:47.724475
+------------------
+courses to be booked:
+
+Flow Yoga 動瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="f123a5719c7d9937b1897e14131acd15")>] at 2024-09-11 11:28:49.851428
+sign in for class idx:0 at 2024-09-11 11:28:54.957939
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+62: Flow Yoga 動瑜珈 by Moorthi is FULL at 2024-09-11 11:28:58.115983
+
+Failed to reserve the class idx:0 at 2024-09-11 11:28:58.148744
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="f123a5719c7d9937b1897e14131acd15")>] at 2024-09-11 11:29:03.530840
+------------------
+courses to be booked:
+
+Flow Yoga 動瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="8d58da8736fda2ae8ecf7adbd9add7fc")>] at 2024-09-11 11:29:05.955895
+sign in for class idx:0 at 2024-09-11 11:29:11.017939
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+63: Flow Yoga 動瑜珈 by Moorthi is FULL at 2024-09-11 11:29:14.176769
+
+Failed to reserve the class idx:0 at 2024-09-11 11:29:14.216723
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="8d58da8736fda2ae8ecf7adbd9add7fc")>] at 2024-09-11 11:29:19.342886
+------------------
+courses to be booked:
+
+Flow Yoga 動瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="394f98672d18d008bc12a90230ac60d7")>] at 2024-09-11 11:29:21.980831
+sign in for class idx:0 at 2024-09-11 11:29:26.374694
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+64: Flow Yoga 動瑜珈 by Moorthi is FULL at 2024-09-11 11:29:29.571458
+
+Failed to reserve the class idx:0 at 2024-09-11 11:29:29.617467
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="394f98672d18d008bc12a90230ac60d7")>] at 2024-09-11 11:29:34.766004
+------------------
+courses to be booked:
+
+Flow Yoga 動瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="360a8b0b50c1b78eb025641d14ad84d1")>] at 2024-09-11 11:29:37.207383
+sign in for class idx:0 at 2024-09-11 11:29:42.253294
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+65: Flow Yoga 動瑜珈 by Moorthi is FULL at 2024-09-11 11:29:45.449480
+
+Failed to reserve the class idx:0 at 2024-09-11 11:29:45.507057
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="360a8b0b50c1b78eb025641d14ad84d1")>] at 2024-09-11 11:29:50.699955
+------------------
+courses to be booked:
+
+Flow Yoga 動瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="de8067a418d1b3d4dc26c264bf4505df")>] at 2024-09-11 11:29:52.563279
+sign in for class idx:0 at 2024-09-11 11:29:57.104528
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+66: Flow Yoga 動瑜珈 by Moorthi is FULL at 2024-09-11 11:30:00.300753
+
+Failed to reserve the class idx:0 at 2024-09-11 11:30:00.330889
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="de8067a418d1b3d4dc26c264bf4505df")>] at 2024-09-11 11:30:05.494154
+------------------
+courses to be booked:
+
+Flow Yoga 動瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="57f299a3146e1f91fe54c129bf6cf104")>] at 2024-09-11 11:30:07.961886
+sign in for class idx:0 at 2024-09-11 11:30:13.767307
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+67: Flow Yoga 動瑜珈 by Moorthi is FULL at 2024-09-11 11:30:16.981146
+
+Failed to reserve the class idx:0 at 2024-09-11 11:30:17.025903
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="57f299a3146e1f91fe54c129bf6cf104")>] at 2024-09-11 11:30:22.190435
+------------------
+courses to be booked:
+
+Flow Yoga 動瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="d13bdcb09c9ae8fab453524921a50c94")>] at 2024-09-11 11:30:24.560705
+sign in for class idx:0 at 2024-09-11 11:30:28.550851
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+68: Flow Yoga 動瑜珈 by Moorthi is FULL at 2024-09-11 11:30:31.815672
+
+Failed to reserve the class idx:0 at 2024-09-11 11:30:31.844963
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="d13bdcb09c9ae8fab453524921a50c94")>] at 2024-09-11 11:30:37.039577
+------------------
+courses to be booked:
+
+Flow Yoga 動瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="1f15fff0e2858d921ed6dd209bbd8ff3")>] at 2024-09-11 11:30:39.486745
+sign in for class idx:0 at 2024-09-11 11:30:43.989747
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+69: Flow Yoga 動瑜珈 by Moorthi is FULL at 2024-09-11 11:30:47.153581
+
+Failed to reserve the class idx:0 at 2024-09-11 11:30:47.153899
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="1f15fff0e2858d921ed6dd209bbd8ff3")>] at 2024-09-11 11:30:52.339989
+------------------
+courses to be booked:
+
+Flow Yoga 動瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="096b1854b1a803265bed517837206017")>] at 2024-09-11 11:30:54.836946
+sign in for class idx:0 at 2024-09-11 11:30:59.302056
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+70: Flow Yoga 動瑜珈 by Moorthi is FULL at 2024-09-11 11:31:02.474356
+
+Failed to reserve the class idx:0 at 2024-09-11 11:31:02.484147
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="096b1854b1a803265bed517837206017")>] at 2024-09-11 11:31:07.604956
+------------------
+courses to be booked:
+
+Flow Yoga 動瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="24371bc61b5c4a5b0f555482d8f0ae3a")>] at 2024-09-11 11:31:10.184112
+sign in for class idx:0 at 2024-09-11 11:31:14.487950
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+71: Flow Yoga 動瑜珈 by Moorthi is FULL at 2024-09-11 11:31:17.666198
+
+Failed to reserve the class idx:0 at 2024-09-11 11:31:17.666634
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="24371bc61b5c4a5b0f555482d8f0ae3a")>] at 2024-09-11 11:31:22.785561
+------------------
+courses to be booked:
+
+Flow Yoga 動瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="8fbf05117e0281a53589eea590a7c7d1")>] at 2024-09-11 11:31:25.445220
+sign in for class idx:0 at 2024-09-11 11:31:30.972833
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+72: Flow Yoga 動瑜珈 by Moorthi is FULL at 2024-09-11 11:31:34.200320
+
+Failed to reserve the class idx:0 at 2024-09-11 11:31:34.221511
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="8fbf05117e0281a53589eea590a7c7d1")>] at 2024-09-11 11:31:39.396916
+------------------
+courses to be booked:
+
+Flow Yoga 動瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="4e2595e63ceded1bc34194779926b92a")>] at 2024-09-11 11:31:41.625147
+sign in for class idx:0 at 2024-09-11 11:31:45.590028
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+73: Flow Yoga 動瑜珈 by Moorthi is FULL at 2024-09-11 11:31:48.808781
+
+Failed to reserve the class idx:0 at 2024-09-11 11:31:48.860514
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="4e2595e63ceded1bc34194779926b92a")>] at 2024-09-11 11:31:53.997866
+------------------
+courses to be booked:
+
+Flow Yoga 動瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="42fe28ea387775910929d4f362b60697")>] at 2024-09-11 11:31:56.524046
+sign in for class idx:0 at 2024-09-11 11:32:00.880081
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+74: Flow Yoga 動瑜珈 by Moorthi is FULL at 2024-09-11 11:32:04.048106
+
+Failed to reserve the class idx:0 at 2024-09-11 11:32:04.087652
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="42fe28ea387775910929d4f362b60697")>] at 2024-09-11 11:32:09.245427
+------------------
+courses to be booked:
+
+Flow Yoga 動瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="6b7a388f9a3739f3bf2f030d53853123")>] at 2024-09-11 11:32:12.485266
+sign in for class idx:0 at 2024-09-11 11:32:17.836128
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+75: Flow Yoga 動瑜珈 by Moorthi is FULL at 2024-09-11 11:32:21.058529
+
+Failed to reserve the class idx:0 at 2024-09-11 11:32:21.084724
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="6b7a388f9a3739f3bf2f030d53853123")>] at 2024-09-11 11:32:26.336635
+------------------
+courses to be booked:
+
+Flow Yoga 動瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="b2309b90e98d4c0d0fed9ddbde485f0a")>] at 2024-09-11 11:32:29.146275
+sign in for class idx:0 at 2024-09-11 11:32:34.851663
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+76: Flow Yoga 動瑜珈 by Moorthi is FULL at 2024-09-11 11:32:38.069140
+
+Failed to reserve the class idx:0 at 2024-09-11 11:32:38.103702
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="b2309b90e98d4c0d0fed9ddbde485f0a")>] at 2024-09-11 11:32:43.259221
+------------------
+courses to be booked:
+
+Flow Yoga 動瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="d3a1a3913aaa93db79bc39a4798a5afb")>] at 2024-09-11 11:32:46.113315
+sign in for class idx:0 at 2024-09-11 11:32:51.056868
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+77: Flow Yoga 動瑜珈 by Moorthi is FULL at 2024-09-11 11:32:54.254911
+
+Failed to reserve the class idx:0 at 2024-09-11 11:32:54.258958
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="d3a1a3913aaa93db79bc39a4798a5afb")>] at 2024-09-11 11:32:59.424315
+------------------
+courses to be booked:
+
+Flow Yoga 動瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="744cd48b5f71da81aa2cf8cd192789ae")>] at 2024-09-11 11:33:01.653970
+sign in for class idx:0 at 2024-09-11 11:33:06.027868
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+78: Flow Yoga 動瑜珈 by Moorthi is FULL at 2024-09-11 11:33:09.197827
+
+Failed to reserve the class idx:0 at 2024-09-11 11:33:09.199631
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="744cd48b5f71da81aa2cf8cd192789ae")>] at 2024-09-11 11:33:14.501968
+------------------
+courses to be booked:
+
+Flow Yoga 動瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="9ac21bd5c0cfb4d20d2d55d1e7c6448a")>] at 2024-09-11 11:33:16.983418
+sign in for class idx:0 at 2024-09-11 11:33:21.697199
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+79: Flow Yoga 動瑜珈 by Moorthi is FULL at 2024-09-11 11:33:24.929409
+
+Failed to reserve the class idx:0 at 2024-09-11 11:33:24.942182
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="9ac21bd5c0cfb4d20d2d55d1e7c6448a")>] at 2024-09-11 11:33:30.081641
+------------------
+courses to be booked:
+
+Flow Yoga 動瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="04f0db1e5845ced3f82e101ca8cb1178")>] at 2024-09-11 11:33:32.300175
+sign in for class idx:0 at 2024-09-11 11:33:37.022119
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+80: Flow Yoga 動瑜珈 by Moorthi is FULL at 2024-09-11 11:33:40.254317
+
+Failed to reserve the class idx:0 at 2024-09-11 11:33:40.270540
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="04f0db1e5845ced3f82e101ca8cb1178")>] at 2024-09-11 11:33:45.434433
+------------------
+courses to be booked:
+
+Flow Yoga 動瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="8fed5cb7ead60680938729eddb212a3f")>] at 2024-09-11 11:33:48.001075
+sign in for class idx:0 at 2024-09-11 11:33:53.046699
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+81: Flow Yoga 動瑜珈 by Moorthi is FULL at 2024-09-11 11:33:56.500063
+
+Failed to reserve the class idx:0 at 2024-09-11 11:33:56.519272
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="8fed5cb7ead60680938729eddb212a3f")>] at 2024-09-11 11:34:01.800304
+------------------
+courses to be booked:
+
+Flow Yoga 動瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="9aca4a6797f58b37c11ee779b21b57cf")>] at 2024-09-11 11:34:03.869692
+sign in for class idx:0 at 2024-09-11 11:34:08.145038
+
+************************
+status html: cannot find status text in the current site
+************************
+
+UNEXPECTED SCENARIO HAPPENED. NEED TO REVISE THE CODE
+
+ Current Page Source:
+<html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_Head1"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta name="theme-color" content="#592954"><meta name="viewport" content="width=1024, user-scalable=yes"><title>
+	CBSS System - 登入
+</title>
+    <link href="https://www.trueclassbooking.com.tw/member/css/style.all.css?v=2.27.17.00" rel="stylesheet" type="text/css">
+    <!--[if IE]>
+        <link href="https://www.trueclassbooking.com.tw/member/css/ie.css?v=2.27.17.00" rel="stylesheet" type="text/css" />
+    <![endif]-->
+    <!--[if IE 8]>
+	    <link href="https://www.trueclassbooking.com.tw/member/css/ie8.css?v=2.27.17.00" rel="stylesheet" type="text/css" />
+    <![endif]-->
+<style>.cke{visibility:hidden;}</style></head>
+<body><div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" style="padding-bottom: 42px; padding-right: 42px; display: none;"><div id="cboxWrapper"><div><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxLoadedContent" style="width: 0px; height: 0px; overflow: hidden; float: left;"></div><div id="cboxLoadingOverlay" style="float: left;"></div><div id="cboxLoadingGraphic" style="float: left;"></div><div id="cboxTitle" style="float: left;"></div><div id="cboxCurrent" style="float: left;"></div><div id="cboxNext" style="float: left;"></div><div id="cboxPrevious" style="float: left;"></div><div id="cboxSlideshow" style="float: left;"></div><div id="cboxClose" style="float: left;"></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position: absolute; width: 9999px; visibility: hidden; display: none;"></div></div>
+
+    <form name="aspnetForm" method="post" action="./session-expired.aspx" id="aspnetForm">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEwMDUyNjYzMjhkZAUPhUTjtiLFX3l1h5e/8b6Q0Pmz9YRswtJooHAdDgXA">
+</div>
+
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="E4BEE291">
+</div>
+
+        <!-- CONTENTS -->
+        <div id="popup">
+            
+    <div class="left al">系統無法取出用戶登入檔案資料。<br>請你您退出後再嘗試登入。</div>
+
+        </div>
+
+    </form>
+
+    <script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-3LV80BY46T&amp;cx=c&amp;_slc=1"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="https://www.trueclassbooking.com.tw/member/js/script.all.js?v=2.27.17.00"></script>
+    <!-- JAVSCRIPTS -->
+    
+
+    <script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date(); a = s.createElement(o),
+  m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-45242383-2', 'www.trueclassbooking.com.tw');
+        ga('send', 'pageview');
+
+</script>
+
+
+</body></html>Failed to reserve the class idx:0 at 2024-09-11 11:34:30.234194
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="9aca4a6797f58b37c11ee779b21b57cf")>] at 2024-09-11 11:34:35.351950
+------------------
+courses to be booked:
+
+Flow Yoga 動瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="0adeba4285050fdcfeb470ff2ba38823")>] at 2024-09-11 11:34:37.677986
+sign in for class idx:0 at 2024-09-11 11:34:43.603732
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+83: Flow Yoga 動瑜珈 by Moorthi is FULL at 2024-09-11 11:34:46.877045
+
+Failed to reserve the class idx:0 at 2024-09-11 11:34:46.919816
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="0adeba4285050fdcfeb470ff2ba38823")>] at 2024-09-11 11:34:52.190300
+------------------
+courses to be booked:
+
+Flow Yoga 動瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="ea6af497f96abdaadaf675ff52f02c17")>] at 2024-09-11 11:34:54.420051
+sign in for class idx:0 at 2024-09-11 11:35:01.731341
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+84: Flow Yoga 動瑜珈 by Moorthi is FULL at 2024-09-11 11:35:04.960941
+
+Failed to reserve the class idx:0 at 2024-09-11 11:35:04.961350
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="ea6af497f96abdaadaf675ff52f02c17")>] at 2024-09-11 11:35:10.305119
+------------------
+courses to be booked:
+
+Flow Yoga 動瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="db54a899ab77da1a3665ea8e8144371b")>] at 2024-09-11 11:35:12.122113
+sign in for class idx:0 at 2024-09-11 11:35:17.624334
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+85: Flow Yoga 動瑜珈 by Moorthi is FULL at 2024-09-11 11:35:20.874847
+
+Failed to reserve the class idx:0 at 2024-09-11 11:35:20.881434
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="db54a899ab77da1a3665ea8e8144371b")>] at 2024-09-11 11:35:26.021233
+------------------
+courses to be booked:
+
+Flow Yoga 動瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="cb8ab8dcc8dc84ec3d98f6fb36368286")>] at 2024-09-11 11:35:27.689918
+sign in for class idx:0 at 2024-09-11 11:35:33.437259
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+86: Flow Yoga 動瑜珈 by Moorthi is FULL at 2024-09-11 11:35:36.826205
+
+Failed to reserve the class idx:0 at 2024-09-11 11:35:36.869451
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="cb8ab8dcc8dc84ec3d98f6fb36368286")>] at 2024-09-11 11:35:42.101491
+------------------
+courses to be booked:
+
+Flow Yoga 動瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="41d0b8c62f8b9f2e9c5dbf52ac536b9d")>] at 2024-09-11 11:35:43.767964
+sign in for class idx:0 at 2024-09-11 11:35:50.628416
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+87: Flow Yoga 動瑜珈 by Moorthi is FULL at 2024-09-11 11:35:53.954446
+
+Failed to reserve the class idx:0 at 2024-09-11 11:35:53.954905
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="41d0b8c62f8b9f2e9c5dbf52ac536b9d")>] at 2024-09-11 11:35:59.124827
+------------------
+courses to be booked:
+
+Flow Yoga 動瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="0cce7f9ed2545b760308c23366a0c752")>] at 2024-09-11 11:36:01.362770
+sign in for class idx:0 at 2024-09-11 11:36:07.029395
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+88: Flow Yoga 動瑜珈 by Moorthi is FULL at 2024-09-11 11:36:10.210666
+
+Failed to reserve the class idx:0 at 2024-09-11 11:36:10.232425
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="0cce7f9ed2545b760308c23366a0c752")>] at 2024-09-11 11:36:15.377225
+------------------
+courses to be booked:
+
+Flow Yoga 動瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="6cd4514762854a5d65a3e2a62cafd616")>] at 2024-09-11 11:36:17.052358
+sign in for class idx:0 at 2024-09-11 11:36:22.237355
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+89: Flow Yoga 動瑜珈 by Moorthi is FULL at 2024-09-11 11:36:25.488386
+
+Failed to reserve the class idx:0 at 2024-09-11 11:36:25.543330
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="6cd4514762854a5d65a3e2a62cafd616")>] at 2024-09-11 11:36:30.712086
+------------------
+courses to be booked:
+
+Flow Yoga 動瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="9a4a9b08ad63bf70c5153c6479d9e665")>] at 2024-09-11 11:36:32.373826
+sign in for class idx:0 at 2024-09-11 11:36:38.461108
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+90: Flow Yoga 動瑜珈 by Moorthi is FULL at 2024-09-11 11:36:41.802564
+
+Failed to reserve the class idx:0 at 2024-09-11 11:36:41.815454
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="9a4a9b08ad63bf70c5153c6479d9e665")>] at 2024-09-11 11:36:46.950448
+------------------
+courses to be booked:
+
+Flow Yoga 動瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="7f1f82ba57208aaf7d64926daf21c30d")>] at 2024-09-11 11:36:48.562826
+sign in for class idx:0 at 2024-09-11 11:36:53.464813
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+91: Flow Yoga 動瑜珈 by Moorthi is FULL at 2024-09-11 11:36:56.663305
+
+Failed to reserve the class idx:0 at 2024-09-11 11:36:56.693604
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="7f1f82ba57208aaf7d64926daf21c30d")>] at 2024-09-11 11:37:01.818203
+------------------
+courses to be booked:
+
+Flow Yoga 動瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="e9e6b646553b3757302eceb9aeebada3")>] at 2024-09-11 11:37:03.447554
+sign in for class idx:0 at 2024-09-11 11:37:08.737090
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+92: Flow Yoga 動瑜珈 by Moorthi is FULL at 2024-09-11 11:37:11.997274
+
+Failed to reserve the class idx:0 at 2024-09-11 11:37:12.043628
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="e9e6b646553b3757302eceb9aeebada3")>] at 2024-09-11 11:37:17.177561
+------------------
+courses to be booked:
+
+Flow Yoga 動瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="9651306166fa29137ffc4d7e55b46f2a")>] at 2024-09-11 11:37:18.877097
+sign in for class idx:0 at 2024-09-11 11:37:24.519001
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+93: Flow Yoga 動瑜珈 by Moorthi is FULL at 2024-09-11 11:37:27.715278
+
+Failed to reserve the class idx:0 at 2024-09-11 11:37:27.755907
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="9651306166fa29137ffc4d7e55b46f2a")>] at 2024-09-11 11:37:33.043847
+------------------
+courses to be booked:
+
+Flow Yoga 動瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="c9c17dd716c4006cc25b0799c276124a")>] at 2024-09-11 11:37:35.039243
+sign in for class idx:0 at 2024-09-11 11:37:38.984794
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+94: Flow Yoga 動瑜珈 by Moorthi is FULL at 2024-09-11 11:37:42.147981
+
+Failed to reserve the class idx:0 at 2024-09-11 11:37:42.191282
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="c9c17dd716c4006cc25b0799c276124a")>] at 2024-09-11 11:37:47.473794
+------------------
+courses to be booked:
+
+Flow Yoga 動瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="4eee92fca5d10a3aae60f1a6be8300b6")>] at 2024-09-11 11:37:49.974955
+sign in for class idx:0 at 2024-09-11 11:37:54.127509
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+95: Flow Yoga 動瑜珈 by Moorthi is FULL at 2024-09-11 11:37:57.305439
+
+Failed to reserve the class idx:0 at 2024-09-11 11:37:57.328642
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="4eee92fca5d10a3aae60f1a6be8300b6")>] at 2024-09-11 11:38:02.496819
+------------------
+courses to be booked:
+
+Flow Yoga 動瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="1a3edc95514db65ecc2481bf5b0fa9c5")>] at 2024-09-11 11:38:04.266074
+sign in for class idx:0 at 2024-09-11 11:38:08.517731
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+96: Flow Yoga 動瑜珈 by Moorthi is FULL at 2024-09-11 11:38:11.651721
+
+Failed to reserve the class idx:0 at 2024-09-11 11:38:11.686938
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="1a3edc95514db65ecc2481bf5b0fa9c5")>] at 2024-09-11 11:38:16.944157
+------------------
+courses to be booked:
+
+Flow Yoga 動瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="eba72bf334ab4688d4bc6a7878630462")>] at 2024-09-11 11:38:18.743684
+sign in for class idx:0 at 2024-09-11 11:38:22.982065
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+97: Flow Yoga 動瑜珈 by Moorthi is FULL at 2024-09-11 11:38:26.214780
+
+Failed to reserve the class idx:0 at 2024-09-11 11:38:26.273103
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="eba72bf334ab4688d4bc6a7878630462")>] at 2024-09-11 11:38:31.542051
+------------------
+courses to be booked:
+
+Flow Yoga 動瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="540bbc4059ff16512f6b94ea75343cf4")>] at 2024-09-11 11:38:33.952439
+sign in for class idx:0 at 2024-09-11 11:38:38.601948
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+98: Flow Yoga 動瑜珈 by Moorthi is FULL at 2024-09-11 11:38:41.764095
+
+Failed to reserve the class idx:0 at 2024-09-11 11:38:41.764835
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="540bbc4059ff16512f6b94ea75343cf4")>] at 2024-09-11 11:38:47.117734
+------------------
+courses to be booked:
+
+Flow Yoga 動瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="d06271126ce3e294fcf5a8aaef2b910b")>] at 2024-09-11 11:38:49.223462
+sign in for class idx:0 at 2024-09-11 11:38:54.238973
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+99: Flow Yoga 動瑜珈 by Moorthi is FULL at 2024-09-11 11:38:57.433780
+
+Failed to reserve the class idx:0 at 2024-09-11 11:38:57.470004
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="d06271126ce3e294fcf5a8aaef2b910b")>] at 2024-09-11 11:39:02.666160
+------------------
+courses to be booked:
+
+Flow Yoga 動瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="89037d956ab4945400523e34e036a124")>] at 2024-09-11 11:39:05.083248
+sign in for class idx:0 at 2024-09-11 11:39:09.571511
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+100: Flow Yoga 動瑜珈 by Moorthi is FULL at 2024-09-11 11:39:12.763563
+
+Failed to reserve the class idx:0 at 2024-09-11 11:39:12.809436
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="89037d956ab4945400523e34e036a124")>] at 2024-09-11 11:39:18.240854
+------------------
+courses to be booked:
+
+Flow Yoga 動瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="3855f05b82d18bf0ad9993b602f3a0d9")>] at 2024-09-11 11:39:23.882933
+sign in for class idx:0 at 2024-09-11 11:39:28.412418
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+101: Flow Yoga 動瑜珈 by Moorthi is FULL at 2024-09-11 11:39:31.650625
+
+Failed to reserve the class idx:0 at 2024-09-11 11:39:31.650930
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="3855f05b82d18bf0ad9993b602f3a0d9")>] at 2024-09-11 11:39:36.768386
+------------------
+courses to be booked:
+
+Flow Yoga 動瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="b044d76873f89f5278f5a64bc7a22bd5")>] at 2024-09-11 11:39:38.563695
+sign in for class idx:0 at 2024-09-11 11:39:42.200525
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+102: Flow Yoga 動瑜珈 by Moorthi is FULL at 2024-09-11 11:39:45.372042
+
+Failed to reserve the class idx:0 at 2024-09-11 11:39:45.382729
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="b044d76873f89f5278f5a64bc7a22bd5")>] at 2024-09-11 11:39:50.509167
+------------------
+courses to be booked:
+
+Flow Yoga 動瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="7f7523f5223f12d065de5456fbff219e")>] at 2024-09-11 11:39:52.628761
+sign in for class idx:0 at 2024-09-11 11:39:57.013606
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                您已預訂此課。
+            
+************************
+
+103: Flow Yoga 動瑜珈 by Moorthi was BOOKED before 2024-09-11 11:40:00.223381
+Failed to reserve the class idx:0 at 2024-09-11 11:40:00.259690
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="7f7523f5223f12d065de5456fbff219e")>] at 2024-09-11 11:40:05.465258
+------------------
+courses to be booked:
+
+Flow Yoga 動瑜珈
+Yin Yoga 陰瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Yin Yoga 陰瑜珈
+Flow Yoga 動瑜珈
+
+------------------
+
+finish all 2 classes booking
