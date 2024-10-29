@@ -1,0 +1,13 @@
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="943379b97d1f6f59fc0e7185d21cacc7")>] at 2024-10-17 12:44:29.791851
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="0928353d2813bd632c1cf872bdbab395")>] at 2024-10-17 12:44:30.755658
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="5de41e5c4f314c5b14423c270ac68569")>] at 2024-10-17 12:44:31.759584
+sign in for class idx:0 at 2024-10-17 12:44:34.235596
+sign in for class idx:1 at 2024-10-17 12:44:40.504220
+sign in for class idx:2 at 2024-10-17 12:44:46.982706
+
+************************
+status html: cannot find status text in the current site
+************************
+
+我們檢測到來自您的地址的異常流量
+Failed to reserve the class idx:0 at 2024-10-17 12:45:11.559479

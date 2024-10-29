@@ -1,0 +1,1145 @@
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="719f8923dd74b8f70304b03b994905f0")>] at 2024-10-17 18:48:50.948265
+sign in for class at 2024-10-17 18:48:54.947735
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+1: Universal Basic 寰宇瑜珈基礎 by Jessie 小剛 is FULL at 2024-10-17 18:48:56.069447
+
+Failed to reserve the class idx:0 at 2024-10-17 18:48:56.070748
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+2: Universal Yoga 寰宇瑜珈 by Jessie 小剛 is FULL at 2024-10-17 18:49:56.076337
+
+Failed to reserve the class idx:1 at 2024-10-17 18:49:56.076528
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+3: Gentle Yoga 和緩瑜珈 by Una is FULL at 2024-10-17 18:50:56.088799
+
+Failed to reserve the class idx:2 at 2024-10-17 18:50:56.089039
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+4: Vinyasa Yoga 流暢瑜珈 by Una is FULL at 2024-10-17 18:51:56.085247
+
+Failed to reserve the class idx:3 at 2024-10-17 18:51:56.085454
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="719f8923dd74b8f70304b03b994905f0")>] at 2024-10-17 18:52:56.079685
+------------------
+courses to be booked:
+
+Universal Basic 寰宇瑜珈基礎
+Universal Yoga 寰宇瑜珈
+Gentle Yoga 和緩瑜珈
+Vinyasa Yoga 流暢瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="fbdb3ceea0134c563f226a323d295175")>] at 2024-10-17 18:52:57.214404
+sign in for class at 2024-10-17 18:53:01.124945
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+5: Universal Basic 寰宇瑜珈基礎 by Jessie 小剛 is FULL at 2024-10-17 18:53:02.259268
+
+Failed to reserve the class idx:0 at 2024-10-17 18:53:02.259794
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+6: Universal Yoga 寰宇瑜珈 by Jessie 小剛 is FULL at 2024-10-17 18:54:02.269070
+
+Failed to reserve the class idx:1 at 2024-10-17 18:54:02.269343
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+7: Gentle Yoga 和緩瑜珈 by Una is FULL at 2024-10-17 18:55:02.264969
+
+Failed to reserve the class idx:2 at 2024-10-17 18:55:02.265192
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+8: Vinyasa Yoga 流暢瑜珈 by Una is FULL at 2024-10-17 18:56:02.288913
+
+Failed to reserve the class idx:3 at 2024-10-17 18:56:02.289102
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="fbdb3ceea0134c563f226a323d295175")>] at 2024-10-17 18:57:02.273351
+------------------
+courses to be booked:
+
+Universal Basic 寰宇瑜珈基礎
+Universal Yoga 寰宇瑜珈
+Gentle Yoga 和緩瑜珈
+Vinyasa Yoga 流暢瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="d195585b4bc328985fccba279c120beb")>] at 2024-10-17 18:57:03.365945
+sign in for class at 2024-10-17 18:57:07.516321
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+9: Universal Basic 寰宇瑜珈基礎 by Jessie 小剛 is FULL at 2024-10-17 18:57:08.621544
+
+Failed to reserve the class idx:0 at 2024-10-17 18:57:08.621842
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+10: Universal Yoga 寰宇瑜珈 by Jessie 小剛 is FULL at 2024-10-17 18:58:08.638458
+
+Failed to reserve the class idx:1 at 2024-10-17 18:58:08.638625
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+11: Gentle Yoga 和緩瑜珈 by Una is FULL at 2024-10-17 18:59:08.661609
+
+Failed to reserve the class idx:2 at 2024-10-17 18:59:08.661778
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+12: Vinyasa Yoga 流暢瑜珈 by Una is FULL at 2024-10-17 19:00:08.663240
+
+Failed to reserve the class idx:3 at 2024-10-17 19:00:08.663506
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="d195585b4bc328985fccba279c120beb")>] at 2024-10-17 19:01:08.677653
+------------------
+courses to be booked:
+
+Universal Basic 寰宇瑜珈基礎
+Universal Yoga 寰宇瑜珈
+Gentle Yoga 和緩瑜珈
+Vinyasa Yoga 流暢瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="9b007986fbce1ebe32a1e4269bde4511")>] at 2024-10-17 19:01:09.801324
+sign in for class at 2024-10-17 19:01:13.728696
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+13: Universal Basic 寰宇瑜珈基礎 by Jessie 小剛 is FULL at 2024-10-17 19:01:14.839316
+
+Failed to reserve the class idx:0 at 2024-10-17 19:01:14.839608
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+14: Universal Yoga 寰宇瑜珈 by Jessie 小剛 is FULL at 2024-10-17 19:02:14.890281
+
+Failed to reserve the class idx:1 at 2024-10-17 19:02:14.890514
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+15: Gentle Yoga 和緩瑜珈 by Una is FULL at 2024-10-17 19:03:14.869784
+
+Failed to reserve the class idx:2 at 2024-10-17 19:03:14.870009
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+16: Vinyasa Yoga 流暢瑜珈 by Una is FULL at 2024-10-17 19:04:14.851790
+
+Failed to reserve the class idx:3 at 2024-10-17 19:04:14.851951
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="9b007986fbce1ebe32a1e4269bde4511")>] at 2024-10-17 19:05:14.890787
+------------------
+courses to be booked:
+
+Universal Basic 寰宇瑜珈基礎
+Universal Yoga 寰宇瑜珈
+Gentle Yoga 和緩瑜珈
+Vinyasa Yoga 流暢瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="a36395eba0faed47bc3e9a8ef0319330")>] at 2024-10-17 19:05:16.047571
+sign in for class at 2024-10-17 19:05:19.934766
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+17: Universal Basic 寰宇瑜珈基礎 by Jessie 小剛 is FULL at 2024-10-17 19:05:21.072073
+
+Failed to reserve the class idx:0 at 2024-10-17 19:05:21.072407
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+18: Universal Yoga 寰宇瑜珈 by Jessie 小剛 is FULL at 2024-10-17 19:06:21.072641
+
+Failed to reserve the class idx:1 at 2024-10-17 19:06:21.072842
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+19: Gentle Yoga 和緩瑜珈 by Una is FULL at 2024-10-17 19:07:21.090737
+
+Failed to reserve the class idx:2 at 2024-10-17 19:07:21.090939
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+20: Vinyasa Yoga 流暢瑜珈 by Una is FULL at 2024-10-17 19:08:21.084495
+
+Failed to reserve the class idx:3 at 2024-10-17 19:08:21.084736
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="a36395eba0faed47bc3e9a8ef0319330")>] at 2024-10-17 19:09:21.091705
+------------------
+courses to be booked:
+
+Universal Basic 寰宇瑜珈基礎
+Universal Yoga 寰宇瑜珈
+Gentle Yoga 和緩瑜珈
+Vinyasa Yoga 流暢瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="53ccccc96b22257715f875e256bd18d7")>] at 2024-10-17 19:09:22.164987
+sign in for class at 2024-10-17 19:09:26.110706
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+21: Universal Basic 寰宇瑜珈基礎 by Jessie 小剛 is FULL at 2024-10-17 19:09:27.245429
+
+Failed to reserve the class idx:0 at 2024-10-17 19:09:27.245723
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+22: Universal Yoga 寰宇瑜珈 by Jessie 小剛 is FULL at 2024-10-17 19:10:27.299064
+
+Failed to reserve the class idx:1 at 2024-10-17 19:10:27.299303
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+23: Gentle Yoga 和緩瑜珈 by Una is FULL at 2024-10-17 19:11:27.292631
+
+Failed to reserve the class idx:2 at 2024-10-17 19:11:27.292865
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+24: Vinyasa Yoga 流暢瑜珈 by Una is FULL at 2024-10-17 19:12:27.257904
+
+Failed to reserve the class idx:3 at 2024-10-17 19:12:27.258075
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="53ccccc96b22257715f875e256bd18d7")>] at 2024-10-17 19:13:27.255045
+------------------
+courses to be booked:
+
+Universal Basic 寰宇瑜珈基礎
+Universal Yoga 寰宇瑜珈
+Gentle Yoga 和緩瑜珈
+Vinyasa Yoga 流暢瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="da22d61a1ec379e3a26f950c32e7db13")>] at 2024-10-17 19:13:28.312293
+sign in for class at 2024-10-17 19:13:32.334371
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+25: Universal Basic 寰宇瑜珈基礎 by Jessie 小剛 is FULL at 2024-10-17 19:13:33.471670
+
+Failed to reserve the class idx:0 at 2024-10-17 19:13:33.471922
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+26: Universal Yoga 寰宇瑜珈 by Jessie 小剛 is FULL at 2024-10-17 19:14:33.485289
+
+Failed to reserve the class idx:1 at 2024-10-17 19:14:33.485475
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+27: Gentle Yoga 和緩瑜珈 by Una is FULL at 2024-10-17 19:15:33.481017
+
+Failed to reserve the class idx:2 at 2024-10-17 19:15:33.481201
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+28: Vinyasa Yoga 流暢瑜珈 by Una is FULL at 2024-10-17 19:16:33.481693
+
+Failed to reserve the class idx:3 at 2024-10-17 19:16:33.481903
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="da22d61a1ec379e3a26f950c32e7db13")>] at 2024-10-17 19:17:33.519718
+------------------
+courses to be booked:
+
+Universal Basic 寰宇瑜珈基礎
+Universal Yoga 寰宇瑜珈
+Gentle Yoga 和緩瑜珈
+Vinyasa Yoga 流暢瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="0be87cbd7975ac925508067ceaa00c0e")>] at 2024-10-17 19:17:34.598064
+sign in for class at 2024-10-17 19:17:38.601277
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+29: Universal Basic 寰宇瑜珈基礎 by Jessie 小剛 is FULL at 2024-10-17 19:17:39.727990
+
+Failed to reserve the class idx:0 at 2024-10-17 19:17:39.728259
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+30: Universal Yoga 寰宇瑜珈 by Jessie 小剛 is FULL at 2024-10-17 19:18:39.760160
+
+Failed to reserve the class idx:1 at 2024-10-17 19:18:39.760396
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+31: Gentle Yoga 和緩瑜珈 by Una is FULL at 2024-10-17 19:19:39.760651
+
+Failed to reserve the class idx:2 at 2024-10-17 19:19:39.760859
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+32: Vinyasa Yoga 流暢瑜珈 by Una is FULL at 2024-10-17 19:20:39.762095
+
+Failed to reserve the class idx:3 at 2024-10-17 19:20:39.762325
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="0be87cbd7975ac925508067ceaa00c0e")>] at 2024-10-17 19:21:39.779695
+------------------
+courses to be booked:
+
+Universal Basic 寰宇瑜珈基礎
+Universal Yoga 寰宇瑜珈
+Gentle Yoga 和緩瑜珈
+Vinyasa Yoga 流暢瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="6b4ede3e4e883f561909b5dd0673a873")>] at 2024-10-17 19:21:40.867141
+sign in for class at 2024-10-17 19:21:45.018509
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+33: Universal Basic 寰宇瑜珈基礎 by Jessie 小剛 is FULL at 2024-10-17 19:21:46.119726
+
+Failed to reserve the class idx:0 at 2024-10-17 19:21:46.120926
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+34: Universal Yoga 寰宇瑜珈 by Jessie 小剛 is FULL at 2024-10-17 19:22:46.140317
+
+Failed to reserve the class idx:1 at 2024-10-17 19:22:46.140493
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+35: Gentle Yoga 和緩瑜珈 by Una is FULL at 2024-10-17 19:23:46.144680
+
+Failed to reserve the class idx:2 at 2024-10-17 19:23:46.144846
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+36: Vinyasa Yoga 流暢瑜珈 by Una is FULL at 2024-10-17 19:24:46.162272
+
+Failed to reserve the class idx:3 at 2024-10-17 19:24:46.162432
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="6b4ede3e4e883f561909b5dd0673a873")>] at 2024-10-17 19:25:46.176664
+------------------
+courses to be booked:
+
+Universal Basic 寰宇瑜珈基礎
+Universal Yoga 寰宇瑜珈
+Gentle Yoga 和緩瑜珈
+Vinyasa Yoga 流暢瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="4ad0ce9745152ea2bbb97675b8b5ae8c")>] at 2024-10-17 19:25:47.253489
+sign in for class at 2024-10-17 19:25:51.139431
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                <a id="ctl00_cphContents_btnBook" class="btn-gradient btnLoader" href="javascript:__doPostBack('ctl00$cphContents$btnBook','')">現在就預訂此課</a>
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                
+            
+************************
+
+37: Universal Basic 寰宇瑜珈基礎 by Jessie 小剛 is BOOKED at 2024-10-17 19:25:55.327016
+Successfully reserved the class idx:0 at 2024-10-17 19:25:55.327437
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+38: Universal Yoga 寰宇瑜珈 by Jessie 小剛 is FULL at 2024-10-17 19:26:52.281647
+
+Failed to reserve the class idx:1 at 2024-10-17 19:26:52.281856
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+39: Gentle Yoga 和緩瑜珈 by Una is FULL at 2024-10-17 19:27:52.250289
+
+Failed to reserve the class idx:2 at 2024-10-17 19:27:52.250460
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+40: Vinyasa Yoga 流暢瑜珈 by Una is FULL at 2024-10-17 19:28:52.281184
+
+Failed to reserve the class idx:3 at 2024-10-17 19:28:52.281356
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="4ad0ce9745152ea2bbb97675b8b5ae8c")>] at 2024-10-17 19:29:52.309396
+------------------
+courses to be booked:
+
+Universal Basic 寰宇瑜珈基礎
+Universal Yoga 寰宇瑜珈
+Gentle Yoga 和緩瑜珈
+Vinyasa Yoga 流暢瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Universal Basic 寰宇瑜珈基礎
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="720ac0395357798c8cba5e0008aa5416")>] at 2024-10-17 19:29:53.404054
+sign in for class at 2024-10-17 19:29:57.180143
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+41: Universal Yoga 寰宇瑜珈 by Jessie 小剛 is FULL at 2024-10-17 19:29:58.293672
+
+Failed to reserve the class idx:1 at 2024-10-17 19:29:58.293936
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+42: Gentle Yoga 和緩瑜珈 by Una is FULL at 2024-10-17 19:30:58.332156
+
+Failed to reserve the class idx:2 at 2024-10-17 19:30:58.332348
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+43: Vinyasa Yoga 流暢瑜珈 by Una is FULL at 2024-10-17 19:31:58.335309
+
+Failed to reserve the class idx:3 at 2024-10-17 19:31:58.335528
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="720ac0395357798c8cba5e0008aa5416")>] at 2024-10-17 19:32:58.351430
+------------------
+courses to be booked:
+
+Universal Basic 寰宇瑜珈基礎
+Universal Yoga 寰宇瑜珈
+Gentle Yoga 和緩瑜珈
+Vinyasa Yoga 流暢瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Universal Basic 寰宇瑜珈基礎
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="d5b4b80e9966c14bef3c95b600200418")>] at 2024-10-17 19:32:59.454930
+sign in for class at 2024-10-17 19:33:03.443549
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+44: Universal Yoga 寰宇瑜珈 by Jessie 小剛 is FULL at 2024-10-17 19:33:04.585757
+
+Failed to reserve the class idx:1 at 2024-10-17 19:33:04.586016
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+45: Gentle Yoga 和緩瑜珈 by Una is FULL at 2024-10-17 19:34:04.554225
+
+Failed to reserve the class idx:2 at 2024-10-17 19:34:04.554381
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+46: Vinyasa Yoga 流暢瑜珈 by Una is FULL at 2024-10-17 19:35:04.614670
+
+Failed to reserve the class idx:3 at 2024-10-17 19:35:04.614893
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="d5b4b80e9966c14bef3c95b600200418")>] at 2024-10-17 19:36:04.628130
+------------------
+courses to be booked:
+
+Universal Basic 寰宇瑜珈基礎
+Universal Yoga 寰宇瑜珈
+Gentle Yoga 和緩瑜珈
+Vinyasa Yoga 流暢瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Universal Basic 寰宇瑜珈基礎
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="569964aa86979be4cbeb745751914a1f")>] at 2024-10-17 19:36:05.708976
+sign in for class at 2024-10-17 19:36:09.595067
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+47: Universal Yoga 寰宇瑜珈 by Jessie 小剛 is FULL at 2024-10-17 19:36:10.710459
+
+Failed to reserve the class idx:1 at 2024-10-17 19:36:10.710729
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+48: Gentle Yoga 和緩瑜珈 by Una is FULL at 2024-10-17 19:37:10.718627
+
+Failed to reserve the class idx:2 at 2024-10-17 19:37:10.718775
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+49: Vinyasa Yoga 流暢瑜珈 by Una is FULL at 2024-10-17 19:38:10.731268
+
+Failed to reserve the class idx:3 at 2024-10-17 19:38:10.731519
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="569964aa86979be4cbeb745751914a1f")>] at 2024-10-17 19:39:10.754071
+------------------
+courses to be booked:
+
+Universal Basic 寰宇瑜珈基礎
+Universal Yoga 寰宇瑜珈
+Gentle Yoga 和緩瑜珈
+Vinyasa Yoga 流暢瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Universal Basic 寰宇瑜珈基礎
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="042544ef7256ad20fa4d450c16c161c0")>] at 2024-10-17 19:39:11.792650
+sign in for class at 2024-10-17 19:39:15.733115
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+50: Universal Yoga 寰宇瑜珈 by Jessie 小剛 is FULL at 2024-10-17 19:39:16.878123
+
+Failed to reserve the class idx:1 at 2024-10-17 19:39:16.878431
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+51: Gentle Yoga 和緩瑜珈 by Una is FULL at 2024-10-17 19:40:16.867010
+
+Failed to reserve the class idx:2 at 2024-10-17 19:40:16.867160
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+52: Vinyasa Yoga 流暢瑜珈 by Una is FULL at 2024-10-17 19:41:16.889625
+
+Failed to reserve the class idx:3 at 2024-10-17 19:41:16.889838
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="042544ef7256ad20fa4d450c16c161c0")>] at 2024-10-17 19:42:16.899891
+------------------
+courses to be booked:
+
+Universal Basic 寰宇瑜珈基礎
+Universal Yoga 寰宇瑜珈
+Gentle Yoga 和緩瑜珈
+Vinyasa Yoga 流暢瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Universal Basic 寰宇瑜珈基礎
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="e879c714e88bfe9f886db90ec12bb0d7")>] at 2024-10-17 19:42:17.976156
+sign in for class at 2024-10-17 19:42:22.009708
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+53: Universal Yoga 寰宇瑜珈 by Jessie 小剛 is FULL at 2024-10-17 19:42:23.149122
+
+Failed to reserve the class idx:1 at 2024-10-17 19:42:23.149441
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+54: Gentle Yoga 和緩瑜珈 by Una is FULL at 2024-10-17 19:43:23.137717
+
+Failed to reserve the class idx:2 at 2024-10-17 19:43:23.137909
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+55: Vinyasa Yoga 流暢瑜珈 by Una is FULL at 2024-10-17 19:44:23.179033
+
+Failed to reserve the class idx:3 at 2024-10-17 19:44:23.179239
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="e879c714e88bfe9f886db90ec12bb0d7")>] at 2024-10-17 19:45:23.172532
+------------------
+courses to be booked:
+
+Universal Basic 寰宇瑜珈基礎
+Universal Yoga 寰宇瑜珈
+Gentle Yoga 和緩瑜珈
+Vinyasa Yoga 流暢瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Universal Basic 寰宇瑜珈基礎
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="a92e58ea6590860c21606ce0c695dca5")>] at 2024-10-17 19:45:24.258292
+sign in for class at 2024-10-17 19:45:28.176195
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+56: Universal Yoga 寰宇瑜珈 by Jessie 小剛 is FULL at 2024-10-17 19:45:29.305260
+
+Failed to reserve the class idx:1 at 2024-10-17 19:45:29.305605
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+57: Gentle Yoga 和緩瑜珈 by Una is FULL at 2024-10-17 19:46:29.320360
+
+Failed to reserve the class idx:2 at 2024-10-17 19:46:29.320594
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+58: Vinyasa Yoga 流暢瑜珈 by Una is FULL at 2024-10-17 19:47:29.283895
+
+Failed to reserve the class idx:3 at 2024-10-17 19:47:29.284086
+close driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="a92e58ea6590860c21606ce0c695dca5")>] at 2024-10-17 19:48:29.322361
+------------------
+courses to be booked:
+
+Universal Basic 寰宇瑜珈基礎
+Universal Yoga 寰宇瑜珈
+Gentle Yoga 和緩瑜珈
+Vinyasa Yoga 流暢瑜珈
+
+------------------
+
+------------------
+booked classes:
+
+Universal Basic 寰宇瑜珈基礎
+
+------------------
+
+create driver: [<selenium.webdriver.chrome.webdriver.WebDriver (session="bb64dfa203c88dc6f6fa86d645b8cabe")>] at 2024-10-17 19:48:30.395047
+sign in for class at 2024-10-17 19:48:34.382594
+
+************************
+status html: 
+                <input type="submit" name="ctl00$cphContents$btnBookSubmiter" value="" id="ctl00_cphContents_btnBookSubmiter" tabindex="-1" class="hidden">
+                
+                <input type="submit" name="ctl00$cphContents$btnWaitSubmiter" value="" id="ctl00_cphContents_btnWaitSubmiter" tabindex="-1" class="hidden">
+                
+                此課程已無空缺！
+            
+************************
+
+59: Universal Yoga 寰宇瑜珈 by Jessie 小剛 is FULL at 2024-10-17 19:48:35.535975
+
+Failed to reserve the class idx:1 at 2024-10-17 19:48:35.536320
+
+************************
+status html: cannot find status text in the current site
+************************
+
+我們檢測到來自您的地址的異常流量
+Failed to reserve the class idx:2 at 2024-10-17 19:49:54.945529
